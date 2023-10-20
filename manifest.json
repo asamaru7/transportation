@@ -1,0 +1,36 @@
+{
+	"name": "전국 고속/시외 버스 운행정보",
+	"short_name": "버스시간표",
+	"icons": [
+		{
+			"src": "/res/img/icon/76.png",
+			"sizes": "76x76",
+			"type": "image/png"
+		},
+		{
+			"src": "/res/img/icon/120.png",
+			"sizes": "120x120",
+			"type": "image/png"
+		},
+		{
+			"src": "/res/img/icon/152.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "/res/img/icon/180.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		},
+		{
+			"src": "/maskable_icon_x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"start_url": "/",
+	"display": "minimal-ui",
+	"background_color": "#ffffff",
+	"theme_color": "#71bf44"
+}
