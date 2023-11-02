@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-#DaumWebMasterTool:38f3db730e1b058716f588e858fcc5e10584972dbbc05407485724b0a5b1c1b5:JCLonlHlS+7iL66zXJmzFg==
+#DaumWebMasterTool:6caed8f108c6081031e6b9f43ff2e5e85cbd4f6020cea0f42c150951e63d3540:0FraqwxlPyVwI0WpOQI6kQ==
 
 Sitemap: https://transportation.asamaru.net/sitemap.xml
