@@ -1,347 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>전국 고속/시외 버스 운행정보</title><id>https://transportation.asamaru.net/</id><updated>2023-11-25T06:20:04+09:00</updated><subtitle>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표 정보</subtitle><link href="https://transportation.asamaru.net/" rel="alternate" type="text/html" /><link href="https://transportation.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B2%BD%EB%B6%81%EB%8C%80/</id><title type="html">경북대 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B2%BD%EB%B6%81%EB%8C%80/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-22T00:10:27+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 대구광역시 북구 경북대 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 대구광역시 북구 대학로 80 경북대학교 지도 운행시간표/요금 대구광역시 북구 경북대 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">대구광역시 북구</span>
-				<span class="dTerminal">경북대</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			대구광역시 북구 대학로 80 경북대학교
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="35.890649" data-lng="128.612175"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">대구광역시 북구</span>
-				<span class="dTerminal">경북대</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
-
-		</dd>
-	</dl>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%85%B8%EB%9F%89%EB%8C%80%EA%B5%90%EC%9B%94%EA%B3%A1/</id><title type="html">노량대교월곡 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%85%B8%EB%9F%89%EB%8C%80%EA%B5%90%EC%9B%94%EA%B3%A1/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-22T00:10:37+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경상남도 남해군 노량대교월곡 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경상남도 남해군 설천면 남해대로4033번길 64-7 지도 운행시간표/요금 경상남도 남해군 노량대교월곡 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경상남도 남해군</span>
-				<span class="dTerminal">노량대교월곡</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			경상남도 남해군 설천면 남해대로4033번길 64-7
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="34.928147" data-lng="127.862755"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경상남도 남해군</span>
-				<span class="dTerminal">노량대교월곡</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
-
-		</dd>
-	</dl>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%91%90%EC%82%B0-%EB%B2%BD%EC%82%B0%EC%95%84%ED%8C%8C%ED%8A%B8/</id><title type="html">두산.벽산아파트 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%91%90%EC%82%B0-%EB%B2%BD%EC%82%B0%EC%95%84%ED%8C%8C%ED%8A%B8/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-22T00:10:43+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 남양주시 두산.벽산아파트 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 남양주시 와부읍 덕소로 175 지도 운행시간표/요금 경기도 남양주시 두산.벽산아파트 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 남양주시</span>
-				<span class="dTerminal">두산.벽산아파트</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			경기도 남양주시 와부읍 덕소로 175
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="37.58002" data-lng="127.216886"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 남양주시</span>
-				<span class="dTerminal">두산.벽산아파트</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
-
-		</dd>
-	</dl>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%A1%AF%EB%8D%B0%EC%BA%90%EC%8A%AC-%EB%8B%A4%EC%82%B0/</id><title type="html">롯데캐슬(다산) 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%A1%AF%EB%8D%B0%EC%BA%90%EC%8A%AC-%EB%8B%A4%EC%82%B0/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-22T00:10:43+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 남양주시 롯데캐슬(다산) → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 남양주시 다산중앙로146번길 7 지도 운행시간표/요금 경기도 남양주시 롯데캐슬(다산) → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 남양주시</span>
-				<span class="dTerminal">롯데캐슬(다산)</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			경기도 남양주시 다산중앙로146번길 7
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="37.626462" data-lng="127.154308"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 남양주시</span>
-				<span class="dTerminal">롯데캐슬(다산)</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
-
-		</dd>
-	</dl>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%98%A4%EC%B9%98%EC%B4%88%EA%B5%90/</id><title type="html">오치초교 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%98%A4%EC%B9%98%EC%B4%88%EA%B5%90/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-22T00:11:08+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 광주광역시 북구 오치초교 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 광주광역시 북구 설죽로 294 지도 운행시간표/요금 광주광역시 북구 오치초교 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+<title>전국 고속/시외 버스 운행정보</title><id>https://transportation.asamaru.net/</id><updated>2023-11-26T06:17:50+09:00</updated><subtitle>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표 정보</subtitle><link href="https://transportation.asamaru.net/" rel="alternate" type="text/html" /><link href="https://transportation.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B4%91%EC%A3%BC%EB%86%8D%ED%98%91%EC%9A%A9%EC%A3%BC%EC%A7%80%EC%A0%90/</id><title type="html">광주농협용주지점 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B4%91%EC%A3%BC%EB%86%8D%ED%98%91%EC%9A%A9%EC%A3%BC%EC%A7%80%EC%A0%90/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-23T00:10:26+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 광주광역시 북구 광주농협용주지점 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 광주광역시 북구 설죽로 211 지도 운행시간표/요금 광주광역시 북구 광주농협용주지점 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
 							<span class="dArea">광주광역시 북구</span>
-				<span class="dTerminal">오치초교</span>
+				<span class="dTerminal">광주농협용주지점</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -372,11 +40,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			광주광역시 북구 설죽로 294
+			광주광역시 북구 설죽로 211
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="35.185938" data-lng="126.898654"></div>
+			<div id="map" class="dMap" data-lat="35.178591" data-lng="126.897272"></div>
 		</dd>
 		
 			</dl>
@@ -387,7 +55,7 @@
 
 		<div class="cDeparture">
 							<span class="dArea">광주광역시 북구</span>
-				<span class="dTerminal">오치초교</span>
+				<span class="dTerminal">광주농협용주지점</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -417,15 +85,596 @@
 		</dd>
 	</dl>
 </section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B4%EC%A0%95%EA%B4%91%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%A7%80%EC%86%8C/</id><title type="html">운정광역보건지소 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B4%EC%A0%95%EA%B4%91%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%A7%80%EC%86%8C/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-22T00:11:18+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운정광역보건지소 상세안내 인천공항2터미널 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 05:22 06:33 우등 11,600 원 01:11 06:02 07:13 우등 11,600 원 01:11 07:02 08:13 우등 11,600 원 01:11 08:02 09:13 우등 11,600 원 01:11 12:22 13:33 우등 11,600 원 01:11 13:52 15:03 우등 11,600 원 01:11 15:22 16:33 우등 11,600 원 01:11 16:52 18:03 우등 11,600 원 01:11 인천공항터미널 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 05:22 06:19 우등 11,600 원 00:57 06:02 06:59 우등 11,600 원 00:57 07:02 07:59 우등 11,600 원 00:57 08:02 08:59 우등 11,600 원 00:57 12:22 13:19 우등 11,600 원 00:57 13:52 14:49 우등 11,600 원 00:57 15:22 16:19 우등 11,600 원 00:57 16:52 17:49 우등 11,600 원 00:57]]></summary><content type="html"><![CDATA[<section class="cTerminalSchedulesBox">
-	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/운정광역보건지소/"><strong>운정광역보건지소</strong> 상세안내</a></h3>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B8%88%EA%B0%95%ED%8E%9C%ED%85%8C%EB%A6%AC%EC%9B%802%EC%B0%A8/</id><title type="html">금강펜테리움2차 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B8%88%EA%B0%95%ED%8E%9C%ED%85%8C%EB%A6%AC%EC%9B%802%EC%B0%A8/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-24T00:10:28+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 남양주시 금강펜테리움2차 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 남양주시 다산지금로146번길 117 지도 운행시간표/요금 경기도 남양주시 금강펜테리움2차 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 남양주시</span>
+				<span class="dTerminal">금강펜테리움2차</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경기도 남양주시 다산지금로146번길 117
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.635983" data-lng="127.216471"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 남양주시</span>
+				<span class="dTerminal">금강펜테리움2차</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B8%B0%EC%9E%A5/</id><title type="html">기장 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B8%B0%EC%9E%A5/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-24T00:10:30+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 부산광역시 기장군 기장 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 부산광역시 기장군 기장읍 차성동로 70 지도 운행시간표/요금 부산광역시 기장군 기장 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">부산광역시 기장군</span>
+				<span class="dTerminal">기장</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			부산광역시 기장군 기장읍 차성동로 70
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="35.244061" data-lng="129.216945"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">부산광역시 기장군</span>
+				<span class="dTerminal">기장</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8C%80%EA%B5%AC%EB%8C%80/</id><title type="html">대구대 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8C%80%EA%B5%AC%EB%8C%80/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-23T00:10:33+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경상북도 경산시 대구대 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경상북도 경산시 진량읍 대구대로 224 지도 운행시간표/요금 경상북도 경산시 대구대 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상북도 경산시</span>
+				<span class="dTerminal">대구대</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경상북도 경산시 진량읍 대구대로 224
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="35.896736" data-lng="128.84753"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상북도 경산시</span>
+				<span class="dTerminal">대구대</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8D%95%EC%86%8C%EC%82%BC%EA%B1%B0%EB%A6%AC/</id><title type="html">덕소삼거리 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8D%95%EC%86%8C%EC%82%BC%EA%B1%B0%EB%A6%AC/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-23T00:10:37+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 남양주시 덕소삼거리 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 남양주시 와부읍 덕소로97번길 2 지도 운행시간표/요금 경기도 남양주시 덕소삼거리 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 남양주시</span>
+				<span class="dTerminal">덕소삼거리</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경기도 남양주시 와부읍 덕소로97번길 2
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.585487" data-lng="127.212483"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 남양주시</span>
+				<span class="dTerminal">덕소삼거리</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8D%95%EC%86%8C%EC%97%AD/</id><title type="html">덕소역 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8D%95%EC%86%8C%EC%97%AD/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-24T00:10:34+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 남양주시 덕소역 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 남양주시 와부읍 덕소로 61 지도 운행시간표/요금 경기도 남양주시 덕소역 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 남양주시</span>
+				<span class="dTerminal">덕소역</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경기도 남양주시 와부읍 덕소로 61
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.587335" data-lng="127.209823"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 남양주시</span>
+				<span class="dTerminal">덕소역</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%B6%80%ED%8F%89%EC%97%AD/</id><title type="html">부평역 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%B6%80%ED%8F%89%EC%97%AD/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-24T00:10:46+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 인천광역시 부평구 부평역 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 인천광역시 부평구 경원대로 1406-1 지도 운행시간표/요금 인천광역시 부평구 부평역 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">인천광역시 부평구</span>
+				<span class="dTerminal">부평역</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			인천광역시 부평구 경원대로 1406-1
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.491298" data-lng="126.725063"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">인천광역시 부평구</span>
+				<span class="dTerminal">부평역</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%83%81%EC%B4%8C-%ED%95%98%EB%8F%99/</id><title type="html">상촌(하동) 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%83%81%EC%B4%8C-%ED%95%98%EB%8F%99/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-24T00:10:46+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경상남도 하동군 상촌(하동) → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경상남도 하동군 금남면 상촌마을길 5 지도 운행시간표/요금 경상남도 하동군 상촌(하동) → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상남도 하동군</span>
+				<span class="dTerminal">상촌(하동)</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경상남도 하동군 금남면 상촌마을길 5
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="34.981539" data-lng="127.897699"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상남도 하동군</span>
+				<span class="dTerminal">상촌(하동)</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%95%88%EA%B3%A1%EC%A4%91%ED%95%99%EA%B5%90/</id><title type="html">안곡중학교 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%95%88%EA%B3%A1%EC%A4%91%ED%95%99%EA%B5%90/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-24T00:10:54+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[안곡중학교 상세안내 인천공항2터미널 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 05:33 06:37 우등 11,100 원 01:04 06:13 07:17 우등 11,100 원 01:04 10:33 11:37 우등 11,100 원 01:04 11:13 12:17 우등 11,100 원 01:04 15:33 16:37 우등 11,100 원 01:04 16:13 17:17 우등 11,100 원 01:04 인천공항터미널 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 05:33 06:23 우등 11,100 원 00:50 06:13 07:03 우등 11,100 원 00:50 10:33 11:23 우등 11,100 원 00:50 11:13 12:03 우등 11,100 원 00:50 15:33 16:23 우등 11,100 원 00:50 16:13 17:03 우등 11,100 원 00:50]]></summary><content type="html"><![CDATA[<section class="cTerminalSchedulesBox">
+	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/안곡중학교/"><strong>안곡중학교</strong> 상세안내</a></h3>
 		<ul class="dSchedules">
 							<li>
 				<table class="cTimetable">
 					<caption>
 						<h3 id="incheonkonghang2teomineol" class="toc">인천공항2터미널</h3>
 						<a href="https://transportation.asamaru.net/시외버스/터미널/인천공항2터미널/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/운정광역보건지소/출발/인천공항2터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/안곡중학교/출발/인천공항2터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
 
 						
 						
@@ -446,60 +695,46 @@
 					</thead>
 					<tbody>
 																								<tr>
-								<td class="departure">05:22</td>
-								<td class="arrival">06:33</td>
+								<td class="departure">05:33</td>
+								<td class="arrival">06:37</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">01:11</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">01:04</td>
 							</tr>
 													<tr>
-								<td class="departure">06:02</td>
-								<td class="arrival">07:13</td>
+								<td class="departure">06:13</td>
+								<td class="arrival">07:17</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">01:11</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">01:04</td>
 							</tr>
 													<tr>
-								<td class="departure">07:02</td>
-								<td class="arrival">08:13</td>
+								<td class="departure">10:33</td>
+								<td class="arrival">11:37</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">01:11</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">01:04</td>
 							</tr>
 													<tr>
-								<td class="departure">08:02</td>
-								<td class="arrival">09:13</td>
+								<td class="departure">11:13</td>
+								<td class="arrival">12:17</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">01:11</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">01:04</td>
 							</tr>
 													<tr>
-								<td class="departure">12:22</td>
-								<td class="arrival">13:33</td>
+								<td class="departure">15:33</td>
+								<td class="arrival">16:37</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">01:11</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">01:04</td>
 							</tr>
 													<tr>
-								<td class="departure">13:52</td>
-								<td class="arrival">15:03</td>
+								<td class="departure">16:13</td>
+								<td class="arrival">17:17</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">01:11</td>
-							</tr>
-													<tr>
-								<td class="departure">15:22</td>
-								<td class="arrival">16:33</td>
-								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">01:11</td>
-							</tr>
-													<tr>
-								<td class="departure">16:52</td>
-								<td class="arrival">18:03</td>
-								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">01:11</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">01:04</td>
 							</tr>
 																</tbody>
 				</table>
@@ -509,7 +744,7 @@
 					<caption>
 						<h3 id="incheonkonghangteomineol" class="toc">인천공항터미널</h3>
 						<a href="https://transportation.asamaru.net/시외버스/터미널/인천공항터미널/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/운정광역보건지소/출발/인천공항터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/안곡중학교/출발/인천공항터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
 
 						
 						
@@ -530,74 +765,60 @@
 					</thead>
 					<tbody>
 																								<tr>
-								<td class="departure">05:22</td>
-								<td class="arrival">06:19</td>
+								<td class="departure">05:33</td>
+								<td class="arrival">06:23</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">00:57</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">00:50</td>
 							</tr>
 													<tr>
-								<td class="departure">06:02</td>
-								<td class="arrival">06:59</td>
+								<td class="departure">06:13</td>
+								<td class="arrival">07:03</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">00:57</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">00:50</td>
 							</tr>
 													<tr>
-								<td class="departure">07:02</td>
-								<td class="arrival">07:59</td>
+								<td class="departure">10:33</td>
+								<td class="arrival">11:23</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">00:57</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">00:50</td>
 							</tr>
 													<tr>
-								<td class="departure">08:02</td>
-								<td class="arrival">08:59</td>
+								<td class="departure">11:13</td>
+								<td class="arrival">12:03</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">00:57</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">00:50</td>
 							</tr>
 													<tr>
-								<td class="departure">12:22</td>
-								<td class="arrival">13:19</td>
+								<td class="departure">15:33</td>
+								<td class="arrival">16:23</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">00:57</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">00:50</td>
 							</tr>
 													<tr>
-								<td class="departure">13:52</td>
-								<td class="arrival">14:49</td>
+								<td class="departure">16:13</td>
+								<td class="arrival">17:03</td>
 								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">00:57</td>
-							</tr>
-													<tr>
-								<td class="departure">15:22</td>
-								<td class="arrival">16:19</td>
-								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">00:57</td>
-							</tr>
-													<tr>
-								<td class="departure">16:52</td>
-								<td class="arrival">17:49</td>
-								<td class="grade">우등</td>
-								<td class="fare">11,600 <span>원</span></td>
-								<td class="duration">00:57</td>
+								<td class="fare">11,100 <span>원</span></td>
+								<td class="duration">00:50</td>
 							</tr>
 																</tbody>
 				</table>
 			</li>
 			</ul>
 </section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9A%B4%EC%A0%95%EA%B4%91%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%A7%80%EC%86%8C/</id><title type="html">운정광역보건지소 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9A%B4%EC%A0%95%EA%B4%91%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%A7%80%EC%86%8C/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-22T00:11:11+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 파주시 운정광역보건지소 → 도착지 중구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 파주시 가재울로 100-21 지도 운행시간표/요금 경기도 파주시 운정광역보건지소 → 도착지 중구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 인천광역시 (2) 인천공항2터미널 안내 시간표 인천공항터미널 안내 시간표]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%95%88%EA%B3%A1%EC%A4%91%ED%95%99%EA%B5%90/</id><title type="html">안곡중학교 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%95%88%EA%B3%A1%EC%A4%91%ED%95%99%EA%B5%90/"/><published>2023-11-26T01:04:39+09:00</published><updated>2023-11-24T00:10:54+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 고양시 일산동구 안곡중학교 → 도착지 중구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 고양시 일산동구 하늘마을로 93 지도 운행시간표/요금 경기도 고양시 일산동구 안곡중학교 → 도착지 중구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 인천광역시 (2) 인천공항2터미널 안내 시간표 인천공항터미널 안내 시간표]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 파주시</span>
-				<span class="dTerminal">운정광역보건지소</span>
+							<span class="dArea">경기도 고양시 일산동구</span>
+				<span class="dTerminal">안곡중학교</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -607,7 +828,7 @@
 					<option value="">도착지</option>
 											<optgroup label="인천광역시">
 															<option
-																				value="{'인천공항2터미널':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/운정광역보건지소/출발/인천공항2터미널/도착/','arrivals':[]},'인천공항터미널':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/운정광역보건지소/출발/인천공항터미널/도착/','arrivals':[]}}">
+																				value="{'인천공항2터미널':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/안곡중학교/출발/인천공항2터미널/도착/','arrivals':[]},'인천공항터미널':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/안곡중학교/출발/인천공항터미널/도착/','arrivals':[]}}">
 									중구
 								</option>
 													</optgroup>
@@ -634,11 +855,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경기도 파주시 가재울로 100-21
+			경기도 고양시 일산동구 하늘마을로 93
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="37.729911" data-lng="126.748055"></div>
+			<div id="map" class="dMap" data-lat="37.68095" data-lng="126.78673"></div>
 		</dd>
 		
 			</dl>
@@ -648,8 +869,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 파주시</span>
-				<span class="dTerminal">운정광역보건지소</span>
+							<span class="dArea">경기도 고양시 일산동구</span>
+				<span class="dTerminal">안곡중학교</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -659,7 +880,7 @@
 					<option value="">도착지</option>
 											<optgroup label="인천광역시">
 															<option
-																				value="{'인천공항2터미널':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/운정광역보건지소/출발/인천공항2터미널/도착/','arrivals':[]},'인천공항터미널':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/운정광역보건지소/출발/인천공항터미널/도착/','arrivals':[]}}">
+																				value="{'인천공항2터미널':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/안곡중학교/출발/인천공항2터미널/도착/','arrivals':[]},'인천공항터미널':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/안곡중학교/출발/인천공항터미널/도착/','arrivals':[]}}">
 									중구
 								</option>
 													</optgroup>
@@ -684,436 +905,15 @@
 						
 						<span>인천공항2터미널</span>
 						<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/인천공항2터미널/">안내</a>
-													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/운정광역보건지소/출발/인천공항2터미널/도착/">시간표</a>
+													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/안곡중학교/출발/인천공항2터미널/도착/">시간표</a>
 											</dd>
 									<dd  class="last" >
 						
 						<span>인천공항터미널</span>
 						<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/인천공항터미널/">안내</a>
-													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/운정광역보건지소/출발/인천공항터미널/도착/">시간표</a>
+													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/안곡중학교/출발/인천공항터미널/도착/">시간표</a>
 											</dd>
 										</dl>
-
-		</dd>
-	</dl>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B4%EC%A0%95%EA%B4%91%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%A7%80%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD2%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</id><title type="html">운정광역보건지소에서 인천공항2터미널 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B4%EC%A0%95%EA%B4%91%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%A7%80%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD2%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-25T01:38:18+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 운정광역보건지소 에서 인천공항2터미널 가는 시외버스는 하루 8 회 운행합니다. 첫차 05:22 막차 16:52 출발지 운정광역보건지소 시외버스터미널 지도보기 도착지 인천공항2터미널 정류소,정류장 지도보기 시간표 현재시간 최종수정 2023-11-25 출발 도착 등급 요금(어른) 소요시간 05:22 06:33 우등 11,600 원 01:11 06:02 07:13 우등 11,600 원 01:11 07:02 08:13 우등 11,600 원 01:11 08:02 09:13 우등 11,600 원 01:11 12:22 13:33 우등 11,600 원 01:11 13:52 15:03 우등 11,600 원 01:11 15:22 16:33 우등 11,600 원 01:11 16:52 18:03 우등 11,600 원 01:11 다른노선 운행시간표/요금 경기도 파주시 운정광역보건지소 → 도착지 중구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/운정광역보건지소/">운정광역보건지소</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/인천공항2터미널/">인천공항2터미널</a> 가는
-		시외버스는 하루 <span>8</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>05:22</dd>
-			<dt>막차</dt>
-			<dd>16:52</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/운정광역보건지소/">운정광역보건지소</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.729911&lng=126.748055&pinId=&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/인천공항2터미널/">인천공항2터미널</a>
-			<span>정류소,정류장</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.4682898&lng=126.4339712&pinId=1227078926&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2023-11-25</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">05:22</td>
-				<td class="arrival">06:33</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">01:11</td>
-			</tr>
-					<tr>
-				<td class="departure">06:02</td>
-				<td class="arrival">07:13</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">01:11</td>
-			</tr>
-					<tr>
-				<td class="departure">07:02</td>
-				<td class="arrival">08:13</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">01:11</td>
-			</tr>
-					<tr>
-				<td class="departure">08:02</td>
-				<td class="arrival">09:13</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">01:11</td>
-			</tr>
-					<tr>
-				<td class="departure">12:22</td>
-				<td class="arrival">13:33</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">01:11</td>
-			</tr>
-					<tr>
-				<td class="departure">13:52</td>
-				<td class="arrival">15:03</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">01:11</td>
-			</tr>
-					<tr>
-				<td class="departure">15:22</td>
-				<td class="arrival">16:33</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">01:11</td>
-			</tr>
-					<tr>
-				<td class="departure">16:52</td>
-				<td class="arrival">18:03</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">01:11</td>
-			</tr>
-						</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 파주시</span>
-				<span class="dTerminal">운정광역보건지소</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="인천광역시">
-															<option
-																				selected="selected"
-										data-terminal="인천공항2터미널"
-																				value="{'인천공항2터미널':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/운정광역보건지소/출발/인천공항2터미널/도착/','arrivals':[]},'인천공항터미널':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/운정광역보건지소/출발/인천공항터미널/도착/','arrivals':[]}}">
-									중구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B4%EC%A0%95%EA%B4%91%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%A7%80%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</id><title type="html">운정광역보건지소에서 인천공항터미널 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B4%EC%A0%95%EA%B4%91%EC%97%AD%EB%B3%B4%EA%B1%B4%EC%A7%80%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/"/><published>2023-11-25T01:38:18+09:00</published><updated>2023-11-25T01:38:18+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 운정광역보건지소 에서 인천공항터미널 가는 시외버스는 하루 8 회 운행합니다. 첫차 05:22 막차 16:52 출발지 운정광역보건지소 시외버스터미널 지도보기 도착지 인천공항터미널 버스터미널 > 고속버스터미널 지도보기 시간표 현재시간 최종수정 2023-11-25 출발 도착 등급 요금(어른) 소요시간 05:22 06:19 우등 11,600 원 00:57 06:02 06:59 우등 11,600 원 00:57 07:02 07:59 우등 11,600 원 00:57 08:02 08:59 우등 11,600 원 00:57 12:22 13:19 우등 11,600 원 00:57 13:52 14:49 우등 11,600 원 00:57 15:22 16:19 우등 11,600 원 00:57 16:52 17:49 우등 11,600 원 00:57 다른노선 운행시간표/요금 경기도 파주시 운정광역보건지소 → 도착지 중구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다. 인천공항터미널 http://www.airportbus.or.kr/]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/운정광역보건지소/">운정광역보건지소</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/인천공항터미널/">인천공항터미널</a> 가는
-		시외버스는 하루 <span>8</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>05:22</dd>
-			<dt>막차</dt>
-			<dd>16:52</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/운정광역보건지소/">운정광역보건지소</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.729911&lng=126.748055&pinId=&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/인천공항터미널/">인천공항터미널</a>
-			<span>버스터미널 &gt; 고속버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.449091&lng=126.451824&pinId=12303945&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2023-11-25</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">05:22</td>
-				<td class="arrival">06:19</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">00:57</td>
-			</tr>
-					<tr>
-				<td class="departure">06:02</td>
-				<td class="arrival">06:59</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">00:57</td>
-			</tr>
-					<tr>
-				<td class="departure">07:02</td>
-				<td class="arrival">07:59</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">00:57</td>
-			</tr>
-					<tr>
-				<td class="departure">08:02</td>
-				<td class="arrival">08:59</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">00:57</td>
-			</tr>
-					<tr>
-				<td class="departure">12:22</td>
-				<td class="arrival">13:19</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">00:57</td>
-			</tr>
-					<tr>
-				<td class="departure">13:52</td>
-				<td class="arrival">14:49</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">00:57</td>
-			</tr>
-					<tr>
-				<td class="departure">15:22</td>
-				<td class="arrival">16:19</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">00:57</td>
-			</tr>
-					<tr>
-				<td class="departure">16:52</td>
-				<td class="arrival">17:49</td>
-				<td class="grade">우등</td>
-				<td class="fare">11,600 <span>원</span></td>
-				<td class="duration">00:57</td>
-			</tr>
-						</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 파주시</span>
-				<span class="dTerminal">운정광역보건지소</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="인천광역시">
-															<option
-																				selected="selected"
-										data-terminal="인천공항터미널"
-																				value="{'인천공항2터미널':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/운정광역보건지소/출발/인천공항2터미널/도착/','arrivals':[]},'인천공항터미널':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/운정광역보건지소/출발/인천공항터미널/도착/','arrivals':[]}}">
-									중구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-							<dl>
-				<dt>인천공항터미널</dt>
-				<dd>
-					<a href="http://www.airportbus.or.kr/" target="_blank">http://www.airportbus.or.kr/</a>
-				</dd>
-			</dl>
-			</div>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B3%B0%EC%86%8C/</id><title type="html">곰소 안내 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B3%B0%EC%86%8C/"/><published>2023-11-25T01:38:17+09:00</published><updated>2023-11-22T00:10:31+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 전라북도 부안군 곰소 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 전라북도 부안군 진서면 청자로 959 지도 운행시간표/요금 전라북도 부안군 곰소 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">전라북도 부안군</span>
-				<span class="dTerminal">곰소</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			전라북도 부안군 진서면 청자로 959
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="35.587849" data-lng="126.609251"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">전라북도 부안군</span>
-				<span class="dTerminal">곰소</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
 
 		</dd>
 	</dl>
