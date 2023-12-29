@@ -1,7 +1,1331 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Fri, 29 Dec 2023 06:17:53 +0900</pubDate><item><title>전국 시외버스 터미널 안내</title><pubDate>Fri, 29 Dec 2023 00:12:16 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Sat, 30 Dec 2023 06:17:55 +0900</pubDate><item><title>전국 고속버스 터미널 안내</title><pubDate>Sat, 30 Dec 2023 00:12:03 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+		<div class="cGoTimetable" data-json-url="./terminals.json">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<select class="cDepartureArea">
+					<option value="">출발지 선택</option>
+											<option class="cLoading">로딩중...</option>
+									</select>
+				<select class="cDepartureTerminal">
+					<option value="">터미널 선택</option>
+				</select>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지 선택</option>
+				</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<dl class="dGoTerminal  dDeep ">
+						<dt><h3 id="seoulteugbyeolsi" class="toc">서울특별시 <span>(4)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>광진구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>동서울종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동서울종합터미널/">안내</a>
+															</dd>
+																	<dt>서초구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>서울고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서울고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>센트럴시티터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/센트럴시티터미널/">안내</a>
+															</dd>
+																	<dt>중랑구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>상봉시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/상봉시외버스터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="kyeongkido" class="toc">경기도 <span>(40)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>고양시 덕양구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>화정터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/화정터미널/">안내</a>
+															</dd>
+																	<dt>고양시 일산동구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>고양종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/고양종합터미널/">안내</a>
+															</dd>
+																	<dt>광명시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>광명종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광명종합터미널/">안내</a>
+															</dd>
+																	<dt>구리시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>구리시외버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/구리시외버스정류장/">안내</a>
+															</dd>
+																	<dt>부천시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>부천종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/부천종합터미널/">안내</a>
+															</dd>
+																	<dt>성남시 분당구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>성남종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/성남종합버스터미널/">안내</a>
+															</dd>
+																	<dt>수원시 권선구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>서수원시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서수원시외버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>수원종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/수원종합버스터미널/">안내</a>
+															</dd>
+																	<dt>시흥시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>시흥종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/시흥종합버스터미널/">안내</a>
+															</dd>
+																	<dt>안산시 상록구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>안산버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/">안내</a>
+															</dd>
+																	<dt>안성시 <span>(8)</span></dt>
+													<dd >
+								
+								<span>공도정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/공도정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>대림동산정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/대림동산정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>안성시민회관터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안성시민회관터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>안성종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안성종합버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>안성풍림정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안성풍림정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>중앙대안성캠퍼스정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/중앙대안성캠퍼스정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>평택용이정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/평택용이정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>한경대학교정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/한경대학교정류소/">안내</a>
+															</dd>
+																	<dt>여주시 <span>(3)</span></dt>
+													<dd >
+								
+								<span>여주대정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여주대정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>여주종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여주종합터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>여주프리미엄아울렛</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여주프리미엄아울렛/">안내</a>
+															</dd>
+																	<dt>오산시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>오산역환승센터</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/오산역환승센터/">안내</a>
+															</dd>
+																	<dt>용인시 기흥구 <span>(5)</span></dt>
+													<dd >
+								
+								<span>기흥역시외버스정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/기흥역시외버스정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>신갈고속시외버스정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신갈고속시외버스정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>신갈버스정류장(부산방향)</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신갈버스정류장-부산방향/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>신갈영덕시외버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신갈영덕시외버스정류장/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>영통입구터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영통입구터미널/">안내</a>
+															</dd>
+																	<dt>용인시 수지구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>죽전버스정류장(부산방향)</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/죽전버스정류장-부산방향/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>죽전버스정류장(서울방향)</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/죽전버스정류장-서울방향/">안내</a>
+															</dd>
+																	<dt>용인시 처인구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>용인공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/용인공용버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>용인유림정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/용인유림정류소/">안내</a>
+															</dd>
+																	<dt>의정부시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>의정부시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/의정부시외버스터미널/">안내</a>
+															</dd>
+																	<dt>이천시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>신하리정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신하리정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>이천종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/이천종합터미널/">안내</a>
+															</dd>
+																	<dt>평택시 <span>(4)</span></dt>
+													<dd >
+								
+								<span>안중버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안중버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>안중오거리정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안중오거리정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>평택고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/평택고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>평택대정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/평택대정류소/">안내</a>
+															</dd>
+																	<dt>포천시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>운천시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/운천시외버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>포천시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/포천시외버스터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="incheonkwangyeogsi" class="toc">인천광역시 <span>(3)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>미추홀구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>인천종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인천종합터미널/">안내</a>
+															</dd>
+																	<dt>중구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>인천공항2터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인천공항2터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>인천공항정류소10C</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인천공항정류소10c/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="daejeonkwangyeogsi" class="toc">대전광역시 <span>(4)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>동구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>대전복합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/대전복합터미널/">안내</a>
+															</dd>
+																	<dt>서구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>고속버스둔산(청사)정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/대전청사고속버스둔산정류장/">안내</a>
+															</dd>
+																	<dt>유성구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>대전도룡고속시외버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/대전도룡고속시외버스정류장/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>유성금호고속터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/유성금호고속터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="daekukwangyeogsi" class="toc">대구광역시 <span>(3)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>동구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>동대구터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동대구터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>시외고속버스용계정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/시외고속버스용계정류소/">안내</a>
+															</dd>
+																	<dt>북구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>서대구고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서대구고속버스터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="ulsankwangyeogsi" class="toc">울산광역시 <span>(2)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>남구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>신복환승센터</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신복환승센터/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>울산고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/울산고속버스터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="busankwangyeogsi" class="toc">부산광역시 <span>(2)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>금정구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>부산종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/부산종합버스터미널/">안내</a>
+															</dd>
+																	<dt>사상구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>부산서부버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/부산서부버스터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="kwangjukwangyeogsi" class="toc">광주광역시 <span>(2)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>광산구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>광주비아정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광주비아정류소/">안내</a>
+															</dd>
+																	<dt>서구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>광주종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광주종합버스터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="sejongteugbyeoljachisi" class="toc">세종특별자치시 <span>(8)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>대평동 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>세종고속시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종고속시외버스터미널/">안내</a>
+															</dd>
+																	<dt>반곡동 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>세종연구단지정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종연구단지정류소/">안내</a>
+															</dd>
+																	<dt>보람동 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>세종시청정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종시청정류소/">안내</a>
+															</dd>
+																	<dt>어진동 <span>(2)</span></dt>
+													<dd >
+								
+								<span>세종국무조정실정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종국무조정실정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>세종청사정류소(상행)</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종청사정류소-상행/">안내</a>
+															</dd>
+																	<dt>조치원읍 <span>(3)</span></dt>
+													<dd >
+								
+								<span>고속버스매표소금호슈퍼</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/고속버스매표소금호슈퍼/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>조치원공영버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/조치원공영버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>홍대세종정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/홍대세종정류소/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="kangwonteugbyeoljachido" class="toc">강원특별자치도 <span>(16)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>강릉시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>강릉고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/강릉고속버스터미널/">안내</a>
+															</dd>
+																	<dt>동해시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>동해시종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동해시종합버스터미널/">안내</a>
+															</dd>
+																	<dt>삼척시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>강원대(삼척)정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/강원대-삼척-정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>삼척고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/삼척고속버스터미널/">안내</a>
+															</dd>
+																	<dt>속초시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>속초고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/속초고속버스터미널/">안내</a>
+															</dd>
+																	<dt>양양군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>양양종합여객터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/양양시외종합터미널/">안내</a>
+															</dd>
+																	<dt>영월군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>영월시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영월시외버스터미널/">안내</a>
+															</dd>
+																	<dt>원주시 <span>(4)</span></dt>
+													<dd >
+								
+								<span>문막정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/문막정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>원주고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/원주고속버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>원주기업도시정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/원주기업도시정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>원주혁신도시고속버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/원주혁신도시고속버스정류장/">안내</a>
+															</dd>
+																	<dt>철원군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>동송시외버스공용터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동송시외버스공용터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>신철원시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신철원시외버스터미널/">안내</a>
+															</dd>
+																	<dt>춘천시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>춘천고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/춘천고속버스터미널/">안내</a>
+															</dd>
+																	<dt>횡성군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>횡성휴게소(강릉방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/횡성휴게소-강릉방향-고속버스환승정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>횡성휴게소(인천방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/횡성휴게소-인천방향-고속버스환승정류소/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="chungcheongbugdo" class="toc">충청북도 <span>(15)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>괴산군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>괴산시외버스공용터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/괴산시외버스공용터미널/">안내</a>
+															</dd>
+																	<dt>보은군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>보은시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/보은시외버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>속리산터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/속리산터미널/">안내</a>
+															</dd>
+																	<dt>영동군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>황간시외버스공동정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/황간시외버스공동정류소/">안내</a>
+															</dd>
+																	<dt>제천시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>제천고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/제천고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>제천하소정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/제천하소정류소/">안내</a>
+															</dd>
+																	<dt>증평군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>증평시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/증평시외버스터미널/">안내</a>
+															</dd>
+																	<dt>청주시 청원구 <span>(3)</span></dt>
+													<dd >
+								
+								<span>청주공항정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청주공항정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>청주북부터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/오창시외버스정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>청주여객북부정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청주여객북부정류소/">안내</a>
+															</dd>
+																	<dt>청주시 흥덕구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>청주고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청주고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>청주시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청주시외버스터미널/">안내</a>
+															</dd>
+																	<dt>충주시 <span>(3)</span></dt>
+													<dd >
+								
+								<span>서충주신도시정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서충주신도시정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>용전리정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/용전리정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>충주공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/충주공용버스터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="chungcheongnamdo" class="toc">충청남도 <span>(32)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>공주시 <span>(3)</span></dt>
+													<dd >
+								
+								<span>공주종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/공주종합버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>정안휴게소(순천방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/정안휴게소-순천방향-고속버스환승정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>정안휴게소(천안방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/정안휴게소-천안방향-고속버스환승정류소/">안내</a>
+															</dd>
+																	<dt>금산군 <span>(3)</span></dt>
+													<dd >
+								
+								<span>금산시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/금산시외버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>인삼랜드휴게소(통영방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인삼랜드휴게소-통영방향-고속버스환승정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>인삼랜드휴게소(하남방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인삼랜드휴게소-하남방향-고속버스환승정류소/">안내</a>
+															</dd>
+																	<dt>논산시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>논산금호고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/논산금호고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>연무대고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/연무대고속버스터미널/">안내</a>
+															</dd>
+																	<dt>당진시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>기지시정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/기지시정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>당진버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/당진버스터미널/">안내</a>
+															</dd>
+																	<dt>보령시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>보령종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/보령종합터미널/">안내</a>
+															</dd>
+																	<dt>서산시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>서산공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서산공용버스터미널/">안내</a>
+															</dd>
+																	<dt>아산시 <span>(9)</span></dt>
+													<dd >
+								
+								<span>동양고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동양고속버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>배방환승정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/배방환승정류장/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>봉강교정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/봉강교정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>선문대정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/선문대정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>아산KTX정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/아산ktx정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>아산둔포정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/아산둔포정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>아산탕정사무소정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/아산탕정사무소정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>아산테크노밸리정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/아산테크노밸리정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>탕정삼성LCD정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/탕정삼성lcd정류소/">안내</a>
+															</dd>
+																	<dt>예산군 <span>(3)</span></dt>
+													<dd >
+								
+								<span>내포신도시고속시외버스정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/내포신도시고속시외버스정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>덕산스파터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/덕산스파터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>예산종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/예산종합터미널/">안내</a>
+															</dd>
+																	<dt>천안시 동남구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>천안고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/천안고속버스터미널/">안내</a>
+															</dd>
+																	<dt>천안시 서북구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>천안공단정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/천안공단정류소/">안내</a>
+															</dd>
+																	<dt>청양군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>정산합동정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/정산합동정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>청양시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청양시외버스터미널/">안내</a>
+															</dd>
+																	<dt>태안군 <span>(3)</span></dt>
+													<dd >
+								
+								<span>안면버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안면버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>창기리정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/창기리정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>태안공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/태안공용버스터미널/">안내</a>
+															</dd>
+																	<dt>홍성군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>홍성종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/홍성종합터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="kyeongsangbugdo" class="toc">경상북도 <span>(19)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>경주시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>경주고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/경주고속버스터미널/">안내</a>
+															</dd>
+																	<dt>구미시 <span>(5)</span></dt>
+													<dd >
+								
+								<span>구미종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/구미종합버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>낙동강구미휴게소(상주방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/낙동강구미휴게소-상주방향-고속버스환승정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>낙동강의성휴게소(영천방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/낙동강의성휴게소-영천방향-고속버스환승정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>선산휴게소(마산방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/선산휴게소-마산방향-고속버스환승정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>선산휴게소(여주방향)고속버스환승정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/선산휴게소-여주방향-고속버스환승정류소/">안내</a>
+															</dd>
+																	<dt>김천시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>김천공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/김천공용버스터미널/">안내</a>
+															</dd>
+																	<dt>문경시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>점촌시외고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/점촌시외고속버스터미널/">안내</a>
+															</dd>
+																	<dt>상주시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>상주종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/상주종합버스터미널/">안내</a>
+															</dd>
+																	<dt>안동시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>경북도청시외버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/경북도청시외버스정류장/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>안동터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안동터미널/">안내</a>
+															</dd>
+																	<dt>영덕군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>영덕터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영덕터미널/">안내</a>
+															</dd>
+																	<dt>영주시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>꽃동산터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/꽃동산터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>풍기IC시외버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/풍기ic시외버스정류장/">안내</a>
+															</dd>
+																	<dt>영천시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>영천망정동정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영천망정동정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>영천시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영천시외버스터미널/">안내</a>
+															</dd>
+																	<dt>예천군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>예천시외버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/예천시외버스정류장/">안내</a>
+															</dd>
+																	<dt>포항시 남구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>포항고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/포항고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>포항시청고속버스간이승차장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/포항시청고속버스간이승차장/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="kyeongsangnamdo" class="toc">경상남도 <span>(12)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>김해시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>김해여객터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/김해여객터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>장유고속버스환승정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/장유고속버스환승정류장/">안내</a>
+															</dd>
+																	<dt>밀양시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>밀양시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/밀양시외버스터미널/">안내</a>
+															</dd>
+																	<dt>진주시 <span>(3)</span></dt>
+													<dd >
+								
+								<span>개양고속버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/개양고속버스정류장/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>진주고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진주고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>진주혁신도시터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진주혁신도시터미널/">안내</a>
+															</dd>
+																	<dt>창원시 마산회원구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>내서고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/내서고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>마산고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/마산고속버스터미널/">안내</a>
+															</dd>
+																	<dt>창원시 의창구 <span>(2)</span></dt>
+													<dd >
+								
+								<span>창원역시외고속버스정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/창원역시외-고속버스정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>창원종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/창원종합버스터미널/">안내</a>
+															</dd>
+																	<dt>창원시 진해구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>진해시외버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진해시외버스정류장/">안내</a>
+															</dd>
+																	<dt>통영시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>통영종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/통영종합버스터미널/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="jeonlabugdo" class="toc">전라북도 <span>(18)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>고창군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>고창문화터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/고창문화터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>흥덕공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/흥덕공용버스터미널/">안내</a>
+															</dd>
+																	<dt>군산시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>군산고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/군산고속버스터미널/">안내</a>
+															</dd>
+																	<dt>김제시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>김제공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/김제공용버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>애통리정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/애통리정류소/">안내</a>
+															</dd>
+																	<dt>부안군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>부안시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/부안시외버스터미널/">안내</a>
+															</dd>
+																	<dt>순창군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>순창공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/순창공용버스터미널/">안내</a>
+															</dd>
+																	<dt>완주군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>봉동정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/봉동정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>자치인재원정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/자치인재원정류소/">안내</a>
+															</dd>
+																	<dt>익산시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>익산고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/익산고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>익산팔봉정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/익산팔봉정류소/">안내</a>
+															</dd>
+																	<dt>임실군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>강진공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/강진공용버스터미널/">안내</a>
+															</dd>
+																	<dt>전주시 덕진구 <span>(3)</span></dt>
+													<dd >
+								
+								<span>전북혁신도시고속버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/전북혁신도시고속버스정류장/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>전주고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/전주고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>호남제일문정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/호남제일문정류소/">안내</a>
+															</dd>
+																	<dt>정읍시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>정읍고속버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/정읍고속버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>태인터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/태인터미널/">안내</a>
+															</dd>
+																	<dt>진안군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>진안시외버스공용정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진안시외버스공용정류장/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+								<dt><h3 id="jeonlanamdo" class="toc">전라남도 <span>(38)</span></h3></dt>
+							<dd>
+				<dl>
+											<dt>강진군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>강진버스여객터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/강진버스여객터미널/">안내</a>
+															</dd>
+																	<dt>고흥군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>고흥공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/고흥공용버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>녹동버스공용터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/녹동버스공용터미널/">안내</a>
+															</dd>
+																	<dt>곡성군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>곡성버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/곡성버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>옥과터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/옥과터미널/">안내</a>
+															</dd>
+																	<dt>광양시 <span>(4)</span></dt>
+													<dd >
+								
+								<span>광양터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광양시외버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>섬진강휴게소정류소(부산사상방면)</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/섬진강휴게소정류소-부산사상방면/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>섬진강휴게소정류소(전남방면)</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/섬진강휴게소정류소-전남방면-고속/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>중마버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/중마버스터미널/">안내</a>
+															</dd>
+																	<dt>나주시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>나주시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/나주시외버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>영산포공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영산포공용버스터미널/">안내</a>
+															</dd>
+																	<dt>담양군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>담양공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/담양공용버스터미널/">안내</a>
+															</dd>
+																	<dt>목포시 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>목포종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/목포종합버스터미널/">안내</a>
+															</dd>
+																	<dt>무안군 <span>(3)</span></dt>
+													<dd >
+								
+								<span>남악정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/남악정류소/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>무안공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/무안공용버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>해제여객터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/해제여객터미널-고속/">안내</a>
+															</dd>
+																	<dt>보성군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>벌교버스공용터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/벌교버스공용터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>보성시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/보성시외버스터미널/">안내</a>
+															</dd>
+																	<dt>순천시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>순천신대지구고속정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/순천신대지구고속정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>순천종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/순천종합버스터미널/">안내</a>
+															</dd>
+																	<dt>신안군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>지도여객자동차터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/지도여객자동차터미널/">안내</a>
+															</dd>
+																	<dt>여수시 <span>(2)</span></dt>
+													<dd >
+								
+								<span>여수종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여수종합버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>여천고속직행버스정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여천고속직행버스정류장/">안내</a>
+															</dd>
+																	<dt>영광군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>영광종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영광종합버스터미널/">안내</a>
+															</dd>
+																	<dt>영암군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>삼호버스종합터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/삼호버스종합터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>영암여객자동차터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영암여객자동차터미널/">안내</a>
+															</dd>
+																	<dt>완도군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>완도공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/완도공용버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>원동정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/원동정류소/">안내</a>
+															</dd>
+																	<dt>장성군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>장성공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/장성공용버스터미널/">안내</a>
+															</dd>
+																	<dt>장흥군 <span>(3)</span></dt>
+													<dd >
+								
+								<span>관산공용버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/관산공용버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>장흥시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/장흥시외버스터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>회진시외버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/회진시외버스터미널/">안내</a>
+															</dd>
+																	<dt>진도군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>진도공용터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진도공용터미널/">안내</a>
+															</dd>
+																	<dt>함평군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>문장공영터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/문장공영터미널/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>함평공용터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/함평공용터미널/">안내</a>
+															</dd>
+																	<dt>해남군 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>해남종합버스터미널</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/해남종합버스터미널/">안내</a>
+															</dd>
+																	<dt>화순군 <span>(2)</span></dt>
+													<dd >
+								
+								<span>능주정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/능주정류소/">안내</a>
+															</dd>
+													<dd  class="last" >
+								
+								<span>화순시외버스공용정류장</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/화순시외버스공용정류장/">안내</a>
+															</dd>
+															</dl>
+			</dd>
+			</dl>
+
+	</section>]]></description></item><item><title>전국 시외버스 터미널 안내</title><pubDate>Sat, 30 Dec 2023 00:12:03 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -7793,1330 +9117,6 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Fri, 29 Dec 2023 00:12:12 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
-		<div class="cGoTimetable" data-json-url="./terminals.json">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<select class="cDepartureArea">
-					<option value="">출발지 선택</option>
-											<option class="cLoading">로딩중...</option>
-									</select>
-				<select class="cDepartureTerminal">
-					<option value="">터미널 선택</option>
-				</select>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지 선택</option>
-				</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<dl class="dGoTerminal  dDeep ">
-						<dt><h3 id="seoulteugbyeolsi" class="toc">서울특별시 <span>(4)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>광진구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>동서울종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동서울종합터미널/">안내</a>
-															</dd>
-																	<dt>서초구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>서울고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서울고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>센트럴시티터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/센트럴시티터미널/">안내</a>
-															</dd>
-																	<dt>중랑구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>상봉시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/상봉시외버스터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="kyeongkido" class="toc">경기도 <span>(40)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>고양시 덕양구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>화정터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/화정터미널/">안내</a>
-															</dd>
-																	<dt>고양시 일산동구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>고양종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/고양종합터미널/">안내</a>
-															</dd>
-																	<dt>광명시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>광명종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광명종합터미널/">안내</a>
-															</dd>
-																	<dt>구리시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>구리시외버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/구리시외버스정류장/">안내</a>
-															</dd>
-																	<dt>부천시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>부천종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/부천종합터미널/">안내</a>
-															</dd>
-																	<dt>성남시 분당구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>성남종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/성남종합버스터미널/">안내</a>
-															</dd>
-																	<dt>수원시 권선구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>서수원시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서수원시외버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>수원종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/수원종합버스터미널/">안내</a>
-															</dd>
-																	<dt>시흥시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>시흥종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/시흥종합버스터미널/">안내</a>
-															</dd>
-																	<dt>안산시 상록구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>안산버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/">안내</a>
-															</dd>
-																	<dt>안성시 <span>(8)</span></dt>
-													<dd >
-								
-								<span>공도정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/공도정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>대림동산정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/대림동산정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>안성시민회관터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안성시민회관터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>안성종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안성종합버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>안성풍림정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안성풍림정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>중앙대안성캠퍼스정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/중앙대안성캠퍼스정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>평택용이정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/평택용이정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>한경대학교정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/한경대학교정류소/">안내</a>
-															</dd>
-																	<dt>여주시 <span>(3)</span></dt>
-													<dd >
-								
-								<span>여주대정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여주대정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>여주종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여주종합터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>여주프리미엄아울렛</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여주프리미엄아울렛/">안내</a>
-															</dd>
-																	<dt>오산시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>오산역환승센터</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/오산역환승센터/">안내</a>
-															</dd>
-																	<dt>용인시 기흥구 <span>(5)</span></dt>
-													<dd >
-								
-								<span>기흥역시외버스정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/기흥역시외버스정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>신갈고속시외버스정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신갈고속시외버스정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>신갈버스정류장(부산방향)</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신갈버스정류장-부산방향/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>신갈영덕시외버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신갈영덕시외버스정류장/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>영통입구터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영통입구터미널/">안내</a>
-															</dd>
-																	<dt>용인시 수지구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>죽전버스정류장(부산방향)</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/죽전버스정류장-부산방향/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>죽전버스정류장(서울방향)</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/죽전버스정류장-서울방향/">안내</a>
-															</dd>
-																	<dt>용인시 처인구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>용인공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/용인공용버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>용인유림정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/용인유림정류소/">안내</a>
-															</dd>
-																	<dt>의정부시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>의정부시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/의정부시외버스터미널/">안내</a>
-															</dd>
-																	<dt>이천시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>신하리정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신하리정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>이천종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/이천종합터미널/">안내</a>
-															</dd>
-																	<dt>평택시 <span>(4)</span></dt>
-													<dd >
-								
-								<span>안중버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안중버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>안중오거리정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안중오거리정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>평택고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/평택고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>평택대정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/평택대정류소/">안내</a>
-															</dd>
-																	<dt>포천시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>운천시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/운천시외버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>포천시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/포천시외버스터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="incheonkwangyeogsi" class="toc">인천광역시 <span>(3)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>미추홀구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>인천종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인천종합터미널/">안내</a>
-															</dd>
-																	<dt>중구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>인천공항2터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인천공항2터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>인천공항정류소10C</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인천공항정류소10c/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="daejeonkwangyeogsi" class="toc">대전광역시 <span>(4)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>동구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>대전복합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/대전복합터미널/">안내</a>
-															</dd>
-																	<dt>서구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>고속버스둔산(청사)정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/대전청사고속버스둔산정류장/">안내</a>
-															</dd>
-																	<dt>유성구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>대전도룡고속시외버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/대전도룡고속시외버스정류장/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>유성금호고속터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/유성금호고속터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="daekukwangyeogsi" class="toc">대구광역시 <span>(3)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>동구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>동대구터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동대구터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>시외고속버스용계정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/시외고속버스용계정류소/">안내</a>
-															</dd>
-																	<dt>북구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>서대구고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서대구고속버스터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="ulsankwangyeogsi" class="toc">울산광역시 <span>(2)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>남구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>신복환승센터</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신복환승센터/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>울산고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/울산고속버스터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="busankwangyeogsi" class="toc">부산광역시 <span>(2)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>금정구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>부산종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/부산종합버스터미널/">안내</a>
-															</dd>
-																	<dt>사상구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>부산서부버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/부산서부버스터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="kwangjukwangyeogsi" class="toc">광주광역시 <span>(2)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>광산구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>광주비아정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광주비아정류소/">안내</a>
-															</dd>
-																	<dt>서구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>광주종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광주종합버스터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="sejongteugbyeoljachisi" class="toc">세종특별자치시 <span>(8)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>대평동 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>세종고속시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종고속시외버스터미널/">안내</a>
-															</dd>
-																	<dt>반곡동 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>세종연구단지정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종연구단지정류소/">안내</a>
-															</dd>
-																	<dt>보람동 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>세종시청정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종시청정류소/">안내</a>
-															</dd>
-																	<dt>어진동 <span>(2)</span></dt>
-													<dd >
-								
-								<span>세종국무조정실정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종국무조정실정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>세종청사정류소(상행)</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/세종청사정류소-상행/">안내</a>
-															</dd>
-																	<dt>조치원읍 <span>(3)</span></dt>
-													<dd >
-								
-								<span>고속버스매표소금호슈퍼</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/고속버스매표소금호슈퍼/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>조치원공영버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/조치원공영버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>홍대세종정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/홍대세종정류소/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="kangwonteugbyeoljachido" class="toc">강원특별자치도 <span>(16)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>강릉시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>강릉고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/강릉고속버스터미널/">안내</a>
-															</dd>
-																	<dt>동해시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>동해시종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동해시종합버스터미널/">안내</a>
-															</dd>
-																	<dt>삼척시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>강원대(삼척)정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/강원대-삼척-정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>삼척고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/삼척고속버스터미널/">안내</a>
-															</dd>
-																	<dt>속초시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>속초고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/속초고속버스터미널/">안내</a>
-															</dd>
-																	<dt>양양군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>양양종합여객터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/양양시외종합터미널/">안내</a>
-															</dd>
-																	<dt>영월군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>영월시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영월시외버스터미널/">안내</a>
-															</dd>
-																	<dt>원주시 <span>(4)</span></dt>
-													<dd >
-								
-								<span>문막정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/문막정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>원주고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/원주고속버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>원주기업도시정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/원주기업도시정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>원주혁신도시고속버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/원주혁신도시고속버스정류장/">안내</a>
-															</dd>
-																	<dt>철원군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>동송시외버스공용터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동송시외버스공용터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>신철원시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/신철원시외버스터미널/">안내</a>
-															</dd>
-																	<dt>춘천시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>춘천고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/춘천고속버스터미널/">안내</a>
-															</dd>
-																	<dt>횡성군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>횡성휴게소(강릉방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/횡성휴게소-강릉방향-고속버스환승정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>횡성휴게소(인천방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/횡성휴게소-인천방향-고속버스환승정류소/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="chungcheongbugdo" class="toc">충청북도 <span>(15)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>괴산군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>괴산시외버스공용터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/괴산시외버스공용터미널/">안내</a>
-															</dd>
-																	<dt>보은군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>보은시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/보은시외버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>속리산터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/속리산터미널/">안내</a>
-															</dd>
-																	<dt>영동군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>황간시외버스공동정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/황간시외버스공동정류소/">안내</a>
-															</dd>
-																	<dt>제천시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>제천고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/제천고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>제천하소정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/제천하소정류소/">안내</a>
-															</dd>
-																	<dt>증평군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>증평시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/증평시외버스터미널/">안내</a>
-															</dd>
-																	<dt>청주시 청원구 <span>(3)</span></dt>
-													<dd >
-								
-								<span>청주공항정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청주공항정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>청주북부터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/오창시외버스정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>청주여객북부정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청주여객북부정류소/">안내</a>
-															</dd>
-																	<dt>청주시 흥덕구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>청주고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청주고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>청주시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청주시외버스터미널/">안내</a>
-															</dd>
-																	<dt>충주시 <span>(3)</span></dt>
-													<dd >
-								
-								<span>서충주신도시정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서충주신도시정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>용전리정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/용전리정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>충주공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/충주공용버스터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="chungcheongnamdo" class="toc">충청남도 <span>(32)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>공주시 <span>(3)</span></dt>
-													<dd >
-								
-								<span>공주종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/공주종합버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>정안휴게소(순천방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/정안휴게소-순천방향-고속버스환승정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>정안휴게소(천안방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/정안휴게소-천안방향-고속버스환승정류소/">안내</a>
-															</dd>
-																	<dt>금산군 <span>(3)</span></dt>
-													<dd >
-								
-								<span>금산시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/금산시외버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>인삼랜드휴게소(통영방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인삼랜드휴게소-통영방향-고속버스환승정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>인삼랜드휴게소(하남방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/인삼랜드휴게소-하남방향-고속버스환승정류소/">안내</a>
-															</dd>
-																	<dt>논산시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>논산금호고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/논산금호고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>연무대고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/연무대고속버스터미널/">안내</a>
-															</dd>
-																	<dt>당진시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>기지시정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/기지시정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>당진버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/당진버스터미널/">안내</a>
-															</dd>
-																	<dt>보령시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>보령종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/보령종합터미널/">안내</a>
-															</dd>
-																	<dt>서산시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>서산공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/서산공용버스터미널/">안내</a>
-															</dd>
-																	<dt>아산시 <span>(9)</span></dt>
-													<dd >
-								
-								<span>동양고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/동양고속버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>배방환승정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/배방환승정류장/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>봉강교정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/봉강교정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>선문대정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/선문대정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>아산KTX정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/아산ktx정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>아산둔포정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/아산둔포정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>아산탕정사무소정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/아산탕정사무소정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>아산테크노밸리정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/아산테크노밸리정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>탕정삼성LCD정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/탕정삼성lcd정류소/">안내</a>
-															</dd>
-																	<dt>예산군 <span>(3)</span></dt>
-													<dd >
-								
-								<span>내포신도시고속시외버스정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/내포신도시고속시외버스정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>덕산스파터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/덕산스파터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>예산종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/예산종합터미널/">안내</a>
-															</dd>
-																	<dt>천안시 동남구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>천안고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/천안고속버스터미널/">안내</a>
-															</dd>
-																	<dt>천안시 서북구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>천안공단정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/천안공단정류소/">안내</a>
-															</dd>
-																	<dt>청양군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>정산합동정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/정산합동정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>청양시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/청양시외버스터미널/">안내</a>
-															</dd>
-																	<dt>태안군 <span>(3)</span></dt>
-													<dd >
-								
-								<span>안면버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안면버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>창기리정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/창기리정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>태안공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/태안공용버스터미널/">안내</a>
-															</dd>
-																	<dt>홍성군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>홍성종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/홍성종합터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="kyeongsangbugdo" class="toc">경상북도 <span>(19)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>경주시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>경주고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/경주고속버스터미널/">안내</a>
-															</dd>
-																	<dt>구미시 <span>(5)</span></dt>
-													<dd >
-								
-								<span>구미종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/구미종합버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>낙동강구미휴게소(상주방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/낙동강구미휴게소-상주방향-고속버스환승정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>낙동강의성휴게소(영천방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/낙동강의성휴게소-영천방향-고속버스환승정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>선산휴게소(마산방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/선산휴게소-마산방향-고속버스환승정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>선산휴게소(여주방향)고속버스환승정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/선산휴게소-여주방향-고속버스환승정류소/">안내</a>
-															</dd>
-																	<dt>김천시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>김천공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/김천공용버스터미널/">안내</a>
-															</dd>
-																	<dt>문경시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>점촌시외고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/점촌시외고속버스터미널/">안내</a>
-															</dd>
-																	<dt>상주시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>상주종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/상주종합버스터미널/">안내</a>
-															</dd>
-																	<dt>안동시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>경북도청시외버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/경북도청시외버스정류장/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>안동터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/안동터미널/">안내</a>
-															</dd>
-																	<dt>영덕군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>영덕터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영덕터미널/">안내</a>
-															</dd>
-																	<dt>영주시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>꽃동산터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/꽃동산터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>풍기IC시외버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/풍기ic시외버스정류장/">안내</a>
-															</dd>
-																	<dt>영천시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>영천망정동정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영천망정동정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>영천시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영천시외버스터미널/">안내</a>
-															</dd>
-																	<dt>예천군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>예천시외버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/예천시외버스정류장/">안내</a>
-															</dd>
-																	<dt>포항시 남구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>포항고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/포항고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>포항시청고속버스간이승차장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/포항시청고속버스간이승차장/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="kyeongsangnamdo" class="toc">경상남도 <span>(12)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>김해시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>김해여객터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/김해여객터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>장유고속버스환승정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/장유고속버스환승정류장/">안내</a>
-															</dd>
-																	<dt>밀양시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>밀양시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/밀양시외버스터미널/">안내</a>
-															</dd>
-																	<dt>진주시 <span>(3)</span></dt>
-													<dd >
-								
-								<span>개양고속버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/개양고속버스정류장/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>진주고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진주고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>진주혁신도시터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진주혁신도시터미널/">안내</a>
-															</dd>
-																	<dt>창원시 마산회원구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>내서고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/내서고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>마산고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/마산고속버스터미널/">안내</a>
-															</dd>
-																	<dt>창원시 의창구 <span>(2)</span></dt>
-													<dd >
-								
-								<span>창원역시외고속버스정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/창원역시외-고속버스정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>창원종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/창원종합버스터미널/">안내</a>
-															</dd>
-																	<dt>창원시 진해구 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>진해시외버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진해시외버스정류장/">안내</a>
-															</dd>
-																	<dt>통영시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>통영종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/통영종합버스터미널/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="jeonlabugdo" class="toc">전라북도 <span>(18)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>고창군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>고창문화터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/고창문화터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>흥덕공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/흥덕공용버스터미널/">안내</a>
-															</dd>
-																	<dt>군산시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>군산고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/군산고속버스터미널/">안내</a>
-															</dd>
-																	<dt>김제시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>김제공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/김제공용버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>애통리정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/애통리정류소/">안내</a>
-															</dd>
-																	<dt>부안군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>부안시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/부안시외버스터미널/">안내</a>
-															</dd>
-																	<dt>순창군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>순창공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/순창공용버스터미널/">안내</a>
-															</dd>
-																	<dt>완주군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>봉동정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/봉동정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>자치인재원정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/자치인재원정류소/">안내</a>
-															</dd>
-																	<dt>익산시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>익산고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/익산고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>익산팔봉정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/익산팔봉정류소/">안내</a>
-															</dd>
-																	<dt>임실군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>강진공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/강진공용버스터미널/">안내</a>
-															</dd>
-																	<dt>전주시 덕진구 <span>(3)</span></dt>
-													<dd >
-								
-								<span>전북혁신도시고속버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/전북혁신도시고속버스정류장/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>전주고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/전주고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>호남제일문정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/호남제일문정류소/">안내</a>
-															</dd>
-																	<dt>정읍시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>정읍고속버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/정읍고속버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>태인터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/태인터미널/">안내</a>
-															</dd>
-																	<dt>진안군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>진안시외버스공용정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진안시외버스공용정류장/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-								<dt><h3 id="jeonlanamdo" class="toc">전라남도 <span>(38)</span></h3></dt>
-							<dd>
-				<dl>
-											<dt>강진군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>강진버스여객터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/강진버스여객터미널/">안내</a>
-															</dd>
-																	<dt>고흥군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>고흥공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/고흥공용버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>녹동버스공용터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/녹동버스공용터미널/">안내</a>
-															</dd>
-																	<dt>곡성군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>곡성버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/곡성버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>옥과터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/옥과터미널/">안내</a>
-															</dd>
-																	<dt>광양시 <span>(4)</span></dt>
-													<dd >
-								
-								<span>광양터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광양시외버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>섬진강휴게소정류소(부산사상방면)</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/섬진강휴게소정류소-부산사상방면/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>섬진강휴게소정류소(전남방면)</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/섬진강휴게소정류소-전남방면-고속/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>중마버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/중마버스터미널/">안내</a>
-															</dd>
-																	<dt>나주시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>나주시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/나주시외버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>영산포공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영산포공용버스터미널/">안내</a>
-															</dd>
-																	<dt>담양군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>담양공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/담양공용버스터미널/">안내</a>
-															</dd>
-																	<dt>목포시 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>목포종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/목포종합버스터미널/">안내</a>
-															</dd>
-																	<dt>무안군 <span>(3)</span></dt>
-													<dd >
-								
-								<span>남악정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/남악정류소/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>무안공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/무안공용버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>해제여객터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/해제여객터미널-고속/">안내</a>
-															</dd>
-																	<dt>보성군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>벌교버스공용터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/벌교버스공용터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>보성시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/보성시외버스터미널/">안내</a>
-															</dd>
-																	<dt>순천시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>순천신대지구고속정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/순천신대지구고속정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>순천종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/순천종합버스터미널/">안내</a>
-															</dd>
-																	<dt>신안군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>지도여객자동차터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/지도여객자동차터미널/">안내</a>
-															</dd>
-																	<dt>여수시 <span>(2)</span></dt>
-													<dd >
-								
-								<span>여수종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여수종합버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>여천고속직행버스정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/여천고속직행버스정류장/">안내</a>
-															</dd>
-																	<dt>영광군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>영광종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영광종합버스터미널/">안내</a>
-															</dd>
-																	<dt>영암군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>삼호버스종합터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/삼호버스종합터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>영암여객자동차터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/영암여객자동차터미널/">안내</a>
-															</dd>
-																	<dt>완도군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>완도공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/완도공용버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>원동정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/원동정류소/">안내</a>
-															</dd>
-																	<dt>장성군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>장성공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/장성공용버스터미널/">안내</a>
-															</dd>
-																	<dt>장흥군 <span>(3)</span></dt>
-													<dd >
-								
-								<span>관산공용버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/관산공용버스터미널/">안내</a>
-															</dd>
-													<dd >
-								
-								<span>장흥시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/장흥시외버스터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>회진시외버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/회진시외버스터미널/">안내</a>
-															</dd>
-																	<dt>진도군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>진도공용터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진도공용터미널/">안내</a>
-															</dd>
-																	<dt>함평군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>문장공영터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/문장공영터미널/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>함평공용터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/함평공용터미널/">안내</a>
-															</dd>
-																	<dt>해남군 <span>(1)</span></dt>
-													<dd  class="last" >
-								
-								<span>해남종합버스터미널</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/해남종합버스터미널/">안내</a>
-															</dd>
-																	<dt>화순군 <span>(2)</span></dt>
-													<dd >
-								
-								<span>능주정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/능주정류소/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>화순시외버스공용정류장</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/화순시외버스공용정류장/">안내</a>
-															</dd>
-															</dl>
-			</dd>
-			</dl>
-
 	</section>]]></description></item><item><title>곤양 안내 (시외버스)</title><pubDate>Sat, 02 Dec 2023 08:21:12 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B3%A4%EC%96%91/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B3%A4%EC%96%91/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
@@ -9155,7 +9155,7 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경상남도 사천시 곤양면 성내로 2
+			경상남도 사천시 곤양면 성내리 97-2
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
@@ -9237,7 +9237,7 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경상남도 남해군 설천면 노량로 196
+			경상남도 남해군 설천면 노량리 439-44
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
@@ -9869,7 +9869,7 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경기도 시흥시 배곧3로 86
+			경기도 시흥시 배곧동 194-2
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
