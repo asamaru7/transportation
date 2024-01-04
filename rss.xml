@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Thu, 04 Jan 2024 06:17:47 +0900</pubDate><item><title>전국 시외버스 터미널 안내</title><pubDate>Thu, 04 Jan 2024 00:12:37 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Fri, 05 Jan 2024 06:17:48 +0900</pubDate><item><title>전국 시외버스 터미널 안내</title><pubDate>Fri, 05 Jan 2024 00:11:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -379,7 +379,7 @@
 								<span>김포시외버스터미널</span>
 								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/김포시외버스터미널/">안내</a>
 															</dd>
-																	<dt>남양주시 <span>(35)</span></dt>
+																	<dt>남양주시 <span>(34)</span></dt>
 													<dd >
 								
 								<span>금강펜테리움2차</span>
@@ -492,11 +492,6 @@
 															</dd>
 													<dd >
 								
-								<span>이동광릉내정류소</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/이동광릉내정류소/">안내</a>
-															</dd>
-													<dd >
-								
 								<span>이편한세상(다산)</span>
 								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/이편한세상-다산/">안내</a>
 															</dd>
@@ -561,7 +556,7 @@
 								<span>동두천터미널</span>
 								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/동두천터미널/">안내</a>
 															</dd>
-																	<dt>부천시 <span>(4)</span></dt>
+																	<dt>부천시 <span>(3)</span></dt>
 													<dd >
 								
 								<span>부천소방소</span>
@@ -572,21 +567,22 @@
 								<span>부천종합터미널</span>
 								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/부천종합터미널/">안내</a>
 															</dd>
-													<dd >
+													<dd  class="last" >
 								
 								<span>소사역</span>
 								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/소사역/">안내</a>
-															</dd>
-													<dd  class="last" >
-								
-								<span>송내역</span>
-								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/송내역/">안내</a>
 															</dd>
 																	<dt>부천시 소사구 <span>(1)</span></dt>
 													<dd  class="last" >
 								
 								<span>소새울역</span>
 								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/소새울역/">안내</a>
+															</dd>
+																	<dt>부천시 원미구 <span>(1)</span></dt>
+													<dd  class="last" >
+								
+								<span>송내역</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/송내역/">안내</a>
 															</dd>
 																	<dt>성남시 분당구 <span>(14)</span></dt>
 													<dd >
@@ -1604,7 +1600,7 @@
 								<span>함대(해군기지)</span>
 								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/함대-해군기지/">안내</a>
 															</dd>
-																	<dt>포천시 <span>(27)</span></dt>
+																	<dt>포천시 <span>(28)</span></dt>
 													<dd >
 								
 								<span>가산</span>
@@ -1714,6 +1710,11 @@
 								
 								<span>운천시외버스터미널</span>
 								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/운천시외버스터미널/">안내</a>
+															</dd>
+													<dd >
+								
+								<span>이동광릉내정류소</span>
+								<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/이동광릉내정류소/">안내</a>
 															</dd>
 													<dd >
 								
@@ -7793,7 +7794,7 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Thu, 04 Jan 2024 00:12:26 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Fri, 05 Jan 2024 00:11:18 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -9312,7 +9313,7 @@
 		
 		<dl class="dLastUpdate">
 			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2023-12-26</dd>
+			<dd class="lastUpdate">2024-01-05</dd>
 		</dl>
 		
 	</div>
