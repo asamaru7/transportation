@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Wed, 28 Feb 2024 06:19:55 +0900</pubDate><item><title>금릉역 안내 (시외버스)</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B8%88%EB%A6%89%EC%97%AD/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B8%88%EB%A6%89%EC%97%AD/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Thu, 29 Feb 2024 06:19:54 +0900</pubDate><item><title>마산 안내 (시외버스)</title><pubDate>Thu, 29 Feb 2024 01:20:20 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%A7%88%EC%82%B0/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%A7%88%EC%82%B0/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 파주시</span>
-				<span class="dTerminal">금릉역</span>
+							<span class="dArea">경상남도 창원시 마산회원구</span>
+				<span class="dTerminal">마산</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -39,11 +39,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경기도 파주시 금촌동 986-4
+			경상남도 창원시 마산회원구 합성동 267
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="37.751222" data-lng="126.766472"></div>
+			<div id="map" class="dMap" data-lat="35.239157" data-lng="128.583531"></div>
 		</dd>
 		
 			</dl>
@@ -53,8 +53,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 파주시</span>
-				<span class="dTerminal">금릉역</span>
+							<span class="dArea">경상남도 창원시 마산회원구</span>
+				<span class="dTerminal">마산</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -83,14 +83,14 @@
 
 		</dd>
 	</dl>
-</section>]]></description></item><item><title>남양금음 안내 (시외버스)</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%82%A8%EC%96%91%EA%B8%88%EC%9D%8C/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%82%A8%EC%96%91%EA%B8%88%EC%9D%8C/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+</section>]]></description></item><item><title>창원 안내 (시외버스)</title><pubDate>Thu, 29 Feb 2024 01:20:20 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B0%BD%EC%9B%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B0%BD%EC%9B%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경상남도 남해군</span>
-				<span class="dTerminal">남양금음</span>
+							<span class="dArea">경상남도 창원시 의창구</span>
+				<span class="dTerminal">창원</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -121,11 +121,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경상남도 남해군 설천면 금음리 745-2
+			경상남도 창원시 의창구 팔용동 36
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="34.921953" data-lng="127.915339"></div>
+			<div id="map" class="dMap" data-lat="35.237921" data-lng="128.639139"></div>
 		</dd>
 		
 			</dl>
@@ -135,8 +135,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경상남도 남해군</span>
-				<span class="dTerminal">남양금음</span>
+							<span class="dArea">경상남도 창원시 의창구</span>
+				<span class="dTerminal">창원</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -165,14 +165,14 @@
 
 		</dd>
 	</dl>
-</section>]]></description></item><item><title>노포동 안내 (시외버스)</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%85%B8%ED%8F%AC%EB%8F%99/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%85%B8%ED%8F%AC%EB%8F%99/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+</section>]]></description></item><item><title>대광여고 안내 (시외버스)</title><pubDate>Thu, 29 Feb 2024 01:20:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8C%80%EA%B4%91%EC%97%AC%EA%B3%A0/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8C%80%EA%B4%91%EC%97%AC%EA%B3%A0/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">부산광역시 금정구</span>
-				<span class="dTerminal">노포동</span>
+							<span class="dArea">광주광역시 남구</span>
+				<span class="dTerminal">대광여고</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -203,11 +203,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			부산광역시 금정구 노포동 133
+			광주광역시 남구 주월동 산231-3
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="35.284686" data-lng="129.09548"></div>
+			<div id="map" class="dMap" data-lat="35.125015" data-lng="126.898408"></div>
 		</dd>
 		
 			</dl>
@@ -217,8 +217,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">부산광역시 금정구</span>
-				<span class="dTerminal">노포동</span>
+							<span class="dArea">광주광역시 남구</span>
+				<span class="dTerminal">대광여고</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -247,268 +247,179 @@
 
 		</dd>
 	</dl>
-</section>]]></description></item><item><title>문화동 시외버스 시간표</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%AC%B8%ED%99%94%EB%8F%99/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%AC%B8%ED%99%94%EB%8F%99/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cTerminalSchedulesBox">
-	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/문화동/"><strong>문화동</strong> 상세안내</a></h3>
+</section>]]></description></item><item><title>목사동 안내 (시외버스)</title><pubDate>Thu, 29 Feb 2024 01:20:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%AA%A9%EC%82%AC%EB%8F%99/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%AA%A9%EC%82%AC%EB%8F%99/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">전라남도 곡성군</span>
+				<span class="dTerminal">목사동</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			전라남도 곡성군 목사동면 평리 95-2
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="35.123036" data-lng="127.300041"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">전라남도 곡성군</span>
+				<span class="dTerminal">목사동</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></description></item><item><title>삼서 안내 (시외버스)</title><pubDate>Thu, 29 Feb 2024 01:20:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%82%BC%EC%84%9C/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%82%BC%EC%84%9C/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">전라남도 장성군</span>
+				<span class="dTerminal">삼서</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			전라남도 장성군 삼서면 대곡리 825-25
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="35.232045" data-lng="126.646646"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">전라남도 장성군</span>
+				<span class="dTerminal">삼서</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></description></item><item><title>서면 시외버스 시간표</title><pubDate>Thu, 29 Feb 2024 01:20:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%84%9C%EB%A9%B4/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%84%9C%EB%A9%B4/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cTerminalSchedulesBox">
+	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/서면/"><strong>서면</strong> 상세안내</a></h3>
 		<ul class="dSchedules">
 							<li>
 				<table class="cTimetable">
 					<caption>
-						<h3 id="kwangjujonghapbeoseuteomineol" class="toc">광주종합버스터미널</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/문화동/출발/광주종합버스터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
-
-						
-						
-						
-						
-						
-						
-						
-					</caption>
-					<thead>
-					<tr>
-						<th class="departure">출발</th>
-						<th class="arrival">도착</th>
-						<th class="grade">등급</th>
-						<th class="fare">요금(어른)</th>
-						<th class="duration">소요시간</th>
-					</tr>
-					</thead>
-					<tbody>
-											<tr>
-							<td colspan="100%" class="text-center">운행정보가 없습니다.</td>
-						</tr>
-										</tbody>
-				</table>
-			</li>
-			</ul>
-</section>]]></description></item><item><title>문화동 안내 (시외버스)</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%AC%B8%ED%99%94%EB%8F%99/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%AC%B8%ED%99%94%EB%8F%99/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">광주광역시 북구</span>
-				<span class="dTerminal">문화동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="광주광역시">
-															<option
-																				value="{'광주종합버스터미널':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/문화동/출발/광주종합버스터미널/도착/','arrivals':[]}}">
-									서구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			광주광역시 북구 두암동 859-9
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="35.173584" data-lng="126.925921"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">광주광역시 북구</span>
-				<span class="dTerminal">문화동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="광주광역시">
-															<option
-																				value="{'광주종합버스터미널':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/문화동/출발/광주종합버스터미널/도착/','arrivals':[]}}">
-									서구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-						<dt>광주광역시 <span>(1)</span></dt>
-																<dd  class="last" >
-						
-						<span>광주종합버스터미널</span>
-						<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/">안내</a>
-													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/문화동/출발/광주종합버스터미널/도착/">시간표</a>
-											</dd>
-										</dl>
-
-		</dd>
-	</dl>
-</section>]]></description></item><item><title>문화동에서 광주종합버스터미널 가는 시외버스 시간표</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%AC%B8%ED%99%94%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EA%B4%91%EC%A3%BC%EC%A2%85%ED%95%A9%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%AC%B8%ED%99%94%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EA%B4%91%EC%A3%BC%EC%A2%85%ED%95%A9%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/문화동/">문화동</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/">광주종합버스터미널</a> 가는
-		시외버스는 하루 <span>0</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd></dd>
-			<dt>막차</dt>
-			<dd></dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/문화동/">문화동</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.173584&lng=126.925921&pinId=&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/">광주종합버스터미널</a>
-			<span>버스터미널 &gt; 종합버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.1601693&lng=126.8793191&pinId=12403382&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2024-02-25</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-					<tr>
-				<td colspan="100%" class="text-center">운행정보가 없습니다.</td>
-			</tr>
-				</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">광주광역시 북구</span>
-				<span class="dTerminal">문화동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="광주광역시">
-															<option
-																				selected="selected"
-										data-terminal="광주종합버스터미널"
-																				value="{'광주종합버스터미널':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/문화동/출발/광주종합버스터미널/도착/','arrivals':[]}}">
-									서구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-							<dl>
-				<dt>광주종합버스터미널</dt>
-				<dd>
-					<a href="http://www.usquare.co.kr/" target="_blank">http://www.usquare.co.kr/</a>
-				</dd>
-			</dl>
-			</div>
-</section>]]></description></item><item><title>울산공업탑 시외버스 시간표</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%97%85%ED%83%91/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%97%85%ED%83%91/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cTerminalSchedulesBox">
-	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/울산공업탑/"><strong>울산공업탑</strong> 상세안내</a></h3>
-		<ul class="dSchedules">
-							<li>
-				<table class="cTimetable">
-					<caption>
-						<h3 id="kimhaeyeokaegteomineol" class="toc">김해여객터미널</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/김해여객터미널/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/울산공업탑/출발/김해여객터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+						<h3 id="kaeyangjeonglyuso" class="toc">개양정류소</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/개양정류소/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/서면/출발/개양정류소/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
 
 						
 						
@@ -529,207 +440,18 @@
 					</thead>
 					<tbody>
 																								<tr>
-								<td class="departure">06:20</td>
-								<td class="arrival">07:44</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">07:00</td>
-								<td class="arrival">08:24</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">07:30</td>
-								<td class="arrival">08:54</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">08:00</td>
-								<td class="arrival">09:24</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">08:30</td>
-								<td class="arrival">09:54</td>
+								<td class="departure">00:10</td>
+								<td class="arrival">01:38</td>
 								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
+								<td class="fare">11,400 <span>원</span></td>
+								<td class="duration">01:28</td>
 							</tr>
 													<tr>
-								<td class="departure">09:00</td>
-								<td class="arrival">10:24</td>
+								<td class="departure">22:10</td>
+								<td class="arrival">23:38</td>
 								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">09:40</td>
-								<td class="arrival">11:04</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">10:20</td>
-								<td class="arrival">11:44</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">11:00</td>
-								<td class="arrival">12:24</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">11:40</td>
-								<td class="arrival">13:04</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">12:20</td>
-								<td class="arrival">13:44</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">12:50</td>
-								<td class="arrival">14:14</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">13:30</td>
-								<td class="arrival">14:54</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">14:00</td>
-								<td class="arrival">15:24</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">14:30</td>
-								<td class="arrival">15:54</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">15:10</td>
-								<td class="arrival">16:34</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">15:40</td>
-								<td class="arrival">17:04</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">16:10</td>
-								<td class="arrival">17:34</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">16:50</td>
-								<td class="arrival">18:14</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">17:30</td>
-								<td class="arrival">18:54</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">18:00</td>
-								<td class="arrival">19:24</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">18:30</td>
-								<td class="arrival">19:54</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">18:50</td>
-								<td class="arrival">20:14</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">19:20</td>
-								<td class="arrival">20:44</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">19:50</td>
-								<td class="arrival">21:14</td>
-								<td class="grade">우등</td>
-								<td class="fare">9,400 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">20:30</td>
-								<td class="arrival">21:54</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">21:00</td>
-								<td class="arrival">22:24</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">21:30</td>
-								<td class="arrival">22:54</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
-							</tr>
-													<tr>
-								<td class="departure">21:50</td>
-								<td class="arrival">23:14</td>
-								<td class="grade">일반</td>
-								<td class="fare">7,300 <span>원</span></td>
-								<td class="duration">01:24</td>
+								<td class="fare">11,400 <span>원</span></td>
+								<td class="duration">01:28</td>
 							</tr>
 																</tbody>
 				</table>
@@ -737,9 +459,9 @@
 					<li>
 				<table class="cTimetable">
 					<caption>
-						<h3 id="yangsansioebeoseuteomineol" class="toc">양산시외버스터미널</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/양산시외버스터미널/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/울산공업탑/출발/양산시외버스터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+						<h3 id="jinjusioebeoseuteomineol" class="toc">진주시외버스터미널</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/진주시외버스터미널/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/서면/출발/진주시외버스터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
 
 						
 						
@@ -760,297 +482,31 @@
 					</thead>
 					<tbody>
 																								<tr>
-								<td class="departure">06:20</td>
-								<td class="arrival">07:08</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">06:30</td>
-								<td class="arrival">07:18</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">07:00</td>
-								<td class="arrival">07:48</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">07:30</td>
-								<td class="arrival">08:18</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">08:00</td>
-								<td class="arrival">08:48</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">08:20</td>
-								<td class="arrival">09:08</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">08:30</td>
-								<td class="arrival">09:18</td>
+								<td class="departure">00:10</td>
+								<td class="arrival">01:53</td>
 								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
+								<td class="fare">11,400 <span>원</span></td>
+								<td class="duration">01:43</td>
 							</tr>
 													<tr>
-								<td class="departure">09:00</td>
-								<td class="arrival">09:48</td>
+								<td class="departure">22:10</td>
+								<td class="arrival">23:53</td>
 								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">09:20</td>
-								<td class="arrival">10:08</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">09:40</td>
-								<td class="arrival">10:28</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">10:10</td>
-								<td class="arrival">10:58</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">10:20</td>
-								<td class="arrival">11:08</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">11:00</td>
-								<td class="arrival">11:48</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">11:40</td>
-								<td class="arrival">12:28</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">12:00</td>
-								<td class="arrival">12:48</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">12:20</td>
-								<td class="arrival">13:08</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">12:50</td>
-								<td class="arrival">13:38</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">13:00</td>
-								<td class="arrival">13:48</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">13:30</td>
-								<td class="arrival">14:18</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">14:00</td>
-								<td class="arrival">14:48</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">14:30</td>
-								<td class="arrival">15:18</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">14:40</td>
-								<td class="arrival">15:28</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">15:10</td>
-								<td class="arrival">15:58</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">15:40</td>
-								<td class="arrival">16:28</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">16:10</td>
-								<td class="arrival">16:58</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">16:20</td>
-								<td class="arrival">17:08</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">16:50</td>
-								<td class="arrival">17:38</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">17:20</td>
-								<td class="arrival">18:08</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">17:30</td>
-								<td class="arrival">18:18</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">18:00</td>
-								<td class="arrival">18:48</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">18:20</td>
-								<td class="arrival">19:08</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">18:30</td>
-								<td class="arrival">19:18</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">18:50</td>
-								<td class="arrival">19:38</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">19:10</td>
-								<td class="arrival">19:58</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">19:20</td>
-								<td class="arrival">20:08</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">19:50</td>
-								<td class="arrival">20:38</td>
-								<td class="grade">우등</td>
-								<td class="fare">6,300 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">20:30</td>
-								<td class="arrival">21:18</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">21:00</td>
-								<td class="arrival">21:48</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">21:30</td>
-								<td class="arrival">22:18</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
-							</tr>
-													<tr>
-								<td class="departure">21:50</td>
-								<td class="arrival">22:38</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,800 <span>원</span></td>
-								<td class="duration">00:48</td>
+								<td class="fare">11,400 <span>원</span></td>
+								<td class="duration">01:43</td>
 							</tr>
 																</tbody>
 				</table>
 			</li>
 			</ul>
-</section>]]></description></item><item><title>울산공업탑 안내 (시외버스)</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%97%85%ED%83%91/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%97%85%ED%83%91/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+</section>]]></description></item><item><title>서면 안내 (시외버스)</title><pubDate>Thu, 29 Feb 2024 01:20:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%84%9C%EB%A9%B4/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%84%9C%EB%A9%B4/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">울산광역시 남구</span>
-				<span class="dTerminal">울산공업탑</span>
+							<span class="dArea">부산광역시 부산진구</span>
+				<span class="dTerminal">서면</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -1060,12 +516,8 @@
 					<option value="">도착지</option>
 											<optgroup label="경상남도">
 															<option
-																				value="{'김해여객터미널':{'link':'/시외버스/터미널/김해여객터미널/','schedule':'/시외버스/시간표/울산공업탑/출발/김해여객터미널/도착/','arrivals':[]}}">
-									김해시
-								</option>
-															<option
-																				value="{'양산시외버스터미널':{'link':'/시외버스/터미널/양산시외버스터미널/','schedule':'/시외버스/시간표/울산공업탑/출발/양산시외버스터미널/도착/','arrivals':[]}}">
-									양산시
+																				value="{'개양정류소':{'link':'/시외버스/터미널/개양정류소/','schedule':'/시외버스/시간표/서면/출발/개양정류소/도착/','arrivals':[]},'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/서면/출발/진주시외버스터미널/도착/','arrivals':[]}}">
+									진주시
 								</option>
 													</optgroup>
 									</select>
@@ -1091,11 +543,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			울산광역시 남구 신정동 1125-1
+			부산광역시 부산진구 부전동 573-1
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="35.532779" data-lng="129.304978"></div>
+			<div id="map" class="dMap" data-lat="35.157698" data-lng="129.059916"></div>
 		</dd>
 		
 			</dl>
@@ -1105,8 +557,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">울산광역시 남구</span>
-				<span class="dTerminal">울산공업탑</span>
+							<span class="dArea">부산광역시 부산진구</span>
+				<span class="dTerminal">서면</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -1116,12 +568,8 @@
 					<option value="">도착지</option>
 											<optgroup label="경상남도">
 															<option
-																				value="{'김해여객터미널':{'link':'/시외버스/터미널/김해여객터미널/','schedule':'/시외버스/시간표/울산공업탑/출발/김해여객터미널/도착/','arrivals':[]}}">
-									김해시
-								</option>
-															<option
-																				value="{'양산시외버스터미널':{'link':'/시외버스/터미널/양산시외버스터미널/','schedule':'/시외버스/시간표/울산공업탑/출발/양산시외버스터미널/도착/','arrivals':[]}}">
-									양산시
+																				value="{'개양정류소':{'link':'/시외버스/터미널/개양정류소/','schedule':'/시외버스/시간표/서면/출발/개양정류소/도착/','arrivals':[]},'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/서면/출발/진주시외버스터미널/도착/','arrivals':[]}}">
+									진주시
 								</option>
 													</optgroup>
 									</select>
@@ -1143,51 +591,51 @@
 						<dt>경상남도 <span>(2)</span></dt>
 																<dd >
 						
-						<span>김해여객터미널</span>
-						<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/김해여객터미널/">안내</a>
-													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/울산공업탑/출발/김해여객터미널/도착/">시간표</a>
+						<span>개양정류소</span>
+						<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/개양정류소/">안내</a>
+													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/서면/출발/개양정류소/도착/">시간표</a>
 											</dd>
-																<dd  class="last" >
+									<dd  class="last" >
 						
-						<span>양산시외버스터미널</span>
-						<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/양산시외버스터미널/">안내</a>
-													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/울산공업탑/출발/양산시외버스터미널/도착/">시간표</a>
+						<span>진주시외버스터미널</span>
+						<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/진주시외버스터미널/">안내</a>
+													<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/서면/출발/진주시외버스터미널/도착/">시간표</a>
 											</dd>
 										</dl>
 
 		</dd>
 	</dl>
-</section>]]></description></item><item><title>울산공업탑에서 김해여객터미널 가는 시외버스 시간표</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%97%85%ED%83%91/%EC%B6%9C%EB%B0%9C/%EA%B9%80%ED%95%B4%EC%97%AC%EA%B0%9D%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%97%85%ED%83%91/%EC%B6%9C%EB%B0%9C/%EA%B9%80%ED%95%B4%EC%97%AC%EA%B0%9D%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+</section>]]></description></item><item><title>서면에서 개양정류소 가는 시외버스 시간표</title><pubDate>Thu, 29 Feb 2024 01:20:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%84%9C%EB%A9%B4/%EC%B6%9C%EB%B0%9C/%EA%B0%9C%EC%96%91%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%84%9C%EB%A9%B4/%EC%B6%9C%EB%B0%9C/%EA%B0%9C%EC%96%91%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/울산공업탑/">울산공업탑</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/김해여객터미널/">김해여객터미널</a> 가는
-		시외버스는 하루 <span>29</span> 회 운행합니다.
+		<a href="https://transportation.asamaru.net/시외버스/터미널/서면/">서면</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/개양정류소/">개양정류소</a> 가는
+		시외버스는 하루 <span>2</span> 회 운행합니다.
 
 		<dl>
 			<dt>첫차</dt>
-			<dd>06:20</dd>
+			<dd>00:10</dd>
 			<dt>막차</dt>
-			<dd>21:50</dd>
+			<dd>22:10</dd>
 		</dl>
 	</div>
 
 	<dl class="dTerminal">
 		<dt class="departure">출발지</dt>
 		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/울산공업탑/">울산공업탑</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/서면/">서면</a>
 			<span>시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.532779&lng=129.304978&pinId=&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.157698&lng=129.059916&pinId=&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 		<dt class="arrival">도착지</dt>
 		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/김해여객터미널/">김해여객터미널</a>
-			<span>버스터미널 &gt; 종합버스터미널</span>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/개양정류소/">개양정류소</a>
+			<span>버스터미널 &gt; 정류소,정류장</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.2278238&lng=128.8734237&pinId=11815669&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.1596778&lng=128.106621&pinId=37322300&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 	</dl>
 
@@ -1202,7 +650,7 @@
 		
 		<dl class="dLastUpdate">
 			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2024-02-28</dd>
+			<dd class="lastUpdate">2024-02-29</dd>
 		</dl>
 		
 	</div>
@@ -1218,213 +666,41 @@
 		</thead>
 		<tbody>
 									<tr>
-				<td class="departure">06:20</td>
-				<td class="arrival">07:44</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">07:00</td>
-				<td class="arrival">08:24</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">07:30</td>
-				<td class="arrival">08:54</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">08:00</td>
-				<td class="arrival">09:24</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">08:30</td>
-				<td class="arrival">09:54</td>
+				<td class="departure">00:10</td>
+				<td class="arrival">01:38</td>
 				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
+				<td class="fare">11,400 <span>원</span></td>
+				<td class="duration">01:28</td>
 			</tr>
 					<tr>
-				<td class="departure">09:00</td>
-				<td class="arrival">10:24</td>
+				<td class="departure">22:10</td>
+				<td class="arrival">23:38</td>
 				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">09:40</td>
-				<td class="arrival">11:04</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">10:20</td>
-				<td class="arrival">11:44</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">11:00</td>
-				<td class="arrival">12:24</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">11:40</td>
-				<td class="arrival">13:04</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">12:20</td>
-				<td class="arrival">13:44</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">12:50</td>
-				<td class="arrival">14:14</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">13:30</td>
-				<td class="arrival">14:54</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">14:00</td>
-				<td class="arrival">15:24</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">14:30</td>
-				<td class="arrival">15:54</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">15:10</td>
-				<td class="arrival">16:34</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">15:40</td>
-				<td class="arrival">17:04</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">16:10</td>
-				<td class="arrival">17:34</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">16:50</td>
-				<td class="arrival">18:14</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">17:30</td>
-				<td class="arrival">18:54</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">18:00</td>
-				<td class="arrival">19:24</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">18:30</td>
-				<td class="arrival">19:54</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">18:50</td>
-				<td class="arrival">20:14</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">19:20</td>
-				<td class="arrival">20:44</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">19:50</td>
-				<td class="arrival">21:14</td>
-				<td class="grade">우등</td>
-				<td class="fare">9,400 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">20:30</td>
-				<td class="arrival">21:54</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">21:00</td>
-				<td class="arrival">22:24</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">21:30</td>
-				<td class="arrival">22:54</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
-			</tr>
-					<tr>
-				<td class="departure">21:50</td>
-				<td class="arrival">23:14</td>
-				<td class="grade">일반</td>
-				<td class="fare">7,300 <span>원</span></td>
-				<td class="duration">01:24</td>
+				<td class="fare">11,400 <span>원</span></td>
+				<td class="duration">01:28</td>
 			</tr>
 						</tbody>
 	</table>
 
 	<hr/>
 
+			<div class="dReturn">
+			<div>
+				<h3>돌아오는 시간표</h3>
+				<div class="dReturnInfo">
+					(
+					총 <span>2회</span> 운행
+					<dl>
+						<dt>첫차</dt>
+						<dd>00:13</dd>
+						<dt>막차</dt>
+						<dd>22:13</dd>
+					</dl>
+					)
+				</div>
+				<a class="btn btn-flat" href="https://transportation.asamaru.net/시외버스/시간표/개양정류소/출발/서면/도착/">바로가기</a>
+			</div>
+		</div>
 	
 	<hr/>
 	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
@@ -1433,8 +709,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">울산광역시 남구</span>
-				<span class="dTerminal">울산공업탑</span>
+							<span class="dArea">부산광역시 부산진구</span>
+				<span class="dTerminal">서면</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -1445,13 +721,9 @@
 											<optgroup label="경상남도">
 															<option
 																				selected="selected"
-										data-terminal="김해여객터미널"
-																				value="{'김해여객터미널':{'link':'/시외버스/터미널/김해여객터미널/','schedule':'/시외버스/시간표/울산공업탑/출발/김해여객터미널/도착/','arrivals':[]}}">
-									김해시
-								</option>
-															<option
-																				value="{'양산시외버스터미널':{'link':'/시외버스/터미널/양산시외버스터미널/','schedule':'/시외버스/시간표/울산공업탑/출발/양산시외버스터미널/도착/','arrivals':[]}}">
-									양산시
+										data-terminal="개양정류소"
+																				value="{'개양정류소':{'link':'/시외버스/터미널/개양정류소/','schedule':'/시외버스/시간표/서면/출발/개양정류소/도착/','arrivals':[]},'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/서면/출발/진주시외버스터미널/도착/','arrivals':[]}}">
+									진주시
 								</option>
 													</optgroup>
 									</select>
@@ -1473,37 +745,37 @@
 			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
 		</p>
 					</div>
-</section>]]></description></item><item><title>울산공업탑에서 양산시외버스터미널 가는 시외버스 시간표</title><pubDate>Wed, 28 Feb 2024 01:26:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%97%85%ED%83%91/%EC%B6%9C%EB%B0%9C/%EC%96%91%EC%82%B0%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9A%B8%EC%82%B0%EA%B3%B5%EC%97%85%ED%83%91/%EC%B6%9C%EB%B0%9C/%EC%96%91%EC%82%B0%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+</section>]]></description></item><item><title>서면에서 진주시외버스터미널 가는 시외버스 시간표</title><pubDate>Thu, 29 Feb 2024 01:20:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%84%9C%EB%A9%B4/%EC%B6%9C%EB%B0%9C/%EC%A7%84%EC%A3%BC%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%84%9C%EB%A9%B4/%EC%B6%9C%EB%B0%9C/%EC%A7%84%EC%A3%BC%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/울산공업탑/">울산공업탑</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/양산시외버스터미널/">양산시외버스터미널</a> 가는
-		시외버스는 하루 <span>40</span> 회 운행합니다.
+		<a href="https://transportation.asamaru.net/시외버스/터미널/서면/">서면</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/진주시외버스터미널/">진주시외버스터미널</a> 가는
+		시외버스는 하루 <span>2</span> 회 운행합니다.
 
 		<dl>
 			<dt>첫차</dt>
-			<dd>06:20</dd>
+			<dd>00:10</dd>
 			<dt>막차</dt>
-			<dd>21:50</dd>
+			<dd>22:10</dd>
 		</dl>
 	</div>
 
 	<dl class="dTerminal">
 		<dt class="departure">출발지</dt>
 		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/울산공업탑/">울산공업탑</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/서면/">서면</a>
 			<span>시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.532779&lng=129.304978&pinId=&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.157698&lng=129.059916&pinId=&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 		<dt class="arrival">도착지</dt>
 		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/양산시외버스터미널/">양산시외버스터미널</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/진주시외버스터미널/">진주시외버스터미널</a>
 			<span>버스터미널 &gt; 시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.3357762&lng=129.0265241&pinId=13192607&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.1913513&lng=128.089375&pinId=13555842&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 	</dl>
 
@@ -1518,7 +790,7 @@
 		
 		<dl class="dLastUpdate">
 			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2024-02-28</dd>
+			<dd class="lastUpdate">2024-02-29</dd>
 		</dl>
 		
 	</div>
@@ -1534,290 +806,41 @@
 		</thead>
 		<tbody>
 									<tr>
-				<td class="departure">06:20</td>
-				<td class="arrival">07:08</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">06:30</td>
-				<td class="arrival">07:18</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">07:00</td>
-				<td class="arrival">07:48</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">07:30</td>
-				<td class="arrival">08:18</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">08:00</td>
-				<td class="arrival">08:48</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">08:20</td>
-				<td class="arrival">09:08</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">08:30</td>
-				<td class="arrival">09:18</td>
+				<td class="departure">00:10</td>
+				<td class="arrival">01:53</td>
 				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
+				<td class="fare">11,400 <span>원</span></td>
+				<td class="duration">01:43</td>
 			</tr>
 					<tr>
-				<td class="departure">09:00</td>
-				<td class="arrival">09:48</td>
+				<td class="departure">22:10</td>
+				<td class="arrival">23:53</td>
 				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">09:20</td>
-				<td class="arrival">10:08</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">09:40</td>
-				<td class="arrival">10:28</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">10:10</td>
-				<td class="arrival">10:58</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">10:20</td>
-				<td class="arrival">11:08</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">11:00</td>
-				<td class="arrival">11:48</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">11:40</td>
-				<td class="arrival">12:28</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">12:00</td>
-				<td class="arrival">12:48</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">12:20</td>
-				<td class="arrival">13:08</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">12:50</td>
-				<td class="arrival">13:38</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">13:00</td>
-				<td class="arrival">13:48</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">13:30</td>
-				<td class="arrival">14:18</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">14:00</td>
-				<td class="arrival">14:48</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">14:30</td>
-				<td class="arrival">15:18</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">14:40</td>
-				<td class="arrival">15:28</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">15:10</td>
-				<td class="arrival">15:58</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">15:40</td>
-				<td class="arrival">16:28</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">16:10</td>
-				<td class="arrival">16:58</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">16:20</td>
-				<td class="arrival">17:08</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">16:50</td>
-				<td class="arrival">17:38</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">17:20</td>
-				<td class="arrival">18:08</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">17:30</td>
-				<td class="arrival">18:18</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">18:00</td>
-				<td class="arrival">18:48</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">18:20</td>
-				<td class="arrival">19:08</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">18:30</td>
-				<td class="arrival">19:18</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">18:50</td>
-				<td class="arrival">19:38</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">19:10</td>
-				<td class="arrival">19:58</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">19:20</td>
-				<td class="arrival">20:08</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">19:50</td>
-				<td class="arrival">20:38</td>
-				<td class="grade">우등</td>
-				<td class="fare">6,300 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">20:30</td>
-				<td class="arrival">21:18</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">21:00</td>
-				<td class="arrival">21:48</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">21:30</td>
-				<td class="arrival">22:18</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
-			</tr>
-					<tr>
-				<td class="departure">21:50</td>
-				<td class="arrival">22:38</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,800 <span>원</span></td>
-				<td class="duration">00:48</td>
+				<td class="fare">11,400 <span>원</span></td>
+				<td class="duration">01:43</td>
 			</tr>
 						</tbody>
 	</table>
 
 	<hr/>
 
+			<div class="dReturn">
+			<div>
+				<h3>돌아오는 시간표</h3>
+				<div class="dReturnInfo">
+					(
+					총 <span>2회</span> 운행
+					<dl>
+						<dt>첫차</dt>
+						<dd>22:00</dd>
+						<dt>막차</dt>
+						<dd>23:59</dd>
+					</dl>
+					)
+				</div>
+				<a class="btn btn-flat" href="https://transportation.asamaru.net/시외버스/시간표/진주시외버스터미널/출발/서면/도착/">바로가기</a>
+			</div>
+		</div>
 	
 	<hr/>
 	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
@@ -1826,8 +849,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">울산광역시 남구</span>
-				<span class="dTerminal">울산공업탑</span>
+							<span class="dArea">부산광역시 부산진구</span>
+				<span class="dTerminal">서면</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -1837,14 +860,10 @@
 					<option value="">도착지</option>
 											<optgroup label="경상남도">
 															<option
-																				value="{'김해여객터미널':{'link':'/시외버스/터미널/김해여객터미널/','schedule':'/시외버스/시간표/울산공업탑/출발/김해여객터미널/도착/','arrivals':[]}}">
-									김해시
-								</option>
-															<option
 																				selected="selected"
-										data-terminal="양산시외버스터미널"
-																				value="{'양산시외버스터미널':{'link':'/시외버스/터미널/양산시외버스터미널/','schedule':'/시외버스/시간표/울산공업탑/출발/양산시외버스터미널/도착/','arrivals':[]}}">
-									양산시
+										data-terminal="진주시외버스터미널"
+																				value="{'개양정류소':{'link':'/시외버스/터미널/개양정류소/','schedule':'/시외버스/시간표/서면/출발/개양정류소/도착/','arrivals':[]},'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/서면/출발/진주시외버스터미널/도착/','arrivals':[]}}">
+									진주시
 								</option>
 													</optgroup>
 									</select>
@@ -1865,7 +884,95 @@
 			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
 			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
 		</p>
+							<dl>
+				<dt>진주시외버스터미널</dt>
+				<dd>
+					<a href="http://www.jinjuterminal.kr/" target="_blank">http://www.jinjuterminal.kr/</a>
+				</dd>
+			</dl>
+			</div>
+</section>]]></description></item><item><title>숲속길마을7단지 안내 (시외버스)</title><pubDate>Thu, 29 Feb 2024 01:20:19 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%88%B2%EC%86%8D%EA%B8%B8%EB%A7%88%EC%9D%847%EB%8B%A8%EC%A7%80/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%88%B2%EC%86%8D%EA%B8%B8%EB%A7%88%EC%9D%847%EB%8B%A8%EC%A7%80/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 파주시</span>
+				<span class="dTerminal">숲속길마을7단지</span>
 					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경기도 파주시 동패동 1695-4
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.725551" data-lng="126.717656"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 파주시</span>
+				<span class="dTerminal">숲속길마을7단지</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
 </section>]]></description></item>
 </channel>
 </rss>
