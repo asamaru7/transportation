@@ -1,1 +1,1 @@
-"use strict";$((function(){$.terminal.schedule.selector.init()}));
+"use strict";$((function(){$.terminal.schedule.selector.init(),$(document).on("click",".dGoTerminal > dt",(function(t){var c=$(t.currentTarget);c.toggleClass("active");var e=c.hasClass("active");c.nextUntil("dt").each((function(){e?$(this).addClass("show"):$(this).removeClass("show")}))})),$(document).on("click",".dToc .toc a",(function(t){var c=$(t.target).attr("href");"#"==c.substring(0,1)&&$(c).closest("dt").trigger("click")}))}));
