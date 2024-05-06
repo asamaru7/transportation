@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Mon, 06 May 2024 06:19:59 +0900</pubDate><item><title>전국 시외버스 터미널 안내</title><pubDate>Mon, 06 May 2024 00:11:30 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Tue, 07 May 2024 06:19:57 +0900</pubDate><item><title>신기 안내 (시외버스)</title><pubDate>Tue, 07 May 2024 01:14:51 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%8B%A0%EA%B8%B0/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%8B%A0%EA%B8%B0/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">강원특별자치도 삼척시</span>
+				<span class="dTerminal">신기</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			강원특별자치도 삼척시 신기면 신기리 449-8
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.3460484" data-lng="129.084666"></div>
+		</dd>
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">강원특별자치도 삼척시</span>
+				<span class="dTerminal">신기</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></description></item><item><title>전국 시외버스 터미널 안내</title><pubDate>Tue, 07 May 2024 00:11:46 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -7778,7 +7860,7 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Mon, 06 May 2024 00:11:29 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Tue, 07 May 2024 00:11:42 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -9779,88 +9861,6 @@
 		<div class="cDeparture">
 							<span class="dArea">전북특별자치도 부안군</span>
 				<span class="dTerminal">내소사</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
-
-		</dd>
-	</dl>
-</section>]]></description></item><item><title>대구 안내 (시외버스)</title><pubDate>Wed, 10 Apr 2024 11:02:50 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8C%80%EA%B5%AC/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8C%80%EA%B5%AC/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">대구광역시 동구</span>
-				<span class="dTerminal">대구</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			대구광역시 동구 신천동 481-1
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="35.8723071" data-lng="128.633878"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">대구광역시 동구</span>
-				<span class="dTerminal">대구</span>
 					</div>
 
 		<span class="dArrow">→</span>
