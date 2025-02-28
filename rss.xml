@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Fri, 28 Feb 2025 06:44:26 +0900</pubDate><item><title>전국 시외버스 터미널 안내</title><pubDate>Fri, 28 Feb 2025 00:12:27 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Sat, 01 Mar 2025 06:44:13 +0900</pubDate><item><title>전국 시외버스 터미널 안내</title><pubDate>Sat, 01 Mar 2025 00:12:53 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -795,7 +795,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="kwangjukwangyeogsi" class="toc">광주광역시 <span>(8)</span></h3></dt>
+										<dt><h3 id="kwangjukwangyeogsi" class="toc">광주광역시 <span>(9)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>광산구 <span>(2)</span></dt>
@@ -831,8 +831,14 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/학동시외버스정류소/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/학동시외버스정류소/">시간표</a>
 								</dd>
-																														<dt>북구 <span>(2)</span></dt>
+																														<dt>북구 <span>(3)</span></dt>
 																					<dd >
+									
+									<span>문화동</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/문화동/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/문화동/">시간표</a>
+								</dd>
+																												<dd >
 									
 									<span>문화동시외버스정류소</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/문화동시외버스정류소/">안내</a>
@@ -872,7 +878,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="kangwonteugbyeoljachido" class="toc">강원특별자치도 <span>(86)</span></h3></dt>
+										<dt><h3 id="kangwonteugbyeoljachido" class="toc">강원특별자치도 <span>(88)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>강릉시 <span>(3)</span></dt>
@@ -894,7 +900,7 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/주문진고속버스종합터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/주문진고속버스종합터미널/">시간표</a>
 								</dd>
-																														<dt>고성군 <span>(3)</span></dt>
+																														<dt>고성군 <span>(5)</span></dt>
 																					<dd >
 									
 									<span>간성터미널</span>
@@ -907,11 +913,23 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/거진종합버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/거진종합버스터미널/">시간표</a>
 								</dd>
-																												<dd  class="last" >
+																												<dd >
 									
 									<span>대진시외버스터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/대진시외버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/대진시외버스터미널/">시간표</a>
+								</dd>
+																												<dd >
+									
+									<span>장신리</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/장신리/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/장신리/">시간표</a>
+								</dd>
+																												<dd  class="last" >
+									
+									<span>진부령</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/진부령/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/진부령/">시간표</a>
 								</dd>
 																														<dt>동해시 <span>(1)</span></dt>
 																					<dd  class="last" >
@@ -3561,7 +3579,7 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Fri, 28 Feb 2025 00:12:26 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Sat, 01 Mar 2025 00:12:51 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
