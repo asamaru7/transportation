@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Mon, 10 Mar 2025 19:14:57 +0900</pubDate><item><title>전국 시외버스 터미널 안내</title><pubDate>Mon, 10 Mar 2025 09:00:33 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Wed, 12 Mar 2025 09:37:49 +0900</pubDate><item><title>전국 시외버스 터미널 안내</title><pubDate>Wed, 12 Mar 2025 00:12:53 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -85,9 +85,9 @@
 								</dd>
 																												<dd >
 									
-									<span>대성리</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/대성리/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/대성리/">시간표</a>
+									<span>대성리정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/대성리정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/대성리정류소/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -122,8 +122,14 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/광주종합터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/광주종합터미널/">시간표</a>
 								</dd>
-																														<dt>구리시 <span>(1)</span></dt>
-																					<dd  class="last" >
+																														<dt>구리시 <span>(2)</span></dt>
+																					<dd >
+									
+									<span>구리공항버스정류장</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/구리공항버스정류장/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/구리공항버스정류장/">시간표</a>
+								</dd>
+																												<dd  class="last" >
 									
 									<span>구리시외버스정류장</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/구리시외버스정류장-하행/">안내</a>
@@ -298,14 +304,8 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/오산역환승센터/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/오산역환승센터/">시간표</a>
 								</dd>
-																														<dt>용인시 기흥구 <span>(8)</span></dt>
+																														<dt>용인시 기흥구 <span>(7)</span></dt>
 																					<dd >
-									
-									<span>강남대</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/강남대/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/강남대/">시간표</a>
-								</dd>
-																												<dd >
 									
 									<span>강남대역</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/강남대역/">안내</a>
@@ -413,7 +413,7 @@
 								</dd>
 																												<dd >
 									
-									<span>오천</span>
+									<span>오천(이천시)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/오천/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/오천/">시간표</a>
 								</dd>
@@ -626,7 +626,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="daekukwangyeogsi" class="toc">대구광역시 <span>(5)</span></h3></dt>
+										<dt><h3 id="daekukwangyeogsi" class="toc">대구광역시 <span>(6)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>군위군 <span>(1)</span></dt>
@@ -635,6 +635,13 @@
 									<span>군위버스터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/군위시외버스공용터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/군위시외버스공용터미널/">시간표</a>
+								</dd>
+																														<dt>남구 <span>(1)</span></dt>
+																					<dd  class="last" >
+									
+									<span>대구서부정류장</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/서부정류장/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/서부정류장/">시간표</a>
 								</dd>
 																														<dt>달성군 <span>(1)</span></dt>
 																					<dd  class="last" >
@@ -813,17 +820,17 @@
 																	<dt>광산구 <span>(2)</span></dt>
 																					<dd >
 									
-									<span>송정역시외버스정류장</span>
+									<span>송정역시외버스정류장(광주 광산구)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/광주송정역시외버스정류소/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/광주송정역시외버스정류소/">시간표</a>
 								</dd>
-																												<dd >
+																												<dd  class="last" >
 									
 									<span>우산동(하남)시외버스정류장</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/우산동-하남-시외버스정류장-승차/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/우산동-하남-시외버스정류장-승차/">시간표</a>
 								</dd>
-																																											<dt>남구 <span>(1)</span></dt>
+																														<dt>남구 <span>(1)</span></dt>
 																					<dd  class="last" >
 									
 									<span>진월동시외버스정류장</span>
@@ -933,9 +940,9 @@
 								</dd>
 																												<dd  class="last" >
 									
-									<span>진부령</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/진부령/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/진부령/">시간표</a>
+									<span>진부령정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/진부령정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/진부령정류소/">시간표</a>
 								</dd>
 																														<dt>동해시 <span>(1)</span></dt>
 																					<dd  class="last" >
@@ -953,11 +960,11 @@
 								</dd>
 																												<dd >
 									
-									<span>임원</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/임원/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/임원/">시간표</a>
+									<span>임원버스정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/임원종합버스터미널/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/임원종합버스터미널/">시간표</a>
 								</dd>
-																																									<dd >
+																												<dd >
 									
 									<span>장호시외버스정류장</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/장호시외버스정류장/">안내</a>
@@ -1066,9 +1073,9 @@
 																														<dt>원주시 <span>(4)</span></dt>
 																					<dd >
 									
-									<span>귀래</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/귀래/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/귀래/">시간표</a>
+									<span>귀래정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/귀래정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/귀래정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1141,9 +1148,9 @@
 								</dd>
 																												<dd >
 									
-									<span>문혜리</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/문혜리/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/문혜리/">시간표</a>
+									<span>문혜리정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/문혜리정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/문혜리정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1184,9 +1191,9 @@
 																														<dt>춘천시 <span>(20)</span></dt>
 																					<dd >
 									
-									<span>강촌</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/강촌/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/강촌/">시간표</a>
+									<span>강촌버스승강장</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/강촌정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/강촌정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1274,9 +1281,9 @@
 								</dd>
 																												<dd >
 									
-									<span>지촌(춘천)</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/지촌-춘천/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/지촌-춘천/">시간표</a>
+									<span>지촌정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/지촌정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/지촌정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1416,9 +1423,9 @@
 								</dd>
 																												<dd >
 									
-									<span>원천(화천)</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/원천-화천/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/원천-화천/">시간표</a>
+									<span>원천정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/원천정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/원천정류소/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -1429,9 +1436,9 @@
 																														<dt>횡성군 <span>(4)</span></dt>
 																					<dd >
 									
-									<span>둔내</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/둔내/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/둔내/">시간표</a>
+									<span>둔내버스정류장</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/둔내시외버스터미널/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/둔내시외버스터미널/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1483,9 +1490,9 @@
 								</dd>
 																												<dd >
 									
-									<span>사평리</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/사평리/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/사평리/">시간표</a>
+									<span>사평리(가곡)</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/사평리-가곡/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/사평리-가곡/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -1502,9 +1509,9 @@
 								</dd>
 																												<dd >
 									
-									<span>상판</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/상판/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/상판/">시간표</a>
+									<span>상판정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/상판정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/상판정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1565,15 +1572,15 @@
 																														<dt>제천시 <span>(3)</span></dt>
 																					<dd >
 									
-									<span>봉양</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/봉양/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/봉양/">시간표</a>
+									<span>봉양정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/봉양정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/봉양정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
-									<span>세명대</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/세명대/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/세명대/">시간표</a>
+									<span>세명대정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/세명대정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/세명대정류소/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -1630,9 +1637,9 @@
 																														<dt>청주시 청원구 <span>(4)</span></dt>
 																					<dd >
 									
-									<span>율량</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/율량/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/율량/">시간표</a>
+									<span>율량성모병원</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/율량성모병원/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/율량성모병원/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1686,9 +1693,9 @@
 								</dd>
 																												<dd >
 									
-									<span>산척</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/산척/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/산척/">시간표</a>
+									<span>산척정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/산척정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/산척정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1728,7 +1735,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="chungcheongnamdo" class="toc">충청남도 <span>(65)</span></h3></dt>
+										<dt><h3 id="chungcheongnamdo" class="toc">충청남도 <span>(64)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>계룡시 <span>(3)</span></dt>
@@ -1777,9 +1784,9 @@
 								</dd>
 																												<dd >
 									
-									<span>모란</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/모란/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/모란/">시간표</a>
+									<span>모란정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/모란정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/모란정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1827,9 +1834,9 @@
 																														<dt>논산시 <span>(6)</span></dt>
 																					<dd >
 									
-									<span>노성</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/노성/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/노성/">시간표</a>
+									<span>노성정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/노성정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/노성정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1839,9 +1846,9 @@
 								</dd>
 																												<dd >
 									
-									<span>상월</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/상월/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/상월/">시간표</a>
+									<span>상월정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/상월정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/상월정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -1851,9 +1858,9 @@
 								</dd>
 																												<dd >
 									
-									<span>연산</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/연산/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/연산/">시간표</a>
+									<span>연산정보고</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/연산정보고/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/연산정보고/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -1939,9 +1946,9 @@
 								</dd>
 																												<dd >
 									
-									<span>어송</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/어송/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/어송/">시간표</a>
+									<span>어송정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/어송정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/어송정류소/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -2008,7 +2015,7 @@
 																														<dt>예산군 <span>(6)</span></dt>
 																					<dd >
 									
-									<span>고덕</span>
+									<span>고덕(예산군)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/고덕/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/고덕/">시간표</a>
 								</dd>
@@ -2026,11 +2033,11 @@
 								</dd>
 																												<dd >
 									
-									<span>신양</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/신양/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/신양/">시간표</a>
+									<span>신양정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/신양정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/신양정류소/">시간표</a>
 								</dd>
-																																									<dd >
+																												<dd >
 									
 									<span>예산종합터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/예산종합터미널/">안내</a>
@@ -2065,11 +2072,11 @@
 																														<dt>청양군 <span>(3)</span></dt>
 																					<dd >
 									
-									<span>운곡</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/운곡/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/운곡/">시간표</a>
+									<span>운곡정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/운곡정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/운곡정류소/">시간표</a>
 								</dd>
-																																									<dd >
+																												<dd >
 									
 									<span>청양시외버스터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/청양시외버스터미널/">안내</a>
@@ -2112,10 +2119,10 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/남면정류소/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/남면정류소/">시간표</a>
 								</dd>
-																														<dt>홍성군 <span>(4)</span></dt>
+																														<dt>홍성군 <span>(3)</span></dt>
 																					<dd >
 									
-									<span>갈산</span>
+									<span>갈산(홍성군)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/갈산/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/갈산/">시간표</a>
 								</dd>
@@ -2124,12 +2131,6 @@
 									<span>광천버스터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/광천시외버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/광천시외버스터미널/">시간표</a>
-								</dd>
-																												<dd >
-									
-									<span>홍성</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/홍성/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/홍성/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -2423,9 +2424,9 @@
 								</dd>
 																												<dd  class="last" >
 									
-									<span>용궁</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/용궁/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/용궁/">시간표</a>
+									<span>용궁정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/용궁정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/용궁정류소/">시간표</a>
 								</dd>
 																														<dt>울진군 <span>(6)</span></dt>
 																					<dd >
@@ -2458,13 +2459,13 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/평해버스정류장/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/평해버스정류장/">시간표</a>
 								</dd>
-																												<dd >
+																												<dd  class="last" >
 									
-									<span>후포</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/후포/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/후포/">시간표</a>
+									<span>후포터미널</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/후포공용시외버스터미널/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/후포공용시외버스터미널/">시간표</a>
 								</dd>
-																																											<dt>의성군 <span>(3)</span></dt>
+																														<dt>의성군 <span>(3)</span></dt>
 																					<dd >
 									
 									<span>단촌정류소</span>
@@ -2535,7 +2536,7 @@
 								</dd>
 																												<dd >
 									
-									<span>장승포시외</span>
+									<span>장승포시외(능포동)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/장승포시외/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/장승포시외/">시간표</a>
 								</dd>
@@ -2631,7 +2632,7 @@
 								</dd>
 																												<dd >
 									
-									<span>용현</span>
+									<span>용현(사천시)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/용현/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/용현/">시간표</a>
 								</dd>
@@ -2700,7 +2701,7 @@
 								</dd>
 																												<dd >
 									
-									<span>정암</span>
+									<span>정암(의령군)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/정암/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/정암/">시간표</a>
 								</dd>
@@ -2750,7 +2751,7 @@
 								</dd>
 																												<dd >
 									
-									<span>신당</span>
+									<span>신당(창녕군)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/신당/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/신당/">시간표</a>
 								</dd>
@@ -2860,7 +2861,7 @@
 								</dd>
 																												<dd >
 									
-									<span>삼봉</span>
+									<span>삼봉(함안군)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/삼봉/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/삼봉/">시간표</a>
 								</dd>
@@ -3157,7 +3158,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="jeonlanamdo" class="toc">전라남도 <span>(80)</span></h3></dt>
+										<dt><h3 id="jeonlanamdo" class="toc">전라남도 <span>(79)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>강진군 <span>(3)</span></dt>
@@ -3206,7 +3207,7 @@
 								</dd>
 																												<dd  class="last" >
 									
-									<span>백양</span>
+									<span>백양(고흥군)</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/백양/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/백양/">시간표</a>
 								</dd>
@@ -3440,9 +3441,9 @@
 																														<dt>영광군 <span>(3)</span></dt>
 																					<dd >
 									
-									<span>법성</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/법성/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/법성/">시간표</a>
+									<span>법성버스정류장</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/법성포공용터미널/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/법성포공용터미널/">시간표</a>
 								</dd>
 																												<dd >
 									
@@ -3605,14 +3606,8 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/진도공용터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/진도공용터미널/">시간표</a>
 								</dd>
-																														<dt>함평군 <span>(2)</span></dt>
-																					<dd >
-									
-									<span>문장</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/문장/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/문장/">시간표</a>
-								</dd>
-																												<dd  class="last" >
+																														<dt>함평군 <span>(1)</span></dt>
+																					<dd  class="last" >
 									
 									<span>함평공영터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/함평공용터미널/">안내</a>
@@ -3670,7 +3665,7 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Mon, 10 Mar 2025 09:00:32 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+	</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Wed, 12 Mar 2025 00:12:50 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -3734,7 +3729,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="kyeongkido" class="toc">경기도 <span>(36)</span></h3></dt>
+										<dt><h3 id="kyeongkido" class="toc">경기도 <span>(35)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>고양시 일산동구 <span>(1)</span></dt>
@@ -3750,13 +3745,6 @@
 									<span>광명종합터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/광명종합터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/고속버스/시간표/광명종합터미널/">시간표</a>
-								</dd>
-																														<dt>구리시 <span>(1)</span></dt>
-																					<dd  class="last" >
-									
-									<span>구리공항버스정류장</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/구리시외버스정류장/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/고속버스/시간표/구리시외버스정류장/">시간표</a>
 								</dd>
 																														<dt>부천시 원미구 <span>(1)</span></dt>
 																					<dd  class="last" >
@@ -4370,7 +4358,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="chungcheongnamdo" class="toc">충청남도 <span>(33)</span></h3></dt>
+										<dt><h3 id="chungcheongnamdo" class="toc">충청남도 <span>(32)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>공주시 <span>(3)</span></dt>
@@ -4571,14 +4559,8 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/태안공용버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/고속버스/시간표/태안공용버스터미널/">시간표</a>
 								</dd>
-																														<dt>홍성군 <span>(2)</span></dt>
-																					<dd >
-									
-									<span>홍성</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/홍성/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/고속버스/시간표/홍성/">시간표</a>
-								</dd>
-																												<dd  class="last" >
+																														<dt>홍성군 <span>(1)</span></dt>
+																					<dd  class="last" >
 									
 									<span>홍성종합터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/홍성종합터미널/">안내</a>
@@ -4905,7 +4887,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="jeonlanamdo" class="toc">전라남도 <span>(39)</span></h3></dt>
+										<dt><h3 id="jeonlanamdo" class="toc">전라남도 <span>(40)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>강진군 <span>(1)</span></dt>
@@ -5136,8 +5118,14 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/진도공용터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/고속버스/시간표/진도공용터미널/">시간표</a>
 								</dd>
-																														<dt>함평군 <span>(1)</span></dt>
-																					<dd  class="last" >
+																														<dt>함평군 <span>(2)</span></dt>
+																					<dd >
+									
+									<span>문장공영터미널</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/문장공영터미널/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/고속버스/시간표/문장공영터미널/">시간표</a>
+								</dd>
+																												<dd  class="last" >
 									
 									<span>함평공영터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/고속버스/터미널/함평공용터미널/">안내</a>
