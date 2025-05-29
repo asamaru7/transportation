@@ -1,7 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Wed, 28 May 2025 06:41:08 +0900</pubDate><item><title>전국 고속버스 터미널 안내</title><pubDate>Wed, 28 May 2025 00:13:13 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Fri, 30 May 2025 06:41:54 +0900</pubDate><item><title>강촌역정류소 안내 (시외버스)</title><pubDate>Fri, 30 May 2025 00:26:09 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B0%95%EC%B4%8C%EC%97%AD/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B0%95%EC%B4%8C%EC%97%AD/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">강원특별자치도 춘천시</span>
+				<span class="dTerminal">강촌역정류소</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			정류소,정류장
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			강원특별자치도 춘천시 남산면 방곡리 396-9
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.8060165" data-lng="127.6365093"></div>
+		</dd>
+					<dt class="subway">주변 지하철역</dt>
+			<dd class="subway">
+				<ul class="dSplit">
+											<li><a href="https://m.map.naver.com/subway/subwayStation.naver?stationId=1827" target="_blank" rel="nofollow">강촌역 경춘선</a></li>
+									</ul>
+			</dd>
+		
+					<dt class="bus">주변 버스정류장</dt>
+			<dd class="bus">
+				<ul class="dSplit">
+											<li><a href="https://m.map.naver.com/bus/station.naver?stationID=260005" target="_blank" rel="nofollow">강촌역입구(2305)</a></li>
+											<li><a href="https://m.map.naver.com/bus/station.naver?stationID=260118" target="_blank" rel="nofollow">창촌중학교(1426)</a></li>
+											<li><a href="https://m.map.naver.com/bus/station.naver?stationID=260119" target="_blank" rel="nofollow">강촌1리회관(1425)</a></li>
+											<li><a href="https://m.map.naver.com/bus/station.naver?stationID=260004" target="_blank" rel="nofollow">강촌역(2303)</a></li>
+											<li><a href="https://m.map.naver.com/bus/station.naver?stationID=260003" target="_blank" rel="nofollow">강촌역(2304)</a></li>
+											<li><a href="https://m.map.naver.com/bus/station.naver?stationID=259310" target="_blank" rel="nofollow">방곡리(1440)</a></li>
+									</ul>
+			</dd>
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">강원특별자치도 춘천시</span>
+				<span class="dTerminal">강촌역정류소</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></description></item><item><title>전국 고속버스 터미널 안내</title><pubDate>Fri, 30 May 2025 00:13:23 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -1508,7 +1607,7 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전국 시외버스 터미널 안내</title><pubDate>Wed, 28 May 2025 00:13:13 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+	</section>]]></description></item><item><title>전국 시외버스 터미널 안내</title><pubDate>Fri, 30 May 2025 00:13:23 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -2218,7 +2317,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="daekukwangyeogsi" class="toc">대구광역시 <span>(7)</span></h3></dt>
+										<dt><h3 id="daekukwangyeogsi" class="toc">대구광역시 <span>(8)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>군위군 <span>(1)</span></dt>
@@ -2242,8 +2341,14 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/현풍시외버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/현풍시외버스터미널/">시간표</a>
 								</dd>
-																														<dt>동구 <span>(2)</span></dt>
+																														<dt>동구 <span>(3)</span></dt>
 																					<dd >
+									
+									<span>대구공항정류소</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/대구공항정류소/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/대구공항정류소/">시간표</a>
+								</dd>
+																												<dd >
 									
 									<span>대구용계정류소</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/시외고속버스용계정류소/">안내</a>
@@ -2344,7 +2449,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="busankwangyeogsi" class="toc">부산광역시 <span>(11)</span></h3></dt>
+										<dt><h3 id="busankwangyeogsi" class="toc">부산광역시 <span>(12)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>강서구 <span>(1)</span></dt>
@@ -2410,12 +2515,18 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/부산-하단/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/부산-하단/">시간표</a>
 								</dd>
-																														<dt>해운대구 <span>(2)</span></dt>
+																														<dt>해운대구 <span>(3)</span></dt>
 																					<dd >
 									
 									<span>부산해운대시외버스정류소</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/해운대시외버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/해운대시외버스터미널/">시간표</a>
+								</dd>
+																												<dd >
+									
+									<span>장산역</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/장산역/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/장산역/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -4154,7 +4265,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="kyeongsangnamdo" class="toc">경상남도 <span>(74)</span></h3></dt>
+										<dt><h3 id="kyeongsangnamdo" class="toc">경상남도 <span>(75)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>거제시 <span>(5)</span></dt>
@@ -4493,8 +4604,14 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/통영종합버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/통영종합버스터미널/">시간표</a>
 								</dd>
-																														<dt>하동군 <span>(5)</span></dt>
+																														<dt>하동군 <span>(6)</span></dt>
 																					<dd >
+									
+									<span>개치</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/개치/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/개치/">시간표</a>
+								</dd>
+																												<dd >
 									
 									<span>전도정류소</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/전도정류소/">안내</a>
@@ -4625,7 +4742,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="jeonbugteugbyeoljachido" class="toc">전북특별자치도 <span>(44)</span></h3></dt>
+										<dt><h3 id="jeonbugteugbyeoljachido" class="toc">전북특별자치도 <span>(45)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>고창군 <span>(4)</span></dt>
@@ -4673,7 +4790,7 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/김제공용버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/김제공용버스터미널/">시간표</a>
 								</dd>
-																														<dt>남원시 <span>(3)</span></dt>
+																														<dt>남원시 <span>(4)</span></dt>
 																					<dd >
 									
 									<span>남원고속버스터미널</span>
@@ -4685,6 +4802,12 @@
 									<span>남원공용버스터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/남원공용버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/남원공용버스터미널/">시간표</a>
+								</dd>
+																												<dd >
+									
+									<span>반선시외버스터미널</span>
+									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/뱀사골/">안내</a>
+									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/뱀사골/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -5525,37 +5648,37 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>삼흥고속에서 대전복합터미널 가는 고속버스 시간표</title><pubDate>Tue, 27 May 2025 09:42:37 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%82%BC%ED%9D%A5%EA%B3%A0%EC%86%8D/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%82%BC%ED%9D%A5%EA%B3%A0%EC%86%8D/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	</section>]]></description></item><item><title>남해공용터미널에서 정포 가는 시외버스 시간표</title><pubDate>Thu, 29 May 2025 09:43:04 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%82%A8%ED%95%B4%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EC%A0%95%ED%8F%AC/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%82%A8%ED%95%B4%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EC%A0%95%ED%8F%AC/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/삼흥고속/">삼흥고속</a> 에서
-		<a href="https://transportation.asamaru.net/고속버스/터미널/대전복합터미널/">대전복합터미널</a> 가는
-		고속버스는 하루 <span>1</span> 회 운행합니다.
+		<a href="https://transportation.asamaru.net/시외버스/터미널/남해시외버스터미널/">남해공용터미널</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/정포/">정포</a> 가는
+		시외버스는 하루 <span>5</span> 회 운행합니다.
 
 		<dl>
 			<dt>첫차</dt>
-			<dd>23:50</dd>
+			<dd>09:20</dd>
 			<dt>막차</dt>
-			<dd>23:50</dd>
+			<dd>18:30</dd>
 		</dl>
 	</div>
 
 	<dl class="dTerminal">
 		<dt class="departure">출발지</dt>
 		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/삼흥고속/">삼흥고속</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/남해시외버스터미널/">남해공용터미널</a>
 			<span>시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.4703634&lng=127.129838&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.8421373&lng=127.8983824&pinId=13519772&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 		<dt class="arrival">도착지</dt>
 		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/고속버스/터미널/대전복합터미널/">대전복합터미널</a>
-			<span>종합버스터미널</span>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/정포/">정포</a>
+			<span>시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3509078&lng=127.4370346&pinId=19797141&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.8812243&lng=127.836455&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 	</dl>
 
@@ -5569,7 +5692,7 @@
 		
 		<dl class="dLastUpdate">
 			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-05-27</dd>
+			<dd class="lastUpdate">2025-05-29</dd>
 		</dl>
 		
 	</div>
@@ -5585,11 +5708,39 @@
 		</thead>
 		<tbody>
 									<tr>
-				<td class="departure">23:50</td>
-				<td class="arrival">24:50</td>
+				<td class="departure">09:20</td>
+				<td class="arrival">09:34</td>
 				<td class="grade">일반</td>
-				<td class="fare">4,900 <span>원</span></td>
-				<td class="duration">01:00</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:14</td>
+			</tr>
+					<tr>
+				<td class="departure">12:00</td>
+				<td class="arrival">12:14</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:14</td>
+			</tr>
+					<tr>
+				<td class="departure">14:35</td>
+				<td class="arrival">14:49</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:14</td>
+			</tr>
+					<tr>
+				<td class="departure">17:00</td>
+				<td class="arrival">17:14</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:14</td>
+			</tr>
+					<tr>
+				<td class="departure">18:30</td>
+				<td class="arrival">18:44</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:14</td>
 			</tr>
 							</tbody>
 	</table>
@@ -5604,8 +5755,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">충청남도 공주시</span>
-				<span class="dTerminal">삼흥고속</span>
+							<span class="dArea">경상남도 남해군</span>
+				<span class="dTerminal">남해공용터미널</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -5613,260 +5764,52 @@
 		<div class="cArrival">
 							<select class="cArrivalArea">
 					<option value="">도착지</option>
-											<optgroup label="충청남도">
+											<optgroup label="서울특별시">
 															<option
-																				value="{'서산공용버스터미널':{'link':'/고속버스/터미널/서산공용버스터미널/','schedule':'/고속버스/시간표/삼흥고속/출발/서산공용버스터미널/도착/','arrivals':[]}}">
-									서산시
-								</option>
-															<option
-																				value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/삼흥고속/출발/천안종합버스터미널/도착/','arrivals':[]}}">
-									천안시 동남구
+																				value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">
+									서초구
 								</option>
 													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-							<dl>
-				<dt>대전복합터미널</dt>
-				<dd>
-					<a href="http://www.djbusterminal.co.kr/" target="_blank">http://www.djbusterminal.co.kr/</a>
-				</dd>
-			</dl>
-			</div>
-</section>]]></description></item><item><title>삼흥고속에서 대전복합터미널 가는 시외버스 시간표</title><pubDate>Tue, 27 May 2025 09:42:37 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%82%BC%ED%9D%A5%EA%B3%A0%EC%86%8D/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%82%BC%ED%9D%A5%EA%B3%A0%EC%86%8D/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/삼흥고속/">삼흥고속</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/대전복합터미널/">대전복합터미널</a> 가는
-		시외버스는 하루 <span>1</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>23:50</dd>
-			<dt>막차</dt>
-			<dd>23:50</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/삼흥고속/">삼흥고속</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.4703634&lng=127.129838&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/대전복합터미널/">대전복합터미널</a>
-			<span>종합버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3509078&lng=127.4370346&pinId=19797141&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-05-27</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">23:50</td>
-				<td class="arrival">24:50</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,900 <span>원</span></td>
-				<td class="duration">01:00</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청남도 공주시</span>
-				<span class="dTerminal">삼흥고속</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="충청남도">
+											<optgroup label="대전광역시">
 															<option
-																				value="{'서산공용버스터미널':{'link':'/시외버스/터미널/서산공용버스터미널/','schedule':'/시외버스/시간표/삼흥고속/출발/서산공용버스터미널/도착/','arrivals':[]}}">
-									서산시
-								</option>
-															<option
-																				value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/삼흥고속/출발/천안종합버스터미널/도착/','arrivals':[]}}">
-									천안시 동남구
+																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/대전복합터미널/도착/','arrivals':[]}}">
+									동구
 								</option>
 													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-							<dl>
-				<dt>대전복합터미널</dt>
-				<dd>
-					<a href="http://www.djbusterminal.co.kr/" target="_blank">http://www.djbusterminal.co.kr/</a>
-				</dd>
-			</dl>
-			</div>
-</section>]]></description></item><item><title>삼흥고속에서 유성시외버스정류소 가는 시외버스 시간표</title><pubDate>Tue, 27 May 2025 09:42:37 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%82%BC%ED%9D%A5%EA%B3%A0%EC%86%8D/%EC%B6%9C%EB%B0%9C/%EC%9C%A0%EC%84%B1%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%82%BC%ED%9D%A5%EA%B3%A0%EC%86%8D/%EC%B6%9C%EB%B0%9C/%EC%9C%A0%EC%84%B1%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/삼흥고속/">삼흥고속</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/유성시외버스정류소/">유성시외버스정류소</a> 가는
-		시외버스는 하루 <span>1</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>23:50</dd>
-			<dt>막차</dt>
-			<dd>23:50</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/삼흥고속/">삼흥고속</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.4703634&lng=127.129838&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/유성시외버스정류소/">유성시외버스정류소</a>
-			<span>정류소,정류장</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3562935&lng=127.3304922&pinId=13323566&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-05-27</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">23:50</td>
-				<td class="arrival">24:20</td>
-				<td class="grade">일반</td>
-				<td class="fare">3,500 <span>원</span></td>
-				<td class="duration">00:30</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청남도 공주시</span>
-				<span class="dTerminal">삼흥고속</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="충청남도">
+											<optgroup label="부산광역시">
 															<option
-																				value="{'서산공용버스터미널':{'link':'/시외버스/터미널/서산공용버스터미널/','schedule':'/시외버스/시간표/삼흥고속/출발/서산공용버스터미널/도착/','arrivals':[]}}">
-									서산시
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
+								</option>
+													</optgroup>
+											<optgroup label="경상북도">
+															<option
+																				value="{'복곡':{'link':'/시외버스/터미널/복곡/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/복곡/도착/','arrivals':[]}}">
+									영덕군
+								</option>
+													</optgroup>
+											<optgroup label="경상남도">
+															<option
+																				selected="selected"
+										data-terminal="정포"
+																				value="{'갈화1':{'link':'/시외버스/터미널/갈화1/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/갈화1/도착/','arrivals':[]},'남양금음':{'link':'/시외버스/터미널/남양금음/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/남양금음/도착/','arrivals':[]},'노량관음포':{'link':'/시외버스/터미널/노량관음포/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/노량관음포/도착/','arrivals':[]},'노량대교월곡':{'link':'/시외버스/터미널/노량대교월곡/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/노량대교월곡/도착/','arrivals':[]},'대곡1(포상리)':{'link':'/시외버스/터미널/대곡1/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/대곡1/도착/','arrivals':[]},'대사(남해)':{'link':'/시외버스/터미널/대사/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/대사/도착/','arrivals':[]},'둔촌화천':{'link':'/시외버스/터미널/둔촌화천/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/둔촌화천/도착/','arrivals':[]},'문의':{'link':'/시외버스/터미널/문의/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/문의/도착/','arrivals':[]},'문항':{'link':'/시외버스/터미널/문항/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/문항/도착/','arrivals':[]},'미조':{'link':'/시외버스/터미널/미조/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/미조/도착/','arrivals':[]},'북섬수곡':{'link':'/시외버스/터미널/북섬수곡/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/북섬수곡/도착/','arrivals':[]},'상가':{'link':'/시외버스/터미널/상가/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/상가/도착/','arrivals':[]},'설리':{'link':'/시외버스/터미널/설리/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/설리/도착/','arrivals':[]},'수원늘':{'link':'/시외버스/터미널/수원늘/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/수원늘/도착/','arrivals':[]},'왕지':{'link':'/시외버스/터미널/왕지/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/왕지/도착/','arrivals':[]},'지족':{'link':'/시외버스/터미널/지족/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/지족/도착/','arrivals':[]},'차면':{'link':'/시외버스/터미널/차면/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/차면/도착/','arrivals':[]},'항도':{'link':'/시외버스/터미널/항도/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/항도/도착/','arrivals':[]}}">
+									남해군
 								</option>
 															<option
-																				value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/삼흥고속/출발/천안종합버스터미널/도착/','arrivals':[]}}">
-									천안시 동남구
+																				value="{'곤양공용터미널':{'link':'/시외버스/터미널/곤양공용터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/곤양공용터미널/도착/','arrivals':[]}}">
+									사천시
+								</option>
+															<option
+																				value="{'마산시외버스터미널':{'link':'/시외버스/터미널/마산시외버스터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/마산시외버스터미널/도착/','arrivals':[]}}">
+									창원시 마산회원구
+								</option>
+															<option
+																				value="{'창원종합버스터미널':{'link':'/시외버스/터미널/창원종합버스터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/창원종합버스터미널/도착/','arrivals':[]}}">
+									창원시 의창구
+								</option>
+															<option
+																				value="{'노량대교2':{'link':'/시외버스/터미널/노량대교2/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/노량대교2/도착/','arrivals':[]},'대치(하동)':{'link':'/시외버스/터미널/대치/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/대치/도착/','arrivals':[]},'상촌(하동군)':{'link':'/시외버스/터미널/상촌-하동/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/상촌-하동/도착/','arrivals':[]},'술상':{'link':'/시외버스/터미널/술상/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/술상/도착/','arrivals':[]},'양포':{'link':'/시외버스/터미널/양포/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/양포/도착/','arrivals':[]},'진교터미널':{'link':'/시외버스/터미널/진교시외버스터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/진교시외버스터미널/도착/','arrivals':[]}}">
+									하동군
 								</option>
 													</optgroup>
 									</select>
@@ -5888,14 +5831,197 @@
 			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
 		</p>
 					</div>
-</section>]]></description></item><item><title>숲속길마을7단지 안내 (시외버스)</title><pubDate>Tue, 27 May 2025 08:36:03 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%88%B2%EC%86%8D%EA%B8%B8%EB%A7%88%EC%9D%847%EB%8B%A8%EC%A7%80/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%88%B2%EC%86%8D%EA%B8%B8%EB%A7%88%EC%9D%847%EB%8B%A8%EC%A7%80/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+</section>]]></description></item><item><title>남해공용터미널에서 현촌 가는 시외버스 시간표</title><pubDate>Thu, 29 May 2025 09:43:04 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%82%A8%ED%95%B4%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%ED%98%84%EC%B4%8C/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%82%A8%ED%95%B4%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%ED%98%84%EC%B4%8C/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
+	<div class="dSummary">
+		<a href="https://transportation.asamaru.net/시외버스/터미널/남해시외버스터미널/">남해공용터미널</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/현촌/">현촌</a> 가는
+		시외버스는 하루 <span>5</span> 회 운행합니다.
+
+		<dl>
+			<dt>첫차</dt>
+			<dd>09:20</dd>
+			<dt>막차</dt>
+			<dd>18:30</dd>
+		</dl>
+	</div>
+
+	<dl class="dTerminal">
+		<dt class="departure">출발지</dt>
+		<dd class="departure">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/남해시외버스터미널/">남해공용터미널</a>
+			<span>시외버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.8421373&lng=127.8983824&pinId=13519772&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+		<dt class="arrival">도착지</dt>
+		<dd class="arrival">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/현촌/">현촌</a>
+			<span>시외버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.8783098&lng=127.848085&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+	</dl>
+
+	<hr/>
+	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
+	<div class="clearfix">
+		<dl class="dTime">
+			<dt class="now">현재시간</dt>
+			<dd class="now cNow"></dd>
+		</dl>
+		
+		<dl class="dLastUpdate">
+			<dt class="lastUpdate">최종수정</dt>
+			<dd class="lastUpdate">2025-05-29</dd>
+		</dl>
+		
+	</div>
+	<table class="cTimetable">
+		<thead>
+		<tr>
+			<th class="departure">출발</th>
+			<th class="arrival">도착</th>
+			<th class="grade">등급</th>
+			<th class="fare">요금(어른)</th>
+			<th class="duration">소요시간</th>
+		</tr>
+		</thead>
+		<tbody>
+									<tr>
+				<td class="departure">09:20</td>
+				<td class="arrival">09:38</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:18</td>
+			</tr>
+					<tr>
+				<td class="departure">12:00</td>
+				<td class="arrival">12:18</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:18</td>
+			</tr>
+					<tr>
+				<td class="departure">14:35</td>
+				<td class="arrival">14:53</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:18</td>
+			</tr>
+					<tr>
+				<td class="departure">17:00</td>
+				<td class="arrival">17:18</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:18</td>
+			</tr>
+					<tr>
+				<td class="departure">18:30</td>
+				<td class="arrival">18:48</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,000 <span>원</span></td>
+				<td class="duration">00:18</td>
+			</tr>
+							</tbody>
+	</table>
+
+	<hr/>
+
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 파주시</span>
-				<span class="dTerminal">숲속길마을7단지</span>
+							<span class="dArea">경상남도 남해군</span>
+				<span class="dTerminal">남해공용터미널</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+											<optgroup label="서울특별시">
+															<option
+																				value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">
+									서초구
+								</option>
+													</optgroup>
+											<optgroup label="대전광역시">
+															<option
+																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/대전복합터미널/도착/','arrivals':[]}}">
+									동구
+								</option>
+													</optgroup>
+											<optgroup label="부산광역시">
+															<option
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
+								</option>
+													</optgroup>
+											<optgroup label="경상북도">
+															<option
+																				value="{'복곡':{'link':'/시외버스/터미널/복곡/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/복곡/도착/','arrivals':[]}}">
+									영덕군
+								</option>
+													</optgroup>
+											<optgroup label="경상남도">
+															<option
+																				selected="selected"
+										data-terminal="현촌"
+																				value="{'갈화1':{'link':'/시외버스/터미널/갈화1/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/갈화1/도착/','arrivals':[]},'남양금음':{'link':'/시외버스/터미널/남양금음/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/남양금음/도착/','arrivals':[]},'노량관음포':{'link':'/시외버스/터미널/노량관음포/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/노량관음포/도착/','arrivals':[]},'노량대교월곡':{'link':'/시외버스/터미널/노량대교월곡/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/노량대교월곡/도착/','arrivals':[]},'대곡1(포상리)':{'link':'/시외버스/터미널/대곡1/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/대곡1/도착/','arrivals':[]},'대사(남해)':{'link':'/시외버스/터미널/대사/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/대사/도착/','arrivals':[]},'둔촌화천':{'link':'/시외버스/터미널/둔촌화천/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/둔촌화천/도착/','arrivals':[]},'문의':{'link':'/시외버스/터미널/문의/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/문의/도착/','arrivals':[]},'문항':{'link':'/시외버스/터미널/문항/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/문항/도착/','arrivals':[]},'미조':{'link':'/시외버스/터미널/미조/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/미조/도착/','arrivals':[]},'북섬수곡':{'link':'/시외버스/터미널/북섬수곡/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/북섬수곡/도착/','arrivals':[]},'상가':{'link':'/시외버스/터미널/상가/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/상가/도착/','arrivals':[]},'설리':{'link':'/시외버스/터미널/설리/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/설리/도착/','arrivals':[]},'수원늘':{'link':'/시외버스/터미널/수원늘/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/수원늘/도착/','arrivals':[]},'왕지':{'link':'/시외버스/터미널/왕지/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/왕지/도착/','arrivals':[]},'지족':{'link':'/시외버스/터미널/지족/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/지족/도착/','arrivals':[]},'차면':{'link':'/시외버스/터미널/차면/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/차면/도착/','arrivals':[]},'항도':{'link':'/시외버스/터미널/항도/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/항도/도착/','arrivals':[]}}">
+									남해군
+								</option>
+															<option
+																				value="{'곤양공용터미널':{'link':'/시외버스/터미널/곤양공용터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/곤양공용터미널/도착/','arrivals':[]}}">
+									사천시
+								</option>
+															<option
+																				value="{'마산시외버스터미널':{'link':'/시외버스/터미널/마산시외버스터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/마산시외버스터미널/도착/','arrivals':[]}}">
+									창원시 마산회원구
+								</option>
+															<option
+																				value="{'창원종합버스터미널':{'link':'/시외버스/터미널/창원종합버스터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/창원종합버스터미널/도착/','arrivals':[]}}">
+									창원시 의창구
+								</option>
+															<option
+																				value="{'노량대교2':{'link':'/시외버스/터미널/노량대교2/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/노량대교2/도착/','arrivals':[]},'대치(하동)':{'link':'/시외버스/터미널/대치/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/대치/도착/','arrivals':[]},'상촌(하동군)':{'link':'/시외버스/터미널/상촌-하동/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/상촌-하동/도착/','arrivals':[]},'술상':{'link':'/시외버스/터미널/술상/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/술상/도착/','arrivals':[]},'양포':{'link':'/시외버스/터미널/양포/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/양포/도착/','arrivals':[]},'진교터미널':{'link':'/시외버스/터미널/진교시외버스터미널/','schedule':'/시외버스/시간표/남해시외버스터미널/출발/진교시외버스터미널/도착/','arrivals':[]}}">
+									하동군
+								</option>
+													</optgroup>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+					</div>
+</section>]]></description></item><item><title>사당롯데캐슬골든포레,해그린 안내 (시외버스)</title><pubDate>Thu, 29 May 2025 08:41:32 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%82%AC%EB%8B%B9%EB%A1%AF%EB%8D%B0%EC%BA%90%EC%8A%AC%EA%B3%A8%EB%93%A0%ED%8F%AC%EB%A0%88-%ED%95%B4%EA%B7%B8%EB%A6%B0/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%82%AC%EB%8B%B9%EB%A1%AF%EB%8D%B0%EC%BA%90%EC%8A%AC%EA%B3%A8%EB%93%A0%ED%8F%AC%EB%A0%88-%ED%95%B4%EA%B7%B8%EB%A6%B0/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">서울특별시 동작구</span>
+				<span class="dTerminal">사당롯데캐슬골든포레,해그린</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -5926,11 +6052,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경기도 파주시 동패동 1695-4
+			서울특별시 동작구 사당동 산31-37
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="37.725551" data-lng="126.717656"></div>
+			<div id="map" class="dMap" data-lat="37.4923" data-lng="126.9634"></div>
 		</dd>
 		
 			</dl>
@@ -5940,8 +6066,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 파주시</span>
-				<span class="dTerminal">숲속길마을7단지</span>
+							<span class="dArea">서울특별시 동작구</span>
+				<span class="dTerminal">사당롯데캐슬골든포레,해그린</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -5970,14 +6096,14 @@
 
 		</dd>
 	</dl>
-</section>]]></description></item><item><title>원정초교 안내 (시외버스)</title><pubDate>Tue, 27 May 2025 08:36:03 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9B%90%EC%A0%95%EC%B4%88%EA%B5%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9B%90%EC%A0%95%EC%B4%88%EA%B5%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+</section>]]></description></item><item><title>노량관음포 안내 (시외버스)</title><pubDate>Thu, 29 May 2025 08:41:20 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%85%B8%EB%9F%89%EA%B4%80%EC%9D%8C%ED%8F%AC/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%85%B8%EB%9F%89%EA%B4%80%EC%9D%8C%ED%8F%AC/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 평택시</span>
-				<span class="dTerminal">원정초교</span>
+							<span class="dArea">경상남도 남해군</span>
+				<span class="dTerminal">노량관음포</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -6008,11 +6134,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경기도 평택시 포승읍 원정리 461-6
+			경상남도 남해군 설천면 노량리 439-44
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="36.993318" data-lng="126.844387"></div>
+			<div id="map" class="dMap" data-lat="34.940043" data-lng="127.874068"></div>
 		</dd>
 		
 			</dl>
@@ -6022,8 +6148,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 평택시</span>
-				<span class="dTerminal">원정초교</span>
+							<span class="dArea">경상남도 남해군</span>
+				<span class="dTerminal">노량관음포</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -6052,14 +6178,14 @@
 
 		</dd>
 	</dl>
-</section>]]></description></item><item><title>위시티(3,4단지) 안내 (시외버스)</title><pubDate>Tue, 27 May 2025 08:36:03 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9C%84%EC%8B%9C%ED%8B%B0-3-4%EB%8B%A8%EC%A7%80/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9C%84%EC%8B%9C%ED%8B%B0-3-4%EB%8B%A8%EC%A7%80/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+</section>]]></description></item><item><title>배곧중심상가 안내 (시외버스)</title><pubDate>Thu, 29 May 2025 08:41:20 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%B0%B0%EA%B3%A7%EC%A4%91%EC%8B%AC%EC%83%81%EA%B0%80/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%B0%B0%EA%B3%A7%EC%A4%91%EC%8B%AC%EC%83%81%EA%B0%80/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 고양시 일산동구</span>
-				<span class="dTerminal">위시티(3,4단지)</span>
+							<span class="dArea">경기도 시흥시</span>
+				<span class="dTerminal">배곧중심상가</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -6090,11 +6216,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경기도 고양시 일산동구 식사동 1504
+			경기도 시흥시 배곧동 194-2
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="37.679487" data-lng="126.8152"></div>
+			<div id="map" class="dMap" data-lat="37.370126" data-lng="126.729552"></div>
 		</dd>
 		
 			</dl>
@@ -6104,8 +6230,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 고양시 일산동구</span>
-				<span class="dTerminal">위시티(3,4단지)</span>
+							<span class="dArea">경기도 시흥시</span>
+				<span class="dTerminal">배곧중심상가</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -6134,14 +6260,144 @@
 
 		</dd>
 	</dl>
-</section>]]></description></item><item><title>위시티입구 안내 (시외버스)</title><pubDate>Tue, 27 May 2025 08:36:03 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9C%84%EC%8B%9C%ED%8B%B0%EC%9E%85%EA%B5%AC/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%9C%84%EC%8B%9C%ED%8B%B0%EC%9E%85%EA%B5%AC/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
+</section>]]></description></item><item><title>부산역 시외버스 시간표</title><pubDate>Thu, 29 May 2025 08:41:20 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%B6%80%EC%82%B0%EC%97%AD/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%B6%80%EC%82%B0%EC%97%AD/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cTerminalSchedulesBox">
+	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/부산역/"><strong>부산역</strong> 상세안내</a></h3>
+		<ul class="dSchedules">
+							<li>
+				<table class="cTimetable">
+					<caption>
+						<h3 id="jinjukaeyangsioebeoseuseungkangjang" class="toc">진주개양시외버스승강장</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/개양정류소/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/부산역/출발/개양정류소/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+
+						
+						
+						
+						
+						
+						
+						
+					</caption>
+					<thead>
+					<tr>
+						<th class="departure">출발</th>
+						<th class="arrival">도착</th>
+						<th class="grade">등급</th>
+						<th class="fare">요금(어른)</th>
+						<th class="duration">소요시간</th>
+					</tr>
+					</thead>
+					<tbody>
+																								<tr>
+								<td class="departure">22:00</td>
+								<td class="arrival">23:30</td>
+								<td class="grade">일반</td>
+								<td class="fare">13,400 <span>원</span></td>
+								<td class="duration">01:30</td>
+							</tr>
+													<tr>
+								<td class="departure">--:--</td>
+								<td class="arrival">--:--</td>
+								<td class="grade">일반</td>
+								<td class="fare">13,400 <span>원</span></td>
+								<td class="duration">01:30</td>
+							</tr>
+																</tbody>
+				</table>
+			</li>
+					<li>
+				<table class="cTimetable">
+					<caption>
+						<h3 id="jinjunamjung" class="toc">진주남중</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/진주남중/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/부산역/출발/진주남중/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+
+						
+						
+						
+						
+						
+						
+						
+					</caption>
+					<thead>
+					<tr>
+						<th class="departure">출발</th>
+						<th class="arrival">도착</th>
+						<th class="grade">등급</th>
+						<th class="fare">요금(어른)</th>
+						<th class="duration">소요시간</th>
+					</tr>
+					</thead>
+					<tbody>
+																								<tr>
+								<td class="departure">22:00</td>
+								<td class="arrival">24:13</td>
+								<td class="grade">일반</td>
+								<td class="fare">13,400 <span>원</span></td>
+								<td class="duration">02:13</td>
+							</tr>
+													<tr>
+								<td class="departure">--:--</td>
+								<td class="arrival">--:--</td>
+								<td class="grade">일반</td>
+								<td class="fare">13,400 <span>원</span></td>
+								<td class="duration">02:13</td>
+							</tr>
+																</tbody>
+				</table>
+			</li>
+					<li>
+				<table class="cTimetable">
+					<caption>
+						<h3 id="jinjusioebeoseuteomineol" class="toc">진주시외버스터미널</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/진주시외버스터미널/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/부산역/출발/진주시외버스터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+
+						
+						
+						
+						
+						
+						
+						
+					</caption>
+					<thead>
+					<tr>
+						<th class="departure">출발</th>
+						<th class="arrival">도착</th>
+						<th class="grade">등급</th>
+						<th class="fare">요금(어른)</th>
+						<th class="duration">소요시간</th>
+					</tr>
+					</thead>
+					<tbody>
+																								<tr>
+								<td class="departure">22:00</td>
+								<td class="arrival">23:43</td>
+								<td class="grade">일반</td>
+								<td class="fare">13,400 <span>원</span></td>
+								<td class="duration">01:43</td>
+							</tr>
+													<tr>
+								<td class="departure">--:--</td>
+								<td class="arrival">--:--</td>
+								<td class="grade">일반</td>
+								<td class="fare">13,400 <span>원</span></td>
+								<td class="duration">01:43</td>
+							</tr>
+																</tbody>
+				</table>
+			</li>
+			</ul>
+</section>]]></description></item><item><title>부산역 안내 (시외버스)</title><pubDate>Thu, 29 May 2025 08:41:20 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%B6%80%EC%82%B0%EC%97%AD/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%B6%80%EC%82%B0%EC%97%AD/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 고양시 일산동구</span>
-				<span class="dTerminal">위시티입구</span>
+							<span class="dArea">부산광역시 동구</span>
+				<span class="dTerminal">부산역</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -6149,6 +6405,12 @@
 		<div class="cArrival">
 							<select class="cArrivalArea">
 					<option value="">도착지</option>
+											<optgroup label="경상남도">
+															<option
+																				value="{'진주개양시외버스승강장':{'link':'/시외버스/터미널/개양정류소/','schedule':'/시외버스/시간표/부산역/출발/개양정류소/도착/','arrivals':[]},'진주남중':{'link':'/시외버스/터미널/진주남중/','schedule':'/시외버스/시간표/부산역/출발/진주남중/도착/','arrivals':[]},'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/부산역/출발/진주시외버스터미널/도착/','arrivals':[]}}">
+									진주시
+								</option>
+													</optgroup>
 									</select>
 						<select class="cArrivalTerminal">
 				<option value="">터미널 선택</option>
@@ -6172,11 +6434,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			경기도 고양시 일산동구 식사동 1582-4
+			부산광역시 동구 초량동 1205-1
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="37.67491" data-lng="126.808157"></div>
+			<div id="map" class="dMap" data-lat="35.114344" data-lng="129.039752"></div>
 		</dd>
 		
 			</dl>
@@ -6186,8 +6448,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">경기도 고양시 일산동구</span>
-				<span class="dTerminal">위시티입구</span>
+							<span class="dArea">부산광역시 동구</span>
+				<span class="dTerminal">부산역</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -6195,6 +6457,12 @@
 		<div class="cArrival">
 							<select class="cArrivalArea">
 					<option value="">도착지</option>
+											<optgroup label="경상남도">
+															<option
+																				value="{'진주개양시외버스승강장':{'link':'/시외버스/터미널/개양정류소/','schedule':'/시외버스/시간표/부산역/출발/개양정류소/도착/','arrivals':[]},'진주남중':{'link':'/시외버스/터미널/진주남중/','schedule':'/시외버스/시간표/부산역/출발/진주남중/도착/','arrivals':[]},'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/부산역/출발/진주시외버스터미널/도착/','arrivals':[]}}">
+									진주시
+								</option>
+													</optgroup>
 									</select>
 						<select class="cArrivalTerminal">
 				<option value="">터미널 선택</option>
@@ -6211,90 +6479,26 @@
 		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
 				<dd class="route">
 			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
-
-		</dd>
-	</dl>
-</section>]]></description></item><item><title>중산지구(10단지) 안내 (시외버스)</title><pubDate>Tue, 27 May 2025 08:36:03 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%A4%91%EC%82%B0%EC%A7%80%EA%B5%AC-10%EB%8B%A8%EC%A7%80/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EC%A4%91%EC%82%B0%EC%A7%80%EA%B5%AC-10%EB%8B%A8%EC%A7%80/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 고양시 일산동구</span>
-				<span class="dTerminal">중산지구(10단지)</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			경기도 고양시 일산동구 중산동 1566
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="37.687542" data-lng="126.778939"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 고양시 일산동구</span>
-				<span class="dTerminal">중산지구(10단지)</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
+								<dt>경상남도 <span>(3)</span></dt>
+																						<dd >
+							
+							<span>진주개양시외버스승강장</span>
+							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/개양정류소/">안내</a>
+							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/부산역/출발/개양정류소/도착/">시간표</a>
+						</dd>
+																				<dd >
+							
+							<span>진주남중</span>
+							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/진주남중/">안내</a>
+							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/부산역/출발/진주남중/도착/">시간표</a>
+						</dd>
+																				<dd  class="last" >
+							
+							<span>진주시외버스터미널</span>
+							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/진주시외버스터미널/">안내</a>
+							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/부산역/출발/진주시외버스터미널/도착/">시간표</a>
+						</dd>
+															</dl>
 
 		</dd>
 	</dl>
