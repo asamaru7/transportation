@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Wed, 18 Jun 2025 06:41:37 +0900</pubDate><item><title>전국 고속버스 터미널 안내</title><pubDate>Wed, 18 Jun 2025 00:13:32 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Thu, 19 Jun 2025 06:41:44 +0900</pubDate><item><title>전국 고속버스 터미널 안내</title><pubDate>Thu, 19 Jun 2025 00:13:39 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -1508,7 +1508,7 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전국 시외버스 터미널 안내</title><pubDate>Wed, 18 Jun 2025 00:13:32 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+	</section>]]></description></item><item><title>전국 시외버스 터미널 안내</title><pubDate>Thu, 19 Jun 2025 00:13:39 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -4643,7 +4643,7 @@
 								</dd>
 																						</dl>
 			</dd>
-										<dt><h3 id="jeonbugteugbyeoljachido" class="toc">전북특별자치도 <span>(45)</span></h3></dt>
+										<dt><h3 id="jeonbugteugbyeoljachido" class="toc">전북특별자치도 <span>(44)</span></h3></dt>
 							<dd>
 				<dl>
 																	<dt>고창군 <span>(4)</span></dt>
@@ -4691,7 +4691,7 @@
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/김제공용버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/김제공용버스터미널/">시간표</a>
 								</dd>
-																														<dt>남원시 <span>(4)</span></dt>
+																														<dt>남원시 <span>(3)</span></dt>
 																					<dd >
 									
 									<span>남원고속버스터미널</span>
@@ -4703,12 +4703,6 @@
 									<span>남원공용버스터미널</span>
 									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/남원공용버스터미널/">안내</a>
 									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/남원공용버스터미널/">시간표</a>
-								</dd>
-																												<dd >
-									
-									<span>반선시외버스터미널</span>
-									<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/뱀사골/">안내</a>
-									<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/뱀사골/">시간표</a>
 								</dd>
 																												<dd  class="last" >
 									
@@ -5549,7 +5543,254 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전북혁신도시정류장에서 정안알밤휴게소(천안방향)고속버스환승정류소 가는 고속버스 시간표</title><pubDate>Sun, 15 Jun 2025 09:38:58 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%A0%84%EB%B6%81%ED%98%81%EC%8B%A0%EB%8F%84%EC%8B%9C%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EC%B6%9C%EB%B0%9C/%EC%A0%95%EC%95%88%ED%9C%B4%EA%B2%8C%EC%86%8C-%EC%B2%9C%EC%95%88%EB%B0%A9%ED%96%A5-%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%99%98%EC%8A%B9%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%A0%84%EB%B6%81%ED%98%81%EC%8B%A0%EB%8F%84%EC%8B%9C%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EC%B6%9C%EB%B0%9C/%EC%A0%95%EC%95%88%ED%9C%B4%EA%B2%8C%EC%86%8C-%EC%B2%9C%EC%95%88%EB%B0%A9%ED%96%A5-%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%99%98%EC%8A%B9%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	</section>]]></description></item><item><title>반선시외버스터미널 시외버스 시간표</title><pubDate>Wed, 18 Jun 2025 01:56:49 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%B1%80%EC%82%AC%EA%B3%A8/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%B1%80%EC%82%AC%EA%B3%A8/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cTerminalSchedulesBox">
+	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/뱀사골/"><strong>반선시외버스터미널</strong> 상세안내</a></h3>
+		<ul class="dSchedules">
+					</ul>
+</section>]]></description></item><item><title>반선시외버스터미널에서 동서울종합터미널 가는 고속버스 시간표</title><pubDate>Wed, 18 Jun 2025 01:56:49 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%B1%80%EC%82%AC%EA%B3%A8/%EC%B6%9C%EB%B0%9C/%EB%8F%99%EC%84%9C%EC%9A%B8%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%B1%80%EC%82%AC%EA%B3%A8/%EC%B6%9C%EB%B0%9C/%EB%8F%99%EC%84%9C%EC%9A%B8%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
+	<div class="dSummary">
+		<a href="https://transportation.asamaru.net/시외버스/터미널/뱀사골/">반선시외버스터미널</a> 에서
+		<a href="https://transportation.asamaru.net/고속버스/터미널/동서울종합터미널/">동서울종합터미널</a> 가는
+		고속버스는 하루 <span>1</span> 회 운행합니다.
+
+		<dl>
+			<dt>첫차</dt>
+			<dd>17:40</dd>
+			<dt>막차</dt>
+			<dd>17:40</dd>
+		</dl>
+	</div>
+
+	<dl class="dTerminal">
+		<dt class="departure">출발지</dt>
+		<dd class="departure">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/뱀사골/">반선시외버스터미널</a>
+			<span>시외버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.3773644&lng=127.580638&pinId=17600523&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+		<dt class="arrival">도착지</dt>
+		<dd class="arrival">
+			<a href="https://transportation.asamaru.net/고속버스/터미널/동서울종합터미널/">동서울종합터미널</a>
+			<span>종합버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.5343935&lng=127.0940622&pinId=12161695&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+	</dl>
+
+	<hr/>
+	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
+	<div class="clearfix">
+		<dl class="dTime">
+			<dt class="now">현재시간</dt>
+			<dd class="now cNow"></dd>
+		</dl>
+		
+		<dl class="dLastUpdate">
+			<dt class="lastUpdate">최종수정</dt>
+			<dd class="lastUpdate">2025-06-18</dd>
+		</dl>
+		
+	</div>
+	<table class="cTimetable">
+		<thead>
+		<tr>
+			<th class="departure">출발</th>
+			<th class="arrival">도착</th>
+			<th class="grade">등급</th>
+			<th class="fare">요금(어른)</th>
+			<th class="duration">소요시간</th>
+		</tr>
+		</thead>
+		<tbody>
+									<tr>
+				<td class="departure">17:40</td>
+				<td class="arrival">21:37</td>
+				<td class="grade">우등</td>
+				<td class="fare">35,300 <span>원</span></td>
+				<td class="duration">03:57</td>
+			</tr>
+							</tbody>
+	</table>
+
+	<hr/>
+
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">전북특별자치도 남원시</span>
+				<span class="dTerminal">반선시외버스터미널</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+							<dl>
+				<dt>동서울종합터미널</dt>
+				<dd>
+					<a href="http://www.ti21.co.kr/" target="_blank">http://www.ti21.co.kr/</a>
+				</dd>
+			</dl>
+			</div>
+</section>]]></description></item><item><title>반선시외버스터미널에서 동서울종합터미널 가는 시외버스 시간표</title><pubDate>Wed, 18 Jun 2025 01:56:49 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%B1%80%EC%82%AC%EA%B3%A8/%EC%B6%9C%EB%B0%9C/%EB%8F%99%EC%84%9C%EC%9A%B8%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%B1%80%EC%82%AC%EA%B3%A8/%EC%B6%9C%EB%B0%9C/%EB%8F%99%EC%84%9C%EC%9A%B8%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
+	<div class="dSummary">
+		<a href="https://transportation.asamaru.net/시외버스/터미널/뱀사골/">반선시외버스터미널</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/동서울종합터미널/">동서울종합터미널</a> 가는
+		시외버스는 하루 <span>1</span> 회 운행합니다.
+
+		<dl>
+			<dt>첫차</dt>
+			<dd>17:40</dd>
+			<dt>막차</dt>
+			<dd>17:40</dd>
+		</dl>
+	</div>
+
+	<dl class="dTerminal">
+		<dt class="departure">출발지</dt>
+		<dd class="departure">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/뱀사골/">반선시외버스터미널</a>
+			<span>시외버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.3773644&lng=127.580638&pinId=17600523&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+		<dt class="arrival">도착지</dt>
+		<dd class="arrival">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/동서울종합터미널/">동서울종합터미널</a>
+			<span>종합버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.5343935&lng=127.0940622&pinId=12161695&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+	</dl>
+
+	<hr/>
+	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
+	<div class="clearfix">
+		<dl class="dTime">
+			<dt class="now">현재시간</dt>
+			<dd class="now cNow"></dd>
+		</dl>
+		
+		<dl class="dLastUpdate">
+			<dt class="lastUpdate">최종수정</dt>
+			<dd class="lastUpdate">2025-06-18</dd>
+		</dl>
+		
+	</div>
+	<table class="cTimetable">
+		<thead>
+		<tr>
+			<th class="departure">출발</th>
+			<th class="arrival">도착</th>
+			<th class="grade">등급</th>
+			<th class="fare">요금(어른)</th>
+			<th class="duration">소요시간</th>
+		</tr>
+		</thead>
+		<tbody>
+									<tr>
+				<td class="departure">17:40</td>
+				<td class="arrival">21:37</td>
+				<td class="grade">우등</td>
+				<td class="fare">35,300 <span>원</span></td>
+				<td class="duration">03:57</td>
+			</tr>
+							</tbody>
+	</table>
+
+	<hr/>
+
+			<div class="dReturn">
+			<div>
+				<h3>돌아오는 시간표</h3>
+				<div class="dReturnInfo">
+					(
+					총 <span>3회</span> 운행
+					<dl>
+						<dt>첫차</dt>
+						<dd>22:50</dd>
+						<dt>막차</dt>
+						<dd>23:00</dd>
+					</dl>
+					)
+				</div>
+				<a class="btn btn-flat" href="https://transportation.asamaru.net/시외버스/시간표/동서울종합터미널/출발/뱀사골/도착/">바로가기</a>
+			</div>
+		</div>
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">전북특별자치도 남원시</span>
+				<span class="dTerminal">반선시외버스터미널</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+							<dl>
+				<dt>동서울종합터미널</dt>
+				<dd>
+					<a href="http://www.ti21.co.kr/" target="_blank">http://www.ti21.co.kr/</a>
+				</dd>
+			</dl>
+			</div>
+</section>]]></description></item><item><title>전북혁신도시정류장에서 정안알밤휴게소(천안방향)고속버스환승정류소 가는 고속버스 시간표</title><pubDate>Sun, 15 Jun 2025 09:38:58 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%A0%84%EB%B6%81%ED%98%81%EC%8B%A0%EB%8F%84%EC%8B%9C%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EC%B6%9C%EB%B0%9C/%EC%A0%95%EC%95%88%ED%9C%B4%EA%B2%8C%EC%86%8C-%EC%B2%9C%EC%95%88%EB%B0%A9%ED%96%A5-%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%99%98%EC%8A%B9%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%A0%84%EB%B6%81%ED%98%81%EC%8B%A0%EB%8F%84%EC%8B%9C%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EC%B6%9C%EB%B0%9C/%EC%A0%95%EC%95%88%ED%9C%B4%EA%B2%8C%EC%86%8C-%EC%B2%9C%EC%95%88%EB%B0%A9%ED%96%A5-%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%99%98%EC%8A%B9%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
 		<a href="https://transportation.asamaru.net/고속버스/터미널/전북혁신도시고속버스정류장/">전북혁신도시정류장</a> 에서
@@ -5883,59 +6124,59 @@
 					<tbody>
 																								<tr>
 								<td class="departure">06:10</td>
-								<td class="arrival">10:22</td>
+								<td class="arrival">10:35</td>
 								<td class="grade">우등</td>
 								<td class="fare">34,000 <span>원</span></td>
-								<td class="duration">04:12</td>
+								<td class="duration">04:25</td>
 							</tr>
 													<tr>
 								<td class="departure">07:40</td>
-								<td class="arrival">11:52</td>
+								<td class="arrival">12:05</td>
 								<td class="grade">우등</td>
 								<td class="fare">34,000 <span>원</span></td>
-								<td class="duration">04:12</td>
+								<td class="duration">04:25</td>
 							</tr>
 													<tr>
 								<td class="departure">09:40</td>
-								<td class="arrival">13:52</td>
+								<td class="arrival">14:05</td>
 								<td class="grade">우등</td>
 								<td class="fare">34,000 <span>원</span></td>
-								<td class="duration">04:12</td>
+								<td class="duration">04:25</td>
 							</tr>
 													<tr>
 								<td class="departure">11:10</td>
-								<td class="arrival">15:22</td>
+								<td class="arrival">15:35</td>
 								<td class="grade">우등</td>
 								<td class="fare">34,000 <span>원</span></td>
-								<td class="duration">04:12</td>
+								<td class="duration">04:25</td>
 							</tr>
 													<tr>
 								<td class="departure">13:10</td>
-								<td class="arrival">17:22</td>
+								<td class="arrival">17:35</td>
 								<td class="grade">우등</td>
 								<td class="fare">34,000 <span>원</span></td>
-								<td class="duration">04:12</td>
+								<td class="duration">04:25</td>
 							</tr>
 													<tr>
 								<td class="departure">15:10</td>
-								<td class="arrival">19:22</td>
+								<td class="arrival">19:35</td>
 								<td class="grade">우등</td>
 								<td class="fare">34,000 <span>원</span></td>
-								<td class="duration">04:12</td>
+								<td class="duration">04:25</td>
 							</tr>
 													<tr>
 								<td class="departure">17:10</td>
-								<td class="arrival">21:22</td>
+								<td class="arrival">21:35</td>
 								<td class="grade">우등</td>
 								<td class="fare">34,000 <span>원</span></td>
-								<td class="duration">04:12</td>
+								<td class="duration">04:25</td>
 							</tr>
 													<tr>
 								<td class="departure">19:10</td>
-								<td class="arrival">23:22</td>
+								<td class="arrival">23:35</td>
 								<td class="grade">일반</td>
 								<td class="fare">26,100 <span>원</span></td>
-								<td class="duration">04:12</td>
+								<td class="duration">04:25</td>
 							</tr>
 																</tbody>
 				</table>
@@ -6038,351 +6279,6 @@
 							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/개치/출발/서울남부터미널/도착/">시간표</a>
 						</dd>
 															</dl>
-
-		</dd>
-	</dl>
-</section>]]></description></item><item><title>개치에서 서울남부터미널 가는 시외버스 시간표</title><pubDate>Sun, 15 Jun 2025 00:27:28 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B0%9C%EC%B9%98/%EC%B6%9C%EB%B0%9C/%EC%84%9C%EC%9A%B8%EB%82%A8%EB%B6%80%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B0%9C%EC%B9%98/%EC%B6%9C%EB%B0%9C/%EC%84%9C%EC%9A%B8%EB%82%A8%EB%B6%80%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/개치/">개치</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/서울남부터미널/">서울남부터미널</a> 가는
-		시외버스는 하루 <span>8</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>06:10</dd>
-			<dt>막차</dt>
-			<dd>19:10</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/개치/">개치</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.133127&lng=127.69547&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/서울남부터미널/">서울남부터미널</a>
-			<span>종합버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.4845348&lng=127.0155776&pinId=11655258&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-06-15</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">06:10</td>
-				<td class="arrival">10:22</td>
-				<td class="grade">우등</td>
-				<td class="fare">34,000 <span>원</span></td>
-				<td class="duration">04:12</td>
-			</tr>
-					<tr>
-				<td class="departure">07:40</td>
-				<td class="arrival">11:52</td>
-				<td class="grade">우등</td>
-				<td class="fare">34,000 <span>원</span></td>
-				<td class="duration">04:12</td>
-			</tr>
-					<tr>
-				<td class="departure">09:40</td>
-				<td class="arrival">13:52</td>
-				<td class="grade">우등</td>
-				<td class="fare">34,000 <span>원</span></td>
-				<td class="duration">04:12</td>
-			</tr>
-					<tr>
-				<td class="departure">11:10</td>
-				<td class="arrival">15:22</td>
-				<td class="grade">우등</td>
-				<td class="fare">34,000 <span>원</span></td>
-				<td class="duration">04:12</td>
-			</tr>
-					<tr>
-				<td class="departure">13:10</td>
-				<td class="arrival">17:22</td>
-				<td class="grade">우등</td>
-				<td class="fare">34,000 <span>원</span></td>
-				<td class="duration">04:12</td>
-			</tr>
-					<tr>
-				<td class="departure">15:10</td>
-				<td class="arrival">19:22</td>
-				<td class="grade">우등</td>
-				<td class="fare">34,000 <span>원</span></td>
-				<td class="duration">04:12</td>
-			</tr>
-					<tr>
-				<td class="departure">17:10</td>
-				<td class="arrival">21:22</td>
-				<td class="grade">우등</td>
-				<td class="fare">34,000 <span>원</span></td>
-				<td class="duration">04:12</td>
-			</tr>
-					<tr>
-				<td class="departure">19:10</td>
-				<td class="arrival">23:22</td>
-				<td class="grade">일반</td>
-				<td class="fare">26,100 <span>원</span></td>
-				<td class="duration">04:12</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-			<div class="dReturn">
-			<div>
-				<h3>돌아오는 시간표</h3>
-				<div class="dReturnInfo">
-					(
-					총 <span>8회</span> 운행
-					<dl>
-						<dt>첫차</dt>
-						<dd>06:40</dd>
-						<dt>막차</dt>
-						<dd>19:30</dd>
-					</dl>
-					)
-				</div>
-				<a class="btn btn-flat" href="https://transportation.asamaru.net/시외버스/시간표/서울남부터미널/출발/개치/도착/">바로가기</a>
-			</div>
-		</div>
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경상남도 하동군</span>
-				<span class="dTerminal">개치</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="서울특별시">
-															<option
-																				selected="selected"
-										data-terminal="서울남부터미널"
-																				value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/개치/출발/서울남부터미널/도착/','arrivals':[]}}">
-									서초구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></description></item><item><title>고철 안내 (시외버스)</title><pubDate>Sun, 15 Jun 2025 00:27:28 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B3%A0%EC%B2%A0/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B3%A0%EC%B2%A0/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경상북도 청도군</span>
-				<span class="dTerminal">고철</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			경상북도 청도군 이서면 고철리 446-1
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="35.67682" data-lng="128.678748"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경상북도 청도군</span>
-				<span class="dTerminal">고철</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
-
-		</dd>
-	</dl>
-</section>]]></description></item><item><title>노량대교2 안내 (시외버스)</title><pubDate>Sun, 15 Jun 2025 00:27:28 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%85%B8%EB%9F%89%EB%8C%80%EA%B5%902/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EB%85%B8%EB%9F%89%EB%8C%80%EA%B5%902/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminal cTerminalInfoBox">
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경상남도 하동군</span>
-				<span class="dTerminal">노량대교2</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
-	<dl class="dInfo">
-		<dt class="category">분류</dt>
-		<dd class="category">
-			시외버스터미널
-			
-		</dd>
-									</dl>
-	<dl class="dLocation">
-		<dt class="addr">주소</dt>
-		<dd class="addr">
-			경상남도 하동군 금남면 노량리 535-7
-					</dd>
-		<dt class="map">지도</dt>
-		<dd class="map">
-			<div id="map" class="dMap" data-lat="34.94815" data-lng="127.87268"></div>
-		</dd>
-		
-			</dl>
-
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경상남도 하동군</span>
-				<span class="dTerminal">노량대교2</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-
-	<dl class="dTerminals">
-		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
-				<dd class="route">
-			<dl class="dGoTerminal  dFlat ">
-			<dd class="empty">운행 노선이 없습니다.</dd>
-	</dl>
 
 		</dd>
 	</dl>
