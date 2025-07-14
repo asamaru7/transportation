@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Mon, 14 Jul 2025 06:41:24 +0900</pubDate><item><title>전국 고속버스 터미널 안내</title><pubDate>Mon, 14 Jul 2025 00:12:39 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+<title>전국 고속/시외 버스 운행정보</title><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description><image><title>전국 고속/시외 버스 운행정보</title><url>https://transportation.asamaru.net/res/img/icon/icon.png</url><link>https://transportation.asamaru.net</link><description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Tue, 15 Jul 2025 06:41:44 +0900</pubDate><item><title>전국 고속버스 터미널 안내</title><pubDate>Tue, 15 Jul 2025 00:12:44 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -1508,7 +1508,7 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>전국 시외버스 터미널 안내</title><pubDate>Mon, 14 Jul 2025 00:12:39 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
+	</section>]]></description></item><item><title>전국 시외버스 터미널 안내</title><pubDate>Tue, 15 Jul 2025 00:12:44 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dTerminals cTerminalsBox">
 		<div class="cGoTimetable" data-json-url="./terminals.json">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
@@ -5537,7 +5537,751 @@
 			</dd>
 			</dl>
 
-	</section>]]></description></item><item><title>와수터미널에서 인천종합터미널 가는 고속버스 시간표</title><pubDate>Sun, 13 Jul 2025 01:11:29 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%99%80%EC%88%98%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EC%9D%B8%EC%B2%9C%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%99%80%EC%88%98%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EC%9D%B8%EC%B2%9C%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	</section>]]></description></item><item><title>진해시외버스터미널에서 웅동 가는 시외버스 시간표</title><pubDate>Mon, 14 Jul 2025 01:28:17 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%A7%84%ED%95%B4%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EC%B6%9C%EB%B0%9C/%EC%9B%85%EB%8F%99/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%A7%84%ED%95%B4%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EC%B6%9C%EB%B0%9C/%EC%9B%85%EB%8F%99/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
+	<div class="dSummary">
+		<a href="https://transportation.asamaru.net/시외버스/터미널/진해시외버스정류장/">진해시외버스터미널</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/웅동/">웅동</a> 가는
+		시외버스는 하루 <span>2</span> 회 운행합니다.
+
+		<dl>
+			<dt>첫차</dt>
+			<dd>06:00</dd>
+			<dt>막차</dt>
+			<dd>21:30</dd>
+		</dl>
+	</div>
+
+	<dl class="dTerminal">
+		<dt class="departure">출발지</dt>
+		<dd class="departure">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/진해시외버스정류장/">진해시외버스터미널</a>
+			<span>시외버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.1445874&lng=128.6615039&pinId=15786337&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+		<dt class="arrival">도착지</dt>
+		<dd class="arrival">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/웅동/">웅동</a>
+			<span>시외버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.1244043&lng=128.78484&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+	</dl>
+
+	<hr/>
+	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
+	<div class="clearfix">
+		<dl class="dTime">
+			<dt class="now">현재시간</dt>
+			<dd class="now cNow"></dd>
+		</dl>
+		
+		<dl class="dLastUpdate">
+			<dt class="lastUpdate">최종수정</dt>
+			<dd class="lastUpdate">2025-07-14</dd>
+		</dl>
+		
+	</div>
+	<table class="cTimetable">
+		<thead>
+		<tr>
+			<th class="departure">출발</th>
+			<th class="arrival">도착</th>
+			<th class="grade">등급</th>
+			<th class="fare">요금(어른)</th>
+			<th class="duration">소요시간</th>
+		</tr>
+		</thead>
+		<tbody>
+									<tr>
+				<td class="departure">06:00</td>
+				<td class="arrival">06:29</td>
+				<td class="grade">일반</td>
+				<td class="fare">2,400 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+					<tr>
+				<td class="departure">21:30</td>
+				<td class="arrival">21:59</td>
+				<td class="grade">일반</td>
+				<td class="fare">2,400 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+							</tbody>
+	</table>
+
+	<hr/>
+
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상남도 창원시 진해구</span>
+				<span class="dTerminal">진해시외버스터미널</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+											<optgroup label="서울특별시">
+															<option
+																				value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/동서울종합터미널/도착/','arrivals':[]}}">
+									광진구
+								</option>
+															<option
+																				value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/서울남부터미널/도착/','arrivals':[]}}">
+									서초구
+								</option>
+													</optgroup>
+											<optgroup label="경기도">
+															<option
+																				value="{'성남시외고속버스임시매표소':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/성남종합버스터미널/도착/','arrivals':[]}}">
+									성남시 분당구
+								</option>
+													</optgroup>
+											<optgroup label="대구광역시">
+															<option
+																				value="{'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/동대구터미널/도착/','arrivals':[]}}">
+									동구
+								</option>
+															<option
+																				value="{'서대구고속버스터미널':{'link':'/고속버스/터미널/서대구고속버스터미널/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/서대구고속버스터미널/도착/','arrivals':[]}}">
+									북구
+								</option>
+													</optgroup>
+											<optgroup label="울산광역시">
+															<option
+																				value="{'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/울산시외버스터미널/도착/','arrivals':[]}}">
+									남구
+								</option>
+													</optgroup>
+											<optgroup label="부산광역시">
+															<option
+																				value="{'부산종합버스터미널':{'link':'/시외버스/터미널/부산종합버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/부산종합버스터미널/도착/','arrivals':[]}}">
+									금정구
+								</option>
+															<option
+																				value="{'부산동래시외버스정류소':{'link':'/시외버스/터미널/동래시외버스정류소/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/동래시외버스정류소/도착/','arrivals':[]}}">
+									동래구
+								</option>
+															<option
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
+								</option>
+													</optgroup>
+											<optgroup label="광주광역시">
+															<option
+																				value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/광주종합버스터미널/도착/','arrivals':[]}}">
+									서구
+								</option>
+													</optgroup>
+											<optgroup label="경상북도">
+															<option
+																				value="{'선산휴게소(여주방향)고속버스환승정류소':{'link':'/고속버스/터미널/선산휴게소-여주방향-고속버스환승정류소/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/선산휴게소-여주방향-고속버스환승정류소/도착/','arrivals':[]}}">
+									구미시
+								</option>
+													</optgroup>
+											<optgroup label="경상남도">
+															<option
+																				value="{'거제(고현직행)':{'link':'/시외버스/터미널/거제-고현직행/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/거제-고현직행/도착/','arrivals':[]}}">
+									거제시
+								</option>
+															<option
+																				value="{'마산남부시외버스터미널':{'link':'/시외버스/터미널/마산남부시외버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/마산남부시외버스터미널/도착/','arrivals':[]}}">
+									창원시 마산합포구
+								</option>
+															<option
+																				value="{'내서고속버스터미널':{'link':'/고속버스/터미널/내서고속버스터미널/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/내서고속버스터미널/도착/','arrivals':[]},'마산고속버스터미널':{'link':'/고속버스/터미널/마산고속버스터미널/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/마산고속버스터미널/도착/','arrivals':[]}}">
+									창원시 마산회원구
+								</option>
+															<option
+																				selected="selected"
+										data-terminal="웅동"
+																				value="{'용원시외버스센터':{'link':'/시외버스/터미널/용원시외버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/용원시외버스터미널/도착/','arrivals':[]}}">
+									창원시 진해구
+								</option>
+													</optgroup>
+											<optgroup label="전라남도">
+															<option
+																				value="{'섬진강휴게소(순천방향)고속버스환승정류소':{'link':'/고속버스/터미널/섬진강휴게소정류소-전남방면-고속/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/섬진강휴게소정류소-전남방면-고속/도착/','arrivals':[]}}">
+									광양시
+								</option>
+													</optgroup>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+					</div>
+</section>]]></description></item><item><title>진해시외버스터미널에서 웅천성내정류소(창원) 가는 시외버스 시간표</title><pubDate>Mon, 14 Jul 2025 01:28:17 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%A7%84%ED%95%B4%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EC%B6%9C%EB%B0%9C/%EC%9B%85%EC%B2%9C%EC%84%B1%EB%82%B4%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%A7%84%ED%95%B4%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EC%B6%9C%EB%B0%9C/%EC%9B%85%EC%B2%9C%EC%84%B1%EB%82%B4%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
+	<div class="dSummary">
+		<a href="https://transportation.asamaru.net/시외버스/터미널/진해시외버스정류장/">진해시외버스터미널</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/웅천성내정류소/">웅천성내정류소(창원)</a> 가는
+		시외버스는 하루 <span>2</span> 회 운행합니다.
+
+		<dl>
+			<dt>첫차</dt>
+			<dd>06:00</dd>
+			<dt>막차</dt>
+			<dd>21:30</dd>
+		</dl>
+	</div>
+
+	<dl class="dTerminal">
+		<dt class="departure">출발지</dt>
+		<dd class="departure">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/진해시외버스정류장/">진해시외버스터미널</a>
+			<span>시외버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.1445874&lng=128.6615039&pinId=15786337&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+		<dt class="arrival">도착지</dt>
+		<dd class="arrival">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/웅천성내정류소/">웅천성내정류소(창원)</a>
+			<span>시외버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.113664&lng=128.749022&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+	</dl>
+
+	<hr/>
+	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
+	<div class="clearfix">
+		<dl class="dTime">
+			<dt class="now">현재시간</dt>
+			<dd class="now cNow"></dd>
+		</dl>
+		
+		<dl class="dLastUpdate">
+			<dt class="lastUpdate">최종수정</dt>
+			<dd class="lastUpdate">2025-07-14</dd>
+		</dl>
+		
+	</div>
+	<table class="cTimetable">
+		<thead>
+		<tr>
+			<th class="departure">출발</th>
+			<th class="arrival">도착</th>
+			<th class="grade">등급</th>
+			<th class="fare">요금(어른)</th>
+			<th class="duration">소요시간</th>
+		</tr>
+		</thead>
+		<tbody>
+									<tr>
+				<td class="departure">06:00</td>
+				<td class="arrival">06:20</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,800 <span>원</span></td>
+				<td class="duration">00:20</td>
+			</tr>
+					<tr>
+				<td class="departure">21:30</td>
+				<td class="arrival">21:50</td>
+				<td class="grade">일반</td>
+				<td class="fare">1,800 <span>원</span></td>
+				<td class="duration">00:20</td>
+			</tr>
+							</tbody>
+	</table>
+
+	<hr/>
+
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상남도 창원시 진해구</span>
+				<span class="dTerminal">진해시외버스터미널</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+											<optgroup label="서울특별시">
+															<option
+																				value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/동서울종합터미널/도착/','arrivals':[]}}">
+									광진구
+								</option>
+															<option
+																				value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/서울남부터미널/도착/','arrivals':[]}}">
+									서초구
+								</option>
+													</optgroup>
+											<optgroup label="경기도">
+															<option
+																				value="{'성남시외고속버스임시매표소':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/성남종합버스터미널/도착/','arrivals':[]}}">
+									성남시 분당구
+								</option>
+													</optgroup>
+											<optgroup label="대구광역시">
+															<option
+																				value="{'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/동대구터미널/도착/','arrivals':[]}}">
+									동구
+								</option>
+															<option
+																				value="{'서대구고속버스터미널':{'link':'/고속버스/터미널/서대구고속버스터미널/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/서대구고속버스터미널/도착/','arrivals':[]}}">
+									북구
+								</option>
+													</optgroup>
+											<optgroup label="울산광역시">
+															<option
+																				value="{'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/울산시외버스터미널/도착/','arrivals':[]}}">
+									남구
+								</option>
+													</optgroup>
+											<optgroup label="부산광역시">
+															<option
+																				value="{'부산종합버스터미널':{'link':'/시외버스/터미널/부산종합버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/부산종합버스터미널/도착/','arrivals':[]}}">
+									금정구
+								</option>
+															<option
+																				value="{'부산동래시외버스정류소':{'link':'/시외버스/터미널/동래시외버스정류소/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/동래시외버스정류소/도착/','arrivals':[]}}">
+									동래구
+								</option>
+															<option
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
+								</option>
+													</optgroup>
+											<optgroup label="광주광역시">
+															<option
+																				value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/광주종합버스터미널/도착/','arrivals':[]}}">
+									서구
+								</option>
+													</optgroup>
+											<optgroup label="경상북도">
+															<option
+																				value="{'선산휴게소(여주방향)고속버스환승정류소':{'link':'/고속버스/터미널/선산휴게소-여주방향-고속버스환승정류소/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/선산휴게소-여주방향-고속버스환승정류소/도착/','arrivals':[]}}">
+									구미시
+								</option>
+													</optgroup>
+											<optgroup label="경상남도">
+															<option
+																				value="{'거제(고현직행)':{'link':'/시외버스/터미널/거제-고현직행/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/거제-고현직행/도착/','arrivals':[]}}">
+									거제시
+								</option>
+															<option
+																				value="{'마산남부시외버스터미널':{'link':'/시외버스/터미널/마산남부시외버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/마산남부시외버스터미널/도착/','arrivals':[]}}">
+									창원시 마산합포구
+								</option>
+															<option
+																				value="{'내서고속버스터미널':{'link':'/고속버스/터미널/내서고속버스터미널/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/내서고속버스터미널/도착/','arrivals':[]},'마산고속버스터미널':{'link':'/고속버스/터미널/마산고속버스터미널/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/마산고속버스터미널/도착/','arrivals':[]}}">
+									창원시 마산회원구
+								</option>
+															<option
+																				selected="selected"
+										data-terminal="웅천성내정류소(창원)"
+																				value="{'용원시외버스센터':{'link':'/시외버스/터미널/용원시외버스터미널/','schedule':'/시외버스/시간표/진해시외버스정류장/출발/용원시외버스터미널/도착/','arrivals':[]}}">
+									창원시 진해구
+								</option>
+													</optgroup>
+											<optgroup label="전라남도">
+															<option
+																				value="{'섬진강휴게소(순천방향)고속버스환승정류소':{'link':'/고속버스/터미널/섬진강휴게소정류소-전남방면-고속/','schedule':'/고속버스/시간표/진해시외버스정류장/출발/섬진강휴게소정류소-전남방면-고속/도착/','arrivals':[]}}">
+									광양시
+								</option>
+													</optgroup>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+					</div>
+</section>]]></description></item><item><title>인삼랜드휴게소(하남방향)고속버스환승정류소에서 대전복합터미널 가는 고속버스 시간표</title><pubDate>Mon, 14 Jul 2025 01:12:17 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9D%B8%EC%82%BC%EB%9E%9C%EB%93%9C%ED%9C%B4%EA%B2%8C%EC%86%8C-%ED%95%98%EB%82%A8%EB%B0%A9%ED%96%A5-%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%99%98%EC%8A%B9%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9D%B8%EC%82%BC%EB%9E%9C%EB%93%9C%ED%9C%B4%EA%B2%8C%EC%86%8C-%ED%95%98%EB%82%A8%EB%B0%A9%ED%96%A5-%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%99%98%EC%8A%B9%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
+	<div class="dSummary">
+		<a href="https://transportation.asamaru.net/고속버스/터미널/인삼랜드휴게소-하남방향-고속버스환승정류소/">인삼랜드휴게소(하남방향)고속버스환승정류소</a> 에서
+		<a href="https://transportation.asamaru.net/고속버스/터미널/대전복합터미널/">대전복합터미널</a> 가는
+		고속버스는 하루 <span>4</span> 회 운행합니다.
+
+		<dl>
+			<dt>첫차</dt>
+			<dd>11:20</dd>
+			<dt>막차</dt>
+			<dd>18:30</dd>
+		</dl>
+	</div>
+
+	<dl class="dTerminal">
+		<dt class="departure">출발지</dt>
+		<dd class="departure">
+			<a href="https://transportation.asamaru.net/고속버스/터미널/인삼랜드휴게소-하남방향-고속버스환승정류소/">인삼랜드휴게소(하남방향)고속버스환승정류소</a>
+			<span>버스터미널,정류장</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.155013&lng=127.4969864&pinId=21435394&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+		<dt class="arrival">도착지</dt>
+		<dd class="arrival">
+			<a href="https://transportation.asamaru.net/고속버스/터미널/대전복합터미널/">대전복합터미널</a>
+			<span>종합버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3506331&lng=127.4365786&pinId=19797141&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+	</dl>
+
+	<hr/>
+	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
+	<div class="clearfix">
+		<dl class="dTime">
+			<dt class="now">현재시간</dt>
+			<dd class="now cNow"></dd>
+		</dl>
+		
+		<dl class="dLastUpdate">
+			<dt class="lastUpdate">최종수정</dt>
+			<dd class="lastUpdate">2025-07-14</dd>
+		</dl>
+		
+	</div>
+	<table class="cTimetable">
+		<thead>
+		<tr>
+			<th class="departure">출발</th>
+			<th class="arrival">도착</th>
+			<th class="grade">등급</th>
+			<th class="fare">요금(어른)</th>
+			<th class="duration">소요시간</th>
+		</tr>
+		</thead>
+		<tbody>
+									<tr>
+				<td class="departure">11:20</td>
+				<td class="arrival">11:49</td>
+				<td class="grade">우등</td>
+				<td class="fare">3,600 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+					<tr>
+				<td class="departure">14:00</td>
+				<td class="arrival">14:29</td>
+				<td class="grade">우등</td>
+				<td class="fare">3,600 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+					<tr>
+				<td class="departure">17:20</td>
+				<td class="arrival">17:49</td>
+				<td class="grade">우등</td>
+				<td class="fare">3,600 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+					<tr>
+				<td class="departure">18:30</td>
+				<td class="arrival">18:59</td>
+				<td class="grade">우등</td>
+				<td class="fare">3,600 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+							</tbody>
+	</table>
+
+	<hr/>
+
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">충청남도 금산군</span>
+				<span class="dTerminal">인삼랜드휴게소(하남방향)고속버스환승정류소</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+											<optgroup label="서울특별시">
+															<option
+																				value="{'동서울종합터미널':{'link':'/고속버스/터미널/동서울종합터미널/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/동서울종합터미널/도착/','arrivals':[]}}">
+									광진구
+								</option>
+															<option
+																				value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/서울고속버스터미널/도착/','arrivals':[]}}">
+									서초구
+								</option>
+													</optgroup>
+											<optgroup label="경기도">
+															<option
+																				value="{'성남시외고속버스임시매표소':{'link':'/고속버스/터미널/성남종합버스터미널/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/성남종합버스터미널/도착/','arrivals':[]}}">
+									성남시 분당구
+								</option>
+															<option
+																				value="{'수원버스터미널':{'link':'/고속버스/터미널/수원종합버스터미널/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/수원종합버스터미널/도착/','arrivals':[]}}">
+									수원시 권선구
+								</option>
+															<option
+																				value="{'신갈용인정류소':{'link':'/고속버스/터미널/신갈고속시외버스정류소/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/신갈고속시외버스정류소/도착/','arrivals':[]},'용인기흥역시외버스정류소':{'link':'/고속버스/터미널/기흥역시외버스정류소/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/기흥역시외버스정류소/도착/','arrivals':[]}}">
+									용인시 기흥구
+								</option>
+															<option
+																				value="{'용인공용버스터미널':{'link':'/고속버스/터미널/용인공용버스터미널/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/용인공용버스터미널/도착/','arrivals':[]}}">
+									용인시 처인구
+								</option>
+													</optgroup>
+											<optgroup label="인천광역시">
+															<option
+																				value="{'인천종합터미널':{'link':'/고속버스/터미널/인천종합터미널/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/인천종합터미널/도착/','arrivals':[]}}">
+									미추홀구
+								</option>
+													</optgroup>
+											<optgroup label="충청남도">
+															<option
+																				value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/천안종합버스터미널/도착/','arrivals':[]}}">
+									천안시 동남구
+								</option>
+													</optgroup>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+							<dl>
+				<dt>대전복합터미널</dt>
+				<dd>
+					<a href="http://www.djbusterminal.co.kr/" target="_blank">http://www.djbusterminal.co.kr/</a>
+				</dd>
+			</dl>
+			</div>
+</section>]]></description></item><item><title>인삼랜드휴게소(하남방향)고속버스환승정류소에서 대전복합터미널 가는 시외버스 시간표</title><pubDate>Mon, 14 Jul 2025 01:12:17 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9D%B8%EC%82%BC%EB%9E%9C%EB%93%9C%ED%9C%B4%EA%B2%8C%EC%86%8C-%ED%95%98%EB%82%A8%EB%B0%A9%ED%96%A5-%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%99%98%EC%8A%B9%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9D%B8%EC%82%BC%EB%9E%9C%EB%93%9C%ED%9C%B4%EA%B2%8C%EC%86%8C-%ED%95%98%EB%82%A8%EB%B0%A9%ED%96%A5-%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%99%98%EC%8A%B9%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
+	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
+	<div class="dSummary">
+		<a href="https://transportation.asamaru.net/시외버스/터미널/인삼랜드휴게소-하남방향-고속버스환승정류소/">인삼랜드휴게소(하남방향)고속버스환승정류소</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/대전복합터미널/">대전복합터미널</a> 가는
+		시외버스는 하루 <span>4</span> 회 운행합니다.
+
+		<dl>
+			<dt>첫차</dt>
+			<dd>11:20</dd>
+			<dt>막차</dt>
+			<dd>18:30</dd>
+		</dl>
+	</div>
+
+	<dl class="dTerminal">
+		<dt class="departure">출발지</dt>
+		<dd class="departure">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/인삼랜드휴게소-하남방향-고속버스환승정류소/">인삼랜드휴게소(하남방향)고속버스환승정류소</a>
+			<span>버스터미널,정류장</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.155013&lng=127.4969864&pinId=21435394&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+		<dt class="arrival">도착지</dt>
+		<dd class="arrival">
+			<a href="https://transportation.asamaru.net/시외버스/터미널/대전복합터미널/">대전복합터미널</a>
+			<span>종합버스터미널</span>
+
+			
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3506331&lng=127.4365786&pinId=19797141&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+		</dd>
+	</dl>
+
+	<hr/>
+	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
+	<div class="clearfix">
+		<dl class="dTime">
+			<dt class="now">현재시간</dt>
+			<dd class="now cNow"></dd>
+		</dl>
+		
+		<dl class="dLastUpdate">
+			<dt class="lastUpdate">최종수정</dt>
+			<dd class="lastUpdate">2025-07-14</dd>
+		</dl>
+		
+	</div>
+	<table class="cTimetable">
+		<thead>
+		<tr>
+			<th class="departure">출발</th>
+			<th class="arrival">도착</th>
+			<th class="grade">등급</th>
+			<th class="fare">요금(어른)</th>
+			<th class="duration">소요시간</th>
+		</tr>
+		</thead>
+		<tbody>
+									<tr>
+				<td class="departure">11:20</td>
+				<td class="arrival">11:49</td>
+				<td class="grade">우등</td>
+				<td class="fare">3,600 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+					<tr>
+				<td class="departure">14:00</td>
+				<td class="arrival">14:29</td>
+				<td class="grade">우등</td>
+				<td class="fare">3,600 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+					<tr>
+				<td class="departure">17:20</td>
+				<td class="arrival">17:49</td>
+				<td class="grade">우등</td>
+				<td class="fare">3,600 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+					<tr>
+				<td class="departure">18:30</td>
+				<td class="arrival">18:59</td>
+				<td class="grade">우등</td>
+				<td class="fare">3,600 <span>원</span></td>
+				<td class="duration">00:29</td>
+			</tr>
+							</tbody>
+	</table>
+
+	<hr/>
+
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">충청남도 금산군</span>
+				<span class="dTerminal">인삼랜드휴게소(하남방향)고속버스환승정류소</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+											<optgroup label="서울특별시">
+															<option
+																				value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/동서울종합터미널/도착/','arrivals':[]}}">
+									광진구
+								</option>
+															<option
+																				value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/서울고속버스터미널/도착/','arrivals':[]}}">
+									서초구
+								</option>
+													</optgroup>
+											<optgroup label="경기도">
+															<option
+																				value="{'성남시외고속버스임시매표소':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/성남종합버스터미널/도착/','arrivals':[]}}">
+									성남시 분당구
+								</option>
+															<option
+																				value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/수원종합버스터미널/도착/','arrivals':[]}}">
+									수원시 권선구
+								</option>
+															<option
+																				value="{'신갈용인정류소':{'link':'/시외버스/터미널/신갈고속시외버스정류소/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/신갈고속시외버스정류소/도착/','arrivals':[]},'용인기흥역시외버스정류소':{'link':'/시외버스/터미널/기흥역시외버스정류소/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/기흥역시외버스정류소/도착/','arrivals':[]}}">
+									용인시 기흥구
+								</option>
+															<option
+																				value="{'용인공용버스터미널':{'link':'/시외버스/터미널/용인공용버스터미널/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/용인공용버스터미널/도착/','arrivals':[]}}">
+									용인시 처인구
+								</option>
+													</optgroup>
+											<optgroup label="인천광역시">
+															<option
+																				value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/인천종합터미널/도착/','arrivals':[]}}">
+									미추홀구
+								</option>
+													</optgroup>
+											<optgroup label="충청남도">
+															<option
+																				value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/인삼랜드휴게소-하남방향-고속버스환승정류소/출발/천안종합버스터미널/도착/','arrivals':[]}}">
+									천안시 동남구
+								</option>
+													</optgroup>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+							<dl>
+				<dt>대전복합터미널</dt>
+				<dd>
+					<a href="http://www.djbusterminal.co.kr/" target="_blank">http://www.djbusterminal.co.kr/</a>
+				</dd>
+			</dl>
+			</div>
+</section>]]></description></item><item><title>와수터미널에서 인천종합터미널 가는 고속버스 시간표</title><pubDate>Sun, 13 Jul 2025 01:11:29 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%99%80%EC%88%98%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EC%9D%B8%EC%B2%9C%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%99%80%EC%88%98%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EC%9D%B8%EC%B2%9C%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
 		<a href="https://transportation.asamaru.net/시외버스/터미널/와수시외버스터미널/">와수터미널</a> 에서
@@ -6449,824 +7193,6 @@
 															<option
 																				value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/광정정류소/출발/천안종합버스터미널/도착/','arrivals':[]}}">
 									천안시 동남구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></description></item><item><title>광정정류소에서 공주종합버스터미널 가는 시외버스 시간표</title><pubDate>Sun, 13 Jul 2025 01:06:13 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B4%91%EC%A0%95%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EA%B3%B5%EC%A3%BC%EC%A2%85%ED%95%A9%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B4%91%EC%A0%95%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EA%B3%B5%EC%A3%BC%EC%A2%85%ED%95%A9%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/광정정류소/">광정정류소</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/공주종합버스터미널/">공주종합버스터미널</a> 가는
-		시외버스는 하루 <span>1</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>19:10</dd>
-			<dt>막차</dt>
-			<dd>19:10</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/광정정류소/">광정정류소</a>
-			<span>정류소,정류장</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.6111238&lng=127.121675&pinId=33625677&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/공주종합버스터미널/">공주종합버스터미널</a>
-			<span>종합버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.4685158&lng=127.1347324&pinId=13323229&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-13</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">19:10</td>
-				<td class="arrival">19:35</td>
-				<td class="grade">일반</td>
-				<td class="fare">2,500 <span>원</span></td>
-				<td class="duration">00:25</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-			<div class="dReturn">
-			<div>
-				<h3>돌아오는 시간표</h3>
-				<div class="dReturnInfo">
-					(
-					총 <span>16회</span> 운행
-					<dl>
-						<dt>첫차</dt>
-						<dd>07:20</dd>
-						<dt>막차</dt>
-						<dd>21:00</dd>
-					</dl>
-					)
-				</div>
-				<a class="btn btn-flat" href="https://transportation.asamaru.net/시외버스/시간표/공주종합버스터미널/출발/광정정류소/도착/">바로가기</a>
-			</div>
-		</div>
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청남도 공주시</span>
-				<span class="dTerminal">광정정류소</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="경기도">
-															<option
-																				value="{'성남시외고속버스임시매표소':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/광정정류소/출발/성남종합버스터미널/도착/','arrivals':[]}}">
-									성남시 분당구
-								</option>
-													</optgroup>
-											<optgroup label="충청남도">
-															<option
-																				selected="selected"
-										data-terminal="공주종합버스터미널"
-																				value="{'계룡정류소':{'link':'/시외버스/터미널/계룡정류소/','schedule':'/시외버스/시간표/광정정류소/출발/계룡정류소/도착/','arrivals':[]},'모란정류소':{'link':'/시외버스/터미널/모란정류소/','schedule':'/시외버스/시간표/광정정류소/출발/모란정류소/도착/','arrivals':[]},'석송정류소':{'link':'/시외버스/터미널/석송정류소/','schedule':'/시외버스/시간표/광정정류소/출발/석송정류소/도착/','arrivals':[]},'이인정류소':{'link':'/시외버스/터미널/이인리정류소/','schedule':'/시외버스/시간표/광정정류소/출발/이인리정류소/도착/','arrivals':[]},'탄천정류소':{'link':'/시외버스/터미널/탄천정류소/','schedule':'/시외버스/시간표/광정정류소/출발/탄천정류소/도착/','arrivals':[]},'화마루':{'link':'/시외버스/터미널/화마루/','schedule':'/시외버스/시간표/광정정류소/출발/화마루/도착/','arrivals':[]}}">
-									공주시
-								</option>
-															<option
-																				value="{'노성정류소':{'link':'/시외버스/터미널/노성정류소/','schedule':'/시외버스/시간표/광정정류소/출발/노성정류소/도착/','arrivals':[]},'논산버스터미널':{'link':'/시외버스/터미널/논산시외버스공용터미널/','schedule':'/시외버스/시간표/광정정류소/출발/논산시외버스공용터미널/도착/','arrivals':[]},'상월정류소':{'link':'/시외버스/터미널/상월정류소/','schedule':'/시외버스/시간표/광정정류소/출발/상월정류소/도착/','arrivals':[]}}">
-									논산시
-								</option>
-															<option
-																				value="{'부여시외버스터미널':{'link':'/시외버스/터미널/부여시외버스터미널/','schedule':'/시외버스/시간표/광정정류소/출발/부여시외버스터미널/도착/','arrivals':[]}}">
-									부여군
-								</option>
-															<option
-																				value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/광정정류소/출발/천안종합버스터미널/도착/','arrivals':[]}}">
-									천안시 동남구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></description></item><item><title>이천종합터미널에서 부천터미널소풍 가는 고속버스 시간표</title><pubDate>Sat, 12 Jul 2025 07:45:38 +0900</pubDate><link>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9D%B4%EC%B2%9C%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EB%B6%80%EC%B2%9C%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EC%9D%B4%EC%B2%9C%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EB%B6%80%EC%B2%9C%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/고속버스/터미널/이천종합터미널/">이천종합터미널</a> 에서
-		<a href="https://transportation.asamaru.net/고속버스/터미널/부천종합터미널/">부천터미널소풍</a> 가는
-		고속버스는 하루 <span>1</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>09:40</dd>
-			<dt>막차</dt>
-			<dd>09:40</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/고속버스/터미널/이천종합터미널/">이천종합터미널</a>
-			<span>종합버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.2777226&lng=127.4470043&pinId=13323576&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/고속버스/터미널/부천종합터미널/">부천터미널소풍</a>
-			<span>종합버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.5037045&lng=126.7565775&pinId=12438506&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<div style="background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 1rem 1.25rem; border-radius: 0.5rem; margin: 1rem 0; color: #5d4037; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-		<strong style="font-weight: 600; display: block; margin-bottom: 0.5rem; font-size: 1rem;">⚠️ 안내</strong>
-		<p style="margin: 0;">
-			해당 노선의 시간표는 <strong style="color: #d84315;">확인된 지 상당한 시간이 지나</strong> 실제 운행과 차이가 있을 수 있습니다.<br/>
-			보다 정확한 정보는 <strong>해당 터미널에 문의</strong>하거나 현장에서 확인해 주시기 바랍니다.
-		</p>
-	</div>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-12</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">09:40</td>
-				<td class="arrival">11:45</td>
-				<td class="grade">일반</td>
-				<td class="fare">9,100 <span>원</span></td>
-				<td class="duration">02:05</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-			<div class="dReturn">
-			<div>
-				<h3>돌아오는 시간표</h3>
-				<div class="dReturnInfo">
-					(
-					총 <span>2회</span> 운행
-					<dl>
-						<dt>첫차</dt>
-						<dd>06:35</dd>
-						<dt>막차</dt>
-						<dd>12:10</dd>
-					</dl>
-					)
-				</div>
-				<a class="btn btn-flat" href="https://transportation.asamaru.net/고속버스/시간표/부천종합터미널/출발/이천종합터미널/도착/">바로가기</a>
-			</div>
-		</div>
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">경기도 이천시</span>
-				<span class="dTerminal">이천종합터미널</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="서울특별시">
-															<option
-																				value="{'김포공항정류소':{'link':'/시외버스/터미널/김포공항정류소/','schedule':'/시외버스/시간표/이천종합터미널/출발/김포공항정류소/도착/','arrivals':[]}}">
-									강서구
-								</option>
-															<option
-																				value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/서울고속버스터미널/도착/','arrivals':[]}}">
-									서초구
-								</option>
-													</optgroup>
-											<optgroup label="경기도">
-															<option
-																				selected="selected"
-										data-terminal="부천터미널소풍"
-																				value="{'부천터미널소풍':{'link':'/시외버스/터미널/부천종합터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/부천종합터미널/도착/','arrivals':[]}}">
-									부천시 원미구
-								</option>
-															<option
-																				value="{'성남시외고속버스임시매표소':{'link':'/고속버스/터미널/성남종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/성남종합버스터미널/도착/','arrivals':[]}}">
-									성남시 분당구
-								</option>
-															<option
-																				value="{'수원버스터미널':{'link':'/고속버스/터미널/수원종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/수원종합버스터미널/도착/','arrivals':[]}}">
-									수원시 권선구
-								</option>
-															<option
-																				value="{'아주대정류소':{'link':'/시외버스/터미널/아주대터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/아주대터미널/도착/','arrivals':[]}}">
-									수원시 팔달구
-								</option>
-															<option
-																				value="{'안산버스터미널':{'link':'/고속버스/터미널/안산버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/안산버스터미널/도착/','arrivals':[]}}">
-									안산시 상록구
-								</option>
-															<option
-																				value="{'신갈영덕시외버스정류장':{'link':'/고속버스/터미널/신갈영덕시외버스정류장/','schedule':'/고속버스/시간표/이천종합터미널/출발/신갈영덕시외버스정류장/도착/','arrivals':[]},'영통입구정류소':{'link':'/고속버스/터미널/영통입구터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/영통입구터미널/도착/','arrivals':[]}}">
-									용인시 기흥구
-								</option>
-															<option
-																				value="{'오천(이천시)':{'link':'/시외버스/터미널/오천/','schedule':'/시외버스/시간표/이천종합터미널/출발/오천/도착/','arrivals':[]},'오천리더웰아파트정류장':{'link':'/시외버스/터미널/오천리더웰아파트/','schedule':'/시외버스/시간표/이천종합터미널/출발/오천리더웰아파트/도착/','arrivals':[]}}">
-									이천시
-								</option>
-													</optgroup>
-											<optgroup label="인천광역시">
-															<option
-																				value="{'인천종합터미널':{'link':'/고속버스/터미널/인천종합터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/인천종합터미널/도착/','arrivals':[]}}">
-									미추홀구
-								</option>
-															<option
-																				value="{'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">
-									중구
-								</option>
-													</optgroup>
-											<optgroup label="대전광역시">
-															<option
-																				value="{'대전복합터미널':{'link':'/고속버스/터미널/대전복합터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="대구광역시">
-															<option
-																				value="{'동대구터미널':{'link':'/고속버스/터미널/동대구터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/동대구터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="부산광역시">
-															<option
-																				value="{'부산종합버스터미널':{'link':'/고속버스/터미널/부산종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">
-									금정구
-								</option>
-													</optgroup>
-											<optgroup label="광주광역시">
-															<option
-																				value="{'광주종합버스터미널(유.스퀘어)':{'link':'/고속버스/터미널/광주종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">
-									서구
-								</option>
-													</optgroup>
-											<optgroup label="강원특별자치도">
-															<option
-																				value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/강릉시외버스터미널/도착/','arrivals':[]}}">
-									강릉시
-								</option>
-															<option
-																				value="{'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/원주시외버스터미널/도착/','arrivals':[]}}">
-									원주시
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				value="{'제천버스터미널':{'link':'/시외버스/터미널/제천버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/제천버스터미널/도착/','arrivals':[]}}">
-									제천시
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
-								</option>
-													</optgroup>
-											<optgroup label="경상북도">
-															<option
-																				value="{'구미종합터미널':{'link':'/고속버스/터미널/구미종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/구미종합버스터미널/도착/','arrivals':[]}}">
-									구미시
-								</option>
-													</optgroup>
-											<optgroup label="전북특별자치도">
-															<option
-																				value="{'전주시외버스공용터미널':{'link':'/시외버스/터미널/전주시외버스공용터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/전주시외버스공용터미널/도착/','arrivals':[]}}">
-									전주시 덕진구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-							<dl>
-				<dt>부천터미널소풍</dt>
-				<dd>
-					<a href="http://buspia.co.kr/terminal/bucheon/main.php" target="_blank">http://buspia.co.kr/terminal/bucheon/main.php</a>
-				</dd>
-			</dl>
-			</div>
-</section>]]></description></item><item><title>대전청사시외버스둔산정류소(승차)에서 김포공항정류소 가는 시외버스 시간표</title><pubDate>Sat, 12 Jul 2025 07:45:17 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%8C%80%EC%A0%84%EC%B2%AD%EC%82%AC%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EB%91%94%EC%82%B0%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EA%B9%80%ED%8F%AC%EA%B3%B5%ED%95%AD%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EB%8C%80%EC%A0%84%EC%B2%AD%EC%82%AC%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EB%91%94%EC%82%B0%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B6%9C%EB%B0%9C/%EA%B9%80%ED%8F%AC%EA%B3%B5%ED%95%AD%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/대전청사시외버스둔산정류소/">대전청사시외버스둔산정류소(승차)</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/김포공항정류소/">김포공항정류소</a> 가는
-		시외버스는 하루 <span>8</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>07:25</dd>
-			<dt>막차</dt>
-			<dd>19:45</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/대전청사시외버스둔산정류소/">대전청사시외버스둔산정류소(승차)</a>
-			<span>정류소,정류장</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3615116&lng=127.3797589&pinId=21419227&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/김포공항정류소/">김포공항정류소</a>
-			<span>정류소,정류장</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=37.5598994&lng=126.8027654&pinId=33625695&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-12</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">07:25</td>
-				<td class="arrival">10:43</td>
-				<td class="grade">일반</td>
-				<td class="fare">15,300 <span>원</span></td>
-				<td class="duration">03:18</td>
-			</tr>
-					<tr>
-				<td class="departure">08:25</td>
-				<td class="arrival">11:43</td>
-				<td class="grade">일반</td>
-				<td class="fare">15,300 <span>원</span></td>
-				<td class="duration">03:18</td>
-			</tr>
-					<tr>
-				<td class="departure">10:15</td>
-				<td class="arrival">13:33</td>
-				<td class="grade">일반</td>
-				<td class="fare">15,300 <span>원</span></td>
-				<td class="duration">03:18</td>
-			</tr>
-					<tr>
-				<td class="departure">11:25</td>
-				<td class="arrival">14:43</td>
-				<td class="grade">일반</td>
-				<td class="fare">15,300 <span>원</span></td>
-				<td class="duration">03:18</td>
-			</tr>
-					<tr>
-				<td class="departure">13:05</td>
-				<td class="arrival">16:23</td>
-				<td class="grade">일반</td>
-				<td class="fare">15,300 <span>원</span></td>
-				<td class="duration">03:18</td>
-			</tr>
-					<tr>
-				<td class="departure">15:05</td>
-				<td class="arrival">18:23</td>
-				<td class="grade">일반</td>
-				<td class="fare">15,300 <span>원</span></td>
-				<td class="duration">03:18</td>
-			</tr>
-					<tr>
-				<td class="departure">16:35</td>
-				<td class="arrival">19:53</td>
-				<td class="grade">일반</td>
-				<td class="fare">15,300 <span>원</span></td>
-				<td class="duration">03:18</td>
-			</tr>
-					<tr>
-				<td class="departure">19:45</td>
-				<td class="arrival">23:03</td>
-				<td class="grade">일반</td>
-				<td class="fare">15,300 <span>원</span></td>
-				<td class="duration">03:18</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">대전광역시 서구</span>
-				<span class="dTerminal">대전청사시외버스둔산정류소(승차)</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="인천광역시">
-															<option
-																				value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/대전청사시외버스둔산정류소/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/대전청사시외버스둔산정류소/출발/인천공항2터미널/도착/','arrivals':[]}}">
-									중구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></description></item><item><title>광양터미널에서 섬진강휴게소 환승터미널 가는 시외버스 시간표</title><pubDate>Sat, 12 Jul 2025 07:43:01 +0900</pubDate><link>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B4%91%EC%96%91%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EC%84%AC%EC%A7%84%EA%B0%95%ED%9C%B4%EA%B2%8C%EC%86%8C-%ED%99%98%EC%8A%B9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</link><guid>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B4%91%EC%96%91%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EC%B6%9C%EB%B0%9C/%EC%84%AC%EC%A7%84%EA%B0%95%ED%9C%B4%EA%B2%8C%EC%86%8C-%ED%99%98%EC%8A%B9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/광양시외버스터미널/">광양터미널</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/섬진강휴게소-환승터미널/">섬진강휴게소 환승터미널</a> 가는
-		시외버스는 하루 <span>1</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>--:--</dd>
-			<dt>막차</dt>
-			<dd>--:--</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/광양시외버스터미널/">광양터미널</a>
-			<span>종합버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.9697193&lng=127.5899488&pinId=1878502180&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/섬진강휴게소-환승터미널/">섬진강휴게소 환승터미널</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.984123&lng=127.769769&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-12</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">--:--</td>
-				<td class="arrival">--:--</td>
-				<td class="grade">일반</td>
-				<td class="fare">1,600 <span>원</span></td>
-				<td class="duration">00:21</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">전라남도 광양시</span>
-				<span class="dTerminal">광양터미널</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="서울특별시">
-															<option
-																				value="{'센트럴시티터미널(호남선)':{'link':'/고속버스/터미널/센트럴시티터미널/','schedule':'/고속버스/시간표/광양시외버스터미널/출발/센트럴시티터미널/도착/','arrivals':[]}}">
-									서초구
-								</option>
-													</optgroup>
-											<optgroup label="경기도">
-															<option
-																				value="{'성남시외고속버스임시매표소':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/성남종합버스터미널/도착/','arrivals':[]}}">
-									성남시 분당구
-								</option>
-															<option
-																				value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/수원종합버스터미널/도착/','arrivals':[]}}">
-									수원시 권선구
-								</option>
-															<option
-																				value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/안산버스터미널/도착/','arrivals':[]}}">
-									안산시 상록구
-								</option>
-													</optgroup>
-											<optgroup label="인천광역시">
-															<option
-																				value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/인천종합터미널/도착/','arrivals':[]}}">
-									미추홀구
-								</option>
-															<option
-																				value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">
-									중구
-								</option>
-													</optgroup>
-											<optgroup label="대전광역시">
-															<option
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="대구광역시">
-															<option
-																				value="{'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/동대구터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="울산광역시">
-															<option
-																				value="{'울산공업탑':{'link':'/시외버스/터미널/울산공업탑/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/울산공업탑/도착/','arrivals':[]},'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/울산시외버스터미널/도착/','arrivals':[]},'울산신복정류소':{'link':'/시외버스/터미널/신복환승센터/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/신복환승센터/도착/','arrivals':[]}}">
-									남구
-								</option>
-													</optgroup>
-											<optgroup label="부산광역시">
-															<option
-																				value="{'부산종합버스터미널':{'link':'/시외버스/터미널/부산종합버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">
-									금정구
-								</option>
-															<option
-																				value="{'부산동래시외버스정류소':{'link':'/시외버스/터미널/동래시외버스정류소/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/동래시외버스정류소/도착/','arrivals':[]}}">
-									동래구
-								</option>
-															<option
-																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">
-									사상구
-								</option>
-													</optgroup>
-											<optgroup label="광주광역시">
-															<option
-																				value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">
-									서구
-								</option>
-													</optgroup>
-											<optgroup label="충청남도">
-															<option
-																				value="{'정안알밤휴게소(천안방향)고속버스환승정류소':{'link':'/고속버스/터미널/정안휴게소-천안방향-고속버스환승정류소/','schedule':'/고속버스/시간표/광양시외버스터미널/출발/정안휴게소-천안방향-고속버스환승정류소/도착/','arrivals':[]}}">
-									공주시
-								</option>
-													</optgroup>
-											<optgroup label="경상북도">
-															<option
-																				value="{'경주시외버스터미널':{'link':'/시외버스/터미널/경주시외버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/경주시외버스터미널/도착/','arrivals':[]}}">
-									경주시
-								</option>
-															<option
-																				value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/포항터미널/도착/','arrivals':[]}}">
-									포항시 남구
-								</option>
-													</optgroup>
-											<optgroup label="경상남도">
-															<option
-																				value="{'김해여객터미널':{'link':'/시외버스/터미널/김해여객터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/김해여객터미널/도착/','arrivals':[]}}">
-									김해시
-								</option>
-															<option
-																				value="{'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/진주시외버스터미널/도착/','arrivals':[]}}">
-									진주시
-								</option>
-															<option
-																				value="{'진교터미널':{'link':'/시외버스/터미널/진교시외버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/진교시외버스터미널/도착/','arrivals':[]}}">
-									하동군
-								</option>
-													</optgroup>
-											<optgroup label="전라남도">
-															<option
-																				value="{'강진버스여객터미널':{'link':'/시외버스/터미널/강진버스여객터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/강진버스여객터미널/도착/','arrivals':[]},'성전터미널':{'link':'/시외버스/터미널/성전터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/성전터미널/도착/','arrivals':[]}}">
-									강진군
-								</option>
-															<option
-																				value="{'고흥공용버스정류장':{'link':'/시외버스/터미널/고흥공용버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/고흥공용버스터미널/도착/','arrivals':[]},'과역버스터미널':{'link':'/시외버스/터미널/과역공용버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/과역공용버스터미널/도착/','arrivals':[]},'녹동공영버스터미널':{'link':'/시외버스/터미널/녹동버스공용터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/녹동버스공용터미널/도착/','arrivals':[]}}">
-									고흥군
-								</option>
-															<option
-																				selected="selected"
-										data-terminal="섬진강휴게소 환승터미널"
-																				value="{'광영':{'link':'/시외버스/터미널/광영/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/광영/도착/','arrivals':[]},'금호리(광양시)':{'link':'/시외버스/터미널/금호리/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/금호리/도착/','arrivals':[]},'도촌(광양시)':{'link':'/시외버스/터미널/도촌/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/도촌/도착/','arrivals':[]},'동광양중마버스터미널':{'link':'/시외버스/터미널/중마버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/중마버스터미널/도착/','arrivals':[]},'성황':{'link':'/시외버스/터미널/성황/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/성황/도착/','arrivals':[]},'태인교':{'link':'/시외버스/터미널/태인교/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/태인교/도착/','arrivals':[]}}">
-									광양시
-								</option>
-															<option
-																				value="{'목포종합버스터미널':{'link':'/시외버스/터미널/목포종합버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/목포종합버스터미널/도착/','arrivals':[]}}">
-									목포시
-								</option>
-															<option
-																				value="{'남악정류소':{'link':'/시외버스/터미널/남악정류소/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/남악정류소/도착/','arrivals':[]}}">
-									무안군
-								</option>
-															<option
-																				value="{'벌교공용버스터미널':{'link':'/시외버스/터미널/벌교버스공용터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/벌교버스공용터미널/도착/','arrivals':[]},'보성버스터미널':{'link':'/시외버스/터미널/보성시외버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/보성시외버스터미널/도착/','arrivals':[]},'예당정류소':{'link':'/시외버스/터미널/예당정류소/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/예당정류소/도착/','arrivals':[]},'조성정류소':{'link':'/시외버스/터미널/조성터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/조성터미널/도착/','arrivals':[]}}">
-									보성군
-								</option>
-															<option
-																				value="{'순천종합버스터미널':{'link':'/시외버스/터미널/순천종합버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/순천종합버스터미널/도착/','arrivals':[]}}">
-									순천시
-								</option>
-															<option
-																				value="{'여수(대교)(여수시)':{'link':'/시외버스/터미널/여수-대교/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/여수-대교/도착/','arrivals':[]},'여수종합버스터미널':{'link':'/시외버스/터미널/여수종합버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/여수종합버스터미널/도착/','arrivals':[]},'여천시외버스정류장':{'link':'/시외버스/터미널/여천시외버스정류장/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/여천시외버스정류장/도착/','arrivals':[]}}">
-									여수시
-								</option>
-															<option
-																				value="{'독천터미널':{'link':'/시외버스/터미널/독천터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/독천터미널/도착/','arrivals':[]},'삼호정류소':{'link':'/시외버스/터미널/삼호버스종합터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/삼호버스종합터미널/도착/','arrivals':[]}}">
-									영암군
-								</option>
-															<option
-																				value="{'완도공용버스터미널':{'link':'/시외버스/터미널/완도공용버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/완도공용버스터미널/도착/','arrivals':[]},'원동버스터미널':{'link':'/시외버스/터미널/원동정류소/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/원동정류소/도착/','arrivals':[]}}">
-									완도군
-								</option>
-															<option
-																				value="{'배산정류소':{'link':'/시외버스/터미널/배산정류소/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/배산정류소/도착/','arrivals':[]},'장흥시외버스터미널':{'link':'/시외버스/터미널/장흥시외버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/장흥시외버스터미널/도착/','arrivals':[]}}">
-									장흥군
-								</option>
-															<option
-																				value="{'진도공용터미널':{'link':'/시외버스/터미널/진도공용터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/진도공용터미널/도착/','arrivals':[]}}">
-									진도군
-								</option>
-															<option
-																				value="{'남창시외버스터미널':{'link':'/시외버스/터미널/남창정류소/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/남창정류소/도착/','arrivals':[]},'월송자동차여객터미널':{'link':'/시외버스/터미널/월송정류소/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/월송정류소/도착/','arrivals':[]},'해남종합버스터미널':{'link':'/시외버스/터미널/해남종합버스터미널/','schedule':'/시외버스/시간표/광양시외버스터미널/출발/해남종합버스터미널/도착/','arrivals':[]}}">
-									해남군
 								</option>
 													</optgroup>
 									</select>
