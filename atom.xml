@@ -1,433 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>전국 고속/시외 버스 운행정보</title><id>https://transportation.asamaru.net/</id><updated>2025-07-21T06:41:17+09:00</updated><subtitle>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표 정보</subtitle><link href="https://transportation.asamaru.net/" rel="alternate" type="text/html" /><link href="https://transportation.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/</id><title type="html">(구)영동 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-18T01:06:38+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[(구)영동 상세안내 남부정류장 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 06:50 08:41 일반 9,200 원 01:51 10:00 11:51 일반 9,200 원 01:51 13:00 14:51 일반 9,200 원 01:51 16:05 17:56 일반 9,200 원 01:51 18:10 20:01 일반 9,200 원 01:51 대전복합터미널 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 10:00 10:56 일반 5,500 원 00:56 심천정류소 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 06:50 07:09 일반 1,700 원 00:19 10:00 10:19 일반 1,700 원 00:19 13:00 13:19 일반 1,700 원 00:19 16:05 16:24 일반 1,700 원 00:19 18:10 18:29 일반 1,700 원 00:19 옥계리 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 06:50 07:18 일반 1,900 원 00:28 10:00 10:28 일반 1,900 원 00:28 13:00 13:28 일반 1,900 원 00:28 16:05 16:33 일반 1,900 원 00:28 18:10 18:38 일반 1,900 원 00:28 옥천시외버스공영정류소 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 06:50 07:49 일반 4,700 원 00:59 10:00 10:59 일반 4,700 원 00:59 13:00 13:59 일반 4,700 원 00:59 16:05 17:04 일반 4,700 원 00:59 18:10 19:09 일반 4,700 원 00:59 이원시외버스정류장 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 06:50 07:33 일반 3,200 원 00:43 10:00 10:43 일반 3,200 원 00:43 13:00 13:43 일반 3,200 원 00:43 16:05 16:48 일반 3,200 원 00:43 18:10 18:53 일반 3,200 원 00:43 청주시외버스터미널 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 06:50 08:58 일반 10,300 원 02:08 10:00 12:08 일반 10,300 원 02:08 13:00 15:08 일반 10,300 원 02:08 16:05 18:13 일반 10,300 원 02:08 18:10 20:18 일반 10,300 원 02:08]]></summary><content type="html"><![CDATA[<section class="cTerminalSchedulesBox">
-	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/"><strong>(구)영동</strong> 상세안내</a></h3>
-		<ul class="dSchedules">
-							<li>
-				<table class="cTimetable">
-					<caption>
-						<h3 id="nambujeonglyujang" class="toc">남부정류장</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/남청주정류소/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/남청주정류소/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
-
-						
-						
-						
-						
-						
-						
-						
-					</caption>
-					<thead>
-					<tr>
-						<th class="departure">출발</th>
-						<th class="arrival">도착</th>
-						<th class="grade">등급</th>
-						<th class="fare">요금(어른)</th>
-						<th class="duration">소요시간</th>
-					</tr>
-					</thead>
-					<tbody>
-																								<tr>
-								<td class="departure">06:50</td>
-								<td class="arrival">08:41</td>
-								<td class="grade">일반</td>
-								<td class="fare">9,200 <span>원</span></td>
-								<td class="duration">01:51</td>
-							</tr>
-													<tr>
-								<td class="departure">10:00</td>
-								<td class="arrival">11:51</td>
-								<td class="grade">일반</td>
-								<td class="fare">9,200 <span>원</span></td>
-								<td class="duration">01:51</td>
-							</tr>
-													<tr>
-								<td class="departure">13:00</td>
-								<td class="arrival">14:51</td>
-								<td class="grade">일반</td>
-								<td class="fare">9,200 <span>원</span></td>
-								<td class="duration">01:51</td>
-							</tr>
-													<tr>
-								<td class="departure">16:05</td>
-								<td class="arrival">17:56</td>
-								<td class="grade">일반</td>
-								<td class="fare">9,200 <span>원</span></td>
-								<td class="duration">01:51</td>
-							</tr>
-													<tr>
-								<td class="departure">18:10</td>
-								<td class="arrival">20:01</td>
-								<td class="grade">일반</td>
-								<td class="fare">9,200 <span>원</span></td>
-								<td class="duration">01:51</td>
-							</tr>
-																</tbody>
-				</table>
-			</li>
-					<li>
-				<table class="cTimetable">
-					<caption>
-						<h3 id="daejeonboghapteomineol" class="toc">대전복합터미널</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/대전복합터미널/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/대전복합터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
-
-						
-						
-						
-						
-						
-						
-						
-					</caption>
-					<thead>
-					<tr>
-						<th class="departure">출발</th>
-						<th class="arrival">도착</th>
-						<th class="grade">등급</th>
-						<th class="fare">요금(어른)</th>
-						<th class="duration">소요시간</th>
-					</tr>
-					</thead>
-					<tbody>
-																								<tr>
-								<td class="departure">10:00</td>
-								<td class="arrival">10:56</td>
-								<td class="grade">일반</td>
-								<td class="fare">5,500 <span>원</span></td>
-								<td class="duration">00:56</td>
-							</tr>
-																</tbody>
-				</table>
-			</li>
-					<li>
-				<table class="cTimetable">
-					<caption>
-						<h3 id="simcheonjeonglyuso" class="toc">심천정류소</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/심천정류소/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/심천정류소/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
-
-						
-						
-						
-						
-						
-						
-						
-					</caption>
-					<thead>
-					<tr>
-						<th class="departure">출발</th>
-						<th class="arrival">도착</th>
-						<th class="grade">등급</th>
-						<th class="fare">요금(어른)</th>
-						<th class="duration">소요시간</th>
-					</tr>
-					</thead>
-					<tbody>
-																								<tr>
-								<td class="departure">06:50</td>
-								<td class="arrival">07:09</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,700 <span>원</span></td>
-								<td class="duration">00:19</td>
-							</tr>
-													<tr>
-								<td class="departure">10:00</td>
-								<td class="arrival">10:19</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,700 <span>원</span></td>
-								<td class="duration">00:19</td>
-							</tr>
-													<tr>
-								<td class="departure">13:00</td>
-								<td class="arrival">13:19</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,700 <span>원</span></td>
-								<td class="duration">00:19</td>
-							</tr>
-													<tr>
-								<td class="departure">16:05</td>
-								<td class="arrival">16:24</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,700 <span>원</span></td>
-								<td class="duration">00:19</td>
-							</tr>
-													<tr>
-								<td class="departure">18:10</td>
-								<td class="arrival">18:29</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,700 <span>원</span></td>
-								<td class="duration">00:19</td>
-							</tr>
-																</tbody>
-				</table>
-			</li>
-					<li>
-				<table class="cTimetable">
-					<caption>
-						<h3 id="ogkyeli" class="toc">옥계리</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/옥계리/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/옥계리/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
-
-						
-						
-						
-						
-						
-						
-						
-					</caption>
-					<thead>
-					<tr>
-						<th class="departure">출발</th>
-						<th class="arrival">도착</th>
-						<th class="grade">등급</th>
-						<th class="fare">요금(어른)</th>
-						<th class="duration">소요시간</th>
-					</tr>
-					</thead>
-					<tbody>
-																								<tr>
-								<td class="departure">06:50</td>
-								<td class="arrival">07:18</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,900 <span>원</span></td>
-								<td class="duration">00:28</td>
-							</tr>
-													<tr>
-								<td class="departure">10:00</td>
-								<td class="arrival">10:28</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,900 <span>원</span></td>
-								<td class="duration">00:28</td>
-							</tr>
-													<tr>
-								<td class="departure">13:00</td>
-								<td class="arrival">13:28</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,900 <span>원</span></td>
-								<td class="duration">00:28</td>
-							</tr>
-													<tr>
-								<td class="departure">16:05</td>
-								<td class="arrival">16:33</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,900 <span>원</span></td>
-								<td class="duration">00:28</td>
-							</tr>
-													<tr>
-								<td class="departure">18:10</td>
-								<td class="arrival">18:38</td>
-								<td class="grade">일반</td>
-								<td class="fare">1,900 <span>원</span></td>
-								<td class="duration">00:28</td>
-							</tr>
-																</tbody>
-				</table>
-			</li>
-					<li>
-				<table class="cTimetable">
-					<caption>
-						<h3 id="ogcheonsioebeoseukongyeongjeonglyuso" class="toc">옥천시외버스공영정류소</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/옥천시외버스공용정류소/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
-
-						
-						
-						
-						
-						
-						
-						
-					</caption>
-					<thead>
-					<tr>
-						<th class="departure">출발</th>
-						<th class="arrival">도착</th>
-						<th class="grade">등급</th>
-						<th class="fare">요금(어른)</th>
-						<th class="duration">소요시간</th>
-					</tr>
-					</thead>
-					<tbody>
-																								<tr>
-								<td class="departure">06:50</td>
-								<td class="arrival">07:49</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,700 <span>원</span></td>
-								<td class="duration">00:59</td>
-							</tr>
-													<tr>
-								<td class="departure">10:00</td>
-								<td class="arrival">10:59</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,700 <span>원</span></td>
-								<td class="duration">00:59</td>
-							</tr>
-													<tr>
-								<td class="departure">13:00</td>
-								<td class="arrival">13:59</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,700 <span>원</span></td>
-								<td class="duration">00:59</td>
-							</tr>
-													<tr>
-								<td class="departure">16:05</td>
-								<td class="arrival">17:04</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,700 <span>원</span></td>
-								<td class="duration">00:59</td>
-							</tr>
-													<tr>
-								<td class="departure">18:10</td>
-								<td class="arrival">19:09</td>
-								<td class="grade">일반</td>
-								<td class="fare">4,700 <span>원</span></td>
-								<td class="duration">00:59</td>
-							</tr>
-																</tbody>
-				</table>
-			</li>
-					<li>
-				<table class="cTimetable">
-					<caption>
-						<h3 id="iwonsioebeoseujeonglyujang" class="toc">이원시외버스정류장</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/이원시외버스정류장/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
-
-						
-						
-						
-						
-						
-						
-						
-					</caption>
-					<thead>
-					<tr>
-						<th class="departure">출발</th>
-						<th class="arrival">도착</th>
-						<th class="grade">등급</th>
-						<th class="fare">요금(어른)</th>
-						<th class="duration">소요시간</th>
-					</tr>
-					</thead>
-					<tbody>
-																								<tr>
-								<td class="departure">06:50</td>
-								<td class="arrival">07:33</td>
-								<td class="grade">일반</td>
-								<td class="fare">3,200 <span>원</span></td>
-								<td class="duration">00:43</td>
-							</tr>
-													<tr>
-								<td class="departure">10:00</td>
-								<td class="arrival">10:43</td>
-								<td class="grade">일반</td>
-								<td class="fare">3,200 <span>원</span></td>
-								<td class="duration">00:43</td>
-							</tr>
-													<tr>
-								<td class="departure">13:00</td>
-								<td class="arrival">13:43</td>
-								<td class="grade">일반</td>
-								<td class="fare">3,200 <span>원</span></td>
-								<td class="duration">00:43</td>
-							</tr>
-													<tr>
-								<td class="departure">16:05</td>
-								<td class="arrival">16:48</td>
-								<td class="grade">일반</td>
-								<td class="fare">3,200 <span>원</span></td>
-								<td class="duration">00:43</td>
-							</tr>
-													<tr>
-								<td class="departure">18:10</td>
-								<td class="arrival">18:53</td>
-								<td class="grade">일반</td>
-								<td class="fare">3,200 <span>원</span></td>
-								<td class="duration">00:43</td>
-							</tr>
-																</tbody>
-				</table>
-			</li>
-					<li>
-				<table class="cTimetable">
-					<caption>
-						<h3 id="cheongjusioebeoseuteomineol" class="toc">청주시외버스터미널</h3>
-						<a href="https://transportation.asamaru.net/시외버스/터미널/청주시외버스터미널/" class="btn btn-flat dInfo">터미널 안내</a>
-						<a href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
-
-						
-						
-						
-						
-						
-						
-						
-					</caption>
-					<thead>
-					<tr>
-						<th class="departure">출발</th>
-						<th class="arrival">도착</th>
-						<th class="grade">등급</th>
-						<th class="fare">요금(어른)</th>
-						<th class="duration">소요시간</th>
-					</tr>
-					</thead>
-					<tbody>
-																								<tr>
-								<td class="departure">06:50</td>
-								<td class="arrival">08:58</td>
-								<td class="grade">일반</td>
-								<td class="fare">10,300 <span>원</span></td>
-								<td class="duration">02:08</td>
-							</tr>
-													<tr>
-								<td class="departure">10:00</td>
-								<td class="arrival">12:08</td>
-								<td class="grade">일반</td>
-								<td class="fare">10,300 <span>원</span></td>
-								<td class="duration">02:08</td>
-							</tr>
-													<tr>
-								<td class="departure">13:00</td>
-								<td class="arrival">15:08</td>
-								<td class="grade">일반</td>
-								<td class="fare">10,300 <span>원</span></td>
-								<td class="duration">02:08</td>
-							</tr>
-													<tr>
-								<td class="departure">16:05</td>
-								<td class="arrival">18:13</td>
-								<td class="grade">일반</td>
-								<td class="fare">10,300 <span>원</span></td>
-								<td class="duration">02:08</td>
-							</tr>
-													<tr>
-								<td class="departure">18:10</td>
-								<td class="arrival">20:18</td>
-								<td class="grade">일반</td>
-								<td class="fare">10,300 <span>원</span></td>
-								<td class="duration">02:08</td>
-							</tr>
-																</tbody>
-				</table>
-			</li>
-			</ul>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B5%AC-%EC%98%81%EB%8F%99/</id><title type="html">(구)영동 운행노선 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B5%AC-%EC%98%81%EB%8F%99/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-18T01:06:38+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 충청북도 영동군 영동읍 계산리 912 지도 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 대전광역시 (1) 대전복합터미널 안내 시간표 충청북도 (6) 심천정류소 안내 시간표 옥계리 안내 시간표 옥천시외버스공영정류소 안내 시간표 이원시외버스정류장 안내 시간표 남부정류장 안내 시간표 청주시외버스터미널 안내 시간표]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+<title>전국 고속/시외 버스 운행정보</title><id>https://transportation.asamaru.net/</id><updated>2025-07-22T06:44:27+09:00</updated><subtitle>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표 정보</subtitle><link href="https://transportation.asamaru.net/" rel="alternate" type="text/html" /><link href="https://transportation.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B0%80%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90/</id><title type="html">가천대학교 운행노선 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B0%80%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-20T00:10:11+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 성남시 수정구 가천대학교 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 성남시 수정구 복정동 611-8 지도 운행시간표/요금 경기도 성남시 수정구 가천대학교 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
 	<div class="cGoTimetable">
 	<fieldset class="clearfix">
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
+							<span class="dArea">경기도 성남시 수정구</span>
+				<span class="dTerminal">가천대학교</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -435,28 +17,611 @@
 		<div class="cArrival">
 							<select class="cArrivalArea">
 					<option value="">도착지</option>
-											<optgroup label="대전광역시">
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경기도 성남시 수정구 복정동 611-8
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.450961" data-lng="127.125737"></div>
+		</dd>
+		
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 성남시 수정구</span>
+				<span class="dTerminal">가천대학교</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B0%90%EC%9D%BC%EB%AC%B8%ED%99%94%EA%B3%B5%EC%9B%90/</id><title type="html">감일문화공원 운행노선 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B0%90%EC%9D%BC%EB%AC%B8%ED%99%94%EA%B3%B5%EC%9B%90/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-17T00:10:12+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 하남시 감일문화공원 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 하남시 감이동 511-3 지도 운행시간표/요금 경기도 하남시 감일문화공원 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 하남시</span>
+				<span class="dTerminal">감일문화공원</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경기도 하남시 감이동 511-3
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.507717" data-lng="127.154297"></div>
+		</dd>
+		
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 하남시</span>
+				<span class="dTerminal">감일문화공원</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B0%90%EC%9D%BC%EC%A4%91-%ED%95%9C%EB%9D%BC%EB%B9%84%EB%B0%9C%EB%94%94/</id><title type="html">감일중.한라비발디 운행노선 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B0%90%EC%9D%BC%EC%A4%91-%ED%95%9C%EB%9D%BC%EB%B9%84%EB%B0%9C%EB%94%94/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-17T00:10:12+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경기도 하남시 감일중.한라비발디 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경기도 하남시 감이동 515 지도 운행시간표/요금 경기도 하남시 감일중.한라비발디 → 도착지 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 운행 노선이 없습니다.]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 하남시</span>
+				<span class="dTerminal">감일중.한라비발디</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<h3 id="teomineolannae" class="toc anchor">터미널 안내</h3>
+	<dl class="dInfo">
+		<dt class="category">분류</dt>
+		<dd class="category">
+			시외버스터미널
+			
+		</dd>
+									</dl>
+	<dl class="dLocation">
+		<dt class="addr">주소</dt>
+		<dd class="addr">
+			경기도 하남시 감이동 515
+					</dd>
+		<dt class="map">지도</dt>
+		<dd class="map">
+			<div id="map" class="dMap" data-lat="37.502079" data-lng="127.163533"></div>
+		</dd>
+		
+		
+			</dl>
+
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경기도 하남시</span>
+				<span class="dTerminal">감일중.한라비발디</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+
+	<dl class="dTerminals">
+		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
+				<dd class="route">
+			<dl class="dGoTerminal  dFlat ">
+			<dd class="empty">운행 노선이 없습니다.</dd>
+	</dl>
+
+		</dd>
+	</dl>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/</id><title type="html">거제(한화오션남문) 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-22T00:56:00+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[거제(한화오션남문) 상세안내 김해공항정류소 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 11:35 12:50 일반 8,700 원 01:15 13:35 14:50 일반 8,700 원 01:15 15:35 16:50 일반 8,700 원 01:15 부산서부사상버스터미널 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 06:05 07:27 일반 9,000 원 01:22 07:35 08:57 일반 9,000 원 01:22 08:35 09:57 일반 9,000 원 01:22 09:35 10:57 일반 9,000 원 01:22 10:35 11:57 일반 9,000 원 01:22 11:35 13:14 일반 9,000 원 01:39 12:05 13:27 일반 9,000 원 01:22 13:05 14:27 일반 9,000 원 01:22 13:35 15:14 일반 9,000 원 01:39 14:05 15:27 일반 9,000 원 01:22 15:05 16:27 일반 9,000 원 01:22 15:35 17:14 일반 9,000 원 01:39 16:35 17:57 일반 9,000 원 01:22 17:45 19:07 일반 9,000 원 01:22 18:45 20:07 일반 9,000 원 01:22 19:35 20:57 일반 9,000 원 01:22 20:15 21:37 일반 9,000 원 01:22 22:15 23:37 일반 10,800 원 01:22 부산신평정류소 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 06:05 07:06 일반 7,700 원 01:01 07:35 08:36 일반 7,700 원 01:01 08:35 09:36 일반 7,700 원 01:01 09:35 10:36 일반 7,700 원 01:01 10:35 11:36 일반 7,700 원 01:01 12:05 13:06 일반 7,700 원 01:01 13:05 14:06 일반 7,700 원 01:01 14:05 15:06 일반 7,700 원 01:01 15:05 16:06 일반 7,700 원 01:01 16:35 17:36 일반 7,700 원 01:01 17:45 18:46 일반 7,700 원 01:01 18:45 19:46 일반 7,700 원 01:01 19:35 20:36 일반 7,700 원 01:01 20:15 21:16 일반 7,700 원 01:01 22:15 23:16 일반 9,200 원 01:01]]></summary><content type="html"><![CDATA[<section class="cTerminalSchedulesBox">
+	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/"><strong>거제(한화오션남문)</strong> 상세안내</a></h3>
+		<ul class="dSchedules">
+							<li>
+				<table class="cTimetable">
+					<caption>
+						<h3 id="kimhaekonghangjeonglyuso" class="toc">김해공항정류소</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/김해공항정류소/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/거제-한화오션남문/출발/김해공항정류소/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+
+						
+						
+						
+						
+						
+						
+						
+					</caption>
+					<thead>
+					<tr>
+						<th class="departure">출발</th>
+						<th class="arrival">도착</th>
+						<th class="grade">등급</th>
+						<th class="fare">요금(어른)</th>
+						<th class="duration">소요시간</th>
+					</tr>
+					</thead>
+					<tbody>
+																								<tr>
+								<td class="departure">11:35</td>
+								<td class="arrival">12:50</td>
+								<td class="grade">일반</td>
+								<td class="fare">8,700 <span>원</span></td>
+								<td class="duration">01:15</td>
+							</tr>
+													<tr>
+								<td class="departure">13:35</td>
+								<td class="arrival">14:50</td>
+								<td class="grade">일반</td>
+								<td class="fare">8,700 <span>원</span></td>
+								<td class="duration">01:15</td>
+							</tr>
+													<tr>
+								<td class="departure">15:35</td>
+								<td class="arrival">16:50</td>
+								<td class="grade">일반</td>
+								<td class="fare">8,700 <span>원</span></td>
+								<td class="duration">01:15</td>
+							</tr>
+																</tbody>
+				</table>
+			</li>
+					<li>
+				<table class="cTimetable">
+					<caption>
+						<h3 id="busanseobusasangbeoseuteomineol" class="toc">부산서부사상버스터미널</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/부산서부버스터미널/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/거제-한화오션남문/출발/부산서부버스터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+
+						
+						
+						
+						
+						
+						
+						
+					</caption>
+					<thead>
+					<tr>
+						<th class="departure">출발</th>
+						<th class="arrival">도착</th>
+						<th class="grade">등급</th>
+						<th class="fare">요금(어른)</th>
+						<th class="duration">소요시간</th>
+					</tr>
+					</thead>
+					<tbody>
+																								<tr>
+								<td class="departure">06:05</td>
+								<td class="arrival">07:27</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">07:35</td>
+								<td class="arrival">08:57</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">08:35</td>
+								<td class="arrival">09:57</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">09:35</td>
+								<td class="arrival">10:57</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">10:35</td>
+								<td class="arrival">11:57</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">11:35</td>
+								<td class="arrival">13:14</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:39</td>
+							</tr>
+													<tr>
+								<td class="departure">12:05</td>
+								<td class="arrival">13:27</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">13:05</td>
+								<td class="arrival">14:27</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">13:35</td>
+								<td class="arrival">15:14</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:39</td>
+							</tr>
+													<tr>
+								<td class="departure">14:05</td>
+								<td class="arrival">15:27</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">15:05</td>
+								<td class="arrival">16:27</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">15:35</td>
+								<td class="arrival">17:14</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:39</td>
+							</tr>
+													<tr>
+								<td class="departure">16:35</td>
+								<td class="arrival">17:57</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">17:45</td>
+								<td class="arrival">19:07</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">18:45</td>
+								<td class="arrival">20:07</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">19:35</td>
+								<td class="arrival">20:57</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">20:15</td>
+								<td class="arrival">21:37</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,000 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+													<tr>
+								<td class="departure">22:15</td>
+								<td class="arrival">23:37</td>
+								<td class="grade">일반</td>
+								<td class="fare">10,800 <span>원</span></td>
+								<td class="duration">01:22</td>
+							</tr>
+																</tbody>
+				</table>
+			</li>
+					<li>
+				<table class="cTimetable">
+					<caption>
+						<h3 id="busansinpyeongjeonglyuso" class="toc">부산신평정류소</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/부산신평터미널/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/거제-한화오션남문/출발/부산신평터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+
+						
+						
+						
+						
+						
+						
+						
+					</caption>
+					<thead>
+					<tr>
+						<th class="departure">출발</th>
+						<th class="arrival">도착</th>
+						<th class="grade">등급</th>
+						<th class="fare">요금(어른)</th>
+						<th class="duration">소요시간</th>
+					</tr>
+					</thead>
+					<tbody>
+																								<tr>
+								<td class="departure">06:05</td>
+								<td class="arrival">07:06</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">07:35</td>
+								<td class="arrival">08:36</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">08:35</td>
+								<td class="arrival">09:36</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">09:35</td>
+								<td class="arrival">10:36</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">10:35</td>
+								<td class="arrival">11:36</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">12:05</td>
+								<td class="arrival">13:06</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">13:05</td>
+								<td class="arrival">14:06</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">14:05</td>
+								<td class="arrival">15:06</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">15:05</td>
+								<td class="arrival">16:06</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">16:35</td>
+								<td class="arrival">17:36</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">17:45</td>
+								<td class="arrival">18:46</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">18:45</td>
+								<td class="arrival">19:46</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">19:35</td>
+								<td class="arrival">20:36</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">20:15</td>
+								<td class="arrival">21:16</td>
+								<td class="grade">일반</td>
+								<td class="fare">7,700 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+													<tr>
+								<td class="departure">22:15</td>
+								<td class="arrival">23:16</td>
+								<td class="grade">일반</td>
+								<td class="fare">9,200 <span>원</span></td>
+								<td class="duration">01:01</td>
+							</tr>
+																</tbody>
+				</table>
+			</li>
+			</ul>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/</id><title type="html">거제(한화오션남문) 운행노선 (시외버스)</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%ED%84%B0%EB%AF%B8%EB%84%90/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-22T00:56:00+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행시간표/요금 경상남도 거제시 거제(한화오션남문) → 도착지 강서구 사상구 사하구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 터미널 안내 분류 시외버스터미널 주소 경상남도 거제시 아주동 213 지도 운행시간표/요금 경상남도 거제시 거제(한화오션남문) → 도착지 강서구 사상구 사하구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 운행 노선 부산광역시 (3) 김해공항정류소 안내 시간표 부산서부사상버스터미널 안내 시간표 부산신평정류소 안내 시간표]]></summary><content type="html"><![CDATA[<section class="dTerminal cTerminalInfoBox">
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상남도 거제시</span>
+				<span class="dTerminal">거제(한화오션남문)</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+											<optgroup label="부산광역시">
 															<option
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
+																				value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/김해공항정류소/도착/','arrivals':[]}}">
+									강서구
 								</option>
-													</optgroup>
-											<optgroup label="충청북도">
 															<option
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
 								</option>
 															<option
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
-															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
+																				value="{'부산신평정류소':{'link':'/시외버스/터미널/부산신평터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산신평터미널/도착/','arrivals':[]}}">
+									사하구
 								</option>
 													</optgroup>
 									</select>
@@ -482,11 +647,11 @@
 	<dl class="dLocation">
 		<dt class="addr">주소</dt>
 		<dd class="addr">
-			충청북도 영동군 영동읍 계산리 912
+			경상남도 거제시 아주동 213
 					</dd>
 		<dt class="map">지도</dt>
 		<dd class="map">
-			<div id="map" class="dMap" data-lat="36.1730154" data-lng="127.782192"></div>
+			<div id="map" class="dMap" data-lat="34.867269" data-lng="128.693897"></div>
 		</dd>
 		
 		
@@ -497,8 +662,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
+							<span class="dArea">경상남도 거제시</span>
+				<span class="dTerminal">거제(한화오션남문)</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -506,28 +671,18 @@
 		<div class="cArrival">
 							<select class="cArrivalArea">
 					<option value="">도착지</option>
-											<optgroup label="대전광역시">
+											<optgroup label="부산광역시">
 															<option
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
+																				value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/김해공항정류소/도착/','arrivals':[]}}">
+									강서구
 								</option>
 															<option
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
 								</option>
 															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
+																				value="{'부산신평정류소':{'link':'/시외버스/터미널/부산신평터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산신평터미널/도착/','arrivals':[]}}">
+									사하구
 								</option>
 													</optgroup>
 									</select>
@@ -546,86 +701,61 @@
 		<dt class="route"><h3 id="unhaengnoseon" class="toc">운행 노선</h3></dt>
 				<dd class="route">
 			<dl class="dGoTerminal  dFlat ">
-								<dt>대전광역시 <span>(1)</span></dt>
-																						<dd  class="last" >
-							
-							<span>대전복합터미널</span>
-							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/대전복합터미널/">안내</a>
-							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/대전복합터미널/도착/">시간표</a>
-						</dd>
-																						<dt>충청북도 <span>(6)</span></dt>
+								<dt>부산광역시 <span>(3)</span></dt>
 																						<dd >
 							
-							<span>심천정류소</span>
-							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/심천정류소/">안내</a>
-							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/심천정류소/도착/">시간표</a>
-						</dd>
-																				<dd >
-							
-							<span>옥계리</span>
-							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/옥계리/">안내</a>
-							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/옥계리/도착/">시간표</a>
+							<span>김해공항정류소</span>
+							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/김해공항정류소/">안내</a>
+							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/거제-한화오션남문/출발/김해공항정류소/도착/">시간표</a>
 						</dd>
 																											<dd >
 							
-							<span>옥천시외버스공영정류소</span>
-							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/옥천시외버스공용정류소/">안내</a>
-							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/">시간표</a>
-						</dd>
-																				<dd >
-							
-							<span>이원시외버스정류장</span>
-							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/이원시외버스정류장/">안내</a>
-							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/">시간표</a>
-						</dd>
-																											<dd >
-							
-							<span>남부정류장</span>
-							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/남청주정류소/">안내</a>
-							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/남청주정류소/도착/">시간표</a>
+							<span>부산서부사상버스터미널</span>
+							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/부산서부버스터미널/">안내</a>
+							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/거제-한화오션남문/출발/부산서부버스터미널/도착/">시간표</a>
 						</dd>
 																											<dd  class="last" >
 							
-							<span>청주시외버스터미널</span>
-							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/청주시외버스터미널/">안내</a>
-							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/">시간표</a>
+							<span>부산신평정류소</span>
+							<a class="btn btn-flat dInfo" href="https://transportation.asamaru.net/시외버스/터미널/부산신평터미널/">안내</a>
+							<a class="btn btn-flat dSchedule" href="https://transportation.asamaru.net/시외버스/시간표/거제-한화오션남문/출발/부산신평터미널/도착/">시간표</a>
 						</dd>
 															</dl>
 
 		</dd>
 	</dl>
 </section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EB%82%A8%EC%B2%AD%EC%A3%BC%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</id><title type="html">(구)영동에서 남부정류장 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EB%82%A8%EC%B2%AD%EC%A3%BC%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-21T00:24:23+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 (구)영동 에서 남부정류장 가는 시외버스는 하루 5 회 운행합니다. 첫차 06:50 막차 18:10 출발지 (구)영동 시외버스터미널 지도보기 도착지 남부정류장 정류소,정류장 지도보기 시간표 현재시간 최종수정 2025-07-21 출발 도착 등급 요금(어른) 소요시간 06:50 08:41 일반 9,200 원 01:51 10:00 11:51 일반 9,200 원 01:51 13:00 14:51 일반 9,200 원 01:51 16:05 17:56 일반 9,200 원 01:51 18:10 20:01 일반 9,200 원 01:51 다른노선 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/%EC%B6%9C%EB%B0%9C/%EA%B9%80%ED%95%B4%EA%B3%B5%ED%95%AD%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</id><title type="html">거제(한화오션남문)에서 김해공항정류소 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/%EC%B6%9C%EB%B0%9C/%EA%B9%80%ED%95%B4%EA%B3%B5%ED%95%AD%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-22T00:55:56+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 거제(한화오션남문) 에서 김해공항정류소 가는 시외버스는 하루 3 회 운행합니다. 첫차 11:35 막차 15:35 출발지 거제(한화오션남문) 시외버스터미널 지도보기 도착지 김해공항정류소 정류소,정류장 지도보기 시간표 현재시간 최종수정 2025-07-22 출발 도착 등급 요금(어른) 소요시간 11:35 12:50 일반 8,700 원 01:15 13:35 14:50 일반 8,700 원 01:15 15:35 16:50 일반 8,700 원 01:15 돌아오는 시간표 ( 총 3회 운행 첫차 09:15 막차 13:45 ) 바로가기 다른노선 운행시간표/요금 경상남도 거제시 거제(한화오션남문) → 도착지 강서구 사상구 사하구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/남청주정류소/">남부정류장</a> 가는
-		시외버스는 하루 <span>5</span> 회 운행합니다.
+		<a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/">거제(한화오션남문)</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/김해공항정류소/">김해공항정류소</a> 가는
+		시외버스는 하루 <span>3</span> 회 운행합니다.
 
 		<dl>
 			<dt>첫차</dt>
-			<dd>06:50</dd>
+			<dd>11:35</dd>
 			<dt>막차</dt>
-			<dd>18:10</dd>
+			<dd>15:35</dd>
 		</dl>
 	</div>
 
 	<dl class="dTerminal">
 		<dt class="departure">출발지</dt>
 		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/">거제(한화오션남문)</a>
 			<span>시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.1730154&lng=127.782192&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.867269&lng=128.693897&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 		<dt class="arrival">도착지</dt>
 		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/남청주정류소/">남부정류장</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/김해공항정류소/">김해공항정류소</a>
 			<span>정류소,정류장</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.6084453&lng=127.4795727&pinId=21419202&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.1726036&lng=128.9473785&pinId=37026133&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 	</dl>
 
@@ -639,7 +769,7 @@
 		
 		<dl class="dLastUpdate">
 			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-21</dd>
+			<dd class="lastUpdate">2025-07-22</dd>
 		</dl>
 		
 	</div>
@@ -655,45 +785,48 @@
 		</thead>
 		<tbody>
 									<tr>
-				<td class="departure">06:50</td>
-				<td class="arrival">08:41</td>
+				<td class="departure">11:35</td>
+				<td class="arrival">12:50</td>
 				<td class="grade">일반</td>
-				<td class="fare">9,200 <span>원</span></td>
-				<td class="duration">01:51</td>
+				<td class="fare">8,700 <span>원</span></td>
+				<td class="duration">01:15</td>
 			</tr>
 					<tr>
-				<td class="departure">10:00</td>
-				<td class="arrival">11:51</td>
+				<td class="departure">13:35</td>
+				<td class="arrival">14:50</td>
 				<td class="grade">일반</td>
-				<td class="fare">9,200 <span>원</span></td>
-				<td class="duration">01:51</td>
+				<td class="fare">8,700 <span>원</span></td>
+				<td class="duration">01:15</td>
 			</tr>
 					<tr>
-				<td class="departure">13:00</td>
-				<td class="arrival">14:51</td>
+				<td class="departure">15:35</td>
+				<td class="arrival">16:50</td>
 				<td class="grade">일반</td>
-				<td class="fare">9,200 <span>원</span></td>
-				<td class="duration">01:51</td>
-			</tr>
-					<tr>
-				<td class="departure">16:05</td>
-				<td class="arrival">17:56</td>
-				<td class="grade">일반</td>
-				<td class="fare">9,200 <span>원</span></td>
-				<td class="duration">01:51</td>
-			</tr>
-					<tr>
-				<td class="departure">18:10</td>
-				<td class="arrival">20:01</td>
-				<td class="grade">일반</td>
-				<td class="fare">9,200 <span>원</span></td>
-				<td class="duration">01:51</td>
+				<td class="fare">8,700 <span>원</span></td>
+				<td class="duration">01:15</td>
 			</tr>
 							</tbody>
 	</table>
 
 	<hr/>
 
+			<div class="dReturn">
+			<div>
+				<h3>돌아오는 시간표</h3>
+				<div class="dReturnInfo">
+					(
+					총 <span>3회</span> 운행
+					<dl>
+						<dt>첫차</dt>
+						<dd>09:15</dd>
+						<dt>막차</dt>
+						<dd>13:45</dd>
+					</dl>
+					)
+				</div>
+				<a class="btn btn-flat" href="https://transportation.asamaru.net/시외버스/시간표/김해공항정류소/출발/거제-한화오션남문/도착/">바로가기</a>
+			</div>
+		</div>
 	
 	<hr/>
 	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
@@ -702,8 +835,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
+							<span class="dArea">경상남도 거제시</span>
+				<span class="dTerminal">거제(한화오션남문)</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -711,30 +844,20 @@
 		<div class="cArrival">
 							<select class="cArrivalArea">
 					<option value="">도착지</option>
-											<optgroup label="대전광역시">
-															<option
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
-								</option>
-															<option
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
+											<optgroup label="부산광역시">
 															<option
 																				selected="selected"
-										data-terminal="남부정류장"
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
+										data-terminal="김해공항정류소"
+																				value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/김해공항정류소/도착/','arrivals':[]}}">
+									강서구
 								</option>
 															<option
-																				value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
+								</option>
+															<option
+																				value="{'부산신평정류소':{'link':'/시외버스/터미널/부산신평터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산신평터미널/도착/','arrivals':[]}}">
+									사하구
 								</option>
 													</optgroup>
 									</select>
@@ -757,37 +880,37 @@
 		</p>
 					</div>
 </section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</id><title type="html">(구)영동에서 대전복합터미널 가는 고속버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-21T00:24:23+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 (구)영동 에서 대전복합터미널 가는 고속버스는 하루 1 회 운행합니다. 첫차 10:00 막차 10:00 출발지 (구)영동 시외버스터미널 지도보기 도착지 대전복합터미널 종합버스터미널 지도보기 시간표 현재시간 최종수정 2025-07-21 출발 도착 등급 요금(어른) 소요시간 10:00 10:56 일반 5,500 원 00:56 다른노선 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다. 대전복합터미널 http://www.djbusterminal.co.kr/]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
+<entry><id>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/%EC%B6%9C%EB%B0%9C/%EB%B6%80%EC%82%B0%EC%84%9C%EB%B6%80%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</id><title type="html">거제(한화오션남문)에서 부산서부사상버스터미널 가는 고속버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/%EC%B6%9C%EB%B0%9C/%EB%B6%80%EC%82%B0%EC%84%9C%EB%B6%80%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-22T00:55:57+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 거제(한화오션남문) 에서 부산서부사상버스터미널 가는 고속버스는 하루 18 회 운행합니다. 첫차 06:05 막차 22:15 출발지 거제(한화오션남문) 시외버스터미널 지도보기 도착지 부산서부사상버스터미널 종합버스터미널 지도보기 시간표 현재시간 최종수정 2025-07-22 출발 도착 등급 요금(어른) 소요시간 06:05 07:27 일반 9,000 원 01:22 07:35 08:57 일반 9,000 원 01:22 08:35 09:57 일반 9,000 원 01:22 09:35 10:57 일반 9,000 원 01:22 10:35 11:57 일반 9,000 원 01:22 11:35 13:14 일반 9,000 원 01:39 12:05 13:27 일반 9,000 원 01:22 13:05 14:27 일반 9,000 원 01:22 13:35 15:14 일반 9,000 원 01:39 14:05 15:27 일반 9,000 원 01:22 15:05 16:27 일반 9,000 원 01:22 15:35 17:14 일반 9,000 원 01:39 16:35 17:57 일반 9,000 원 01:22 17:45 19:07 일반 9,000 원 01:22 18:45 20:07 일반 9,000 원 01:22 19:35 20:57 일반 9,000 원 01:22 20:15 21:37 일반 9,000 원 01:22 22:15 23:37 일반 10,800 원 01:22 다른노선 운행시간표/요금 경상남도 거제시 거제(한화오션남문) → 도착지 강서구 사상구 사하구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a> 에서
-		<a href="https://transportation.asamaru.net/고속버스/터미널/대전복합터미널/">대전복합터미널</a> 가는
-		고속버스는 하루 <span>1</span> 회 운행합니다.
+		<a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/">거제(한화오션남문)</a> 에서
+		<a href="https://transportation.asamaru.net/고속버스/터미널/부산서부버스터미널/">부산서부사상버스터미널</a> 가는
+		고속버스는 하루 <span>18</span> 회 운행합니다.
 
 		<dl>
 			<dt>첫차</dt>
-			<dd>10:00</dd>
+			<dd>06:05</dd>
 			<dt>막차</dt>
-			<dd>10:00</dd>
+			<dd>22:15</dd>
 		</dl>
 	</div>
 
 	<dl class="dTerminal">
 		<dt class="departure">출발지</dt>
 		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/">거제(한화오션남문)</a>
 			<span>시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.1730154&lng=127.782192&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.867269&lng=128.693897&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 		<dt class="arrival">도착지</dt>
 		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/고속버스/터미널/대전복합터미널/">대전복합터미널</a>
+			<a href="https://transportation.asamaru.net/고속버스/터미널/부산서부버스터미널/">부산서부사상버스터미널</a>
 			<span>종합버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3506331&lng=127.4365786&pinId=19797141&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.163307&lng=128.9823&pinId=21419233&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 	</dl>
 
@@ -801,7 +924,7 @@
 		
 		<dl class="dLastUpdate">
 			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-21</dd>
+			<dd class="lastUpdate">2025-07-22</dd>
 		</dl>
 		
 	</div>
@@ -817,11 +940,130 @@
 		</thead>
 		<tbody>
 									<tr>
-				<td class="departure">10:00</td>
-				<td class="arrival">10:56</td>
+				<td class="departure">06:05</td>
+				<td class="arrival">07:27</td>
 				<td class="grade">일반</td>
-				<td class="fare">5,500 <span>원</span></td>
-				<td class="duration">00:56</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">07:35</td>
+				<td class="arrival">08:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">08:35</td>
+				<td class="arrival">09:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">09:35</td>
+				<td class="arrival">10:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">10:35</td>
+				<td class="arrival">11:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">11:35</td>
+				<td class="arrival">13:14</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:39</td>
+			</tr>
+					<tr>
+				<td class="departure">12:05</td>
+				<td class="arrival">13:27</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">13:05</td>
+				<td class="arrival">14:27</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">13:35</td>
+				<td class="arrival">15:14</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:39</td>
+			</tr>
+					<tr>
+				<td class="departure">14:05</td>
+				<td class="arrival">15:27</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">15:05</td>
+				<td class="arrival">16:27</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">15:35</td>
+				<td class="arrival">17:14</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:39</td>
+			</tr>
+					<tr>
+				<td class="departure">16:35</td>
+				<td class="arrival">17:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">17:45</td>
+				<td class="arrival">19:07</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">18:45</td>
+				<td class="arrival">20:07</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">19:35</td>
+				<td class="arrival">20:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">20:15</td>
+				<td class="arrival">21:37</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">22:15</td>
+				<td class="arrival">23:37</td>
+				<td class="grade">일반</td>
+				<td class="fare">10,800 <span>원</span></td>
+				<td class="duration">01:22</td>
 			</tr>
 							</tbody>
 	</table>
@@ -836,8 +1078,8 @@
 		<legend>운행시간표/요금</legend>
 
 		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
+							<span class="dArea">경상남도 거제시</span>
+				<span class="dTerminal">거제(한화오션남문)</span>
 					</div>
 
 		<span class="dArrow">→</span>
@@ -845,30 +1087,20 @@
 		<div class="cArrival">
 							<select class="cArrivalArea">
 					<option value="">도착지</option>
-											<optgroup label="대전광역시">
+											<optgroup label="부산광역시">
+															<option
+																				value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/김해공항정류소/도착/','arrivals':[]}}">
+									강서구
+								</option>
 															<option
 																				selected="selected"
-										data-terminal="대전복합터미널"
-																				value="{'대전복합터미널':{'link':'/고속버스/터미널/대전복합터미널/','schedule':'/고속버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
+										data-terminal="부산서부사상버스터미널"
+																				value="{'부산서부사상버스터미널':{'link':'/고속버스/터미널/부산서부버스터미널/','schedule':'/고속버스/시간표/거제-한화오션남문/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
 								</option>
 															<option
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
-															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
+																				value="{'부산신평정류소':{'link':'/시외버스/터미널/부산신평터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산신평터미널/도착/','arrivals':[]}}">
+									사하구
 								</option>
 													</optgroup>
 									</select>
@@ -889,45 +1121,39 @@
 			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
 			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
 		</p>
-							<dl>
-				<dt>대전복합터미널</dt>
-				<dd>
-					<a href="http://www.djbusterminal.co.kr/" target="_blank">http://www.djbusterminal.co.kr/</a>
-				</dd>
-			</dl>
-			</div>
+					</div>
 </section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</id><title type="html">(구)영동에서 대전복합터미널 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EB%8C%80%EC%A0%84%EB%B3%B5%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-21T00:24:23+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 (구)영동 에서 대전복합터미널 가는 시외버스는 하루 1 회 운행합니다. 첫차 10:00 막차 10:00 출발지 (구)영동 시외버스터미널 지도보기 도착지 대전복합터미널 종합버스터미널 지도보기 시간표 현재시간 최종수정 2025-07-21 출발 도착 등급 요금(어른) 소요시간 10:00 10:56 일반 5,500 원 00:56 다른노선 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다. 대전복합터미널 http://www.djbusterminal.co.kr/]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/%EC%B6%9C%EB%B0%9C/%EB%B6%80%EC%82%B0%EC%84%9C%EB%B6%80%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</id><title type="html">거제(한화오션남문)에서 부산서부사상버스터미널 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/%EC%B6%9C%EB%B0%9C/%EB%B6%80%EC%82%B0%EC%84%9C%EB%B6%80%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-22T00:55:57+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 거제(한화오션남문) 에서 부산서부사상버스터미널 가는 시외버스는 하루 18 회 운행합니다. 첫차 06:05 막차 22:15 출발지 거제(한화오션남문) 시외버스터미널 지도보기 도착지 부산서부사상버스터미널 종합버스터미널 지도보기 시간표 현재시간 최종수정 2025-07-22 출발 도착 등급 요금(어른) 소요시간 06:05 07:27 일반 9,000 원 01:22 07:35 08:57 일반 9,000 원 01:22 08:35 09:57 일반 9,000 원 01:22 09:35 10:57 일반 9,000 원 01:22 10:35 11:57 일반 9,000 원 01:22 11:35 13:14 일반 9,000 원 01:39 12:05 13:27 일반 9,000 원 01:22 13:05 14:27 일반 9,000 원 01:22 13:35 15:14 일반 9,000 원 01:39 14:05 15:27 일반 9,000 원 01:22 15:05 16:27 일반 9,000 원 01:22 15:35 17:14 일반 9,000 원 01:39 16:35 17:57 일반 9,000 원 01:22 17:45 19:07 일반 9,000 원 01:22 18:45 20:07 일반 9,000 원 01:22 19:35 20:57 일반 9,000 원 01:22 20:15 21:37 일반 9,000 원 01:22 22:15 23:37 일반 10,800 원 01:22 돌아오는 시간표 ( 총 18회 운행 첫차 06:30 막차 22:20 ) 바로가기 다른노선 운행시간표/요금 경상남도 거제시 거제(한화오션남문) → 도착지 강서구 사상구 사하구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/대전복합터미널/">대전복합터미널</a> 가는
-		시외버스는 하루 <span>1</span> 회 운행합니다.
+		<a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/">거제(한화오션남문)</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/부산서부버스터미널/">부산서부사상버스터미널</a> 가는
+		시외버스는 하루 <span>18</span> 회 운행합니다.
 
 		<dl>
 			<dt>첫차</dt>
-			<dd>10:00</dd>
+			<dd>06:05</dd>
 			<dt>막차</dt>
-			<dd>10:00</dd>
+			<dd>22:15</dd>
 		</dl>
 	</div>
 
 	<dl class="dTerminal">
 		<dt class="departure">출발지</dt>
 		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/">거제(한화오션남문)</a>
 			<span>시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.1730154&lng=127.782192&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.867269&lng=128.693897&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 		<dt class="arrival">도착지</dt>
 		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/대전복합터미널/">대전복합터미널</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/부산서부버스터미널/">부산서부사상버스터미널</a>
 			<span>종합버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3506331&lng=127.4365786&pinId=19797141&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.163307&lng=128.9823&pinId=21419233&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 	</dl>
 
@@ -941,7 +1167,7 @@
 		
 		<dl class="dLastUpdate">
 			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-21</dd>
+			<dd class="lastUpdate">2025-07-22</dd>
 		</dl>
 		
 	</div>
@@ -957,117 +1183,237 @@
 		</thead>
 		<tbody>
 									<tr>
-				<td class="departure">10:00</td>
-				<td class="arrival">10:56</td>
+				<td class="departure">06:05</td>
+				<td class="arrival">07:27</td>
 				<td class="grade">일반</td>
-				<td class="fare">5,500 <span>원</span></td>
-				<td class="duration">00:56</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">07:35</td>
+				<td class="arrival">08:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">08:35</td>
+				<td class="arrival">09:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">09:35</td>
+				<td class="arrival">10:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">10:35</td>
+				<td class="arrival">11:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">11:35</td>
+				<td class="arrival">13:14</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:39</td>
+			</tr>
+					<tr>
+				<td class="departure">12:05</td>
+				<td class="arrival">13:27</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">13:05</td>
+				<td class="arrival">14:27</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">13:35</td>
+				<td class="arrival">15:14</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:39</td>
+			</tr>
+					<tr>
+				<td class="departure">14:05</td>
+				<td class="arrival">15:27</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">15:05</td>
+				<td class="arrival">16:27</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">15:35</td>
+				<td class="arrival">17:14</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:39</td>
+			</tr>
+					<tr>
+				<td class="departure">16:35</td>
+				<td class="arrival">17:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">17:45</td>
+				<td class="arrival">19:07</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">18:45</td>
+				<td class="arrival">20:07</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">19:35</td>
+				<td class="arrival">20:57</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">20:15</td>
+				<td class="arrival">21:37</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,000 <span>원</span></td>
+				<td class="duration">01:22</td>
+			</tr>
+					<tr>
+				<td class="departure">22:15</td>
+				<td class="arrival">23:37</td>
+				<td class="grade">일반</td>
+				<td class="fare">10,800 <span>원</span></td>
+				<td class="duration">01:22</td>
 			</tr>
 							</tbody>
 	</table>
 
 	<hr/>
 
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="대전광역시">
-															<option
-																				selected="selected"
-										data-terminal="대전복합터미널"
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
-								</option>
-															<option
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
-															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-							<dl>
-				<dt>대전복합터미널</dt>
-				<dd>
-					<a href="http://www.djbusterminal.co.kr/" target="_blank">http://www.djbusterminal.co.kr/</a>
-				</dd>
-			</dl>
+			<div class="dReturn">
+			<div>
+				<h3>돌아오는 시간표</h3>
+				<div class="dReturnInfo">
+					(
+					총 <span>18회</span> 운행
+					<dl>
+						<dt>첫차</dt>
+						<dd>06:30</dd>
+						<dt>막차</dt>
+						<dd>22:20</dd>
+					</dl>
+					)
+				</div>
+				<a class="btn btn-flat" href="https://transportation.asamaru.net/시외버스/시간표/부산서부버스터미널/출발/거제-한화오션남문/도착/">바로가기</a>
 			</div>
+		</div>
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상남도 거제시</span>
+				<span class="dTerminal">거제(한화오션남문)</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+											<optgroup label="부산광역시">
+															<option
+																				value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/김해공항정류소/도착/','arrivals':[]}}">
+									강서구
+								</option>
+															<option
+																				selected="selected"
+										data-terminal="부산서부사상버스터미널"
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
+								</option>
+															<option
+																				value="{'부산신평정류소':{'link':'/시외버스/터미널/부산신평터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산신평터미널/도착/','arrivals':[]}}">
+									사하구
+								</option>
+													</optgroup>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+					</div>
 </section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%8B%AC%EC%B2%9C%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</id><title type="html">(구)영동에서 심천정류소 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%8B%AC%EC%B2%9C%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-21T00:24:23+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 (구)영동 에서 심천정류소 가는 시외버스는 하루 5 회 운행합니다. 첫차 06:50 막차 18:10 출발지 (구)영동 시외버스터미널 지도보기 도착지 심천정류소 정류소,정류장 지도보기 시간표 현재시간 최종수정 2025-07-21 출발 도착 등급 요금(어른) 소요시간 06:50 07:09 일반 1,700 원 00:19 10:00 10:19 일반 1,700 원 00:19 13:00 13:19 일반 1,700 원 00:19 16:05 16:24 일반 1,700 원 00:19 18:10 18:29 일반 1,700 원 00:19 다른노선 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/%EC%B6%9C%EB%B0%9C/%EB%B6%80%EC%82%B0%EC%8B%A0%ED%8F%89%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</id><title type="html">거제(한화오션남문)에서 부산신평정류소 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B1%B0%EC%A0%9C-%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%EB%82%A8%EB%AC%B8/%EC%B6%9C%EB%B0%9C/%EB%B6%80%EC%82%B0%EC%8B%A0%ED%8F%89%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-22T00:56:00+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 거제(한화오션남문) 에서 부산신평정류소 가는 시외버스는 하루 15 회 운행합니다. 첫차 06:05 막차 22:15 출발지 거제(한화오션남문) 시외버스터미널 지도보기 도착지 부산신평정류소 정류소,정류장 지도보기 시간표 현재시간 최종수정 2025-07-22 출발 도착 등급 요금(어른) 소요시간 06:05 07:06 일반 7,700 원 01:01 07:35 08:36 일반 7,700 원 01:01 08:35 09:36 일반 7,700 원 01:01 09:35 10:36 일반 7,700 원 01:01 10:35 11:36 일반 7,700 원 01:01 12:05 13:06 일반 7,700 원 01:01 13:05 14:06 일반 7,700 원 01:01 14:05 15:06 일반 7,700 원 01:01 15:05 16:06 일반 7,700 원 01:01 16:35 17:36 일반 7,700 원 01:01 17:45 18:46 일반 7,700 원 01:01 18:45 19:46 일반 7,700 원 01:01 19:35 20:36 일반 7,700 원 01:01 20:15 21:16 일반 7,700 원 01:01 22:15 23:16 일반 9,200 원 01:01 돌아오는 시간표 ( 총 14회 운행 첫차 06:45 막차 21:15 ) 바로가기 다른노선 운행시간표/요금 경상남도 거제시 거제(한화오션남문) → 도착지 강서구 사상구 사하구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
 	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
 	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/심천정류소/">심천정류소</a> 가는
-		시외버스는 하루 <span>5</span> 회 운행합니다.
+		<a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/">거제(한화오션남문)</a> 에서
+		<a href="https://transportation.asamaru.net/시외버스/터미널/부산신평터미널/">부산신평정류소</a> 가는
+		시외버스는 하루 <span>15</span> 회 운행합니다.
 
 		<dl>
 			<dt>첫차</dt>
-			<dd>06:50</dd>
+			<dd>06:05</dd>
 			<dt>막차</dt>
-			<dd>18:10</dd>
+			<dd>22:15</dd>
 		</dl>
 	</div>
 
 	<dl class="dTerminal">
 		<dt class="departure">출발지</dt>
 		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/거제-한화오션남문/">거제(한화오션남문)</a>
 			<span>시외버스터미널</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.1730154&lng=127.782192&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=34.867269&lng=128.693897&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 		<dt class="arrival">도착지</dt>
 		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/심천정류소/">심천정류소</a>
+			<a href="https://transportation.asamaru.net/시외버스/터미널/부산신평터미널/">부산신평정류소</a>
 			<span>정류소,정류장</span>
 
 			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.234067&lng=127.722279&pinId=33625799&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
+			<a class="btn btn-flat" href="https://map.naver.com/?lat=35.0942902&lng=128.960153&pinId=1075872939&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
 		</dd>
 	</dl>
 
@@ -1081,7 +1427,7 @@
 		
 		<dl class="dLastUpdate">
 			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-21</dd>
+			<dd class="lastUpdate">2025-07-22</dd>
 		</dl>
 		
 	</div>
@@ -1097,761 +1443,238 @@
 		</thead>
 		<tbody>
 									<tr>
-				<td class="departure">06:50</td>
-				<td class="arrival">07:09</td>
+				<td class="departure">06:05</td>
+				<td class="arrival">07:06</td>
 				<td class="grade">일반</td>
-				<td class="fare">1,700 <span>원</span></td>
-				<td class="duration">00:19</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
 			</tr>
 					<tr>
-				<td class="departure">10:00</td>
-				<td class="arrival">10:19</td>
+				<td class="departure">07:35</td>
+				<td class="arrival">08:36</td>
 				<td class="grade">일반</td>
-				<td class="fare">1,700 <span>원</span></td>
-				<td class="duration">00:19</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
 			</tr>
 					<tr>
-				<td class="departure">13:00</td>
-				<td class="arrival">13:19</td>
+				<td class="departure">08:35</td>
+				<td class="arrival">09:36</td>
 				<td class="grade">일반</td>
-				<td class="fare">1,700 <span>원</span></td>
-				<td class="duration">00:19</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
 			</tr>
 					<tr>
-				<td class="departure">16:05</td>
-				<td class="arrival">16:24</td>
+				<td class="departure">09:35</td>
+				<td class="arrival">10:36</td>
 				<td class="grade">일반</td>
-				<td class="fare">1,700 <span>원</span></td>
-				<td class="duration">00:19</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
 			</tr>
 					<tr>
-				<td class="departure">18:10</td>
-				<td class="arrival">18:29</td>
+				<td class="departure">10:35</td>
+				<td class="arrival">11:36</td>
 				<td class="grade">일반</td>
-				<td class="fare">1,700 <span>원</span></td>
-				<td class="duration">00:19</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">12:05</td>
+				<td class="arrival">13:06</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">13:05</td>
+				<td class="arrival">14:06</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">14:05</td>
+				<td class="arrival">15:06</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">15:05</td>
+				<td class="arrival">16:06</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">16:35</td>
+				<td class="arrival">17:36</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">17:45</td>
+				<td class="arrival">18:46</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">18:45</td>
+				<td class="arrival">19:46</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">19:35</td>
+				<td class="arrival">20:36</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">20:15</td>
+				<td class="arrival">21:16</td>
+				<td class="grade">일반</td>
+				<td class="fare">7,700 <span>원</span></td>
+				<td class="duration">01:01</td>
+			</tr>
+					<tr>
+				<td class="departure">22:15</td>
+				<td class="arrival">23:16</td>
+				<td class="grade">일반</td>
+				<td class="fare">9,200 <span>원</span></td>
+				<td class="duration">01:01</td>
 			</tr>
 							</tbody>
 	</table>
 
 	<hr/>
 
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="대전광역시">
-															<option
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				selected="selected"
-										data-terminal="심천정류소"
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
-								</option>
-															<option
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
-															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%98%A5%EA%B3%84%EB%A6%AC/%EB%8F%84%EC%B0%A9/</id><title type="html">(구)영동에서 옥계리 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%98%A5%EA%B3%84%EB%A6%AC/%EB%8F%84%EC%B0%A9/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-21T00:24:23+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 (구)영동 에서 옥계리 가는 시외버스는 하루 5 회 운행합니다. 첫차 06:50 막차 18:10 출발지 (구)영동 시외버스터미널 지도보기 도착지 옥계리 시외버스터미널 지도보기 시간표 현재시간 최종수정 2025-07-21 출발 도착 등급 요금(어른) 소요시간 06:50 07:18 일반 1,900 원 00:28 10:00 10:28 일반 1,900 원 00:28 13:00 13:28 일반 1,900 원 00:28 16:05 16:33 일반 1,900 원 00:28 18:10 18:38 일반 1,900 원 00:28 다른노선 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/옥계리/">옥계리</a> 가는
-		시외버스는 하루 <span>5</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>06:50</dd>
-			<dt>막차</dt>
-			<dd>18:10</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.1730154&lng=127.782192&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/옥계리/">옥계리</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.2209865&lng=127.700087&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-21</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">06:50</td>
-				<td class="arrival">07:18</td>
-				<td class="grade">일반</td>
-				<td class="fare">1,900 <span>원</span></td>
-				<td class="duration">00:28</td>
-			</tr>
-					<tr>
-				<td class="departure">10:00</td>
-				<td class="arrival">10:28</td>
-				<td class="grade">일반</td>
-				<td class="fare">1,900 <span>원</span></td>
-				<td class="duration">00:28</td>
-			</tr>
-					<tr>
-				<td class="departure">13:00</td>
-				<td class="arrival">13:28</td>
-				<td class="grade">일반</td>
-				<td class="fare">1,900 <span>원</span></td>
-				<td class="duration">00:28</td>
-			</tr>
-					<tr>
-				<td class="departure">16:05</td>
-				<td class="arrival">16:33</td>
-				<td class="grade">일반</td>
-				<td class="fare">1,900 <span>원</span></td>
-				<td class="duration">00:28</td>
-			</tr>
-					<tr>
-				<td class="departure">18:10</td>
-				<td class="arrival">18:38</td>
-				<td class="grade">일반</td>
-				<td class="fare">1,900 <span>원</span></td>
-				<td class="duration">00:28</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="대전광역시">
-															<option
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				selected="selected"
-										data-terminal="옥계리"
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
-								</option>
-															<option
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
-															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%98%A5%EC%B2%9C%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EA%B3%B5%EC%9A%A9%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/</id><title type="html">(구)영동에서 옥천시외버스공영정류소 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%98%A5%EC%B2%9C%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EA%B3%B5%EC%9A%A9%EC%A0%95%EB%A5%98%EC%86%8C/%EB%8F%84%EC%B0%A9/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-21T00:24:23+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 (구)영동 에서 옥천시외버스공영정류소 가는 시외버스는 하루 5 회 운행합니다. 첫차 06:50 막차 18:10 출발지 (구)영동 시외버스터미널 지도보기 도착지 옥천시외버스공영정류소 정류소,정류장 지도보기 시간표 현재시간 최종수정 2025-07-21 출발 도착 등급 요금(어른) 소요시간 06:50 07:49 일반 4,700 원 00:59 10:00 10:59 일반 4,700 원 00:59 13:00 13:59 일반 4,700 원 00:59 16:05 17:04 일반 4,700 원 00:59 18:10 19:09 일반 4,700 원 00:59 다른노선 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/옥천시외버스공용정류소/">옥천시외버스공영정류소</a> 가는
-		시외버스는 하루 <span>5</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>06:50</dd>
-			<dt>막차</dt>
-			<dd>18:10</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.1730154&lng=127.782192&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/옥천시외버스공용정류소/">옥천시외버스공영정류소</a>
-			<span>정류소,정류장</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.3070217&lng=127.5642605&pinId=19477668&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-21</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">06:50</td>
-				<td class="arrival">07:49</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,700 <span>원</span></td>
-				<td class="duration">00:59</td>
-			</tr>
-					<tr>
-				<td class="departure">10:00</td>
-				<td class="arrival">10:59</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,700 <span>원</span></td>
-				<td class="duration">00:59</td>
-			</tr>
-					<tr>
-				<td class="departure">13:00</td>
-				<td class="arrival">13:59</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,700 <span>원</span></td>
-				<td class="duration">00:59</td>
-			</tr>
-					<tr>
-				<td class="departure">16:05</td>
-				<td class="arrival">17:04</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,700 <span>원</span></td>
-				<td class="duration">00:59</td>
-			</tr>
-					<tr>
-				<td class="departure">18:10</td>
-				<td class="arrival">19:09</td>
-				<td class="grade">일반</td>
-				<td class="fare">4,700 <span>원</span></td>
-				<td class="duration">00:59</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="대전광역시">
-															<option
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
-								</option>
-															<option
-																				selected="selected"
-										data-terminal="옥천시외버스공영정류소"
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
-															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%9D%B4%EC%9B%90%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EB%8F%84%EC%B0%A9/</id><title type="html">(구)영동에서 이원시외버스정류장 가는 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%9D%B4%EC%9B%90%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5/%EB%8F%84%EC%B0%A9/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-21T00:24:23+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 (구)영동 에서 이원시외버스정류장 가는 시외버스는 하루 5 회 운행합니다. 첫차 06:50 막차 18:10 출발지 (구)영동 시외버스터미널 지도보기 도착지 이원시외버스정류장 정류소,정류장 지도보기 시간표 현재시간 최종수정 2025-07-21 출발 도착 등급 요금(어른) 소요시간 06:50 07:33 일반 3,200 원 00:43 10:00 10:43 일반 3,200 원 00:43 13:00 13:43 일반 3,200 원 00:43 16:05 16:48 일반 3,200 원 00:43 18:10 18:53 일반 3,200 원 00:43 다른노선 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a> 에서
-		<a href="https://transportation.asamaru.net/시외버스/터미널/이원시외버스정류장/">이원시외버스정류장</a> 가는
-		시외버스는 하루 <span>5</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>06:50</dd>
-			<dt>막차</dt>
-			<dd>18:10</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.1730154&lng=127.782192&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/이원시외버스정류장/">이원시외버스정류장</a>
-			<span>정류소,정류장</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.2471928&lng=127.6199769&pinId=17822192&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-21</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">06:50</td>
-				<td class="arrival">07:33</td>
-				<td class="grade">일반</td>
-				<td class="fare">3,200 <span>원</span></td>
-				<td class="duration">00:43</td>
-			</tr>
-					<tr>
-				<td class="departure">10:00</td>
-				<td class="arrival">10:43</td>
-				<td class="grade">일반</td>
-				<td class="fare">3,200 <span>원</span></td>
-				<td class="duration">00:43</td>
-			</tr>
-					<tr>
-				<td class="departure">13:00</td>
-				<td class="arrival">13:43</td>
-				<td class="grade">일반</td>
-				<td class="fare">3,200 <span>원</span></td>
-				<td class="duration">00:43</td>
-			</tr>
-					<tr>
-				<td class="departure">16:05</td>
-				<td class="arrival">16:48</td>
-				<td class="grade">일반</td>
-				<td class="fare">3,200 <span>원</span></td>
-				<td class="duration">00:43</td>
-			</tr>
-					<tr>
-				<td class="departure">18:10</td>
-				<td class="arrival">18:53</td>
-				<td class="grade">일반</td>
-				<td class="fare">3,200 <span>원</span></td>
-				<td class="duration">00:43</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="대전광역시">
-															<option
-																				value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
-								</option>
-															<option
-																				selected="selected"
-										data-terminal="이원시외버스정류장"
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
-															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-					</div>
-</section>]]></content></entry>
-<entry><id>https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%B2%AD%EC%A3%BC%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/</id><title type="html">(구)영동에서 청주시외버스터미널 가는 고속버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B5%AC-%EC%98%81%EB%8F%99/%EC%B6%9C%EB%B0%9C/%EC%B2%AD%EC%A3%BC%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90/%EB%8F%84%EC%B0%A9/"/><published>2025-07-21T00:24:23+09:00</published><updated>2025-07-21T00:24:23+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[운행정보 (구)영동 에서 청주시외버스터미널 가는 고속버스는 하루 5 회 운행합니다. 첫차 06:50 막차 18:10 출발지 (구)영동 시외버스터미널 지도보기 도착지 청주시외버스터미널 시외버스터미널 지도보기 시간표 현재시간 최종수정 2025-07-21 출발 도착 등급 요금(어른) 소요시간 06:50 08:58 일반 10,300 원 02:08 10:00 12:08 일반 10,300 원 02:08 13:00 15:08 일반 10,300 원 02:08 16:05 18:13 일반 10,300 원 02:08 18:10 20:18 일반 10,300 원 02:08 다른노선 운행시간표/요금 충청북도 영동군 (구)영동 → 도착지 동구 영동군 옥천군 청주시 서원구 청주시 흥덕구 터미널 선택 조회 출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다. 버스 시간표 데이터는 국토교통부가 공공데이터포털 ( www.data.go.kr ) 을 통해 제공합니다. 요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다. 보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다. 청주시외버스터미널 http://www.cjterminal.com/]]></summary><content type="html"><![CDATA[<section class="dSchedules cSchedulesBox">
-	<h3 id="unhaengjeongbo" class="toc anchor">운행정보</h3>
-	<div class="dSummary">
-		<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a> 에서
-		<a href="https://transportation.asamaru.net/고속버스/터미널/청주시외버스터미널/">청주시외버스터미널</a> 가는
-		고속버스는 하루 <span>5</span> 회 운행합니다.
-
-		<dl>
-			<dt>첫차</dt>
-			<dd>06:50</dd>
-			<dt>막차</dt>
-			<dd>18:10</dd>
-		</dl>
-	</div>
-
-	<dl class="dTerminal">
-		<dt class="departure">출발지</dt>
-		<dd class="departure">
-			<a href="https://transportation.asamaru.net/시외버스/터미널/구-영동/">(구)영동</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.1730154&lng=127.782192&pinId=0&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-		<dt class="arrival">도착지</dt>
-		<dd class="arrival">
-			<a href="https://transportation.asamaru.net/고속버스/터미널/청주시외버스터미널/">청주시외버스터미널</a>
-			<span>시외버스터미널</span>
-
-			
-			<a class="btn btn-flat" href="https://map.naver.com/?lat=36.6253605&lng=127.4317197&pinId=11554358&pinType=site&dlevel=11" target="_blank" rel="nofollow">지도보기</a>
-		</dd>
-	</dl>
-
-	<hr/>
-	<h3 id="sikanpyo" class="toc anchor">시간표</h3>
-	<div class="clearfix">
-		<dl class="dTime">
-			<dt class="now">현재시간</dt>
-			<dd class="now cNow"></dd>
-		</dl>
-		
-		<dl class="dLastUpdate">
-			<dt class="lastUpdate">최종수정</dt>
-			<dd class="lastUpdate">2025-07-21</dd>
-		</dl>
-		
-	</div>
-	<table class="cTimetable">
-		<thead>
-		<tr>
-			<th class="departure">출발</th>
-			<th class="arrival">도착</th>
-			<th class="grade">등급</th>
-			<th class="fare">요금(어른)</th>
-			<th class="duration">소요시간</th>
-		</tr>
-		</thead>
-		<tbody>
-									<tr>
-				<td class="departure">06:50</td>
-				<td class="arrival">08:58</td>
-				<td class="grade">일반</td>
-				<td class="fare">10,300 <span>원</span></td>
-				<td class="duration">02:08</td>
-			</tr>
-					<tr>
-				<td class="departure">10:00</td>
-				<td class="arrival">12:08</td>
-				<td class="grade">일반</td>
-				<td class="fare">10,300 <span>원</span></td>
-				<td class="duration">02:08</td>
-			</tr>
-					<tr>
-				<td class="departure">13:00</td>
-				<td class="arrival">15:08</td>
-				<td class="grade">일반</td>
-				<td class="fare">10,300 <span>원</span></td>
-				<td class="duration">02:08</td>
-			</tr>
-					<tr>
-				<td class="departure">16:05</td>
-				<td class="arrival">18:13</td>
-				<td class="grade">일반</td>
-				<td class="fare">10,300 <span>원</span></td>
-				<td class="duration">02:08</td>
-			</tr>
-					<tr>
-				<td class="departure">18:10</td>
-				<td class="arrival">20:18</td>
-				<td class="grade">일반</td>
-				<td class="fare">10,300 <span>원</span></td>
-				<td class="duration">02:08</td>
-			</tr>
-							</tbody>
-	</table>
-
-	<hr/>
-
-	
-	<hr/>
-	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
-	<div class="cGoTimetable">
-	<fieldset class="clearfix">
-		<legend>운행시간표/요금</legend>
-
-		<div class="cDeparture">
-							<span class="dArea">충청북도 영동군</span>
-				<span class="dTerminal">(구)영동</span>
-					</div>
-
-		<span class="dArrow">→</span>
-
-		<div class="cArrival">
-							<select class="cArrivalArea">
-					<option value="">도착지</option>
-											<optgroup label="대전광역시">
-															<option
-																				value="{'대전복합터미널':{'link':'/고속버스/터미널/대전복합터미널/','schedule':'/고속버스/시간표/구-영동/출발/대전복합터미널/도착/','arrivals':[]}}">
-									동구
-								</option>
-													</optgroup>
-											<optgroup label="충청북도">
-															<option
-																				value="{'심천정류소':{'link':'/시외버스/터미널/심천정류소/','schedule':'/시외버스/시간표/구-영동/출발/심천정류소/도착/','arrivals':[]},'옥계리':{'link':'/시외버스/터미널/옥계리/','schedule':'/시외버스/시간표/구-영동/출발/옥계리/도착/','arrivals':[]}}">
-									영동군
-								</option>
-															<option
-																				value="{'옥천시외버스공영정류소':{'link':'/시외버스/터미널/옥천시외버스공용정류소/','schedule':'/시외버스/시간표/구-영동/출발/옥천시외버스공용정류소/도착/','arrivals':[]},'이원시외버스정류장':{'link':'/시외버스/터미널/이원시외버스정류장/','schedule':'/시외버스/시간표/구-영동/출발/이원시외버스정류장/도착/','arrivals':[]}}">
-									옥천군
-								</option>
-															<option
-																				value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/구-영동/출발/남청주정류소/도착/','arrivals':[]}}">
-									청주시 서원구
-								</option>
-															<option
-																				selected="selected"
-										data-terminal="청주시외버스터미널"
-																				value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/구-영동/출발/청주시외버스터미널/도착/','arrivals':[]}}">
-									청주시 흥덕구
-								</option>
-													</optgroup>
-									</select>
-						<select class="cArrivalTerminal">
-				<option value="">터미널 선택</option>
-			</select>
-		</div>
-		<button type="button" class="btn cSubmit">조회</button>
-	</fieldset>
-	<p class="dHelp">
-		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
-	</p>
-	</div>
-	<div class="dDisclaimer">
-		<p>
-			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
-			제공합니다.<br/>
-			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
-			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
-		</p>
-							<dl>
-				<dt>청주시외버스터미널</dt>
-				<dd>
-					<a href="http://www.cjterminal.com/" target="_blank">http://www.cjterminal.com/</a>
-				</dd>
-			</dl>
+			<div class="dReturn">
+			<div>
+				<h3>돌아오는 시간표</h3>
+				<div class="dReturnInfo">
+					(
+					총 <span>14회</span> 운행
+					<dl>
+						<dt>첫차</dt>
+						<dd>06:45</dd>
+						<dt>막차</dt>
+						<dd>21:15</dd>
+					</dl>
+					)
+				</div>
+				<a class="btn btn-flat" href="https://transportation.asamaru.net/시외버스/시간표/부산신평터미널/출발/거제-한화오션남문/도착/">바로가기</a>
 			</div>
+		</div>
+	
+	<hr/>
+	<h3 id="daleunnoseon" class="toc anchor">다른노선</h3>
+	<div class="cGoTimetable">
+	<fieldset class="clearfix">
+		<legend>운행시간표/요금</legend>
+
+		<div class="cDeparture">
+							<span class="dArea">경상남도 거제시</span>
+				<span class="dTerminal">거제(한화오션남문)</span>
+					</div>
+
+		<span class="dArrow">→</span>
+
+		<div class="cArrival">
+							<select class="cArrivalArea">
+					<option value="">도착지</option>
+											<optgroup label="부산광역시">
+															<option
+																				value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/김해공항정류소/도착/','arrivals':[]}}">
+									강서구
+								</option>
+															<option
+																				value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산서부버스터미널/도착/','arrivals':[]}}">
+									사상구
+								</option>
+															<option
+																				selected="selected"
+										data-terminal="부산신평정류소"
+																				value="{'부산신평정류소':{'link':'/시외버스/터미널/부산신평터미널/','schedule':'/시외버스/시간표/거제-한화오션남문/출발/부산신평터미널/도착/','arrivals':[]}}">
+									사하구
+								</option>
+													</optgroup>
+									</select>
+						<select class="cArrivalTerminal">
+				<option value="">터미널 선택</option>
+			</select>
+		</div>
+		<button type="button" class="btn cSubmit">조회</button>
+	</fieldset>
+	<p class="dHelp">
+		출발 터미널과 도착 터미널을 지정하시면 구간의 시간표 및 요금을 확인하실 수 있습니다.
+	</p>
+	</div>
+	<div class="dDisclaimer">
+		<p>
+			버스 시간표 데이터는 국토교통부가 공공데이터포털 ( <a href="https://www.data.go.kr/" target="_blank">www.data.go.kr</a> ) 을 통해
+			제공합니다.<br/>
+			요금 및 시간표는 평일, 어른 1명 기준이며 운행 정보는 터미널 사정에 의해 실제와 다를 수 있습니다.<br/>
+			보다 정확한 확인은 각 터미널 홈페이지를 이용해 주시기 바랍니다.
+		</p>
+					</div>
+</section>]]></content></entry>
+<entry><id>https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B2%BD%EC%A0%9C%EA%B3%BC%ED%95%99%EC%A7%84%ED%9D%A5%EC%9B%90/</id><title type="html">경제과학진흥원 시외버스 시간표</title><link rel="alternate" type="text/html" href="https://transportation.asamaru.net/%EC%8B%9C%EC%99%B8%EB%B2%84%EC%8A%A4/%EC%8B%9C%EA%B0%84%ED%91%9C/%EA%B2%BD%EC%A0%9C%EA%B3%BC%ED%95%99%EC%A7%84%ED%9D%A5%EC%9B%90/"/><published>2025-07-22T00:24:30+09:00</published><updated>2025-07-14T01:01:19+09:00</updated><author><name>아사마루</name><uri>https://transportation.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[경제과학진흥원 상세안내 인천종합터미널 터미널 안내 시간표 상세보기 출발 도착 등급 요금(어른) 소요시간 11:32 12:40 일반 3,400 원 01:08 16:37 17:45 일반 3,400 원 01:08 22:12 23:20 일반 3,400 원 01:08]]></summary><content type="html"><![CDATA[<section class="cTerminalSchedulesBox">
+	<h3 class="guide"><a href="https://transportation.asamaru.net/시외버스/터미널/경제과학진흥원/"><strong>경제과학진흥원</strong> 상세안내</a></h3>
+		<ul class="dSchedules">
+							<li>
+				<table class="cTimetable">
+					<caption>
+						<h3 id="incheonjonghapteomineol" class="toc">인천종합터미널</h3>
+						<a href="https://transportation.asamaru.net/시외버스/터미널/인천종합터미널/" class="btn btn-flat dInfo">터미널 안내</a>
+						<a href="https://transportation.asamaru.net/시외버스/시간표/경제과학진흥원/출발/인천종합터미널/도착/" class="btn btn-flat dSchedule">시간표 상세보기</a>
+
+						
+						
+						
+						
+						
+						
+						
+					</caption>
+					<thead>
+					<tr>
+						<th class="departure">출발</th>
+						<th class="arrival">도착</th>
+						<th class="grade">등급</th>
+						<th class="fare">요금(어른)</th>
+						<th class="duration">소요시간</th>
+					</tr>
+					</thead>
+					<tbody>
+																								<tr>
+								<td class="departure">11:32</td>
+								<td class="arrival">12:40</td>
+								<td class="grade">일반</td>
+								<td class="fare">3,400 <span>원</span></td>
+								<td class="duration">01:08</td>
+							</tr>
+													<tr>
+								<td class="departure">16:37</td>
+								<td class="arrival">17:45</td>
+								<td class="grade">일반</td>
+								<td class="fare">3,400 <span>원</span></td>
+								<td class="duration">01:08</td>
+							</tr>
+													<tr>
+								<td class="departure">22:12</td>
+								<td class="arrival">23:20</td>
+								<td class="grade">일반</td>
+								<td class="fare">3,400 <span>원</span></td>
+								<td class="duration">01:08</td>
+							</tr>
+																</tbody>
+				</table>
+			</li>
+			</ul>
 </section>]]></content></entry>
 
 
