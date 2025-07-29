@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>전국 고속/시외 버스 운행정보</title>
+	<id>https://transportation.asamaru.net/</id>
+	<updated>2024-02-27T14:24:12+09:00</updated>
+	<subtitle>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표 정보</subtitle>
+	<link href="https://transportation.asamaru.net/" rel="alternate" type="text/html" />
+	<link href="https://transportation.asamaru.net/atom-all.xml" rel="self" type="application/atom+xml" />
+	<author>
+		<name>아사마루</name>
+		<uri>https://transportation.asamaru.net/</uri>
+		<email>asamaru@asamaru.net</email>
+	</author>
+</feed>
