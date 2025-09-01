@@ -58,6 +58,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/쏠비치진도터미널/출발/광주종합버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/쏠비치진도터미널/출발/광주종합버스터미널/도착/",
 				"name": "쏠비치진도정류소에서 광주종합버스터미널(유.스퀘어) 가는 시외버스 시간표",
 				"description": "2025.08.30. 쏠비치진도정류소에서 광주종합버스터미널(유.스퀘어) 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 12:45, 막차 : 12:45, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -87,10 +88,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/쏠비치진도터미널/출발/광주종합버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_ssolbichijindojeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/쏠비치진도터미널/#terminal_ssolbichijindojeonglyuso",
 						"name": "쏠비치진도정류소",
 						"address": "전라남도 진도군 의신면 초사리 1207",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo",
 						"name": "광주종합버스터미널(유.스퀘어)",
 						"address": "광주광역시 서구 광천동 49-1",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_ssolbichijindojeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/쏠비치진도터미널/#terminal_ssolbichijindojeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo"
 						},
 						"departureTime": "2025-09-01T12:45:00+09:00",
 						"arrivalTime": "2025-09-01T15:46:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -289,14 +290,14 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="광주광역시">
-											<option value="{'송정역시외버스정류장(광주 광산구)':{'link':'/시외버스/터미널/광주송정역시외버스정류소/','schedule':'/시외버스/시간표/쏠비치진도터미널/출발/광주송정역시외버스정류소/도착/','arrivals':[]}}">광산구</option>
-											<option selected="selected" data-terminal="광주종합버스터미널(유.스퀘어)" value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/쏠비치진도터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'송정역시외버스정류장(광주 광산구)':{'schedule':'/시외버스/시간표/쏠비치진도터미널/출발/광주송정역시외버스정류소/도착/'}}">광산구</option>
+											<option selected="selected" data-terminal="광주종합버스터미널(유.스퀘어)" value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/쏠비치진도터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'남악정류소':{'link':'/시외버스/터미널/남악정류소/','schedule':'/시외버스/시간표/쏠비치진도터미널/출발/남악정류소/도착/','arrivals':[]}}">무안군</option>
-											<option value="{'삼호정류소':{'link':'/시외버스/터미널/삼호버스종합터미널/','schedule':'/시외버스/시간표/쏠비치진도터미널/출발/삼호버스종합터미널/도착/','arrivals':[]}}">영암군</option>
-											<option value="{'녹진':{'link':'/시외버스/터미널/녹진/','schedule':'/시외버스/시간표/쏠비치진도터미널/출발/녹진/도착/','arrivals':[]},'진도공용터미널':{'link':'/시외버스/터미널/진도공용터미널/','schedule':'/시외버스/시간표/쏠비치진도터미널/출발/진도공용터미널/도착/','arrivals':[]}}">진도군</option>
-											<option value="{'우수영정류소':{'link':'/시외버스/터미널/우수영정류소/','schedule':'/시외버스/시간표/쏠비치진도터미널/출발/우수영정류소/도착/','arrivals':[]}}">해남군</option>
+											<option value="{'남악정류소':{'schedule':'/시외버스/시간표/쏠비치진도터미널/출발/남악정류소/도착/'}}">무안군</option>
+											<option value="{'삼호정류소':{'schedule':'/시외버스/시간표/쏠비치진도터미널/출발/삼호버스종합터미널/도착/'}}">영암군</option>
+											<option value="{'녹진':{'schedule':'/시외버스/시간표/쏠비치진도터미널/출발/녹진/도착/'},'진도공용터미널':{'schedule':'/시외버스/시간표/쏠비치진도터미널/출발/진도공용터미널/도착/'}}">진도군</option>
+											<option value="{'우수영정류소':{'schedule':'/시외버스/시간표/쏠비치진도터미널/출발/우수영정류소/도착/'}}">해남군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

@@ -55,6 +55,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/장승포시외/출발/무전동/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/장승포시외/출발/무전동/도착/",
 				"name": "장승포시외(능포동)에서 무전동 가는 시외버스 시간표",
 				"description": "2025.08.26. 장승포시외(능포동)에서 무전동 가는 시외버스는 하루 2 회 운행합니다. 첫차 : 06:50, 막차 : 18:30, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -84,10 +85,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/장승포시외/출발/무전동/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_jangseungposioe_neungpodong",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/장승포시외/#terminal_jangseungposioe_neungpodong",
 						"name": "장승포시외(능포동)",
 						"address": "경상남도 거제시 능포동 633-215",
 						"geo": {
@@ -98,7 +99,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_mujeondong",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/무전동/#terminal_mujeondong",
 						"name": "무전동",
 						"address": "경상남도 통영시 무전동 357",
 						"geo": {
@@ -111,10 +112,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_jangseungposioe_neungpodong"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/장승포시외/#terminal_jangseungposioe_neungpodong"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_mujeondong"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/무전동/#terminal_mujeondong"
 						},
 						"departureTime": "2025-08-18T06:50:00+09:00",
 						"arrivalTime": "2025-08-18T07:46:00+09:00",
@@ -128,10 +129,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_jangseungposioe_neungpodong"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/장승포시외/#terminal_jangseungposioe_neungpodong"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_mujeondong"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/무전동/#terminal_mujeondong"
 						},
 						"departureTime": "2025-08-18T18:30:00+09:00",
 						"arrivalTime": "2025-08-18T19:26:00+09:00",
@@ -144,8 +145,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -293,17 +294,17 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="부산광역시">
-											<option value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/장승포시외/출발/김해공항정류소/도착/','arrivals':[]}}">강서구</option>
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/장승포시외/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
-											<option value="{'부산신평정류소':{'link':'/시외버스/터미널/부산신평터미널/','schedule':'/시외버스/시간표/장승포시외/출발/부산신평터미널/도착/','arrivals':[]}}">사하구</option>
+											<option value="{'김해공항정류소':{'schedule':'/시외버스/시간표/장승포시외/출발/김해공항정류소/도착/'}}">강서구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/장승포시외/출발/부산서부버스터미널/도착/'}}">사상구</option>
+											<option value="{'부산신평정류소':{'schedule':'/시외버스/시간표/장승포시외/출발/부산신평터미널/도착/'}}">사하구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'고현버스터미널':{'link':'/시외버스/터미널/고현버스터미널/','schedule':'/시외버스/시간표/장승포시외/출발/고현버스터미널/도착/','arrivals':[]},'사곡(거제)':{'link':'/시외버스/터미널/사곡/','schedule':'/시외버스/시간표/장승포시외/출발/사곡/도착/','arrivals':[]}}">거제시</option>
-											<option value="{'고성여객자동차터미널':{'link':'/시외버스/터미널/고성여객자동차터미널/','schedule':'/시외버스/시간표/장승포시외/출발/고성여객자동차터미널/도착/','arrivals':[]},'배둔시외버스터미널':{'link':'/시외버스/터미널/배둔시외버스터미널/','schedule':'/시외버스/시간표/장승포시외/출발/배둔시외버스터미널/도착/','arrivals':[]}}">고성군</option>
-											<option value="{'사천터미널':{'link':'/시외버스/터미널/사천터미널/','schedule':'/시외버스/시간표/장승포시외/출발/사천터미널/도착/','arrivals':[]}}">사천시</option>
-											<option value="{'마산남부시외버스터미널':{'link':'/시외버스/터미널/마산남부시외버스터미널/','schedule':'/시외버스/시간표/장승포시외/출발/마산남부시외버스터미널/도착/','arrivals':[]},'진동':{'link':'/시외버스/터미널/진동/','schedule':'/시외버스/시간표/장승포시외/출발/진동/도착/','arrivals':[]}}">창원시 마산합포구</option>
-											<option value="{'창원종합버스터미널':{'link':'/시외버스/터미널/창원종합버스터미널/','schedule':'/시외버스/시간표/장승포시외/출발/창원종합버스터미널/도착/','arrivals':[]}}">창원시 의창구</option>
-											<option selected="selected" data-terminal="무전동" value="{'무전동':{'link':'/시외버스/터미널/무전동/','schedule':'/시외버스/시간표/장승포시외/출발/무전동/도착/','arrivals':[]},'통영종합버스터미널':{'link':'/시외버스/터미널/통영종합버스터미널/','schedule':'/시외버스/시간표/장승포시외/출발/통영종합버스터미널/도착/','arrivals':[]}}">통영시</option>
+											<option value="{'고현버스터미널':{'schedule':'/시외버스/시간표/장승포시외/출발/고현버스터미널/도착/'},'사곡(거제)':{'schedule':'/시외버스/시간표/장승포시외/출발/사곡/도착/'}}">거제시</option>
+											<option value="{'고성여객자동차터미널':{'schedule':'/시외버스/시간표/장승포시외/출발/고성여객자동차터미널/도착/'},'배둔시외버스터미널':{'schedule':'/시외버스/시간표/장승포시외/출발/배둔시외버스터미널/도착/'}}">고성군</option>
+											<option value="{'사천터미널':{'schedule':'/시외버스/시간표/장승포시외/출발/사천터미널/도착/'}}">사천시</option>
+											<option value="{'마산남부시외버스터미널':{'schedule':'/시외버스/시간표/장승포시외/출발/마산남부시외버스터미널/도착/'},'진동':{'schedule':'/시외버스/시간표/장승포시외/출발/진동/도착/'}}">창원시 마산합포구</option>
+											<option value="{'창원종합버스터미널':{'schedule':'/시외버스/시간표/장승포시외/출발/창원종합버스터미널/도착/'}}">창원시 의창구</option>
+											<option selected="selected" data-terminal="무전동" value="{'무전동':{'schedule':'/시외버스/시간표/장승포시외/출발/무전동/도착/'},'통영종합버스터미널':{'schedule':'/시외버스/시간표/장승포시외/출발/통영종합버스터미널/도착/'}}">통영시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/안양시외버스정류장-하행/출발/대소버스공동정류장/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/안양시외버스정류장-하행/출발/대소버스공동정류장/도착/",
 				"name": "안양시외버스정류장 하행에서 대소버스정류장 가는 시외버스 시간표",
 				"description": "2024.03.20. 안양시외버스정류장 하행에서 대소버스정류장 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 15:20, 막차 : 15:20, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/안양시외버스정류장-하행/출발/대소버스공동정류장/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_anyangsioebeoseujeonglyujang_hahaeng",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/안양시외버스정류장-하행/#terminal_anyangsioebeoseujeonglyujang_hahaeng",
 						"name": "안양시외버스정류장 하행",
 						"address": "경기도 안양시 만안구 안양동 695-208",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_daesobeoseujeonglyujang",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/대소버스공동정류장/#terminal_daesobeoseujeonglyujang",
 						"name": "대소버스정류장",
 						"address": "충청북도 음성군 대소면 오류리 405-6",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_anyangsioebeoseujeonglyujang_hahaeng"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/안양시외버스정류장-하행/#terminal_anyangsioebeoseujeonglyujang_hahaeng"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_daesobeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/대소버스공동정류장/#terminal_daesobeoseujeonglyujang"
 						},
 						"departureTime": "2024-03-20T15:20:00+09:00",
 						"arrivalTime": "2024-03-20T17:06:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -282,37 +283,37 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경기도">
-											<option value="{'가평터미널':{'link':'/시외버스/터미널/가평시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/가평시외버스터미널/도착/','arrivals':[]},'대성리정류소':{'link':'/시외버스/터미널/대성리정류소/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/대성리정류소/도착/','arrivals':[]},'청평터미널':{'link':'/시외버스/터미널/청평터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/청평터미널/도착/','arrivals':[]}}">가평군</option>
-											<option value="{'부천터미널소풍':{'link':'/시외버스/터미널/부천종합터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/부천종합터미널/도착/','arrivals':[]}}">부천시 원미구</option>
-											<option value="{'고천시외버스정류장':{'link':'/시외버스/터미널/고천터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/고천터미널/도착/','arrivals':[]}}">의왕시</option>
+											<option value="{'가평터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/가평시외버스터미널/도착/'},'대성리정류소':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/대성리정류소/도착/'},'청평터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/청평터미널/도착/'}}">가평군</option>
+											<option value="{'부천터미널소풍':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/부천종합터미널/도착/'}}">부천시 원미구</option>
+											<option value="{'고천시외버스정류장':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/고천터미널/도착/'}}">의왕시</option>
 										</optgroup>
 										<optgroup label="세종특별자치시">
-											<option value="{'세종고속시외버스터미널':{'link':'/시외버스/터미널/세종고속시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/세종고속시외버스터미널/도착/','arrivals':[]},'정부세종청사정류장':{'link':'/시외버스/터미널/세종청사정류소-상행/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/세종청사정류소-상행/도착/','arrivals':[]}}">세종특별자치시</option>
+											<option value="{'세종고속시외버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/세종고속시외버스터미널/도착/'},'정부세종청사정류장':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/세종청사정류소-상행/도착/'}}">세종특별자치시</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/강릉시외버스터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'속초시외버스터미널':{'link':'/시외버스/터미널/속초시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/속초시외버스터미널/도착/','arrivals':[]}}">속초시</option>
-											<option value="{'영월버스터미널':{'link':'/시외버스/터미널/영월시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/영월시외버스터미널/도착/','arrivals':[]}}">영월군</option>
-											<option value="{'문막버스정류소':{'link':'/시외버스/터미널/문막정류소/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/문막정류소/도착/','arrivals':[]},'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
-											<option value="{'고한사북공영버스터미널':{'link':'/시외버스/터미널/고한-사북공용버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/고한-사북공용버스터미널/도착/','arrivals':[]}}">정선군</option>
-											<option value="{'강촌버스승강장':{'link':'/시외버스/터미널/강촌정류소/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/강촌정류소/도착/','arrivals':[]},'춘천시외버스터미널':{'link':'/시외버스/터미널/춘천시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/춘천시외버스터미널/도착/','arrivals':[]}}">춘천시</option>
-											<option value="{'태백버스터미널':{'link':'/시외버스/터미널/태백시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/태백시외버스터미널/도착/','arrivals':[]}}">태백시</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/강릉시외버스터미널/도착/'}}">강릉시</option>
+											<option value="{'속초시외버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/속초시외버스터미널/도착/'}}">속초시</option>
+											<option value="{'영월버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/영월시외버스터미널/도착/'}}">영월군</option>
+											<option value="{'문막버스정류소':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/문막정류소/도착/'},'원주시외버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/원주시외버스터미널/도착/'}}">원주시</option>
+											<option value="{'고한사북공영버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/고한-사북공용버스터미널/도착/'}}">정선군</option>
+											<option value="{'강촌버스승강장':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/강촌정류소/도착/'},'춘천시외버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/춘천시외버스터미널/도착/'}}">춘천시</option>
+											<option value="{'태백버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/태백시외버스터미널/도착/'}}">태백시</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option selected="selected" data-terminal="대소버스정류장" value="{'감곡공용정류장':{'link':'/시외버스/터미널/감곡시외터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/감곡시외터미널/도착/','arrivals':[]}}">음성군</option>
-											<option value="{'제천버스터미널':{'link':'/시외버스/터미널/제천버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/제천버스터미널/도착/','arrivals':[]}}">제천시</option>
-											<option value="{'건국터미널':{'link':'/시외버스/터미널/건국터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/건국터미널/도착/','arrivals':[]},'교통대학정류장':{'link':'/시외버스/터미널/한국교통대/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/한국교통대/도착/','arrivals':[]},'충주공용버스터미널':{'link':'/시외버스/터미널/충주공용버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/충주공용버스터미널/도착/','arrivals':[]}}">충주시</option>
+											<option selected="selected" data-terminal="대소버스정류장" value="{'감곡공용정류장':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/감곡시외터미널/도착/'}}">음성군</option>
+											<option value="{'제천버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/제천버스터미널/도착/'}}">제천시</option>
+											<option value="{'건국터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/건국터미널/도착/'},'교통대학정류장':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/한국교통대/도착/'},'충주공용버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/충주공용버스터미널/도착/'}}">충주시</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'안동터미널':{'link':'/시외버스/터미널/안동터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/안동터미널/도착/','arrivals':[]}}">안동시</option>
-											<option value="{'영주종합터미널':{'link':'/시외버스/터미널/영주종합터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/영주종합터미널/도착/','arrivals':[]},'풍기IC정류소':{'link':'/시외버스/터미널/풍기ic시외버스정류장/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/풍기ic시외버스정류장/도착/','arrivals':[]}}">영주시</option>
+											<option value="{'안동터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/안동터미널/도착/'}}">안동시</option>
+											<option value="{'영주종합터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/영주종합터미널/도착/'},'풍기IC정류소':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/풍기ic시외버스정류장/도착/'}}">영주시</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'마천정류소':{'link':'/시외버스/터미널/마천정류소/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/마천정류소/도착/','arrivals':[]},'백무동시외버스정류소':{'link':'/시외버스/터미널/백무동시외버스정류소/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/백무동시외버스정류소/도착/','arrivals':[]},'서상버스터미널':{'link':'/시외버스/터미널/서상정류소/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/서상정류소/도착/','arrivals':[]},'함양시외버스터미널':{'link':'/시외버스/터미널/함양시외버스터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/함양시외버스터미널/도착/','arrivals':[]}}">함양군</option>
+											<option value="{'마천정류소':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/마천정류소/도착/'},'백무동시외버스정류소':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/백무동시외버스정류소/도착/'},'서상버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/서상정류소/도착/'},'함양시외버스터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/함양시외버스터미널/도착/'}}">함양군</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'인월지리산공용터미널':{'link':'/시외버스/터미널/인월지리산공용터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/인월지리산공용터미널/도착/','arrivals':[]}}">남원시</option>
-											<option value="{'전주시외버스공용터미널':{'link':'/시외버스/터미널/전주시외버스공용터미널/','schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/전주시외버스공용터미널/도착/','arrivals':[]}}">전주시 덕진구</option>
+											<option value="{'인월지리산공용터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/인월지리산공용터미널/도착/'}}">남원시</option>
+											<option value="{'전주시외버스공용터미널':{'schedule':'/시외버스/시간표/안양시외버스정류장-하행/출발/전주시외버스공용터미널/도착/'}}">전주시 덕진구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

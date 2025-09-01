@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/통영종합버스터미널/출발/광주종합버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/통영종합버스터미널/출발/광주종합버스터미널/도착/",
 				"name": "통영종합버스터미널에서 광주종합버스터미널(유.스퀘어) 가는 시외버스 시간표",
 				"description": "2025.08.26. 통영종합버스터미널에서 광주종합버스터미널(유.스퀘어) 가는 시외버스는 하루 2 회 운행합니다. 첫차 : 11:50, 막차 : 17:50, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/통영종합버스터미널/출발/광주종합버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_tongyeongjonghapbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/통영종합버스터미널/#terminal_tongyeongjonghapbeoseuteomineol",
 						"name": "통영종합버스터미널",
 						"address": "경상남도 통영시 광도면 죽림리 1569",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo",
 						"name": "광주종합버스터미널(유.스퀘어)",
 						"address": "광주광역시 서구 광천동 49-1",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_tongyeongjonghapbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/통영종합버스터미널/#terminal_tongyeongjonghapbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo"
 						},
 						"departureTime": "2025-08-27T11:50:00+09:00",
 						"arrivalTime": "2025-08-27T14:11:00+09:00",
@@ -132,10 +133,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_tongyeongjonghapbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/통영종합버스터미널/#terminal_tongyeongjonghapbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/광주종합버스터미널/#terminal_kwangjujonghapbeoseuteomineol_yu_seukweeo"
 						},
 						"departureTime": "2025-08-27T17:50:00+09:00",
 						"arrivalTime": "2025-08-27T20:11:00+09:00",
@@ -148,8 +149,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -316,54 +317,54 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/통영종합버스터미널/출발/서울고속버스터미널/도착/','arrivals':[]},'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/통영종합버스터미널/출발/서울고속버스터미널/도착/'},'서울남부터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'성남종합버스터미널':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/성남종합버스터미널/도착/','arrivals':[]}}">성남시 분당구</option>
-											<option value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'오산역환승센터':{'link':'/시외버스/터미널/오산역환승센터/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/오산역환승센터/도착/','arrivals':[]}}">오산시</option>
+											<option value="{'성남종합버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/성남종합버스터미널/도착/'}}">성남시 분당구</option>
+											<option value="{'수원버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'오산역환승센터':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/오산역환승센터/도착/'}}">오산시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/대전복합터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'대구서부정류장':{'link':'/시외버스/터미널/서부정류장/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/서부정류장/도착/','arrivals':[]}}">남구</option>
+											<option value="{'대구서부정류장':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/서부정류장/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="울산광역시">
-											<option value="{'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/울산시외버스터미널/도착/','arrivals':[]}}">남구</option>
+											<option value="{'울산시외버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/울산시외버스터미널/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/김해공항정류소/도착/','arrivals':[]}}">강서구</option>
-											<option value="{'부산종합버스터미널':{'link':'/시외버스/터미널/부산종합버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">금정구</option>
-											<option value="{'부산동래시외버스정류소':{'link':'/시외버스/터미널/동래시외버스정류소/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/동래시외버스정류소/도착/','arrivals':[]}}">동래구</option>
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
-											<option value="{'부산해운대시외버스정류소':{'link':'/시외버스/터미널/해운대시외버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/해운대시외버스터미널/도착/','arrivals':[]}}">해운대구</option>
+											<option value="{'김해공항정류소':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/김해공항정류소/도착/'}}">강서구</option>
+											<option value="{'부산종합버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/부산종합버스터미널/도착/'}}">금정구</option>
+											<option value="{'부산동래시외버스정류소':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/동래시외버스정류소/도착/'}}">동래구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/부산서부버스터미널/도착/'}}">사상구</option>
+											<option value="{'부산해운대시외버스정류소':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/해운대시외버스터미널/도착/'}}">해운대구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option selected="selected" data-terminal="광주종합버스터미널(유.스퀘어)" value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option selected="selected" data-terminal="광주종합버스터미널(유.스퀘어)" value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'인삼랜드휴게소(하남방향)고속버스환승정류소':{'link':'/고속버스/터미널/인삼랜드휴게소-하남방향-고속버스환승정류소/','schedule':'/고속버스/시간표/통영종합버스터미널/출발/인삼랜드휴게소-하남방향-고속버스환승정류소/도착/','arrivals':[]}}">금산군</option>
+											<option value="{'인삼랜드휴게소(하남방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/통영종합버스터미널/출발/인삼랜드휴게소-하남방향-고속버스환승정류소/도착/'}}">금산군</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'경주시외버스터미널':{'link':'/시외버스/터미널/경주시외버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/경주시외버스터미널/도착/','arrivals':[]}}">경주시</option>
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/포항터미널/도착/','arrivals':[]}}">포항시 남구</option>
+											<option value="{'경주시외버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/경주시외버스터미널/도착/'}}">경주시</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/포항터미널/도착/'}}">포항시 남구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'고현버스터미널':{'link':'/시외버스/터미널/고현버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/고현버스터미널/도착/','arrivals':[]},'사곡(거제)':{'link':'/시외버스/터미널/사곡/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/사곡/도착/','arrivals':[]},'옥포정류소':{'link':'/시외버스/터미널/옥포터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/옥포터미널/도착/','arrivals':[]},'장승포시외버스정류장':{'link':'/시외버스/터미널/장승포시외버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/장승포시외버스터미널/도착/','arrivals':[]}}">거제시</option>
-											<option value="{'고성여객자동차터미널':{'link':'/시외버스/터미널/고성여객자동차터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/고성여객자동차터미널/도착/','arrivals':[]},'배둔시외버스터미널':{'link':'/시외버스/터미널/배둔시외버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/배둔시외버스터미널/도착/','arrivals':[]},'부포':{'link':'/시외버스/터미널/부포/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/부포/도착/','arrivals':[]},'상리(고성)':{'link':'/시외버스/터미널/상리-고성/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/상리-고성/도착/','arrivals':[]}}">고성군</option>
-											<option value="{'김해여객터미널':{'link':'/시외버스/터미널/김해여객터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/김해여객터미널/도착/','arrivals':[]},'장유시외버스정류소':{'link':'/시외버스/터미널/장유정류소/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/장유정류소/도착/','arrivals':[]}}">김해시</option>
-											<option value="{'사천공항':{'link':'/시외버스/터미널/사천공항/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/사천공항/도착/','arrivals':[]},'사천터미널':{'link':'/시외버스/터미널/사천터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/사천터미널/도착/','arrivals':[]}}">사천시</option>
-											<option value="{'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/진주시외버스터미널/도착/','arrivals':[]}}">진주시</option>
-											<option value="{'마산남부시외버스터미널':{'link':'/시외버스/터미널/마산남부시외버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/마산남부시외버스터미널/도착/','arrivals':[]},'진동':{'link':'/시외버스/터미널/진동/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/진동/도착/','arrivals':[]}}">창원시 마산합포구</option>
-											<option value="{'남산시외버스정류소':{'link':'/시외버스/터미널/남산시외버스정류소/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/남산시외버스정류소/도착/','arrivals':[]}}">창원시 성산구</option>
-											<option value="{'창원종합버스터미널':{'link':'/시외버스/터미널/창원종합버스터미널/','schedule':'/시외버스/시간표/통영종합버스터미널/출발/창원종합버스터미널/도착/','arrivals':[]}}">창원시 의창구</option>
+											<option value="{'고현버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/고현버스터미널/도착/'},'사곡(거제)':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/사곡/도착/'},'옥포정류소':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/옥포터미널/도착/'},'장승포시외버스정류장':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/장승포시외버스터미널/도착/'}}">거제시</option>
+											<option value="{'고성여객자동차터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/고성여객자동차터미널/도착/'},'배둔시외버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/배둔시외버스터미널/도착/'},'부포':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/부포/도착/'},'상리(고성)':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/상리-고성/도착/'}}">고성군</option>
+											<option value="{'김해여객터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/김해여객터미널/도착/'},'장유시외버스정류소':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/장유정류소/도착/'}}">김해시</option>
+											<option value="{'사천공항':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/사천공항/도착/'},'사천터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/사천터미널/도착/'}}">사천시</option>
+											<option value="{'진주시외버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/진주시외버스터미널/도착/'}}">진주시</option>
+											<option value="{'마산남부시외버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/마산남부시외버스터미널/도착/'},'진동':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/진동/도착/'}}">창원시 마산합포구</option>
+											<option value="{'남산시외버스정류소':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/남산시외버스정류소/도착/'}}">창원시 성산구</option>
+											<option value="{'창원종합버스터미널':{'schedule':'/시외버스/시간표/통영종합버스터미널/출발/창원종합버스터미널/도착/'}}">창원시 의창구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

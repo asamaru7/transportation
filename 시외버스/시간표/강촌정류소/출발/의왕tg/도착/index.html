@@ -56,6 +56,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/강촌정류소/출발/의왕tg/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/강촌정류소/출발/의왕tg/도착/",
 				"name": "강촌버스승강장에서 의왕TG 가는 시외버스 시간표",
 				"description": "2025.08.31. 강촌버스승강장에서 의왕TG 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 09:10, 막차 : 18:10, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -85,10 +86,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/강촌정류소/출발/의왕tg/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kangchonbeoseuseungkangjang",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/강촌정류소/#terminal_kangchonbeoseuseungkangjang",
 						"name": "강촌버스승강장",
 						"address": "강원특별자치도 춘천시 서면 당림리 301",
 						"geo": {
@@ -99,7 +100,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_uiwangtg",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/의왕tg/#terminal_uiwangtg",
 						"name": "의왕TG",
 						"address": "경기도 의왕시 왕곡동 249-1",
 						"geo": {
@@ -112,10 +113,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_kangchonbeoseuseungkangjang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/강촌정류소/#terminal_kangchonbeoseuseungkangjang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_uiwangtg"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/의왕tg/#terminal_uiwangtg"
 						},
 						"departureTime": "2025-09-01T09:10:00+09:00",
 						"arrivalTime": "2025-09-01T11:21:00+09:00",
@@ -129,10 +130,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_kangchonbeoseuseungkangjang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/강촌정류소/#terminal_kangchonbeoseuseungkangjang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_uiwangtg"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/의왕tg/#terminal_uiwangtg"
 						},
 						"departureTime": "2025-09-01T13:40:00+09:00",
 						"arrivalTime": "2025-09-01T15:51:00+09:00",
@@ -146,10 +147,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_kangchonbeoseuseungkangjang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/강촌정류소/#terminal_kangchonbeoseuseungkangjang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_uiwangtg"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/의왕tg/#terminal_uiwangtg"
 						},
 						"departureTime": "2025-09-01T18:10:00+09:00",
 						"arrivalTime": "2025-09-01T20:21:00+09:00",
@@ -162,8 +163,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -321,15 +322,15 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/강촌정류소/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/강촌정류소/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'가평터미널':{'link':'/시외버스/터미널/가평시외버스터미널/','schedule':'/시외버스/시간표/강촌정류소/출발/가평시외버스터미널/도착/','arrivals':[]},'대성리정류소':{'link':'/시외버스/터미널/대성리정류소/','schedule':'/시외버스/시간표/강촌정류소/출발/대성리정류소/도착/','arrivals':[]},'청평터미널':{'link':'/시외버스/터미널/청평터미널/','schedule':'/시외버스/시간표/강촌정류소/출발/청평터미널/도착/','arrivals':[]}}">가평군</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/강촌정류소/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option selected="selected" data-terminal="의왕TG" value="{'의왕TG':{'link':'/시외버스/터미널/의왕tg/','schedule':'/시외버스/시간표/강촌정류소/출발/의왕tg/도착/','arrivals':[]}}">의왕시</option>
+											<option value="{'가평터미널':{'schedule':'/시외버스/시간표/강촌정류소/출발/가평시외버스터미널/도착/'},'대성리정류소':{'schedule':'/시외버스/시간표/강촌정류소/출발/대성리정류소/도착/'},'청평터미널':{'schedule':'/시외버스/시간표/강촌정류소/출발/청평터미널/도착/'}}">가평군</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/강촌정류소/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option selected="selected" data-terminal="의왕TG" value="{'의왕TG':{'schedule':'/시외버스/시간표/강촌정류소/출발/의왕tg/도착/'}}">의왕시</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'당림리':{'link':'/시외버스/터미널/당림리/','schedule':'/시외버스/시간표/강촌정류소/출발/당림리/도착/','arrivals':[]},'서천1리':{'link':'/시외버스/터미널/서천1리/','schedule':'/시외버스/시간표/강촌정류소/출발/서천1리/도착/','arrivals':[]},'서천2리':{'link':'/시외버스/터미널/서천2리/','schedule':'/시외버스/시간표/강촌정류소/출발/서천2리/도착/','arrivals':[]},'안보리':{'link':'/시외버스/터미널/안보리/','schedule':'/시외버스/시간표/강촌정류소/출발/안보리/도착/','arrivals':[]},'춘천시외버스터미널':{'link':'/시외버스/터미널/춘천시외버스터미널/','schedule':'/시외버스/시간표/강촌정류소/출발/춘천시외버스터미널/도착/','arrivals':[]}}">춘천시</option>
+											<option value="{'당림리':{'schedule':'/시외버스/시간표/강촌정류소/출발/당림리/도착/'},'서천1리':{'schedule':'/시외버스/시간표/강촌정류소/출발/서천1리/도착/'},'서천2리':{'schedule':'/시외버스/시간표/강촌정류소/출발/서천2리/도착/'},'안보리':{'schedule':'/시외버스/시간표/강촌정류소/출발/안보리/도착/'},'춘천시외버스터미널':{'schedule':'/시외버스/시간표/강촌정류소/출발/춘천시외버스터미널/도착/'}}">춘천시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

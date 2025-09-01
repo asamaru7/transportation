@@ -51,6 +51,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/터미널/예천시외버스정류장/",
 				"url": "https://transportation.asamaru.net/고속버스/터미널/예천시외버스정류장/",
 				"name": "예천시외버스터미널 운행노선 (고속버스)",
 				"description": "2025.08.29. 예천시외버스터미널(고속버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -80,24 +81,22 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/터미널/예천시외버스정류장/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_yecheonsioebeoseuteomineol",
-						"name": "예천시외버스터미널",
-						"address": "경상북도 예천군 예천읍 대심리 66-1",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 36.6483167,
-							"longitude": 128.4431192
-						},
-						"telephone": "054-654-3798"
-					}
-				]
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/고속버스/터미널/예천시외버스정류장/#terminal_yecheonsioebeoseuteomineol",
+					"name": "예천시외버스터미널",
+					"address": "경상북도 예천군 예천읍 대심리 66-1",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 36.6483167,
+						"longitude": 128.4431192
+					},
+					"telephone": "054-654-3798"
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -154,40 +153,40 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/고속버스/터미널/동서울종합터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/고속버스/터미널/인천공항2터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'동대구터미널':{'link':'/고속버스/터미널/동대구터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'대구북부시외버스터미널':{'link':'/시외버스/터미널/대구북부시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/대구북부시외버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'동대구터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/동대구터미널/도착/'}}">동구</option>
+											<option value="{'대구북부시외버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/대구북부시외버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="울산광역시">
-											<option value="{'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/울산시외버스터미널/도착/','arrivals':[]}}">남구</option>
+											<option value="{'울산시외버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/울산시외버스터미널/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'태백버스터미널':{'link':'/시외버스/터미널/태백시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/태백시외버스터미널/도착/','arrivals':[]}}">태백시</option>
+											<option value="{'태백버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/태백시외버스터미널/도착/'}}">태백시</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'제천버스터미널':{'link':'/시외버스/터미널/제천버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/제천버스터미널/도착/','arrivals':[]}}">제천시</option>
-											<option value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/남청주정류소/도착/','arrivals':[]}}">청주시 서원구</option>
-											<option value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/청주시외버스터미널/도착/','arrivals':[]}}">청주시 흥덕구</option>
+											<option value="{'제천버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/제천버스터미널/도착/'}}">제천시</option>
+											<option value="{'남부정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/남청주정류소/도착/'}}">청주시 서원구</option>
+											<option value="{'청주시외버스터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/청주시외버스터미널/도착/'}}">청주시 흥덕구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'경주시외버스터미널':{'link':'/시외버스/터미널/경주시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/경주시외버스터미널/도착/','arrivals':[]}}">경주시</option>
-											<option value="{'고령시외버스정류장':{'link':'/시외버스/터미널/고령시외버스정류장/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/고령시외버스정류장/도착/','arrivals':[]}}">고령군</option>
-											<option value="{'구미종합터미널':{'link':'/고속버스/터미널/구미종합버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/구미종합버스터미널/도착/','arrivals':[]}}">구미시</option>
-											<option value="{'점촌터미널':{'link':'/고속버스/터미널/점촌시외고속버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/점촌시외고속버스터미널/도착/','arrivals':[]}}">문경시</option>
-											<option value="{'봉화공용정류장':{'link':'/시외버스/터미널/봉화공용버스정류장/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/봉화공용버스정류장/도착/','arrivals':[]},'상운':{'link':'/시외버스/터미널/상운/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/상운/도착/','arrivals':[]},'춘양버스터미널':{'link':'/시외버스/터미널/춘양시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/춘양시외버스터미널/도착/','arrivals':[]}}">봉화군</option>
-											<option value="{'상주터미널':{'link':'/고속버스/터미널/상주종합버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/상주종합버스터미널/도착/','arrivals':[]}}">상주시</option>
-											<option value="{'임시성주버스정류장':{'link':'/시외버스/터미널/성주버스정류장/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/성주버스정류장/도착/','arrivals':[]}}">성주군</option>
-											<option value="{'경북도청버스정류장':{'link':'/고속버스/터미널/경북도청시외버스정류장/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/경북도청시외버스정류장/도착/','arrivals':[]},'안동대':{'link':'/시외버스/터미널/안동대/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/안동대/도착/','arrivals':[]},'안동터미널':{'link':'/고속버스/터미널/안동터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/안동터미널/도착/','arrivals':[]},'용상정류소':{'link':'/시외버스/터미널/용상터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/용상터미널/도착/','arrivals':[]}}">안동시</option>
-											<option value="{'예천삼거리정류소':{'link':'/시외버스/터미널/남본삼거리정류소/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/남본삼거리정류소/도착/','arrivals':[]}}">예천군</option>
-											<option value="{'울진종합버스터미널':{'link':'/시외버스/터미널/울진종합버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/울진종합버스터미널/도착/','arrivals':[]}}">울진군</option>
-											<option value="{'도평(청송군)':{'link':'/시외버스/터미널/도평/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/도평/도착/','arrivals':[]},'안덕버스터미널':{'link':'/시외버스/터미널/안덕정류소/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/안덕정류소/도착/','arrivals':[]}}">청송군</option>
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/포항터미널/도착/','arrivals':[]}}">포항시 남구</option>
+											<option value="{'경주시외버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/경주시외버스터미널/도착/'}}">경주시</option>
+											<option value="{'고령시외버스정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/고령시외버스정류장/도착/'}}">고령군</option>
+											<option value="{'구미종합터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/구미종합버스터미널/도착/'}}">구미시</option>
+											<option value="{'점촌터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/점촌시외고속버스터미널/도착/'}}">문경시</option>
+											<option value="{'봉화공용정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/봉화공용버스정류장/도착/'},'상운':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/상운/도착/'},'춘양버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/춘양시외버스터미널/도착/'}}">봉화군</option>
+											<option value="{'상주터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/상주종합버스터미널/도착/'}}">상주시</option>
+											<option value="{'임시성주버스정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/성주버스정류장/도착/'}}">성주군</option>
+											<option value="{'경북도청버스정류장':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/경북도청시외버스정류장/도착/'},'안동대':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/안동대/도착/'},'안동터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/안동터미널/도착/'},'용상정류소':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/용상터미널/도착/'}}">안동시</option>
+											<option value="{'예천삼거리정류소':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/남본삼거리정류소/도착/'}}">예천군</option>
+											<option value="{'울진종합버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/울진종합버스터미널/도착/'}}">울진군</option>
+											<option value="{'도평(청송군)':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/도평/도착/'},'안덕버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/안덕정류소/도착/'}}">청송군</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/포항터미널/도착/'}}">포항시 남구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -258,40 +257,40 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/고속버스/터미널/동서울종합터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/고속버스/터미널/인천공항2터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'동대구터미널':{'link':'/고속버스/터미널/동대구터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'대구북부시외버스터미널':{'link':'/시외버스/터미널/대구북부시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/대구북부시외버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'동대구터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/동대구터미널/도착/'}}">동구</option>
+											<option value="{'대구북부시외버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/대구북부시외버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="울산광역시">
-											<option value="{'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/울산시외버스터미널/도착/','arrivals':[]}}">남구</option>
+											<option value="{'울산시외버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/울산시외버스터미널/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'태백버스터미널':{'link':'/시외버스/터미널/태백시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/태백시외버스터미널/도착/','arrivals':[]}}">태백시</option>
+											<option value="{'태백버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/태백시외버스터미널/도착/'}}">태백시</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'제천버스터미널':{'link':'/시외버스/터미널/제천버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/제천버스터미널/도착/','arrivals':[]}}">제천시</option>
-											<option value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/남청주정류소/도착/','arrivals':[]}}">청주시 서원구</option>
-											<option value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/청주시외버스터미널/도착/','arrivals':[]}}">청주시 흥덕구</option>
+											<option value="{'제천버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/제천버스터미널/도착/'}}">제천시</option>
+											<option value="{'남부정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/남청주정류소/도착/'}}">청주시 서원구</option>
+											<option value="{'청주시외버스터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/청주시외버스터미널/도착/'}}">청주시 흥덕구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'경주시외버스터미널':{'link':'/시외버스/터미널/경주시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/경주시외버스터미널/도착/','arrivals':[]}}">경주시</option>
-											<option value="{'고령시외버스정류장':{'link':'/시외버스/터미널/고령시외버스정류장/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/고령시외버스정류장/도착/','arrivals':[]}}">고령군</option>
-											<option value="{'구미종합터미널':{'link':'/고속버스/터미널/구미종합버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/구미종합버스터미널/도착/','arrivals':[]}}">구미시</option>
-											<option value="{'점촌터미널':{'link':'/고속버스/터미널/점촌시외고속버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/점촌시외고속버스터미널/도착/','arrivals':[]}}">문경시</option>
-											<option value="{'봉화공용정류장':{'link':'/시외버스/터미널/봉화공용버스정류장/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/봉화공용버스정류장/도착/','arrivals':[]},'상운':{'link':'/시외버스/터미널/상운/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/상운/도착/','arrivals':[]},'춘양버스터미널':{'link':'/시외버스/터미널/춘양시외버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/춘양시외버스터미널/도착/','arrivals':[]}}">봉화군</option>
-											<option value="{'상주터미널':{'link':'/고속버스/터미널/상주종합버스터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/상주종합버스터미널/도착/','arrivals':[]}}">상주시</option>
-											<option value="{'임시성주버스정류장':{'link':'/시외버스/터미널/성주버스정류장/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/성주버스정류장/도착/','arrivals':[]}}">성주군</option>
-											<option value="{'경북도청버스정류장':{'link':'/고속버스/터미널/경북도청시외버스정류장/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/경북도청시외버스정류장/도착/','arrivals':[]},'안동대':{'link':'/시외버스/터미널/안동대/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/안동대/도착/','arrivals':[]},'안동터미널':{'link':'/고속버스/터미널/안동터미널/','schedule':'/고속버스/시간표/예천시외버스정류장/출발/안동터미널/도착/','arrivals':[]},'용상정류소':{'link':'/시외버스/터미널/용상터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/용상터미널/도착/','arrivals':[]}}">안동시</option>
-											<option value="{'예천삼거리정류소':{'link':'/시외버스/터미널/남본삼거리정류소/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/남본삼거리정류소/도착/','arrivals':[]}}">예천군</option>
-											<option value="{'울진종합버스터미널':{'link':'/시외버스/터미널/울진종합버스터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/울진종합버스터미널/도착/','arrivals':[]}}">울진군</option>
-											<option value="{'도평(청송군)':{'link':'/시외버스/터미널/도평/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/도평/도착/','arrivals':[]},'안덕버스터미널':{'link':'/시외버스/터미널/안덕정류소/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/안덕정류소/도착/','arrivals':[]}}">청송군</option>
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/예천시외버스정류장/출발/포항터미널/도착/','arrivals':[]}}">포항시 남구</option>
+											<option value="{'경주시외버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/경주시외버스터미널/도착/'}}">경주시</option>
+											<option value="{'고령시외버스정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/고령시외버스정류장/도착/'}}">고령군</option>
+											<option value="{'구미종합터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/구미종합버스터미널/도착/'}}">구미시</option>
+											<option value="{'점촌터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/점촌시외고속버스터미널/도착/'}}">문경시</option>
+											<option value="{'봉화공용정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/봉화공용버스정류장/도착/'},'상운':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/상운/도착/'},'춘양버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/춘양시외버스터미널/도착/'}}">봉화군</option>
+											<option value="{'상주터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/상주종합버스터미널/도착/'}}">상주시</option>
+											<option value="{'임시성주버스정류장':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/성주버스정류장/도착/'}}">성주군</option>
+											<option value="{'경북도청버스정류장':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/경북도청시외버스정류장/도착/'},'안동대':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/안동대/도착/'},'안동터미널':{'schedule':'/고속버스/시간표/예천시외버스정류장/출발/안동터미널/도착/'},'용상정류소':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/용상터미널/도착/'}}">안동시</option>
+											<option value="{'예천삼거리정류소':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/남본삼거리정류소/도착/'}}">예천군</option>
+											<option value="{'울진종합버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/울진종합버스터미널/도착/'}}">울진군</option>
+											<option value="{'도평(청송군)':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/도평/도착/'},'안덕버스터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/안덕정류소/도착/'}}">청송군</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/예천시외버스정류장/출발/포항터미널/도착/'}}">포항시 남구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

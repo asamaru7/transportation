@@ -51,6 +51,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/터미널/안중버스터미널/",
 				"url": "https://transportation.asamaru.net/시외버스/터미널/안중버스터미널/",
 				"name": "안중버스터미널 운행노선 (시외버스)",
 				"description": "2025.08.28. 안중버스터미널(시외버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -80,24 +81,22 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/터미널/안중버스터미널/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_anjungbeoseuteomineol",
-						"name": "안중버스터미널",
-						"address": "경기도 평택시 안중읍 현화리 838",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 36.9776473,
-							"longitude": 126.9233184
-						},
-						"telephone": "031-681-0062"
-					}
-				]
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/시외버스/터미널/안중버스터미널/#terminal_anjungbeoseuteomineol",
+					"name": "안중버스터미널",
+					"address": "경기도 평택시 안중읍 현화리 838",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 36.9776473,
+						"longitude": 126.9233184
+					},
+					"telephone": "031-681-0062"
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -154,15 +153,15 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/안중버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/안중버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'용이동안성정류소':{'link':'/고속버스/터미널/평택용이정류소/','schedule':'/시외버스/시간표/안중버스터미널/출발/평택용이정류소/도착/','arrivals':[]}}">안성시</option>
-											<option value="{'태평아파트':{'link':'/시외버스/터미널/태평아파트/','schedule':'/시외버스/시간표/안중버스터미널/출발/태평아파트/도착/','arrivals':[]},'평택대정류소':{'link':'/시외버스/터미널/평택대정류소/','schedule':'/시외버스/시간표/안중버스터미널/출발/평택대정류소/도착/','arrivals':[]},'평택시외버스터미널':{'link':'/시외버스/터미널/평택시외버스터미널/','schedule':'/시외버스/시간표/안중버스터미널/출발/평택시외버스터미널/도착/','arrivals':[]}}">평택시</option>
+											<option value="{'용이동안성정류소':{'schedule':'/시외버스/시간표/안중버스터미널/출발/평택용이정류소/도착/'}}">안성시</option>
+											<option value="{'태평아파트':{'schedule':'/시외버스/시간표/안중버스터미널/출발/태평아파트/도착/'},'평택대정류소':{'schedule':'/시외버스/시간표/안중버스터미널/출발/평택대정류소/도착/'},'평택시외버스터미널':{'schedule':'/시외버스/시간표/안중버스터미널/출발/평택시외버스터미널/도착/'}}">평택시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/안중버스터미널/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
-											<option value="{'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/안중버스터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/안중버스터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
+											<option value="{'인천공항T2정류장':{'schedule':'/시외버스/시간표/안중버스터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -236,15 +235,15 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/안중버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/안중버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'용이동안성정류소':{'link':'/고속버스/터미널/평택용이정류소/','schedule':'/시외버스/시간표/안중버스터미널/출발/평택용이정류소/도착/','arrivals':[]}}">안성시</option>
-											<option value="{'태평아파트':{'link':'/시외버스/터미널/태평아파트/','schedule':'/시외버스/시간표/안중버스터미널/출발/태평아파트/도착/','arrivals':[]},'평택대정류소':{'link':'/시외버스/터미널/평택대정류소/','schedule':'/시외버스/시간표/안중버스터미널/출발/평택대정류소/도착/','arrivals':[]},'평택시외버스터미널':{'link':'/시외버스/터미널/평택시외버스터미널/','schedule':'/시외버스/시간표/안중버스터미널/출발/평택시외버스터미널/도착/','arrivals':[]}}">평택시</option>
+											<option value="{'용이동안성정류소':{'schedule':'/시외버스/시간표/안중버스터미널/출발/평택용이정류소/도착/'}}">안성시</option>
+											<option value="{'태평아파트':{'schedule':'/시외버스/시간표/안중버스터미널/출발/태평아파트/도착/'},'평택대정류소':{'schedule':'/시외버스/시간표/안중버스터미널/출발/평택대정류소/도착/'},'평택시외버스터미널':{'schedule':'/시외버스/시간표/안중버스터미널/출발/평택시외버스터미널/도착/'}}">평택시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/안중버스터미널/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
-											<option value="{'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/안중버스터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/안중버스터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
+											<option value="{'인천공항T2정류장':{'schedule':'/시외버스/시간표/안중버스터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

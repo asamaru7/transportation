@@ -58,6 +58,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/중마버스터미널/출발/동래시외버스정류소/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/중마버스터미널/출발/동래시외버스정류소/도착/",
 				"name": "동광양중마버스터미널에서 부산동래시외버스정류소 가는 시외버스 시간표",
 				"description": "2025.08.19. 동광양중마버스터미널에서 부산동래시외버스정류소 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 17:00, 막차 : 17:00, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -87,10 +88,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/중마버스터미널/출발/동래시외버스정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_dongkwangyangjungmabeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/중마버스터미널/#terminal_dongkwangyangjungmabeoseuteomineol",
 						"name": "동광양중마버스터미널",
 						"address": "전라남도 광양시 중동 1732-2",
 						"geo": {
@@ -102,7 +103,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_busandonglaesioebeoseujeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/동래시외버스정류소/#terminal_busandonglaesioebeoseujeonglyuso",
 						"name": "부산동래시외버스정류소",
 						"address": "부산광역시 동래구 온천동 1437-39",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_dongkwangyangjungmabeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/중마버스터미널/#terminal_dongkwangyangjungmabeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_busandonglaesioebeoseujeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/동래시외버스정류소/#terminal_busandonglaesioebeoseujeonglyuso"
 						},
 						"departureTime": "2025-06-23T17:00:00+09:00",
 						"arrivalTime": "2025-06-23T19:15:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -289,66 +290,66 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'센트럴시티터미널(호남선)':{'link':'/고속버스/터미널/센트럴시티터미널/','schedule':'/고속버스/시간표/중마버스터미널/출발/센트럴시티터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'센트럴시티터미널(호남선)':{'schedule':'/고속버스/시간표/중마버스터미널/출발/센트럴시티터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'성남종합버스터미널':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/성남종합버스터미널/도착/','arrivals':[]}}">성남시 분당구</option>
-											<option value="{'여수(대교)(성남시)':{'link':'/시외버스/터미널/여수-대교-성남시/','schedule':'/시외버스/시간표/중마버스터미널/출발/여수-대교-성남시/도착/','arrivals':[]}}">성남시 수정구</option>
-											<option value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
+											<option value="{'성남종합버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/성남종합버스터미널/도착/'}}">성남시 분당구</option>
+											<option value="{'여수(대교)(성남시)':{'schedule':'/시외버스/시간표/중마버스터미널/출발/여수-대교-성남시/도착/'}}">성남시 수정구</option>
+											<option value="{'수원버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/중마버스터미널/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/시외버스/시간표/중마버스터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'대전청사시외버스둔산정류소(승차)':{'link':'/시외버스/터미널/대전청사시외버스둔산정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/대전청사시외버스둔산정류소/도착/','arrivals':[]}}">서구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/대전복합터미널/도착/'}}">동구</option>
+											<option value="{'대전청사시외버스둔산정류소(승차)':{'schedule':'/시외버스/시간표/중마버스터미널/출발/대전청사시외버스둔산정류소/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'대구서부정류장':{'link':'/시외버스/터미널/서부정류장/','schedule':'/시외버스/시간표/중마버스터미널/출발/서부정류장/도착/','arrivals':[]}}">남구</option>
-											<option value="{'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대구서부정류장':{'schedule':'/시외버스/시간표/중마버스터미널/출발/서부정류장/도착/'}}">남구</option>
+											<option value="{'동대구터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/동대구터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="울산광역시">
-											<option value="{'울산공업탑':{'link':'/시외버스/터미널/울산공업탑/','schedule':'/시외버스/시간표/중마버스터미널/출발/울산공업탑/도착/','arrivals':[]},'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/울산시외버스터미널/도착/','arrivals':[]},'울산신복정류소':{'link':'/시외버스/터미널/신복환승센터/','schedule':'/시외버스/시간표/중마버스터미널/출발/신복환승센터/도착/','arrivals':[]}}">남구</option>
+											<option value="{'울산공업탑':{'schedule':'/시외버스/시간표/중마버스터미널/출발/울산공업탑/도착/'},'울산시외버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/울산시외버스터미널/도착/'},'울산신복정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/신복환승센터/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'김해공항정류소':{'link':'/시외버스/터미널/김해공항정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/김해공항정류소/도착/','arrivals':[]}}">강서구</option>
-											<option value="{'부산종합버스터미널':{'link':'/시외버스/터미널/부산종합버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">금정구</option>
-											<option selected="selected" data-terminal="부산동래시외버스정류소" value="{'부산동래시외버스정류소':{'link':'/시외버스/터미널/동래시외버스정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/동래시외버스정류소/도착/','arrivals':[]}}">동래구</option>
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'김해공항정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/김해공항정류소/도착/'}}">강서구</option>
+											<option value="{'부산종합버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/부산종합버스터미널/도착/'}}">금정구</option>
+											<option selected="selected" data-terminal="부산동래시외버스정류소" value="{'부산동래시외버스정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/동래시외버스정류소/도착/'}}">동래구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'문화동시외버스정류소':{'link':'/시외버스/터미널/문화동시외버스정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/문화동시외버스정류소/도착/','arrivals':[]}}">북구</option>
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'문화동시외버스정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/문화동시외버스정류소/도착/'}}">북구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/중마버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'정안알밤휴게소(천안방향)고속버스환승정류소':{'link':'/고속버스/터미널/정안휴게소-천안방향-고속버스환승정류소/','schedule':'/고속버스/시간표/중마버스터미널/출발/정안휴게소-천안방향-고속버스환승정류소/도착/','arrivals':[]}}">공주시</option>
+											<option value="{'정안알밤휴게소(천안방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/중마버스터미널/출발/정안휴게소-천안방향-고속버스환승정류소/도착/'}}">공주시</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'경주시외버스터미널':{'link':'/시외버스/터미널/경주시외버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/경주시외버스터미널/도착/','arrivals':[]}}">경주시</option>
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/포항터미널/도착/','arrivals':[]}}">포항시 남구</option>
+											<option value="{'경주시외버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/경주시외버스터미널/도착/'}}">경주시</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/포항터미널/도착/'}}">포항시 남구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'김해여객터미널':{'link':'/시외버스/터미널/김해여객터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/김해여객터미널/도착/','arrivals':[]}}">김해시</option>
-											<option value="{'양산시외버스터미널':{'link':'/시외버스/터미널/양산시외버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/양산시외버스터미널/도착/','arrivals':[]}}">양산시</option>
-											<option value="{'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/진주시외버스터미널/도착/','arrivals':[]}}">진주시</option>
-											<option value="{'진교터미널':{'link':'/시외버스/터미널/진교시외버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/진교시외버스터미널/도착/','arrivals':[]}}">하동군</option>
+											<option value="{'김해여객터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/김해여객터미널/도착/'}}">김해시</option>
+											<option value="{'양산시외버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/양산시외버스터미널/도착/'}}">양산시</option>
+											<option value="{'진주시외버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/진주시외버스터미널/도착/'}}">진주시</option>
+											<option value="{'진교터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/진교시외버스터미널/도착/'}}">하동군</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'강진버스여객터미널':{'link':'/시외버스/터미널/강진버스여객터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/강진버스여객터미널/도착/','arrivals':[]},'성전터미널':{'link':'/시외버스/터미널/성전터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/성전터미널/도착/','arrivals':[]}}">강진군</option>
-											<option value="{'고흥공용버스정류장':{'link':'/시외버스/터미널/고흥공용버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/고흥공용버스터미널/도착/','arrivals':[]},'과역버스터미널':{'link':'/시외버스/터미널/과역공용버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/과역공용버스터미널/도착/','arrivals':[]},'녹동공영버스터미널':{'link':'/시외버스/터미널/녹동버스공용터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/녹동버스공용터미널/도착/','arrivals':[]}}">고흥군</option>
-											<option value="{'광양터미널':{'link':'/시외버스/터미널/광양시외버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/광양시외버스터미널/도착/','arrivals':[]},'광영':{'link':'/시외버스/터미널/광영/','schedule':'/시외버스/시간표/중마버스터미널/출발/광영/도착/','arrivals':[]}}">광양시</option>
-											<option value="{'목포종합버스터미널':{'link':'/시외버스/터미널/목포종합버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/목포종합버스터미널/도착/','arrivals':[]}}">목포시</option>
-											<option value="{'남악정류소':{'link':'/시외버스/터미널/남악정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/남악정류소/도착/','arrivals':[]}}">무안군</option>
-											<option value="{'벌교공용버스터미널':{'link':'/시외버스/터미널/벌교버스공용터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/벌교버스공용터미널/도착/','arrivals':[]},'보성버스터미널':{'link':'/시외버스/터미널/보성시외버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/보성시외버스터미널/도착/','arrivals':[]},'예당정류소':{'link':'/시외버스/터미널/예당정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/예당정류소/도착/','arrivals':[]},'조성정류소':{'link':'/시외버스/터미널/조성터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/조성터미널/도착/','arrivals':[]}}">보성군</option>
-											<option value="{'순천대학교':{'link':'/시외버스/터미널/순천대학교/','schedule':'/시외버스/시간표/중마버스터미널/출발/순천대학교/도착/','arrivals':[]},'순천북부정류소':{'link':'/시외버스/터미널/북부정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/북부정류소/도착/','arrivals':[]},'순천종합버스터미널':{'link':'/시외버스/터미널/순천종합버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/순천종합버스터미널/도착/','arrivals':[]}}">순천시</option>
-											<option value="{'여수종합버스터미널':{'link':'/시외버스/터미널/여수종합버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/여수종합버스터미널/도착/','arrivals':[]},'여천시외버스정류장':{'link':'/시외버스/터미널/여천시외버스정류장/','schedule':'/시외버스/시간표/중마버스터미널/출발/여천시외버스정류장/도착/','arrivals':[]}}">여수시</option>
-											<option value="{'독천터미널':{'link':'/시외버스/터미널/독천터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/독천터미널/도착/','arrivals':[]},'삼호정류소':{'link':'/시외버스/터미널/삼호버스종합터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/삼호버스종합터미널/도착/','arrivals':[]}}">영암군</option>
-											<option value="{'완도공용버스터미널':{'link':'/시외버스/터미널/완도공용버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/완도공용버스터미널/도착/','arrivals':[]},'원동버스터미널':{'link':'/시외버스/터미널/원동정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/원동정류소/도착/','arrivals':[]}}">완도군</option>
-											<option value="{'배산정류소':{'link':'/시외버스/터미널/배산정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/배산정류소/도착/','arrivals':[]},'장흥시외버스터미널':{'link':'/시외버스/터미널/장흥시외버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/장흥시외버스터미널/도착/','arrivals':[]}}">장흥군</option>
-											<option value="{'진도공용터미널':{'link':'/시외버스/터미널/진도공용터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/진도공용터미널/도착/','arrivals':[]}}">진도군</option>
-											<option value="{'남창시외버스터미널':{'link':'/시외버스/터미널/남창정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/남창정류소/도착/','arrivals':[]},'월송자동차여객터미널':{'link':'/시외버스/터미널/월송정류소/','schedule':'/시외버스/시간표/중마버스터미널/출발/월송정류소/도착/','arrivals':[]},'해남종합버스터미널':{'link':'/시외버스/터미널/해남종합버스터미널/','schedule':'/시외버스/시간표/중마버스터미널/출발/해남종합버스터미널/도착/','arrivals':[]}}">해남군</option>
+											<option value="{'강진버스여객터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/강진버스여객터미널/도착/'},'성전터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/성전터미널/도착/'}}">강진군</option>
+											<option value="{'고흥공용버스정류장':{'schedule':'/시외버스/시간표/중마버스터미널/출발/고흥공용버스터미널/도착/'},'과역버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/과역공용버스터미널/도착/'},'녹동공영버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/녹동버스공용터미널/도착/'}}">고흥군</option>
+											<option value="{'광양터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/광양시외버스터미널/도착/'},'광영':{'schedule':'/시외버스/시간표/중마버스터미널/출발/광영/도착/'}}">광양시</option>
+											<option value="{'목포종합버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/목포종합버스터미널/도착/'}}">목포시</option>
+											<option value="{'남악정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/남악정류소/도착/'}}">무안군</option>
+											<option value="{'벌교공용버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/벌교버스공용터미널/도착/'},'보성버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/보성시외버스터미널/도착/'},'예당정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/예당정류소/도착/'},'조성정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/조성터미널/도착/'}}">보성군</option>
+											<option value="{'순천대학교':{'schedule':'/시외버스/시간표/중마버스터미널/출발/순천대학교/도착/'},'순천북부정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/북부정류소/도착/'},'순천종합버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/순천종합버스터미널/도착/'}}">순천시</option>
+											<option value="{'여수종합버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/여수종합버스터미널/도착/'},'여천시외버스정류장':{'schedule':'/시외버스/시간표/중마버스터미널/출발/여천시외버스정류장/도착/'}}">여수시</option>
+											<option value="{'독천터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/독천터미널/도착/'},'삼호정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/삼호버스종합터미널/도착/'}}">영암군</option>
+											<option value="{'완도공용버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/완도공용버스터미널/도착/'},'원동버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/원동정류소/도착/'}}">완도군</option>
+											<option value="{'배산정류소':{'schedule':'/시외버스/시간표/중마버스터미널/출발/배산정류소/도착/'},'장흥시외버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/장흥시외버스터미널/도착/'}}">장흥군</option>
+											<option value="{'진도공용터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/진도공용터미널/도착/'}}">진도군</option>
+											<option value="{'남창시외버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/남창정류소/도착/'},'월송자동차여객터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/월송정류소/도착/'},'해남종합버스터미널':{'schedule':'/시외버스/시간표/중마버스터미널/출발/해남종합버스터미널/도착/'}}">해남군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

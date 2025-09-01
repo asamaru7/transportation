@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/임실시외버스터미널/출발/곡성버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/임실시외버스터미널/출발/곡성버스터미널/도착/",
 				"name": "임실공용터미널에서 곡성버스터미널 가는 고속버스 시간표",
 				"description": "2025.09.01. 임실공용터미널에서 곡성버스터미널 가는 고속버스는 하루 1 회 운행합니다. 첫차 : 06:52, 막차 : 06:52, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/임실시외버스터미널/출발/곡성버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_imsilkongyongteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/임실시외버스터미널/#terminal_imsilkongyongteomineol",
 						"name": "임실공용터미널",
 						"address": "전북특별자치도 임실군 임실읍 이도리 233-9",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kogseongbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/곡성버스터미널/#terminal_kogseongbeoseuteomineol",
 						"name": "곡성버스터미널",
 						"address": "전라남도 곡성군 곡성읍 읍내리 244-4",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_imsilkongyongteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/임실시외버스터미널/#terminal_imsilkongyongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_kogseongbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/곡성버스터미널/#terminal_kogseongbeoseuteomineol"
 						},
 						"departureTime": "2025-09-02T06:52:00+09:00",
 						"arrivalTime": "2025-09-02T07:57:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -270,24 +271,24 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/고속버스/터미널/인천공항2터미널/','schedule':'/고속버스/시간표/임실시외버스터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/고속버스/시간표/임실시외버스터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'산내(경주)':{'link':'/시외버스/터미널/산내/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/산내/도착/','arrivals':[]}}">경주시</option>
+											<option value="{'산내(경주)':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/산내/도착/'}}">경주시</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'남원공용버스터미널':{'link':'/시외버스/터미널/남원공용버스터미널/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/남원공용버스터미널/도착/','arrivals':[]},'달궁':{'link':'/시외버스/터미널/달궁/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/달궁/도착/','arrivals':[]},'반선시외버스터미널':{'link':'/시외버스/터미널/뱀사골/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/뱀사골/도착/','arrivals':[]},'운봉':{'link':'/시외버스/터미널/운봉/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/운봉/도착/','arrivals':[]},'인월지리산공용터미널':{'link':'/시외버스/터미널/인월지리산공용터미널/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/인월지리산공용터미널/도착/','arrivals':[]}}">남원시</option>
-											<option value="{'순창공용버스정류장':{'link':'/고속버스/터미널/순창공용버스터미널/','schedule':'/고속버스/시간표/임실시외버스터미널/출발/순창공용버스터미널/도착/','arrivals':[]}}">순창군</option>
-											<option value="{'강진(전북)':{'link':'/시외버스/터미널/강진-전북/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/강진-전북/도착/','arrivals':[]},'오수공영버스터미널':{'link':'/시외버스/터미널/오수공용버스정류장/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/오수공용버스정류장/도착/','arrivals':[]},'청웅':{'link':'/시외버스/터미널/청웅/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/청웅/도착/','arrivals':[]}}">임실군</option>
-											<option value="{'전주시외버스공용터미널':{'link':'/시외버스/터미널/전주시외버스공용터미널/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/전주시외버스공용터미널/도착/','arrivals':[]}}">전주시 덕진구</option>
-											<option value="{'노송동정류소':{'link':'/시외버스/터미널/남노송동터미널/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/남노송동터미널/도착/','arrivals':[]}}">전주시 완산구</option>
+											<option value="{'남원공용버스터미널':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/남원공용버스터미널/도착/'},'달궁':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/달궁/도착/'},'반선시외버스터미널':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/뱀사골/도착/'},'운봉':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/운봉/도착/'},'인월지리산공용터미널':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/인월지리산공용터미널/도착/'}}">남원시</option>
+											<option value="{'순창공용버스정류장':{'schedule':'/고속버스/시간표/임실시외버스터미널/출발/순창공용버스터미널/도착/'}}">순창군</option>
+											<option value="{'강진(전북)':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/강진-전북/도착/'},'오수공영버스터미널':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/오수공용버스정류장/도착/'},'청웅':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/청웅/도착/'}}">임실군</option>
+											<option value="{'전주시외버스공용터미널':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/전주시외버스공용터미널/도착/'}}">전주시 덕진구</option>
+											<option value="{'노송동정류소':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/남노송동터미널/도착/'}}">전주시 완산구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option selected="selected" data-terminal="곡성버스터미널" value="{'곡성버스터미널':{'link':'/고속버스/터미널/곡성버스터미널/','schedule':'/고속버스/시간표/임실시외버스터미널/출발/곡성버스터미널/도착/','arrivals':[]}}">곡성군</option>
-											<option value="{'구례공영버스터미널':{'link':'/시외버스/터미널/구례공영버스터미널/','schedule':'/시외버스/시간표/임실시외버스터미널/출발/구례공영버스터미널/도착/','arrivals':[]}}">구례군</option>
+											<option selected="selected" data-terminal="곡성버스터미널" value="{'곡성버스터미널':{'schedule':'/고속버스/시간표/임실시외버스터미널/출발/곡성버스터미널/도착/'}}">곡성군</option>
+											<option value="{'구례공영버스터미널':{'schedule':'/시외버스/시간표/임실시외버스터미널/출발/구례공영버스터미널/도착/'}}">구례군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

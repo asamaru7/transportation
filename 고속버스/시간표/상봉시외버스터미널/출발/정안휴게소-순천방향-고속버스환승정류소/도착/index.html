@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/상봉시외버스터미널/출발/정안휴게소-순천방향-고속버스환승정류소/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/상봉시외버스터미널/출발/정안휴게소-순천방향-고속버스환승정류소/도착/",
 				"name": "상봉시외버스터미널에서 정안알밤휴게소(순천방향)고속버스환승정류소 가는 고속버스 시간표",
 				"description": "2022.03.11. 상봉시외버스터미널에서 정안알밤휴게소(순천방향)고속버스환승정류소 가는 고속버스는 하루 1 회 운행합니다. 첫차 : 09:00, 막차 : 09:00, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/상봉시외버스터미널/출발/정안휴게소-순천방향-고속버스환승정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_sangbongsioebeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/상봉시외버스터미널/#terminal_sangbongsioebeoseuteomineol",
 						"name": "상봉시외버스터미널",
 						"address": "서울특별시 중랑구 상봉동 83-8",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_jeonganalbamhyukeso_suncheonbanghyang_kosogbeoseuhwanseungjeonglyuso",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/정안휴게소-순천방향-고속버스환승정류소/#terminal_jeonganalbamhyukeso_suncheonbanghyang_kosogbeoseuhwanseungjeonglyuso",
 						"name": "정안알밤휴게소(순천방향)고속버스환승정류소",
 						"address": "충청남도 공주시 정안면 전평리",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_sangbongsioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/상봉시외버스터미널/#terminal_sangbongsioebeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_jeonganalbamhyukeso_suncheonbanghyang_kosogbeoseuhwanseungjeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/정안휴게소-순천방향-고속버스환승정류소/#terminal_jeonganalbamhyukeso_suncheonbanghyang_kosogbeoseuhwanseungjeonglyuso"
 						},
 						"departureTime": "2022-03-11T09:00:00+09:00",
 						"arrivalTime": "2022-03-11T10:35:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -282,10 +283,10 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경기도">
-											<option value="{'구리시외버스정류장':{'link':'/시외버스/터미널/구리시외버스정류장-하행/','schedule':'/시외버스/시간표/상봉시외버스터미널/출발/구리시외버스정류장-하행/도착/','arrivals':[]}}">구리시</option>
+											<option value="{'구리시외버스정류장':{'schedule':'/시외버스/시간표/상봉시외버스터미널/출발/구리시외버스정류장-하행/도착/'}}">구리시</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'문막버스정류소':{'link':'/고속버스/터미널/문막정류소/','schedule':'/고속버스/시간표/상봉시외버스터미널/출발/문막정류소/도착/','arrivals':[]},'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/상봉시외버스터미널/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
+											<option value="{'문막버스정류소':{'schedule':'/고속버스/시간표/상봉시외버스터미널/출발/문막정류소/도착/'},'원주시외버스터미널':{'schedule':'/시외버스/시간표/상봉시외버스터미널/출발/원주시외버스터미널/도착/'}}">원주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

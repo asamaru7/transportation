@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/기지시정류소/출발/공주종합버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/기지시정류소/출발/공주종합버스터미널/도착/",
 				"name": "기지시버스정류장에서 공주종합버스터미널 가는 시외버스 시간표",
 				"description": "2025.08.25. 기지시버스정류장에서 공주종합버스터미널 가는 시외버스는 하루 2 회 운행합니다. 첫차 : 08:10, 막차 : 14:25, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/기지시정류소/출발/공주종합버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kijisibeoseujeonglyujang",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/기지시정류소/#terminal_kijisibeoseujeonglyujang",
 						"name": "기지시버스정류장",
 						"address": "충청남도 당진시 송악읍 기지시리 153-16",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kongjujonghapbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/공주종합버스터미널/#terminal_kongjujonghapbeoseuteomineol",
 						"name": "공주종합버스터미널",
 						"address": "충청남도 공주시 신관동 609",
 						"geo": {
@@ -114,10 +115,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_kijisibeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/기지시정류소/#terminal_kijisibeoseujeonglyujang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_kongjujonghapbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/공주종합버스터미널/#terminal_kongjujonghapbeoseuteomineol"
 						},
 						"departureTime": "2025-08-26T08:10:00+09:00",
 						"arrivalTime": "2025-08-26T09:52:00+09:00",
@@ -131,10 +132,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_kijisibeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/기지시정류소/#terminal_kijisibeoseujeonglyujang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_kongjujonghapbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/공주종합버스터미널/#terminal_kongjujonghapbeoseuteomineol"
 						},
 						"departureTime": "2025-08-26T14:25:00+09:00",
 						"arrivalTime": "2025-08-26T15:26:00+09:00",
@@ -147,8 +148,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -315,44 +316,44 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'김포공항정류소':{'link':'/시외버스/터미널/김포공항정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/김포공항정류소/도착/','arrivals':[]}}">강서구</option>
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/서울남부터미널/도착/','arrivals':[]},'센트럴시티터미널(호남선)':{'link':'/고속버스/터미널/센트럴시티터미널/','schedule':'/고속버스/시간표/기지시정류소/출발/센트럴시티터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'김포공항정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/김포공항정류소/도착/'}}">강서구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/서울남부터미널/도착/'},'센트럴시티터미널(호남선)':{'schedule':'/고속버스/시간표/기지시정류소/출발/센트럴시티터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'고양종합터미널':{'link':'/시외버스/터미널/고양종합터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/고양종합터미널/도착/','arrivals':[]}}">고양시 일산동구</option>
-											<option value="{'광명종합터미널':{'link':'/시외버스/터미널/광명종합터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/광명종합터미널/도착/','arrivals':[]}}">광명시</option>
-											<option value="{'부천터미널소풍':{'link':'/시외버스/터미널/부천종합터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/부천종합터미널/도착/','arrivals':[]}}">부천시 원미구</option>
-											<option value="{'성남종합버스터미널':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/성남종합버스터미널/도착/','arrivals':[]}}">성남시 분당구</option>
-											<option value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'공도시외버스정류장':{'link':'/시외버스/터미널/공도정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/공도정류소/도착/','arrivals':[]},'안성대림동산정류소':{'link':'/시외버스/터미널/대림동산정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/대림동산정류소/도착/','arrivals':[]},'안성종합버스터미널':{'link':'/시외버스/터미널/안성종합버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/안성종합버스터미널/도착/','arrivals':[]},'중앙대':{'link':'/시외버스/터미널/중앙대안성캠퍼스정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/중앙대안성캠퍼스정류소/도착/','arrivals':[]}}">안성시</option>
-											<option value="{'안양시외버스정류장 하행':{'link':'/시외버스/터미널/안양시외버스정류장-하행/','schedule':'/시외버스/시간표/기지시정류소/출발/안양시외버스정류장-하행/도착/','arrivals':[]}}">안양시 만안구</option>
-											<option value="{'의정부시외버스터미널':{'link':'/시외버스/터미널/의정부시외버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/의정부시외버스터미널/도착/','arrivals':[]}}">의정부시</option>
+											<option value="{'고양종합터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/고양종합터미널/도착/'}}">고양시 일산동구</option>
+											<option value="{'광명종합터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/광명종합터미널/도착/'}}">광명시</option>
+											<option value="{'부천터미널소풍':{'schedule':'/시외버스/시간표/기지시정류소/출발/부천종합터미널/도착/'}}">부천시 원미구</option>
+											<option value="{'성남종합버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/성남종합버스터미널/도착/'}}">성남시 분당구</option>
+											<option value="{'수원버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'공도시외버스정류장':{'schedule':'/시외버스/시간표/기지시정류소/출발/공도정류소/도착/'},'안성대림동산정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/대림동산정류소/도착/'},'안성종합버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/안성종합버스터미널/도착/'},'중앙대':{'schedule':'/시외버스/시간표/기지시정류소/출발/중앙대안성캠퍼스정류소/도착/'}}">안성시</option>
+											<option value="{'안양시외버스정류장 하행':{'schedule':'/시외버스/시간표/기지시정류소/출발/안양시외버스정류장-하행/도착/'}}">안양시 만안구</option>
+											<option value="{'의정부시외버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/의정부시외버스터미널/도착/'}}">의정부시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/인천종합터미널/도착/'}}">미추홀구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/기지시정류소/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/시외버스/시간표/기지시정류소/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'유성시외버스정류소':{'link':'/시외버스/터미널/유성시외버스정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/유성시외버스정류소/도착/','arrivals':[]}}">유성구</option>
-											<option value="{'대전서남부터미널':{'link':'/시외버스/터미널/대전서남부터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/대전서남부터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/대전복합터미널/도착/'}}">동구</option>
+											<option value="{'유성시외버스정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/유성시외버스정류소/도착/'}}">유성구</option>
+											<option value="{'대전서남부터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/대전서남부터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="세종특별자치시">
-											<option value="{'세종고속시외버스터미널':{'link':'/시외버스/터미널/세종고속시외버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/세종고속시외버스터미널/도착/','arrivals':[]}}">세종특별자치시</option>
+											<option value="{'세종고속시외버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/세종고속시외버스터미널/도착/'}}">세종특별자치시</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option selected="selected" data-terminal="공주종합버스터미널" value="{'공주종합버스터미널':{'link':'/시외버스/터미널/공주종합버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/공주종합버스터미널/도착/','arrivals':[]}}">공주시</option>
-											<option value="{'당진버스터미널':{'link':'/시외버스/터미널/당진버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/당진버스터미널/도착/','arrivals':[]},'삽교천시외버스터미널':{'link':'/시외버스/터미널/삽교천시외버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/삽교천시외버스터미널/도착/','arrivals':[]},'신평고속버스정류장':{'link':'/시외버스/터미널/신평버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/신평버스터미널/도착/','arrivals':[]},'합덕버스터미널':{'link':'/시외버스/터미널/합덕버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/합덕버스터미널/도착/','arrivals':[]}}">당진시</option>
-											<option value="{'서산공용버스터미널':{'link':'/시외버스/터미널/서산공용버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/서산공용버스터미널/도착/','arrivals':[]},'운산정류소':{'link':'/시외버스/터미널/운산정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/운산정류소/도착/','arrivals':[]},'음암정류소':{'link':'/시외버스/터미널/음암정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/음암정류소/도착/','arrivals':[]}}">서산시</option>
-											<option value="{'신창정류소':{'link':'/시외버스/터미널/신창정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/신창정류소/도착/','arrivals':[]},'아산서부봉강교정류소':{'link':'/시외버스/터미널/봉강교정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/봉강교정류소/도착/','arrivals':[]},'아산시외버스터미널':{'link':'/시외버스/터미널/아산시외버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/아산시외버스터미널/도착/','arrivals':[]},'천안아산역KTX정류소':{'link':'/시외버스/터미널/아산ktx정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/아산ktx정류소/도착/','arrivals':[]}}">아산시</option>
-											<option value="{'신례원정류소':{'link':'/시외버스/터미널/신례원정류소/','schedule':'/시외버스/시간표/기지시정류소/출발/신례원정류소/도착/','arrivals':[]},'예산종합터미널':{'link':'/시외버스/터미널/예산종합터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/예산종합터미널/도착/','arrivals':[]}}">예산군</option>
-											<option value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/천안종합버스터미널/도착/','arrivals':[]}}">천안시 동남구</option>
-											<option value="{'태안공영버스터미널':{'link':'/시외버스/터미널/태안공용버스터미널/','schedule':'/시외버스/시간표/기지시정류소/출발/태안공용버스터미널/도착/','arrivals':[]}}">태안군</option>
+											<option selected="selected" data-terminal="공주종합버스터미널" value="{'공주종합버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/공주종합버스터미널/도착/'}}">공주시</option>
+											<option value="{'당진버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/당진버스터미널/도착/'},'삽교천시외버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/삽교천시외버스터미널/도착/'},'신평고속버스정류장':{'schedule':'/시외버스/시간표/기지시정류소/출발/신평버스터미널/도착/'},'합덕버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/합덕버스터미널/도착/'}}">당진시</option>
+											<option value="{'서산공용버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/서산공용버스터미널/도착/'},'운산정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/운산정류소/도착/'},'음암정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/음암정류소/도착/'}}">서산시</option>
+											<option value="{'신창정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/신창정류소/도착/'},'아산서부봉강교정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/봉강교정류소/도착/'},'아산시외버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/아산시외버스터미널/도착/'},'천안아산역KTX정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/아산ktx정류소/도착/'}}">아산시</option>
+											<option value="{'신례원정류소':{'schedule':'/시외버스/시간표/기지시정류소/출발/신례원정류소/도착/'},'예산종합터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/예산종합터미널/도착/'}}">예산군</option>
+											<option value="{'천안시외버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/천안종합버스터미널/도착/'}}">천안시 동남구</option>
+											<option value="{'태안공영버스터미널':{'schedule':'/시외버스/시간표/기지시정류소/출발/태안공용버스터미널/도착/'}}">태안군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

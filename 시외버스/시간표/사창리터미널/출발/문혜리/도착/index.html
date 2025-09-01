@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/사창리터미널/출발/문혜리/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/사창리터미널/출발/문혜리/도착/",
 				"name": "사창리버스터미널에서 문혜리정류소 가는 시외버스 시간표",
 				"description": "2025.08.31. 사창리버스터미널에서 문혜리정류소 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 13:20, 막차 : 19:40, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/사창리터미널/출발/문혜리/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_sachanglibeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/사창리터미널/#terminal_sachanglibeoseuteomineol",
 						"name": "사창리버스터미널",
 						"address": "강원특별자치도 화천군 사내면 사창리 420-1",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_munhyelijeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/문혜리정류소/#terminal_munhyelijeonglyuso",
 						"name": "문혜리정류소",
 						"address": "강원특별자치도 철원군 갈말읍 문혜리",
 						"geo": {
@@ -114,10 +115,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_sachanglibeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/사창리터미널/#terminal_sachanglibeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_munhyelijeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/문혜리정류소/#terminal_munhyelijeonglyuso"
 						},
 						"departureTime": "2025-09-01T13:20:00+09:00",
 						"arrivalTime": "2025-09-01T14:10:00+09:00",
@@ -131,10 +132,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_sachanglibeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/사창리터미널/#terminal_sachanglibeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_munhyelijeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/문혜리정류소/#terminal_munhyelijeonglyuso"
 						},
 						"departureTime": "2025-09-01T19:30:00+09:00",
 						"arrivalTime": "2025-09-01T20:20:00+09:00",
@@ -148,10 +149,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_sachanglibeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/사창리터미널/#terminal_sachanglibeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_munhyelijeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/문혜리정류소/#terminal_munhyelijeonglyuso"
 						},
 						"departureTime": "2025-09-01T19:40:00+09:00",
 						"arrivalTime": "2025-09-01T20:30:00+09:00",
@@ -164,8 +165,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -323,18 +324,18 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/사창리터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/사창리터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'내촌포천정류소':{'link':'/시외버스/터미널/내촌포천정류소/','schedule':'/시외버스/시간표/사창리터미널/출발/내촌포천정류소/도착/','arrivals':[]},'도평리(포천)':{'link':'/시외버스/터미널/도평리/','schedule':'/시외버스/시간표/사창리터미널/출발/도평리/도착/','arrivals':[]},'백운동':{'link':'/시외버스/터미널/백운동/','schedule':'/시외버스/시간표/사창리터미널/출발/백운동/도착/','arrivals':[]},'소학리정류소':{'link':'/시외버스/터미널/소학리정류소/','schedule':'/시외버스/시간표/사창리터미널/출발/소학리정류소/도착/','arrivals':[]},'운악산휴게소':{'link':'/시외버스/터미널/운악산휴게소/','schedule':'/시외버스/시간표/사창리터미널/출발/운악산휴게소/도착/','arrivals':[]},'이동정류소':{'link':'/시외버스/터미널/이동정류소/','schedule':'/시외버스/시간표/사창리터미널/출발/이동정류소/도착/','arrivals':[]},'일동버스터미널':{'link':'/시외버스/터미널/일동버스터미널/','schedule':'/시외버스/시간표/사창리터미널/출발/일동버스터미널/도착/','arrivals':[]}}">포천시</option>
+											<option value="{'내촌포천정류소':{'schedule':'/시외버스/시간표/사창리터미널/출발/내촌포천정류소/도착/'},'도평리(포천)':{'schedule':'/시외버스/시간표/사창리터미널/출발/도평리/도착/'},'백운동':{'schedule':'/시외버스/시간표/사창리터미널/출발/백운동/도착/'},'소학리정류소':{'schedule':'/시외버스/시간표/사창리터미널/출발/소학리정류소/도착/'},'운악산휴게소':{'schedule':'/시외버스/시간표/사창리터미널/출발/운악산휴게소/도착/'},'이동정류소':{'schedule':'/시외버스/시간표/사창리터미널/출발/이동정류소/도착/'},'일동버스터미널':{'schedule':'/시외버스/시간표/사창리터미널/출발/일동버스터미널/도착/'}}">포천시</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option selected="selected" data-terminal="문혜리정류소" value="{'동송시외버스공용터미널':{'link':'/시외버스/터미널/동송시외버스공용터미널/','schedule':'/시외버스/시간표/사창리터미널/출발/동송시외버스공용터미널/도착/','arrivals':[]},'문혜리정류소':{'link':'/시외버스/터미널/문혜리정류소/','schedule':'/시외버스/시간표/사창리터미널/출발/문혜리정류소/도착/','arrivals':[]},'와수터미널':{'link':'/시외버스/터미널/와수시외버스터미널/','schedule':'/시외버스/시간표/사창리터미널/출발/와수시외버스터미널/도착/','arrivals':[]},'육단리':{'link':'/시외버스/터미널/육단리/','schedule':'/시외버스/시간표/사창리터미널/출발/육단리/도착/','arrivals':[]},'지포리':{'link':'/시외버스/터미널/지포리/','schedule':'/시외버스/시간표/사창리터미널/출발/지포리/도착/','arrivals':[]}}">철원군</option>
-											<option value="{'두미르아파트':{'link':'/시외버스/터미널/두미르아파트/','schedule':'/시외버스/시간표/사창리터미널/출발/두미르아파트/도착/','arrivals':[]},'신포리':{'link':'/시외버스/터미널/신포리/','schedule':'/시외버스/시간표/사창리터미널/출발/신포리/도착/','arrivals':[]},'어리고개정류소':{'link':'/시외버스/터미널/어리고개정류소/','schedule':'/시외버스/시간표/사창리터미널/출발/어리고개정류소/도착/','arrivals':[]},'오탄1리':{'link':'/시외버스/터미널/오탄1리/','schedule':'/시외버스/시간표/사창리터미널/출발/오탄1리/도착/','arrivals':[]},'오탄2리':{'link':'/시외버스/터미널/오탄2리/','schedule':'/시외버스/시간표/사창리터미널/출발/오탄2리/도착/','arrivals':[]},'지촌정류소':{'link':'/시외버스/터미널/지촌정류소/','schedule':'/시외버스/시간표/사창리터미널/출발/지촌정류소/도착/','arrivals':[]},'춘천댐':{'link':'/시외버스/터미널/춘천댐/','schedule':'/시외버스/시간표/사창리터미널/출발/춘천댐/도착/','arrivals':[]},'춘천시외버스터미널':{'link':'/시외버스/터미널/춘천시외버스터미널/','schedule':'/시외버스/시간표/사창리터미널/출발/춘천시외버스터미널/도착/','arrivals':[]},'현대아파트(춘천)':{'link':'/시외버스/터미널/현대아파트/','schedule':'/시외버스/시간표/사창리터미널/출발/현대아파트/도착/','arrivals':[]},'현지사':{'link':'/시외버스/터미널/현지사/','schedule':'/시외버스/시간표/사창리터미널/출발/현지사/도착/','arrivals':[]}}">춘천시</option>
-											<option value="{'광덕고개':{'link':'/시외버스/터미널/광덕고개/','schedule':'/시외버스/시간표/사창리터미널/출발/광덕고개/도착/','arrivals':[]},'놀미(화천군)':{'link':'/시외버스/터미널/놀미/','schedule':'/시외버스/시간표/사창리터미널/출발/놀미/도착/','arrivals':[]},'다목리버스터미널':{'link':'/시외버스/터미널/다목시외버스터미널/','schedule':'/시외버스/시간표/사창리터미널/출발/다목시외버스터미널/도착/','arrivals':[]},'아파트(명월)':{'link':'/시외버스/터미널/아파트-명월/','schedule':'/시외버스/시간표/사창리터미널/출발/아파트-명월/도착/','arrivals':[]}}">화천군</option>
+											<option selected="selected" data-terminal="문혜리정류소" value="{'동송시외버스공용터미널':{'schedule':'/시외버스/시간표/사창리터미널/출발/동송시외버스공용터미널/도착/'},'문혜리정류소':{'schedule':'/시외버스/시간표/사창리터미널/출발/문혜리정류소/도착/'},'와수터미널':{'schedule':'/시외버스/시간표/사창리터미널/출발/와수시외버스터미널/도착/'},'육단리':{'schedule':'/시외버스/시간표/사창리터미널/출발/육단리/도착/'},'지포리':{'schedule':'/시외버스/시간표/사창리터미널/출발/지포리/도착/'}}">철원군</option>
+											<option value="{'두미르아파트':{'schedule':'/시외버스/시간표/사창리터미널/출발/두미르아파트/도착/'},'신포리':{'schedule':'/시외버스/시간표/사창리터미널/출발/신포리/도착/'},'어리고개정류소':{'schedule':'/시외버스/시간표/사창리터미널/출발/어리고개정류소/도착/'},'오탄1리':{'schedule':'/시외버스/시간표/사창리터미널/출발/오탄1리/도착/'},'오탄2리':{'schedule':'/시외버스/시간표/사창리터미널/출발/오탄2리/도착/'},'지촌정류소':{'schedule':'/시외버스/시간표/사창리터미널/출발/지촌정류소/도착/'},'춘천댐':{'schedule':'/시외버스/시간표/사창리터미널/출발/춘천댐/도착/'},'춘천시외버스터미널':{'schedule':'/시외버스/시간표/사창리터미널/출발/춘천시외버스터미널/도착/'},'현대아파트(춘천)':{'schedule':'/시외버스/시간표/사창리터미널/출발/현대아파트/도착/'},'현지사':{'schedule':'/시외버스/시간표/사창리터미널/출발/현지사/도착/'}}">춘천시</option>
+											<option value="{'광덕고개':{'schedule':'/시외버스/시간표/사창리터미널/출발/광덕고개/도착/'},'놀미(화천군)':{'schedule':'/시외버스/시간표/사창리터미널/출발/놀미/도착/'},'다목리버스터미널':{'schedule':'/시외버스/시간표/사창리터미널/출발/다목시외버스터미널/도착/'},'아파트(명월)':{'schedule':'/시외버스/시간표/사창리터미널/출발/아파트-명월/도착/'}}">화천군</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'원평버스터미널':{'link':'/시외버스/터미널/원평공용버스터미널/','schedule':'/시외버스/시간표/사창리터미널/출발/원평공용버스터미널/도착/','arrivals':[]}}">김제시</option>
+											<option value="{'원평버스터미널':{'schedule':'/시외버스/시간표/사창리터미널/출발/원평공용버스터미널/도착/'}}">김제시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

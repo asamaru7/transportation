@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/영산포공용버스터미널/출발/장흥시외버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/영산포공용버스터미널/출발/장흥시외버스터미널/도착/",
 				"name": "영산포공용터미널에서 장흥시외버스터미널 가는 고속버스 시간표",
 				"description": "2025.08.25. 영산포공용터미널에서 장흥시외버스터미널 가는 고속버스는 하루 3 회 운행합니다. 첫차 : 11:50, 막차 : 16:35, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/영산포공용버스터미널/출발/장흥시외버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_yeongsanpokongyongteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/영산포공용버스터미널/#terminal_yeongsanpokongyongteomineol",
 						"name": "영산포공용터미널",
 						"address": "전라남도 나주시 이창동 191",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_jangheungsioebeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/장흥시외버스터미널/#terminal_jangheungsioebeoseuteomineol",
 						"name": "장흥시외버스터미널",
 						"address": "전라남도 장흥군 장흥읍 건산리 382",
 						"geo": {
@@ -114,10 +115,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_yeongsanpokongyongteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/영산포공용버스터미널/#terminal_yeongsanpokongyongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_jangheungsioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/장흥시외버스터미널/#terminal_jangheungsioebeoseuteomineol"
 						},
 						"departureTime": "2025-08-26T11:50:00+09:00",
 						"arrivalTime": "2025-08-26T13:00:00+09:00",
@@ -131,10 +132,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_yeongsanpokongyongteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/영산포공용버스터미널/#terminal_yeongsanpokongyongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_jangheungsioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/장흥시외버스터미널/#terminal_jangheungsioebeoseuteomineol"
 						},
 						"departureTime": "2025-08-26T13:55:00+09:00",
 						"arrivalTime": "2025-08-26T15:05:00+09:00",
@@ -148,10 +149,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_yeongsanpokongyongteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/영산포공용버스터미널/#terminal_yeongsanpokongyongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_jangheungsioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/장흥시외버스터미널/#terminal_jangheungsioebeoseuteomineol"
 						},
 						"departureTime": "2025-08-26T16:35:00+09:00",
 						"arrivalTime": "2025-08-26T18:13:00+09:00",
@@ -164,8 +165,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -342,24 +343,24 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'진월동시외버스정류장':{'link':'/시외버스/터미널/광주남부시외버스정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/광주남부시외버스정류소/도착/','arrivals':[]}}">남구</option>
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/고속버스/터미널/광주종합버스터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'진월동시외버스정류장':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/광주남부시외버스정류소/도착/'}}">남구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="세종특별자치시">
-											<option value="{'세종고속시외버스터미널':{'link':'/고속버스/터미널/세종고속시외버스터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/세종고속시외버스터미널/도착/','arrivals':[]}}">세종특별자치시</option>
+											<option value="{'세종고속시외버스터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/세종고속시외버스터미널/도착/'}}">세종특별자치시</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'강진버스여객터미널':{'link':'/고속버스/터미널/강진버스여객터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/강진버스여객터미널/도착/','arrivals':[]},'병영정류소':{'link':'/시외버스/터미널/병영정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/병영정류소/도착/','arrivals':[]},'성전터미널':{'link':'/시외버스/터미널/성전터미널/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/성전터미널/도착/','arrivals':[]},'옴천':{'link':'/시외버스/터미널/옴천/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/옴천/도착/','arrivals':[]},'월남정류소':{'link':'/시외버스/터미널/월남강진터미널/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/월남강진터미널/도착/','arrivals':[]}}">강진군</option>
-											<option value="{'나주버스터미널':{'link':'/고속버스/터미널/나주시외버스터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/나주시외버스터미널/도착/','arrivals':[]},'동창(나주시)':{'link':'/시외버스/터미널/동창/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/동창/도착/','arrivals':[]},'빛가람시외버스정류장':{'link':'/시외버스/터미널/혁신도시임시정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/혁신도시임시정류소/도착/','arrivals':[]}}">나주시</option>
-											<option value="{'목포종합버스터미널':{'link':'/고속버스/터미널/목포종합버스터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/목포종합버스터미널/도착/','arrivals':[]}}">목포시</option>
-											<option value="{'금정(영암군)':{'link':'/시외버스/터미널/금정/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/금정/도착/','arrivals':[]},'독천터미널':{'link':'/시외버스/터미널/독천터미널/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/독천터미널/도착/','arrivals':[]},'삼호정류소':{'link':'/고속버스/터미널/삼호버스종합터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/삼호버스종합터미널/도착/','arrivals':[]},'석산(영암군)':{'link':'/시외버스/터미널/석산/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/석산/도착/','arrivals':[]},'송정(영암)':{'link':'/시외버스/터미널/송정-영암/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/송정-영암/도착/','arrivals':[]},'신북터미널':{'link':'/시외버스/터미널/신북시외버스터미널/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/신북시외버스터미널/도착/','arrivals':[]},'영암여객자동차터미널':{'link':'/고속버스/터미널/영암여객자동차터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/영암여객자동차터미널/도착/','arrivals':[]},'입석(영암군)':{'link':'/시외버스/터미널/입석/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/입석/도착/','arrivals':[]},'한대리':{'link':'/시외버스/터미널/한대리/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/한대리/도착/','arrivals':[]}}">영암군</option>
-											<option value="{'완도공용버스터미널':{'link':'/고속버스/터미널/완도공용버스터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/완도공용버스터미널/도착/','arrivals':[]},'원동버스터미널':{'link':'/고속버스/터미널/원동정류소/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/원동정류소/도착/','arrivals':[]}}">완도군</option>
-											<option selected="selected" data-terminal="장흥시외버스터미널" value="{'대덕공용버스터미널':{'link':'/시외버스/터미널/대덕공용버스터미널/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/대덕공용버스터미널/도착/','arrivals':[]},'용산정류소':{'link':'/시외버스/터미널/용산정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/용산정류소/도착/','arrivals':[]},'유치정류소':{'link':'/시외버스/터미널/유치정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/유치정류소/도착/','arrivals':[]},'장흥시외버스터미널':{'link':'/고속버스/터미널/장흥시외버스터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/장흥시외버스터미널/도착/','arrivals':[]},'회진시외버스터미널':{'link':'/고속버스/터미널/회진시외버스터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/회진시외버스터미널/도착/','arrivals':[]}}">장흥군</option>
-											<option value="{'녹진':{'link':'/시외버스/터미널/녹진/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/녹진/도착/','arrivals':[]},'진도공용터미널':{'link':'/고속버스/터미널/진도공용터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/진도공용터미널/도착/','arrivals':[]}}">진도군</option>
-											<option value="{'구림(해남군)':{'link':'/시외버스/터미널/구림/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/구림/도착/','arrivals':[]},'남리정류소':{'link':'/시외버스/터미널/남리정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/남리정류소/도착/','arrivals':[]},'남창시외버스터미널':{'link':'/시외버스/터미널/남창정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/남창정류소/도착/','arrivals':[]},'땅끝정류소':{'link':'/시외버스/터미널/땅끝정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/땅끝정류소/도착/','arrivals':[]},'산정정류소':{'link':'/시외버스/터미널/산정정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/산정정류소/도착/','arrivals':[]},'송호리정류소':{'link':'/시외버스/터미널/송호리정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/송호리정류소/도착/','arrivals':[]},'옥동(전남)':{'link':'/시외버스/터미널/옥동-전남/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/옥동-전남/도착/','arrivals':[]},'우수영정류소':{'link':'/시외버스/터미널/우수영정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/우수영정류소/도착/','arrivals':[]},'월송자동차여객터미널':{'link':'/시외버스/터미널/월송정류소/','schedule':'/시외버스/시간표/영산포공용버스터미널/출발/월송정류소/도착/','arrivals':[]},'해남종합버스터미널':{'link':'/고속버스/터미널/해남종합버스터미널/','schedule':'/고속버스/시간표/영산포공용버스터미널/출발/해남종합버스터미널/도착/','arrivals':[]}}">해남군</option>
+											<option value="{'강진버스여객터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/강진버스여객터미널/도착/'},'병영정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/병영정류소/도착/'},'성전터미널':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/성전터미널/도착/'},'옴천':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/옴천/도착/'},'월남정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/월남강진터미널/도착/'}}">강진군</option>
+											<option value="{'나주버스터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/나주시외버스터미널/도착/'},'동창(나주시)':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/동창/도착/'},'빛가람시외버스정류장':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/혁신도시임시정류소/도착/'}}">나주시</option>
+											<option value="{'목포종합버스터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/목포종합버스터미널/도착/'}}">목포시</option>
+											<option value="{'금정(영암군)':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/금정/도착/'},'독천터미널':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/독천터미널/도착/'},'삼호정류소':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/삼호버스종합터미널/도착/'},'석산(영암군)':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/석산/도착/'},'송정(영암)':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/송정-영암/도착/'},'신북터미널':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/신북시외버스터미널/도착/'},'영암여객자동차터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/영암여객자동차터미널/도착/'},'입석(영암군)':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/입석/도착/'},'한대리':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/한대리/도착/'}}">영암군</option>
+											<option value="{'완도공용버스터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/완도공용버스터미널/도착/'},'원동버스터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/원동정류소/도착/'}}">완도군</option>
+											<option selected="selected" data-terminal="장흥시외버스터미널" value="{'대덕공용버스터미널':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/대덕공용버스터미널/도착/'},'용산정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/용산정류소/도착/'},'유치정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/유치정류소/도착/'},'장흥시외버스터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/장흥시외버스터미널/도착/'},'회진시외버스터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/회진시외버스터미널/도착/'}}">장흥군</option>
+											<option value="{'녹진':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/녹진/도착/'},'진도공용터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/진도공용터미널/도착/'}}">진도군</option>
+											<option value="{'구림(해남군)':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/구림/도착/'},'남리정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/남리정류소/도착/'},'남창시외버스터미널':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/남창정류소/도착/'},'땅끝정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/땅끝정류소/도착/'},'산정정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/산정정류소/도착/'},'송호리정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/송호리정류소/도착/'},'옥동(전남)':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/옥동-전남/도착/'},'우수영정류소':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/우수영정류소/도착/'},'월송자동차여객터미널':{'schedule':'/시외버스/시간표/영산포공용버스터미널/출발/월송정류소/도착/'},'해남종합버스터미널':{'schedule':'/고속버스/시간표/영산포공용버스터미널/출발/해남종합버스터미널/도착/'}}">해남군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

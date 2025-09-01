@@ -58,6 +58,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/개양고속버스정류장/출발/인천종합터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/개양고속버스정류장/출발/인천종합터미널/도착/",
 				"name": "진주개양고속버스정류장에서 인천종합터미널 가는 시외버스 시간표",
 				"description": "2025.08.24. 진주개양고속버스정류장에서 인천종합터미널 가는 시외버스는 하루 2 회 운행합니다. 첫차 : 11:00, 막차 : 14:10, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -87,10 +88,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/개양고속버스정류장/출발/인천종합터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_jinjukaeyangkosogbeoseujeonglyujang",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/개양고속버스정류장/#terminal_jinjukaeyangkosogbeoseujeonglyujang",
 						"name": "진주개양고속버스정류장",
 						"address": "경상남도 진주시 가좌동 606-2",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_incheonjonghapteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/인천종합터미널/#terminal_incheonjonghapteomineol",
 						"name": "인천종합터미널",
 						"address": "인천광역시 미추홀구 관교동 15",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_jinjukaeyangkosogbeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/개양고속버스정류장/#terminal_jinjukaeyangkosogbeoseujeonglyujang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_incheonjonghapteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/인천종합터미널/#terminal_incheonjonghapteomineol"
 						},
 						"departureTime": "2025-08-25T11:00:00+09:00",
 						"arrivalTime": "2025-08-25T14:45:00+09:00",
@@ -132,10 +133,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_jinjukaeyangkosogbeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/개양고속버스정류장/#terminal_jinjukaeyangkosogbeoseujeonglyujang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_incheonjonghapteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/인천종합터미널/#terminal_incheonjonghapteomineol"
 						},
 						"departureTime": "2025-08-25T14:10:00+09:00",
 						"arrivalTime": "2025-08-25T17:55:00+09:00",
@@ -148,8 +149,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -297,28 +298,28 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/개양고속버스정류장/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/개양고속버스정류장/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'성남종합버스터미널':{'link':'/시외버스/터미널/성남종합버스터미널/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/성남종합버스터미널/도착/','arrivals':[]}}">성남시 분당구</option>
-											<option value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'신갈용인정류소':{'link':'/시외버스/터미널/신갈고속시외버스정류소/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/신갈고속시외버스정류소/도착/','arrivals':[]},'용인기흥역시외버스정류소':{'link':'/시외버스/터미널/기흥역시외버스정류소/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/기흥역시외버스정류소/도착/','arrivals':[]}}">용인시 기흥구</option>
-											<option value="{'용인공용버스터미널':{'link':'/시외버스/터미널/용인공용버스터미널/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/용인공용버스터미널/도착/','arrivals':[]}}">용인시 처인구</option>
+											<option value="{'성남종합버스터미널':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/성남종합버스터미널/도착/'}}">성남시 분당구</option>
+											<option value="{'수원버스터미널':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'신갈용인정류소':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/신갈고속시외버스정류소/도착/'},'용인기흥역시외버스정류소':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/기흥역시외버스정류소/도착/'}}">용인시 기흥구</option>
+											<option value="{'용인공용버스터미널':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/용인공용버스터미널/도착/'}}">용인시 처인구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option selected="selected" data-terminal="인천종합터미널" value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
+											<option selected="selected" data-terminal="인천종합터미널" value="{'인천종합터미널':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/인천종합터미널/도착/'}}">미추홀구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'서대구고속버스터미널':{'link':'/고속버스/터미널/서대구고속버스터미널/','schedule':'/고속버스/시간표/개양고속버스정류장/출발/서대구고속버스터미널/도착/','arrivals':[]}}">북구</option>
+											<option value="{'동대구터미널':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/동대구터미널/도착/'}}">동구</option>
+											<option value="{'서대구고속버스터미널':{'schedule':'/고속버스/시간표/개양고속버스정류장/출발/서대구고속버스터미널/도착/'}}">북구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'운암동시외버스정류소':{'link':'/시외버스/터미널/운암동-시외버스정류소/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/운암동-시외버스정류소/도착/','arrivals':[]}}">북구</option>
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/개양고속버스정류장/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'운암동시외버스정류소':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/운암동-시외버스정류소/도착/'}}">북구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/개양고속버스정류장/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'인삼랜드휴게소(하남방향)고속버스환승정류소':{'link':'/고속버스/터미널/인삼랜드휴게소-하남방향-고속버스환승정류소/','schedule':'/고속버스/시간표/개양고속버스정류장/출발/인삼랜드휴게소-하남방향-고속버스환승정류소/도착/','arrivals':[]}}">금산군</option>
+											<option value="{'인삼랜드휴게소(하남방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/개양고속버스정류장/출발/인삼랜드휴게소-하남방향-고속버스환승정류소/도착/'}}">금산군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

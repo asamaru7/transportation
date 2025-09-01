@@ -51,6 +51,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/터미널/이천종합터미널/",
 				"url": "https://transportation.asamaru.net/고속버스/터미널/이천종합터미널/",
 				"name": "이천종합터미널 운행노선 (고속버스)",
 				"description": "2025.09.01. 이천종합터미널(고속버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -80,24 +81,22 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/터미널/이천종합터미널/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_icheonjonghapteomineol",
-						"name": "이천종합터미널",
-						"address": "경기도 이천시 중리동 219-1",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.2777226,
-							"longitude": 127.4470043
-						},
-						"telephone": "1688-3320"
-					}
-				]
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/고속버스/터미널/이천종합터미널/#terminal_icheonjonghapteomineol",
+					"name": "이천종합터미널",
+					"address": "경기도 이천시 중리동 219-1",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 37.2777226,
+						"longitude": 127.4470043
+					},
+					"telephone": "1688-3320"
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -154,47 +153,47 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'김포공항정류소':{'link':'/시외버스/터미널/김포공항정류소/','schedule':'/시외버스/시간표/이천종합터미널/출발/김포공항정류소/도착/','arrivals':[]}}">강서구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'김포공항정류소':{'schedule':'/시외버스/시간표/이천종합터미널/출발/김포공항정류소/도착/'}}">강서구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/이천종합터미널/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'부천터미널소풍':{'link':'/시외버스/터미널/부천종합터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/부천종합터미널/도착/','arrivals':[]}}">부천시 원미구</option>
-											<option value="{'성남종합버스터미널':{'link':'/고속버스/터미널/성남종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/성남종합버스터미널/도착/','arrivals':[]}}">성남시 분당구</option>
-											<option value="{'수원버스터미널':{'link':'/고속버스/터미널/수원종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'아주대정류소':{'link':'/시외버스/터미널/아주대터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/아주대터미널/도착/','arrivals':[]}}">수원시 팔달구</option>
-											<option value="{'안산버스터미널':{'link':'/고속버스/터미널/안산버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'신갈영덕시외버스정류장':{'link':'/고속버스/터미널/신갈영덕시외버스정류장/','schedule':'/고속버스/시간표/이천종합터미널/출발/신갈영덕시외버스정류장/도착/','arrivals':[]},'영통입구정류소':{'link':'/고속버스/터미널/영통입구터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/영통입구터미널/도착/','arrivals':[]}}">용인시 기흥구</option>
-											<option value="{'오천(이천시)':{'link':'/시외버스/터미널/오천/','schedule':'/시외버스/시간표/이천종합터미널/출발/오천/도착/','arrivals':[]},'오천리더웰아파트정류장':{'link':'/시외버스/터미널/오천리더웰아파트/','schedule':'/시외버스/시간표/이천종합터미널/출발/오천리더웰아파트/도착/','arrivals':[]}}">이천시</option>
+											<option value="{'부천터미널소풍':{'schedule':'/시외버스/시간표/이천종합터미널/출발/부천종합터미널/도착/'}}">부천시 원미구</option>
+											<option value="{'성남종합버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/성남종합버스터미널/도착/'}}">성남시 분당구</option>
+											<option value="{'수원버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'아주대정류소':{'schedule':'/시외버스/시간표/이천종합터미널/출발/아주대터미널/도착/'}}">수원시 팔달구</option>
+											<option value="{'안산버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'신갈영덕시외버스정류장':{'schedule':'/고속버스/시간표/이천종합터미널/출발/신갈영덕시외버스정류장/도착/'},'영통입구정류소':{'schedule':'/고속버스/시간표/이천종합터미널/출발/영통입구터미널/도착/'}}">용인시 기흥구</option>
+											<option value="{'오천(이천시)':{'schedule':'/시외버스/시간표/이천종합터미널/출발/오천/도착/'},'오천리더웰아파트정류장':{'schedule':'/시외버스/시간표/이천종합터미널/출발/오천리더웰아파트/도착/'}}">이천시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/고속버스/터미널/인천종합터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
-											<option value="{'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천종합터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
+											<option value="{'인천공항T2정류장':{'schedule':'/시외버스/시간표/이천종합터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/고속버스/터미널/대전복합터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대전복합터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/대전복합터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'동대구터미널':{'link':'/고속버스/터미널/동대구터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'동대구터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/동대구터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산종합버스터미널':{'link':'/고속버스/터미널/부산종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">금정구</option>
+											<option value="{'부산종합버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/부산종합버스터미널/도착/'}}">금정구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/고속버스/터미널/광주종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/고속버스/시간표/이천종합터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/강릉시외버스터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/이천종합터미널/출발/강릉시외버스터미널/도착/'}}">강릉시</option>
+											<option value="{'원주시외버스터미널':{'schedule':'/시외버스/시간표/이천종합터미널/출발/원주시외버스터미널/도착/'}}">원주시</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'제천버스터미널':{'link':'/시외버스/터미널/제천버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/제천버스터미널/도착/','arrivals':[]}}">제천시</option>
-											<option value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/청주시외버스터미널/도착/','arrivals':[]}}">청주시 흥덕구</option>
+											<option value="{'제천버스터미널':{'schedule':'/시외버스/시간표/이천종합터미널/출발/제천버스터미널/도착/'}}">제천시</option>
+											<option value="{'청주시외버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/청주시외버스터미널/도착/'}}">청주시 흥덕구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'구미종합터미널':{'link':'/고속버스/터미널/구미종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/구미종합버스터미널/도착/','arrivals':[]}}">구미시</option>
+											<option value="{'구미종합터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/구미종합버스터미널/도착/'}}">구미시</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'전주시외버스공용터미널':{'link':'/시외버스/터미널/전주시외버스공용터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/전주시외버스공용터미널/도착/','arrivals':[]}}">전주시 덕진구</option>
+											<option value="{'전주시외버스공용터미널':{'schedule':'/시외버스/시간표/이천종합터미널/출발/전주시외버스공용터미널/도착/'}}">전주시 덕진구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -268,47 +267,47 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'김포공항정류소':{'link':'/시외버스/터미널/김포공항정류소/','schedule':'/시외버스/시간표/이천종합터미널/출발/김포공항정류소/도착/','arrivals':[]}}">강서구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'김포공항정류소':{'schedule':'/시외버스/시간표/이천종합터미널/출발/김포공항정류소/도착/'}}">강서구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/이천종합터미널/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'부천터미널소풍':{'link':'/시외버스/터미널/부천종합터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/부천종합터미널/도착/','arrivals':[]}}">부천시 원미구</option>
-											<option value="{'성남종합버스터미널':{'link':'/고속버스/터미널/성남종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/성남종합버스터미널/도착/','arrivals':[]}}">성남시 분당구</option>
-											<option value="{'수원버스터미널':{'link':'/고속버스/터미널/수원종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'아주대정류소':{'link':'/시외버스/터미널/아주대터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/아주대터미널/도착/','arrivals':[]}}">수원시 팔달구</option>
-											<option value="{'안산버스터미널':{'link':'/고속버스/터미널/안산버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'신갈영덕시외버스정류장':{'link':'/고속버스/터미널/신갈영덕시외버스정류장/','schedule':'/고속버스/시간표/이천종합터미널/출발/신갈영덕시외버스정류장/도착/','arrivals':[]},'영통입구정류소':{'link':'/고속버스/터미널/영통입구터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/영통입구터미널/도착/','arrivals':[]}}">용인시 기흥구</option>
-											<option value="{'오천(이천시)':{'link':'/시외버스/터미널/오천/','schedule':'/시외버스/시간표/이천종합터미널/출발/오천/도착/','arrivals':[]},'오천리더웰아파트정류장':{'link':'/시외버스/터미널/오천리더웰아파트/','schedule':'/시외버스/시간표/이천종합터미널/출발/오천리더웰아파트/도착/','arrivals':[]}}">이천시</option>
+											<option value="{'부천터미널소풍':{'schedule':'/시외버스/시간표/이천종합터미널/출발/부천종합터미널/도착/'}}">부천시 원미구</option>
+											<option value="{'성남종합버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/성남종합버스터미널/도착/'}}">성남시 분당구</option>
+											<option value="{'수원버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'아주대정류소':{'schedule':'/시외버스/시간표/이천종합터미널/출발/아주대터미널/도착/'}}">수원시 팔달구</option>
+											<option value="{'안산버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'신갈영덕시외버스정류장':{'schedule':'/고속버스/시간표/이천종합터미널/출발/신갈영덕시외버스정류장/도착/'},'영통입구정류소':{'schedule':'/고속버스/시간표/이천종합터미널/출발/영통입구터미널/도착/'}}">용인시 기흥구</option>
+											<option value="{'오천(이천시)':{'schedule':'/시외버스/시간표/이천종합터미널/출발/오천/도착/'},'오천리더웰아파트정류장':{'schedule':'/시외버스/시간표/이천종합터미널/출발/오천리더웰아파트/도착/'}}">이천시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/고속버스/터미널/인천종합터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
-											<option value="{'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천종합터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
+											<option value="{'인천공항T2정류장':{'schedule':'/시외버스/시간표/이천종합터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/고속버스/터미널/대전복합터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대전복합터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/대전복합터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'동대구터미널':{'link':'/고속버스/터미널/동대구터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'동대구터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/동대구터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산종합버스터미널':{'link':'/고속버스/터미널/부산종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">금정구</option>
+											<option value="{'부산종합버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/부산종합버스터미널/도착/'}}">금정구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/고속버스/터미널/광주종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/고속버스/시간표/이천종합터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/강릉시외버스터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/이천종합터미널/출발/강릉시외버스터미널/도착/'}}">강릉시</option>
+											<option value="{'원주시외버스터미널':{'schedule':'/시외버스/시간표/이천종합터미널/출발/원주시외버스터미널/도착/'}}">원주시</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'제천버스터미널':{'link':'/시외버스/터미널/제천버스터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/제천버스터미널/도착/','arrivals':[]}}">제천시</option>
-											<option value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/청주시외버스터미널/도착/','arrivals':[]}}">청주시 흥덕구</option>
+											<option value="{'제천버스터미널':{'schedule':'/시외버스/시간표/이천종합터미널/출발/제천버스터미널/도착/'}}">제천시</option>
+											<option value="{'청주시외버스터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/청주시외버스터미널/도착/'}}">청주시 흥덕구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'구미종합터미널':{'link':'/고속버스/터미널/구미종합버스터미널/','schedule':'/고속버스/시간표/이천종합터미널/출발/구미종합버스터미널/도착/','arrivals':[]}}">구미시</option>
+											<option value="{'구미종합터미널':{'schedule':'/고속버스/시간표/이천종합터미널/출발/구미종합버스터미널/도착/'}}">구미시</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'전주시외버스공용터미널':{'link':'/시외버스/터미널/전주시외버스공용터미널/','schedule':'/시외버스/시간표/이천종합터미널/출발/전주시외버스공용터미널/도착/','arrivals':[]}}">전주시 덕진구</option>
+											<option value="{'전주시외버스공용터미널':{'schedule':'/시외버스/시간표/이천종합터미널/출발/전주시외버스공용터미널/도착/'}}">전주시 덕진구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

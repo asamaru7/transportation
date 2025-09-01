@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/마천정류소/출발/안양시외버스정류장-상행/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/마천정류소/출발/안양시외버스정류장-상행/도착/",
 				"name": "마천정류소에서 안양시외버스정류장 상행 가는 시외버스 시간표",
 				"description": "2021.09.28. 마천정류소에서 안양시외버스정류장 상행 가는 시외버스는 하루 0 회 운행합니다. 첫차 : , 막차 : , 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/마천정류소/출발/안양시외버스정류장-상행/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_macheonjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/마천정류소/#terminal_macheonjeonglyuso",
 						"name": "마천정류소",
 						"address": "경상남도 함양군 마천면 가흥리 538-3",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_anyangsioebeoseujeonglyujang_sanghaeng",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/안양시외버스정류장-상행/#terminal_anyangsioebeoseujeonglyujang_sanghaeng",
 						"name": "안양시외버스정류장 상행",
 						"address": "경기도 안양시 만안구 안양동 689-147",
 						"geo": {
@@ -113,8 +114,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -245,13 +246,13 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/마천정류소/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/마천정류소/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/마천정류소/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/마천정류소/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'부천터미널소풍':{'link':'/시외버스/터미널/부천종합터미널/','schedule':'/시외버스/시간표/마천정류소/출발/부천종합터미널/도착/','arrivals':[]}}">부천시 원미구</option>
-											<option value="{'호계시외버스정류소':{'link':'/시외버스/터미널/호계시외버스정류장/','schedule':'/시외버스/시간표/마천정류소/출발/호계시외버스정류장/도착/','arrivals':[]}}">안양시 동안구</option>
-											<option selected="selected" data-terminal="안양시외버스정류장 상행" value="{'안양시외버스정류장 하행':{'link':'/시외버스/터미널/안양시외버스정류장-하행/','schedule':'/시외버스/시간표/마천정류소/출발/안양시외버스정류장-하행/도착/','arrivals':[]}}">안양시 만안구</option>
+											<option value="{'부천터미널소풍':{'schedule':'/시외버스/시간표/마천정류소/출발/부천종합터미널/도착/'}}">부천시 원미구</option>
+											<option value="{'호계시외버스정류소':{'schedule':'/시외버스/시간표/마천정류소/출발/호계시외버스정류장/도착/'}}">안양시 동안구</option>
+											<option selected="selected" data-terminal="안양시외버스정류장 상행" value="{'안양시외버스정류장 하행':{'schedule':'/시외버스/시간표/마천정류소/출발/안양시외버스정류장-하행/도착/'}}">안양시 만안구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

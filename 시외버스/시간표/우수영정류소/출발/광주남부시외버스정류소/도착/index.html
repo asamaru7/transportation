@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/우수영정류소/출발/광주남부시외버스정류소/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/우수영정류소/출발/광주남부시외버스정류소/도착/",
 				"name": "우수영정류소에서 진월동시외버스정류장 가는 시외버스 시간표",
 				"description": "2025.08.26. 우수영정류소에서 진월동시외버스정류장 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 14:50, 막차 : 14:50, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/우수영정류소/출발/광주남부시외버스정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_usuyeongjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/우수영정류소/#terminal_usuyeongjeonglyuso",
 						"name": "우수영정류소",
 						"address": "전라남도 해남군 문내면 동외리 455-1",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_jinwoldongsioebeoseujeonglyujang",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/광주남부시외버스정류소/#terminal_jinwoldongsioebeoseujeonglyujang",
 						"name": "진월동시외버스정류장",
 						"address": "광주광역시 남구 진월동 424-6",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_usuyeongjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/우수영정류소/#terminal_usuyeongjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_jinwoldongsioebeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/광주남부시외버스정류소/#terminal_jinwoldongsioebeoseujeonglyujang"
 						},
 						"departureTime": "2025-08-27T14:50:00+09:00",
 						"arrivalTime": "2025-08-27T17:21:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -289,24 +290,24 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="부산광역시">
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option selected="selected" data-terminal="진월동시외버스정류장" value="{'진월동시외버스정류장':{'link':'/시외버스/터미널/광주남부시외버스정류소/','schedule':'/시외버스/시간표/우수영정류소/출발/광주남부시외버스정류소/도착/','arrivals':[]}}">남구</option>
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option selected="selected" data-terminal="진월동시외버스정류장" value="{'진월동시외버스정류장':{'schedule':'/시외버스/시간표/우수영정류소/출발/광주남부시외버스정류소/도착/'}}">남구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/우수영정류소/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'강진버스여객터미널':{'link':'/시외버스/터미널/강진버스여객터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/강진버스여객터미널/도착/','arrivals':[]},'성전터미널':{'link':'/시외버스/터미널/성전터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/성전터미널/도착/','arrivals':[]},'월남정류소':{'link':'/시외버스/터미널/월남강진터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/월남강진터미널/도착/','arrivals':[]}}">강진군</option>
-											<option value="{'광양터미널':{'link':'/시외버스/터미널/광양시외버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/광양시외버스터미널/도착/','arrivals':[]},'동광양중마버스터미널':{'link':'/시외버스/터미널/중마버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/중마버스터미널/도착/','arrivals':[]}}">광양시</option>
-											<option value="{'나주버스터미널':{'link':'/시외버스/터미널/나주시외버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/나주시외버스터미널/도착/','arrivals':[]},'영산포공용터미널':{'link':'/시외버스/터미널/영산포공용버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/영산포공용버스터미널/도착/','arrivals':[]}}">나주시</option>
-											<option value="{'목포종합버스터미널':{'link':'/시외버스/터미널/목포종합버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/목포종합버스터미널/도착/','arrivals':[]}}">목포시</option>
-											<option value="{'남악정류소':{'link':'/시외버스/터미널/남악정류소/','schedule':'/시외버스/시간표/우수영정류소/출발/남악정류소/도착/','arrivals':[]}}">무안군</option>
-											<option value="{'벌교공용버스터미널':{'link':'/시외버스/터미널/벌교버스공용터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/벌교버스공용터미널/도착/','arrivals':[]},'보성버스터미널':{'link':'/시외버스/터미널/보성시외버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/보성시외버스터미널/도착/','arrivals':[]},'예당정류소':{'link':'/시외버스/터미널/예당정류소/','schedule':'/시외버스/시간표/우수영정류소/출발/예당정류소/도착/','arrivals':[]},'조성정류소':{'link':'/시외버스/터미널/조성터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/조성터미널/도착/','arrivals':[]}}">보성군</option>
-											<option value="{'순천종합버스터미널':{'link':'/시외버스/터미널/순천종합버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/순천종합버스터미널/도착/','arrivals':[]}}">순천시</option>
-											<option value="{'삼호정류소':{'link':'/시외버스/터미널/삼호버스종합터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/삼호버스종합터미널/도착/','arrivals':[]},'신북터미널':{'link':'/시외버스/터미널/신북시외버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/신북시외버스터미널/도착/','arrivals':[]},'영암여객자동차터미널':{'link':'/시외버스/터미널/영암여객자동차터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/영암여객자동차터미널/도착/','arrivals':[]}}">영암군</option>
-											<option value="{'배산정류소':{'link':'/시외버스/터미널/배산정류소/','schedule':'/시외버스/시간표/우수영정류소/출발/배산정류소/도착/','arrivals':[]},'장흥시외버스터미널':{'link':'/시외버스/터미널/장흥시외버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/장흥시외버스터미널/도착/','arrivals':[]}}">장흥군</option>
-											<option value="{'녹진':{'link':'/시외버스/터미널/녹진/','schedule':'/시외버스/시간표/우수영정류소/출발/녹진/도착/','arrivals':[]},'진도공용터미널':{'link':'/시외버스/터미널/진도공용터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/진도공용터미널/도착/','arrivals':[]}}">진도군</option>
-											<option value="{'남리정류소':{'link':'/시외버스/터미널/남리정류소/','schedule':'/시외버스/시간표/우수영정류소/출발/남리정류소/도착/','arrivals':[]},'옥동(전남)':{'link':'/시외버스/터미널/옥동-전남/','schedule':'/시외버스/시간표/우수영정류소/출발/옥동-전남/도착/','arrivals':[]},'해남종합버스터미널':{'link':'/시외버스/터미널/해남종합버스터미널/','schedule':'/시외버스/시간표/우수영정류소/출발/해남종합버스터미널/도착/','arrivals':[]}}">해남군</option>
+											<option value="{'강진버스여객터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/강진버스여객터미널/도착/'},'성전터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/성전터미널/도착/'},'월남정류소':{'schedule':'/시외버스/시간표/우수영정류소/출발/월남강진터미널/도착/'}}">강진군</option>
+											<option value="{'광양터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/광양시외버스터미널/도착/'},'동광양중마버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/중마버스터미널/도착/'}}">광양시</option>
+											<option value="{'나주버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/나주시외버스터미널/도착/'},'영산포공용터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/영산포공용버스터미널/도착/'}}">나주시</option>
+											<option value="{'목포종합버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/목포종합버스터미널/도착/'}}">목포시</option>
+											<option value="{'남악정류소':{'schedule':'/시외버스/시간표/우수영정류소/출발/남악정류소/도착/'}}">무안군</option>
+											<option value="{'벌교공용버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/벌교버스공용터미널/도착/'},'보성버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/보성시외버스터미널/도착/'},'예당정류소':{'schedule':'/시외버스/시간표/우수영정류소/출발/예당정류소/도착/'},'조성정류소':{'schedule':'/시외버스/시간표/우수영정류소/출발/조성터미널/도착/'}}">보성군</option>
+											<option value="{'순천종합버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/순천종합버스터미널/도착/'}}">순천시</option>
+											<option value="{'삼호정류소':{'schedule':'/시외버스/시간표/우수영정류소/출발/삼호버스종합터미널/도착/'},'신북터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/신북시외버스터미널/도착/'},'영암여객자동차터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/영암여객자동차터미널/도착/'}}">영암군</option>
+											<option value="{'배산정류소':{'schedule':'/시외버스/시간표/우수영정류소/출발/배산정류소/도착/'},'장흥시외버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/장흥시외버스터미널/도착/'}}">장흥군</option>
+											<option value="{'녹진':{'schedule':'/시외버스/시간표/우수영정류소/출발/녹진/도착/'},'진도공용터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/진도공용터미널/도착/'}}">진도군</option>
+											<option value="{'남리정류소':{'schedule':'/시외버스/시간표/우수영정류소/출발/남리정류소/도착/'},'옥동(전남)':{'schedule':'/시외버스/시간표/우수영정류소/출발/옥동-전남/도착/'},'해남종합버스터미널':{'schedule':'/시외버스/시간표/우수영정류소/출발/해남종합버스터미널/도착/'}}">해남군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

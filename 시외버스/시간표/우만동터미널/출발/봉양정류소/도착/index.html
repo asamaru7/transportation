@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/우만동터미널/출발/봉양정류소/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/우만동터미널/출발/봉양정류소/도착/",
 				"name": "우만동터미널에서 봉양정류소 가는 시외버스 시간표",
 				"description": "2023.12.12. 우만동터미널에서 봉양정류소 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 20:28, 막차 : 20:28, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/우만동터미널/출발/봉양정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_umandongteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/우만동터미널/#terminal_umandongteomineol",
 						"name": "우만동터미널",
 						"address": "경기도 수원시 팔달구 우만동 274",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_bongyangjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/봉양정류소/#terminal_bongyangjeonglyuso",
 						"name": "봉양정류소",
 						"address": "충청북도 제천시 봉양읍 주포리 210-24",
 						"geo": {
@@ -113,10 +114,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_umandongteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/우만동터미널/#terminal_umandongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_bongyangjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/봉양정류소/#terminal_bongyangjeonglyuso"
 						},
 						"departureTime": "2023-12-12T20:28:00+09:00",
 						"arrivalTime": "2023-12-12T23:02:00+09:00",
@@ -129,8 +130,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -280,28 +281,28 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경기도">
-											<option value="{'일죽버스터미널':{'link':'/시외버스/터미널/일죽시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/일죽시외버스터미널/도착/','arrivals':[]}}">안성시</option>
-											<option value="{'가남태평버스정류소':{'link':'/시외버스/터미널/태평시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/태평시외버스터미널/도착/','arrivals':[]}}">여주시</option>
-											<option value="{'아미리정류소':{'link':'/시외버스/터미널/아미리정류소/','schedule':'/시외버스/시간표/우만동터미널/출발/아미리정류소/도착/','arrivals':[]},'장호원정류소':{'link':'/시외버스/터미널/장호원시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/장호원시외버스터미널/도착/','arrivals':[]}}">이천시</option>
+											<option value="{'일죽버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/일죽시외버스터미널/도착/'}}">안성시</option>
+											<option value="{'가남태평버스정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/태평시외버스터미널/도착/'}}">여주시</option>
+											<option value="{'아미리정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/아미리정류소/도착/'},'장호원정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/장호원시외버스터미널/도착/'}}">이천시</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/강릉시외버스터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'속초시외버스터미널':{'link':'/시외버스/터미널/속초시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/속초시외버스터미널/도착/','arrivals':[]}}">속초시</option>
-											<option value="{'문막버스정류소':{'link':'/시외버스/터미널/문막정류소/','schedule':'/시외버스/시간표/우만동터미널/출발/문막정류소/도착/','arrivals':[]},'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
-											<option value="{'백담사입구정류소':{'link':'/시외버스/터미널/용대리정류소/','schedule':'/시외버스/시간표/우만동터미널/출발/용대리정류소/도착/','arrivals':[]},'신남정류장':{'link':'/시외버스/터미널/신남시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/신남시외버스터미널/도착/','arrivals':[]},'원통버스터미널':{'link':'/시외버스/터미널/원통공용버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/원통공용버스터미널/도착/','arrivals':[]},'인제터미널':{'link':'/시외버스/터미널/인제시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/인제시외버스터미널/도착/','arrivals':[]}}">인제군</option>
-											<option value="{'춘천시외버스터미널':{'link':'/시외버스/터미널/춘천시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/춘천시외버스터미널/도착/','arrivals':[]}}">춘천시</option>
-											<option value="{'홍천종합버스터미널':{'link':'/시외버스/터미널/홍천터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/홍천터미널/도착/','arrivals':[]}}">홍천군</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/강릉시외버스터미널/도착/'}}">강릉시</option>
+											<option value="{'속초시외버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/속초시외버스터미널/도착/'}}">속초시</option>
+											<option value="{'문막버스정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/문막정류소/도착/'},'원주시외버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/원주시외버스터미널/도착/'}}">원주시</option>
+											<option value="{'백담사입구정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/용대리정류소/도착/'},'신남정류장':{'schedule':'/시외버스/시간표/우만동터미널/출발/신남시외버스터미널/도착/'},'원통버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/원통공용버스터미널/도착/'},'인제터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/인제시외버스터미널/도착/'}}">인제군</option>
+											<option value="{'춘천시외버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/춘천시외버스터미널/도착/'}}">춘천시</option>
+											<option value="{'홍천종합버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/홍천터미널/도착/'}}">홍천군</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'감곡공용정류장':{'link':'/시외버스/터미널/감곡시외터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/감곡시외터미널/도착/','arrivals':[]},'금왕임시정류소':{'link':'/시외버스/터미널/무극공용시외버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/무극공용시외버스터미널/도착/','arrivals':[]},'생극터미널':{'link':'/시외버스/터미널/생극터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/생극터미널/도착/','arrivals':[]},'음성공용버스터미널':{'link':'/시외버스/터미널/음성공용버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/음성공용버스터미널/도착/','arrivals':[]}}">음성군</option>
-											<option selected="selected" data-terminal="봉양정류소" value="{'백운(제천시)':{'link':'/시외버스/터미널/백운/','schedule':'/시외버스/시간표/우만동터미널/출발/백운/도착/','arrivals':[]},'제천버스터미널':{'link':'/시외버스/터미널/제천버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/제천버스터미널/도착/','arrivals':[]}}">제천시</option>
-											<option value="{'이월정류소':{'link':'/시외버스/터미널/이월터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/이월터미널/도착/','arrivals':[]}}">진천군</option>
-											<option value="{'교통대학정류장':{'link':'/시외버스/터미널/한국교통대/','schedule':'/시외버스/시간표/우만동터미널/출발/한국교통대/도착/','arrivals':[]},'용원(충주)':{'link':'/시외버스/터미널/용원/','schedule':'/시외버스/시간표/우만동터미널/출발/용원/도착/','arrivals':[]},'용원정류소':{'link':'/시외버스/터미널/용원정류소/','schedule':'/시외버스/시간표/우만동터미널/출발/용원정류소/도착/','arrivals':[]},'주덕버스터미널':{'link':'/시외버스/터미널/주덕정류소/','schedule':'/시외버스/시간표/우만동터미널/출발/주덕정류소/도착/','arrivals':[]},'충주공용버스터미널':{'link':'/시외버스/터미널/충주공용버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/충주공용버스터미널/도착/','arrivals':[]}}">충주시</option>
+											<option value="{'감곡공용정류장':{'schedule':'/시외버스/시간표/우만동터미널/출발/감곡시외터미널/도착/'},'금왕임시정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/무극공용시외버스터미널/도착/'},'생극터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/생극터미널/도착/'},'음성공용버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/음성공용버스터미널/도착/'}}">음성군</option>
+											<option selected="selected" data-terminal="봉양정류소" value="{'백운(제천시)':{'schedule':'/시외버스/시간표/우만동터미널/출발/백운/도착/'},'제천버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/제천버스터미널/도착/'}}">제천시</option>
+											<option value="{'이월정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/이월터미널/도착/'}}">진천군</option>
+											<option value="{'교통대학정류장':{'schedule':'/시외버스/시간표/우만동터미널/출발/한국교통대/도착/'},'용원(충주)':{'schedule':'/시외버스/시간표/우만동터미널/출발/용원/도착/'},'용원정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/용원정류소/도착/'},'주덕버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/주덕정류소/도착/'},'충주공용버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/충주공용버스터미널/도착/'}}">충주시</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'문경버스터미널':{'link':'/시외버스/터미널/문경공용버스정류장/','schedule':'/시외버스/시간표/우만동터미널/출발/문경공용버스정류장/도착/','arrivals':[]},'점촌터미널':{'link':'/시외버스/터미널/점촌시외고속버스터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/점촌시외고속버스터미널/도착/','arrivals':[]}}">문경시</option>
-											<option value="{'경북도청버스정류장':{'link':'/시외버스/터미널/경북도청시외버스정류장/','schedule':'/시외버스/시간표/우만동터미널/출발/경북도청시외버스정류장/도착/','arrivals':[]},'안동터미널':{'link':'/시외버스/터미널/안동터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/안동터미널/도착/','arrivals':[]}}">안동시</option>
-											<option value="{'영주종합터미널':{'link':'/시외버스/터미널/영주종합터미널/','schedule':'/시외버스/시간표/우만동터미널/출발/영주종합터미널/도착/','arrivals':[]},'풍기IC정류소':{'link':'/시외버스/터미널/풍기ic시외버스정류장/','schedule':'/시외버스/시간표/우만동터미널/출발/풍기ic시외버스정류장/도착/','arrivals':[]}}">영주시</option>
+											<option value="{'문경버스터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/문경공용버스정류장/도착/'},'점촌터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/점촌시외고속버스터미널/도착/'}}">문경시</option>
+											<option value="{'경북도청버스정류장':{'schedule':'/시외버스/시간표/우만동터미널/출발/경북도청시외버스정류장/도착/'},'안동터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/안동터미널/도착/'}}">안동시</option>
+											<option value="{'영주종합터미널':{'schedule':'/시외버스/시간표/우만동터미널/출발/영주종합터미널/도착/'},'풍기IC정류소':{'schedule':'/시외버스/시간표/우만동터미널/출발/풍기ic시외버스정류장/도착/'}}">영주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

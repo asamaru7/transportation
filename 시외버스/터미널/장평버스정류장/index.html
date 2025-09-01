@@ -51,6 +51,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/터미널/장평버스정류장/",
 				"url": "https://transportation.asamaru.net/시외버스/터미널/장평버스정류장/",
 				"name": "장평시외버스터미널 운행노선 (시외버스)",
 				"description": "2025.08.24. 장평시외버스터미널(시외버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -80,24 +81,22 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/터미널/장평버스정류장/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_jangpyeongsioebeoseuteomineol",
-						"name": "장평시외버스터미널",
-						"address": "강원특별자치도 평창군 용평면 장평리 345",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.5863935,
-							"longitude": 128.4144244
-						},
-						"telephone": "033-332-4209"
-					}
-				]
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/시외버스/터미널/장평버스정류장/#terminal_jangpyeongsioebeoseuteomineol",
+					"name": "장평시외버스터미널",
+					"address": "강원특별자치도 평창군 용평면 장평리 345",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 37.5863935,
+						"longitude": 128.4144244
+					},
+					"telephone": "033-332-4209"
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -154,20 +153,20 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'군포시외버스정류소':{'link':'/시외버스/터미널/군포시외버스정류소/','schedule':'/시외버스/시간표/장평버스정류장/출발/군포시외버스정류소/도착/','arrivals':[]}}">군포시</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'의정부시외버스터미널':{'link':'/시외버스/터미널/의정부시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/의정부시외버스터미널/도착/','arrivals':[]}}">의정부시</option>
+											<option value="{'군포시외버스정류소':{'schedule':'/시외버스/시간표/장평버스정류장/출발/군포시외버스정류소/도착/'}}">군포시</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'의정부시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/의정부시외버스터미널/도착/'}}">의정부시</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/강릉시외버스터미널/도착/','arrivals':[]},'주문진시외버스종합터미널':{'link':'/시외버스/터미널/주문진고속버스종합터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/주문진고속버스종합터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'우산동(원주시)':{'link':'/시외버스/터미널/우산동/','schedule':'/시외버스/시간표/장평버스정류장/출발/우산동/도착/','arrivals':[]},'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
-											<option value="{'정선공영버스터미널':{'link':'/시외버스/터미널/정선시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/정선시외버스터미널/도착/','arrivals':[]}}">정선군</option>
-											<option value="{'대화버스터미널':{'link':'/시외버스/터미널/대화시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/대화시외버스터미널/도착/','arrivals':[]},'미탄정류소':{'link':'/시외버스/터미널/미탄정류소/','schedule':'/시외버스/시간표/장평버스정류장/출발/미탄정류소/도착/','arrivals':[]},'방림삼거리정류소':{'link':'/시외버스/터미널/방림정류소/','schedule':'/시외버스/시간표/장평버스정류장/출발/방림정류소/도착/','arrivals':[]},'진부시외버스터미널':{'link':'/시외버스/터미널/진부공용버스정류장/','schedule':'/시외버스/시간표/장평버스정류장/출발/진부공용버스정류장/도착/','arrivals':[]},'평창버스터미널':{'link':'/시외버스/터미널/평창버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/평창버스터미널/도착/','arrivals':[]},'횡계시외버스터미널':{'link':'/시외버스/터미널/횡계시외버스공용정류장/','schedule':'/시외버스/시간표/장평버스정류장/출발/횡계시외버스공용정류장/도착/','arrivals':[]}}">평창군</option>
-											<option value="{'둔내버스정류장':{'link':'/시외버스/터미널/둔내시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/둔내시외버스터미널/도착/','arrivals':[]}}">횡성군</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/강릉시외버스터미널/도착/'},'주문진시외버스종합터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/주문진고속버스종합터미널/도착/'}}">강릉시</option>
+											<option value="{'우산동(원주시)':{'schedule':'/시외버스/시간표/장평버스정류장/출발/우산동/도착/'},'원주시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/원주시외버스터미널/도착/'}}">원주시</option>
+											<option value="{'정선공영버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/정선시외버스터미널/도착/'}}">정선군</option>
+											<option value="{'대화버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/대화시외버스터미널/도착/'},'미탄정류소':{'schedule':'/시외버스/시간표/장평버스정류장/출발/미탄정류소/도착/'},'방림삼거리정류소':{'schedule':'/시외버스/시간표/장평버스정류장/출발/방림정류소/도착/'},'진부시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/진부공용버스정류장/도착/'},'평창버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/평창버스터미널/도착/'},'횡계시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/횡계시외버스공용정류장/도착/'}}">평창군</option>
+											<option value="{'둔내버스정류장':{'schedule':'/시외버스/시간표/장평버스정류장/출발/둔내시외버스터미널/도착/'}}">횡성군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -231,20 +230,20 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'군포시외버스정류소':{'link':'/시외버스/터미널/군포시외버스정류소/','schedule':'/시외버스/시간표/장평버스정류장/출발/군포시외버스정류소/도착/','arrivals':[]}}">군포시</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'의정부시외버스터미널':{'link':'/시외버스/터미널/의정부시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/의정부시외버스터미널/도착/','arrivals':[]}}">의정부시</option>
+											<option value="{'군포시외버스정류소':{'schedule':'/시외버스/시간표/장평버스정류장/출발/군포시외버스정류소/도착/'}}">군포시</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'의정부시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/의정부시외버스터미널/도착/'}}">의정부시</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/강릉시외버스터미널/도착/','arrivals':[]},'주문진시외버스종합터미널':{'link':'/시외버스/터미널/주문진고속버스종합터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/주문진고속버스종합터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'우산동(원주시)':{'link':'/시외버스/터미널/우산동/','schedule':'/시외버스/시간표/장평버스정류장/출발/우산동/도착/','arrivals':[]},'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
-											<option value="{'정선공영버스터미널':{'link':'/시외버스/터미널/정선시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/정선시외버스터미널/도착/','arrivals':[]}}">정선군</option>
-											<option value="{'대화버스터미널':{'link':'/시외버스/터미널/대화시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/대화시외버스터미널/도착/','arrivals':[]},'미탄정류소':{'link':'/시외버스/터미널/미탄정류소/','schedule':'/시외버스/시간표/장평버스정류장/출발/미탄정류소/도착/','arrivals':[]},'방림삼거리정류소':{'link':'/시외버스/터미널/방림정류소/','schedule':'/시외버스/시간표/장평버스정류장/출발/방림정류소/도착/','arrivals':[]},'진부시외버스터미널':{'link':'/시외버스/터미널/진부공용버스정류장/','schedule':'/시외버스/시간표/장평버스정류장/출발/진부공용버스정류장/도착/','arrivals':[]},'평창버스터미널':{'link':'/시외버스/터미널/평창버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/평창버스터미널/도착/','arrivals':[]},'횡계시외버스터미널':{'link':'/시외버스/터미널/횡계시외버스공용정류장/','schedule':'/시외버스/시간표/장평버스정류장/출발/횡계시외버스공용정류장/도착/','arrivals':[]}}">평창군</option>
-											<option value="{'둔내버스정류장':{'link':'/시외버스/터미널/둔내시외버스터미널/','schedule':'/시외버스/시간표/장평버스정류장/출발/둔내시외버스터미널/도착/','arrivals':[]}}">횡성군</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/강릉시외버스터미널/도착/'},'주문진시외버스종합터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/주문진고속버스종합터미널/도착/'}}">강릉시</option>
+											<option value="{'우산동(원주시)':{'schedule':'/시외버스/시간표/장평버스정류장/출발/우산동/도착/'},'원주시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/원주시외버스터미널/도착/'}}">원주시</option>
+											<option value="{'정선공영버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/정선시외버스터미널/도착/'}}">정선군</option>
+											<option value="{'대화버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/대화시외버스터미널/도착/'},'미탄정류소':{'schedule':'/시외버스/시간표/장평버스정류장/출발/미탄정류소/도착/'},'방림삼거리정류소':{'schedule':'/시외버스/시간표/장평버스정류장/출발/방림정류소/도착/'},'진부시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/진부공용버스정류장/도착/'},'평창버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/평창버스터미널/도착/'},'횡계시외버스터미널':{'schedule':'/시외버스/시간표/장평버스정류장/출발/횡계시외버스공용정류장/도착/'}}">평창군</option>
+											<option value="{'둔내버스정류장':{'schedule':'/시외버스/시간표/장평버스정류장/출발/둔내시외버스터미널/도착/'}}">횡성군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

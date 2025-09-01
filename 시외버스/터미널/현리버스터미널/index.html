@@ -51,6 +51,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/터미널/현리버스터미널/",
 				"url": "https://transportation.asamaru.net/시외버스/터미널/현리버스터미널/",
 				"name": "현리시외버스터미널 운행노선 (시외버스)",
 				"description": "2025.08.25. 현리시외버스터미널(시외버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -80,24 +81,22 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/터미널/현리버스터미널/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_hyeonlisioebeoseuteomineol",
-						"name": "현리시외버스터미널",
-						"address": "강원특별자치도 인제군 기린면 현리 651-3",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.955335,
-							"longitude": 128.317187
-						},
-						"telephone": "033-461-5364"
-					}
-				]
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/시외버스/터미널/현리버스터미널/#terminal_hyeonlisioebeoseuteomineol",
+					"name": "현리시외버스터미널",
+					"address": "강원특별자치도 인제군 기린면 현리 651-3",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 37.955335,
+						"longitude": 128.317187
+					},
+					"telephone": "033-461-5364"
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -154,11 +153,11 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/현리버스터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/현리버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'고석평정류소':{'link':'/시외버스/터미널/고석평정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/고석평정류소/도착/','arrivals':[]},'덕다리정류소':{'link':'/시외버스/터미널/덕다리정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/덕다리정류소/도착/','arrivals':[]},'상남(인제)':{'link':'/시외버스/터미널/상남/','schedule':'/시외버스/시간표/현리버스터미널/출발/상남/도착/','arrivals':[]},'상남정류소':{'link':'/시외버스/터미널/상남정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/상남정류소/도착/','arrivals':[]},'하남(강원)':{'link':'/시외버스/터미널/하남-강원/','schedule':'/시외버스/시간표/현리버스터미널/출발/하남-강원/도착/','arrivals':[]}}">인제군</option>
-											<option value="{'내촌정류소':{'link':'/시외버스/터미널/내촌정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/내촌정류소/도착/','arrivals':[]},'성산정류소(홍천)':{'link':'/시외버스/터미널/성산정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/성산정류소/도착/','arrivals':[]},'와야리정류소':{'link':'/시외버스/터미널/와야리정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/와야리정류소/도착/','arrivals':[]},'철정정류소':{'link':'/시외버스/터미널/철정정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/철정정류소/도착/','arrivals':[]},'홍천종합버스터미널':{'link':'/시외버스/터미널/홍천터미널/','schedule':'/시외버스/시간표/현리버스터미널/출발/홍천터미널/도착/','arrivals':[]},'화상대정류소':{'link':'/시외버스/터미널/화상대정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/화상대정류소/도착/','arrivals':[]}}">홍천군</option>
+											<option value="{'고석평정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/고석평정류소/도착/'},'덕다리정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/덕다리정류소/도착/'},'상남(인제)':{'schedule':'/시외버스/시간표/현리버스터미널/출발/상남/도착/'},'상남정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/상남정류소/도착/'},'하남(강원)':{'schedule':'/시외버스/시간표/현리버스터미널/출발/하남-강원/도착/'}}">인제군</option>
+											<option value="{'내촌정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/내촌정류소/도착/'},'성산정류소(홍천)':{'schedule':'/시외버스/시간표/현리버스터미널/출발/성산정류소/도착/'},'와야리정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/와야리정류소/도착/'},'철정정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/철정정류소/도착/'},'홍천종합버스터미널':{'schedule':'/시외버스/시간표/현리버스터미널/출발/홍천터미널/도착/'},'화상대정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/화상대정류소/도착/'}}">홍천군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -230,11 +229,11 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/현리버스터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/현리버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'고석평정류소':{'link':'/시외버스/터미널/고석평정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/고석평정류소/도착/','arrivals':[]},'덕다리정류소':{'link':'/시외버스/터미널/덕다리정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/덕다리정류소/도착/','arrivals':[]},'상남(인제)':{'link':'/시외버스/터미널/상남/','schedule':'/시외버스/시간표/현리버스터미널/출발/상남/도착/','arrivals':[]},'상남정류소':{'link':'/시외버스/터미널/상남정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/상남정류소/도착/','arrivals':[]},'하남(강원)':{'link':'/시외버스/터미널/하남-강원/','schedule':'/시외버스/시간표/현리버스터미널/출발/하남-강원/도착/','arrivals':[]}}">인제군</option>
-											<option value="{'내촌정류소':{'link':'/시외버스/터미널/내촌정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/내촌정류소/도착/','arrivals':[]},'성산정류소(홍천)':{'link':'/시외버스/터미널/성산정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/성산정류소/도착/','arrivals':[]},'와야리정류소':{'link':'/시외버스/터미널/와야리정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/와야리정류소/도착/','arrivals':[]},'철정정류소':{'link':'/시외버스/터미널/철정정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/철정정류소/도착/','arrivals':[]},'홍천종합버스터미널':{'link':'/시외버스/터미널/홍천터미널/','schedule':'/시외버스/시간표/현리버스터미널/출발/홍천터미널/도착/','arrivals':[]},'화상대정류소':{'link':'/시외버스/터미널/화상대정류소/','schedule':'/시외버스/시간표/현리버스터미널/출발/화상대정류소/도착/','arrivals':[]}}">홍천군</option>
+											<option value="{'고석평정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/고석평정류소/도착/'},'덕다리정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/덕다리정류소/도착/'},'상남(인제)':{'schedule':'/시외버스/시간표/현리버스터미널/출발/상남/도착/'},'상남정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/상남정류소/도착/'},'하남(강원)':{'schedule':'/시외버스/시간표/현리버스터미널/출발/하남-강원/도착/'}}">인제군</option>
+											<option value="{'내촌정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/내촌정류소/도착/'},'성산정류소(홍천)':{'schedule':'/시외버스/시간표/현리버스터미널/출발/성산정류소/도착/'},'와야리정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/와야리정류소/도착/'},'철정정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/철정정류소/도착/'},'홍천종합버스터미널':{'schedule':'/시외버스/시간표/현리버스터미널/출발/홍천터미널/도착/'},'화상대정류소':{'schedule':'/시외버스/시간표/현리버스터미널/출발/화상대정류소/도착/'}}">홍천군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

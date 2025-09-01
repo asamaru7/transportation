@@ -56,6 +56,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/진교시외버스터미널/출발/사등/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/진교시외버스터미널/출발/사등/도착/",
 				"name": "진교터미널에서 사등 가는 시외버스 시간표",
 				"description": "2024.09.12. 진교터미널에서 사등 가는 시외버스는 하루 1 회 운행합니다. 첫차 : --:--, 막차 : --:--, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -85,10 +86,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/진교시외버스터미널/출발/사등/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_jinkyoteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/진교시외버스터미널/#terminal_jinkyoteomineol",
 						"name": "진교터미널",
 						"address": "경상남도 하동군 진교면 진교리 426-66",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_sadeung",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/사등/#terminal_sadeung",
 						"name": "사등",
 						"address": "경상남도 사천시 사등동 산30-2",
 						"geo": {
@@ -113,10 +114,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_jinkyoteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/진교시외버스터미널/#terminal_jinkyoteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_sadeung"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/사등/#terminal_sadeung"
 						},
 						"departureTime": "2024-09-12T23:59:00+09:00",
 						"arrivalTime": "2024-09-13T00:43:00+09:00",
@@ -129,8 +130,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -280,18 +281,18 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/진교시외버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/진교시외버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/진교시외버스터미널/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/진교시외버스터미널/출발/대전복합터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/진교시외버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/진교시외버스터미널/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option selected="selected" data-terminal="사등" value="{'곤양공용터미널':{'link':'/시외버스/터미널/곤양공용터미널/','schedule':'/시외버스/시간표/진교시외버스터미널/출발/곤양공용터미널/도착/','arrivals':[]}}">사천시</option>
-											<option value="{'마산시외버스터미널':{'link':'/시외버스/터미널/마산시외버스터미널/','schedule':'/시외버스/시간표/진교시외버스터미널/출발/마산시외버스터미널/도착/','arrivals':[]}}">창원시 마산회원구</option>
-											<option value="{'창원종합버스터미널':{'link':'/시외버스/터미널/창원종합버스터미널/','schedule':'/시외버스/시간표/진교시외버스터미널/출발/창원종합버스터미널/도착/','arrivals':[]}}">창원시 의창구</option>
+											<option selected="selected" data-terminal="사등" value="{'곤양공용터미널':{'schedule':'/시외버스/시간표/진교시외버스터미널/출발/곤양공용터미널/도착/'}}">사천시</option>
+											<option value="{'마산시외버스터미널':{'schedule':'/시외버스/시간표/진교시외버스터미널/출발/마산시외버스터미널/도착/'}}">창원시 마산회원구</option>
+											<option value="{'창원종합버스터미널':{'schedule':'/시외버스/시간표/진교시외버스터미널/출발/창원종합버스터미널/도착/'}}">창원시 의창구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

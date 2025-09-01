@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/하남시버스환승공영차고지/출발/원주시외버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/하남시버스환승공영차고지/출발/원주시외버스터미널/도착/",
 				"name": "하남시버스환승공영차고지에서 원주시외버스터미널 가는 시외버스 시간표",
 				"description": "2024.02.29. 하남시버스환승공영차고지에서 원주시외버스터미널 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 11:20, 막차 : 11:20, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/하남시버스환승공영차고지/출발/원주시외버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_hanamsibeoseuhwanseungkongyeongchakoji",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/하남시버스환승공영차고지/#terminal_hanamsibeoseuhwanseungkongyeongchakoji",
 						"name": "하남시버스환승공영차고지",
 						"address": "경기도 하남시 창우동 539",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_wonjusioebeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/원주시외버스터미널/#terminal_wonjusioebeoseuteomineol",
 						"name": "원주시외버스터미널",
 						"address": "강원특별자치도 원주시 단계동 877-1",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_hanamsibeoseuhwanseungkongyeongchakoji"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/하남시버스환승공영차고지/#terminal_hanamsibeoseuhwanseungkongyeongchakoji"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_wonjusioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/원주시외버스터미널/#terminal_wonjusioebeoseuteomineol"
 						},
 						"departureTime": "2024-02-26T11:20:00+09:00",
 						"arrivalTime": "2024-02-26T12:45:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -301,13 +302,13 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경기도">
-											<option value="{'경기도광주종합터미널':{'link':'/시외버스/터미널/광주종합터미널/','schedule':'/시외버스/시간표/하남시버스환승공영차고지/출발/광주종합터미널/도착/','arrivals':[]}}">광주시</option>
+											<option value="{'경기도광주종합터미널':{'schedule':'/시외버스/시간표/하남시버스환승공영차고지/출발/광주종합터미널/도착/'}}">광주시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/하남시버스환승공영차고지/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/하남시버스환승공영차고지/출발/인천종합터미널/도착/'}}">미추홀구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/하남시버스환승공영차고지/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/하남시버스환승공영차고지/출발/대전복합터미널/도착/'}}">동구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

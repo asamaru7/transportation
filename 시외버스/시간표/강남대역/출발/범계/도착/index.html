@@ -55,6 +55,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/강남대역/출발/범계/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/강남대역/출발/범계/도착/",
 				"name": "강남대역에서 범계 가는 시외버스 시간표",
 				"description": "2025.03.04. 강남대역에서 범계 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 07:28, 막차 : 18:53, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -84,10 +85,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/강남대역/출발/범계/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kangnamdaeyeog",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/강남대역/#terminal_kangnamdaeyeog",
 						"name": "강남대역",
 						"address": "경기도 용인시 기흥구 구갈동 581-2",
 						"geo": {
@@ -98,7 +99,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_beomkye",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/범계/#terminal_beomkye",
 						"name": "범계",
 						"address": "경기도 안양시 동안구 호계동 1122",
 						"geo": {
@@ -111,10 +112,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_kangnamdaeyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/강남대역/#terminal_kangnamdaeyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_beomkye"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/범계/#terminal_beomkye"
 						},
 						"departureTime": "2025-03-04T07:28:00+09:00",
 						"arrivalTime": "2025-03-04T08:13:00+09:00",
@@ -128,10 +129,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_kangnamdaeyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/강남대역/#terminal_kangnamdaeyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_beomkye"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/범계/#terminal_beomkye"
 						},
 						"departureTime": "2025-03-04T13:18:00+09:00",
 						"arrivalTime": "2025-03-04T14:03:00+09:00",
@@ -145,10 +146,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_kangnamdaeyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/강남대역/#terminal_kangnamdaeyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_beomkye"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/범계/#terminal_beomkye"
 						},
 						"departureTime": "2025-03-04T18:53:00+09:00",
 						"arrivalTime": "2025-03-04T19:38:00+09:00",
@@ -161,8 +162,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -332,16 +333,16 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경기도">
-											<option value="{'경제과학진흥원':{'link':'/시외버스/터미널/경제과학진흥원/','schedule':'/시외버스/시간표/강남대역/출발/경제과학진흥원/도착/','arrivals':[]},'아주대병원':{'link':'/시외버스/터미널/아주대병원/','schedule':'/시외버스/시간표/강남대역/출발/아주대병원/도착/','arrivals':[]}}">수원시 영통구</option>
-											<option value="{'창현고.유신고':{'link':'/시외버스/터미널/창현고-유신고/','schedule':'/시외버스/시간표/강남대역/출발/창현고-유신고/도착/','arrivals':[]}}">수원시 팔달구</option>
-											<option selected="selected" data-terminal="범계" value="{'범계역정류소':{'link':'/시외버스/터미널/범계역정류소/','schedule':'/시외버스/시간표/강남대역/출발/범계역정류소/도착/','arrivals':[]}}">안양시 동안구</option>
-											<option value="{'신갈용인정류소':{'link':'/시외버스/터미널/신갈고속시외버스정류소/','schedule':'/시외버스/시간표/강남대역/출발/신갈고속시외버스정류소/도착/','arrivals':[]},'영통입구(인천방면)':{'link':'/시외버스/터미널/영통입구-인천방면/','schedule':'/시외버스/시간표/강남대역/출발/영통입구-인천방면/도착/','arrivals':[]},'용인기흥역시외버스정류소':{'link':'/시외버스/터미널/기흥역시외버스정류소/','schedule':'/시외버스/시간표/강남대역/출발/기흥역시외버스정류소/도착/','arrivals':[]}}">용인시 기흥구</option>
+											<option value="{'경제과학진흥원':{'schedule':'/시외버스/시간표/강남대역/출발/경제과학진흥원/도착/'},'아주대병원':{'schedule':'/시외버스/시간표/강남대역/출발/아주대병원/도착/'}}">수원시 영통구</option>
+											<option value="{'창현고.유신고':{'schedule':'/시외버스/시간표/강남대역/출발/창현고-유신고/도착/'}}">수원시 팔달구</option>
+											<option selected="selected" data-terminal="범계" value="{'범계역정류소':{'schedule':'/시외버스/시간표/강남대역/출발/범계역정류소/도착/'}}">안양시 동안구</option>
+											<option value="{'신갈용인정류소':{'schedule':'/시외버스/시간표/강남대역/출발/신갈고속시외버스정류소/도착/'},'영통입구(인천방면)':{'schedule':'/시외버스/시간표/강남대역/출발/영통입구-인천방면/도착/'},'용인기흥역시외버스정류소':{'schedule':'/시외버스/시간표/강남대역/출발/기흥역시외버스정류소/도착/'}}">용인시 기흥구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/강남대역/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/강남대역/출발/인천종합터미널/도착/'}}">미추홀구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/강남대역/출발/천안종합버스터미널/도착/','arrivals':[]}}">천안시 동남구</option>
+											<option value="{'천안시외버스터미널':{'schedule':'/시외버스/시간표/강남대역/출발/천안종합버스터미널/도착/'}}">천안시 동남구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

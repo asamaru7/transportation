@@ -51,6 +51,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/터미널/내서고속버스터미널/",
 				"url": "https://transportation.asamaru.net/시외버스/터미널/내서고속버스터미널/",
 				"name": "내서고속버스터미널 운행노선 (시외버스)",
 				"description": "2025.08.26. 내서고속버스터미널(시외버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -80,24 +81,22 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/터미널/내서고속버스터미널/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_naeseokosogbeoseuteomineol",
-						"name": "내서고속버스터미널",
-						"address": "경상남도 창원시 마산회원구 내서읍 중리 751-1",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 35.2557678,
-							"longitude": 128.513191
-						},
-						"telephone": "055-231-0113"
-					}
-				]
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/시외버스/터미널/내서고속버스터미널/#terminal_naeseokosogbeoseuteomineol",
+					"name": "내서고속버스터미널",
+					"address": "경상남도 창원시 마산회원구 내서읍 중리 751-1",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 35.2557678,
+						"longitude": 128.513191
+					},
+					"telephone": "055-231-0113"
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -154,26 +153,26 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'서대구고속버스터미널':{'link':'/고속버스/터미널/서대구고속버스터미널/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/서대구고속버스터미널/도착/','arrivals':[]}}">북구</option>
+											<option value="{'동대구터미널':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/동대구터미널/도착/'}}">동구</option>
+											<option value="{'서대구고속버스터미널':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/서대구고속버스터미널/도착/'}}">북구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'선산휴게소(여주방향)고속버스환승정류소':{'link':'/고속버스/터미널/선산휴게소-여주방향-고속버스환승정류소/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/선산휴게소-여주방향-고속버스환승정류소/도착/','arrivals':[]}}">구미시</option>
+											<option value="{'선산휴게소(여주방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/선산휴게소-여주방향-고속버스환승정류소/도착/'}}">구미시</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'마산고속버스터미널':{'link':'/고속버스/터미널/마산고속버스터미널/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/마산고속버스터미널/도착/','arrivals':[]}}">창원시 마산회원구</option>
-											<option value="{'진해시외버스터미널':{'link':'/시외버스/터미널/진해시외버스정류장/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/진해시외버스정류장/도착/','arrivals':[]}}">창원시 진해구</option>
+											<option value="{'마산고속버스터미널':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/마산고속버스터미널/도착/'}}">창원시 마산회원구</option>
+											<option value="{'진해시외버스터미널':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/진해시외버스정류장/도착/'}}">창원시 진해구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'섬진강휴게소(순천방향)고속버스환승정류소':{'link':'/고속버스/터미널/섬진강휴게소정류소-전남방면-고속/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/섬진강휴게소정류소-전남방면-고속/도착/','arrivals':[]}}">광양시</option>
-											<option value="{'나주버스터미널':{'link':'/시외버스/터미널/나주시외버스터미널/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/나주시외버스터미널/도착/','arrivals':[]},'빛가람시외버스정류장':{'link':'/시외버스/터미널/혁신도시임시정류소/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/혁신도시임시정류소/도착/','arrivals':[]}}">나주시</option>
+											<option value="{'섬진강휴게소(순천방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/섬진강휴게소정류소-전남방면-고속/도착/'}}">광양시</option>
+											<option value="{'나주버스터미널':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/나주시외버스터미널/도착/'},'빛가람시외버스정류장':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/혁신도시임시정류소/도착/'}}">나주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -244,26 +243,26 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'서대구고속버스터미널':{'link':'/고속버스/터미널/서대구고속버스터미널/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/서대구고속버스터미널/도착/','arrivals':[]}}">북구</option>
+											<option value="{'동대구터미널':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/동대구터미널/도착/'}}">동구</option>
+											<option value="{'서대구고속버스터미널':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/서대구고속버스터미널/도착/'}}">북구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'선산휴게소(여주방향)고속버스환승정류소':{'link':'/고속버스/터미널/선산휴게소-여주방향-고속버스환승정류소/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/선산휴게소-여주방향-고속버스환승정류소/도착/','arrivals':[]}}">구미시</option>
+											<option value="{'선산휴게소(여주방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/선산휴게소-여주방향-고속버스환승정류소/도착/'}}">구미시</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'마산고속버스터미널':{'link':'/고속버스/터미널/마산고속버스터미널/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/마산고속버스터미널/도착/','arrivals':[]}}">창원시 마산회원구</option>
-											<option value="{'진해시외버스터미널':{'link':'/시외버스/터미널/진해시외버스정류장/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/진해시외버스정류장/도착/','arrivals':[]}}">창원시 진해구</option>
+											<option value="{'마산고속버스터미널':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/마산고속버스터미널/도착/'}}">창원시 마산회원구</option>
+											<option value="{'진해시외버스터미널':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/진해시외버스정류장/도착/'}}">창원시 진해구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'섬진강휴게소(순천방향)고속버스환승정류소':{'link':'/고속버스/터미널/섬진강휴게소정류소-전남방면-고속/','schedule':'/고속버스/시간표/내서고속버스터미널/출발/섬진강휴게소정류소-전남방면-고속/도착/','arrivals':[]}}">광양시</option>
-											<option value="{'나주버스터미널':{'link':'/시외버스/터미널/나주시외버스터미널/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/나주시외버스터미널/도착/','arrivals':[]},'빛가람시외버스정류장':{'link':'/시외버스/터미널/혁신도시임시정류소/','schedule':'/시외버스/시간표/내서고속버스터미널/출발/혁신도시임시정류소/도착/','arrivals':[]}}">나주시</option>
+											<option value="{'섬진강휴게소(순천방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/내서고속버스터미널/출발/섬진강휴게소정류소-전남방면-고속/도착/'}}">광양시</option>
+											<option value="{'나주버스터미널':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/나주시외버스터미널/도착/'},'빛가람시외버스정류장':{'schedule':'/시외버스/시간표/내서고속버스터미널/출발/혁신도시임시정류소/도착/'}}">나주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

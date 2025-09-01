@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/속초시외버스터미널/출발/안산버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/속초시외버스터미널/출발/안산버스터미널/도착/",
 				"name": "속초시외버스터미널에서 안산버스터미널 가는 고속버스 시간표",
 				"description": "2025.08.30. 속초시외버스터미널에서 안산버스터미널 가는 고속버스는 하루 3 회 운행합니다. 첫차 : 08:00, 막차 : 17:00, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/속초시외버스터미널/출발/안산버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_sogchosioebeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/속초시외버스터미널/#terminal_sogchosioebeoseuteomineol",
 						"name": "속초시외버스터미널",
 						"address": "강원특별자치도 속초시 동명동 261-16",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_ansanbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol",
 						"name": "안산버스터미널",
 						"address": "경기도 안산시 상록구 성포동 590",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_sogchosioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/속초시외버스터미널/#terminal_sogchosioebeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ansanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol"
 						},
 						"departureTime": "2025-09-01T08:00:00+09:00",
 						"arrivalTime": "2025-09-01T12:01:00+09:00",
@@ -132,10 +133,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_sogchosioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/속초시외버스터미널/#terminal_sogchosioebeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ansanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol"
 						},
 						"departureTime": "2025-09-01T10:30:00+09:00",
 						"arrivalTime": "2025-09-01T14:31:00+09:00",
@@ -149,10 +150,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_sogchosioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/속초시외버스터미널/#terminal_sogchosioebeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ansanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol"
 						},
 						"departureTime": "2025-09-01T17:00:00+09:00",
 						"arrivalTime": "2025-09-01T21:14:00+09:00",
@@ -165,8 +166,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -324,55 +325,55 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'김포공항정류소':{'link':'/시외버스/터미널/김포공항정류소/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/김포공항정류소/도착/','arrivals':[]}}">강서구</option>
-											<option value="{'동서울종합터미널':{'link':'/고속버스/터미널/동서울종합터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'김포공항정류소':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/김포공항정류소/도착/'}}">강서구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'고양종합터미널':{'link':'/고속버스/터미널/고양종합터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/고양종합터미널/도착/','arrivals':[]}}">고양시 일산동구</option>
-											<option value="{'부천터미널소풍':{'link':'/고속버스/터미널/부천종합터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/부천종합터미널/도착/','arrivals':[]}}">부천시 원미구</option>
-											<option value="{'성남종합버스터미널':{'link':'/고속버스/터미널/성남종합버스터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/성남종합버스터미널/도착/','arrivals':[]}}">성남시 분당구</option>
-											<option value="{'수원버스터미널':{'link':'/고속버스/터미널/수원종합버스터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'우만동터미널':{'link':'/시외버스/터미널/우만동터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/우만동터미널/도착/','arrivals':[]}}">수원시 팔달구</option>
-											<option selected="selected" data-terminal="안산버스터미널" value="{'안산버스터미널':{'link':'/고속버스/터미널/안산버스터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'호계시외버스정류소':{'link':'/시외버스/터미널/호계시외버스정류장/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/호계시외버스정류장/도착/','arrivals':[]}}">안양시 동안구</option>
-											<option value="{'안양(왕궁예식장)':{'link':'/시외버스/터미널/안양-왕궁예식장/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/안양-왕궁예식장/도착/','arrivals':[]},'안양시외버스정류장 하행':{'link':'/시외버스/터미널/안양시외버스정류장-하행/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/안양시외버스정류장-하행/도착/','arrivals':[]}}">안양시 만안구</option>
-											<option value="{'의정부시외버스터미널':{'link':'/고속버스/터미널/의정부시외버스터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/의정부시외버스터미널/도착/','arrivals':[]}}">의정부시</option>
+											<option value="{'고양종합터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/고양종합터미널/도착/'}}">고양시 일산동구</option>
+											<option value="{'부천터미널소풍':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/부천종합터미널/도착/'}}">부천시 원미구</option>
+											<option value="{'성남종합버스터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/성남종합버스터미널/도착/'}}">성남시 분당구</option>
+											<option value="{'수원버스터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'우만동터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/우만동터미널/도착/'}}">수원시 팔달구</option>
+											<option selected="selected" data-terminal="안산버스터미널" value="{'안산버스터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'호계시외버스정류소':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/호계시외버스정류장/도착/'}}">안양시 동안구</option>
+											<option value="{'안양(왕궁예식장)':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/안양-왕궁예식장/도착/'},'안양시외버스정류장 하행':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/안양시외버스정류장-하행/도착/'}}">안양시 만안구</option>
+											<option value="{'의정부시외버스터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/의정부시외버스터미널/도착/'}}">의정부시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/고속버스/터미널/인천공항2터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/고속버스/터미널/대전복합터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'유성시외버스정류소':{'link':'/시외버스/터미널/유성시외버스정류소/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/유성시외버스정류소/도착/','arrivals':[]}}">유성구</option>
+											<option value="{'대전복합터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/대전복합터미널/도착/'}}">동구</option>
+											<option value="{'유성시외버스정류소':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/유성시외버스정류소/도착/'}}">유성구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'동대구터미널':{'link':'/고속버스/터미널/동대구터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'대구북부시외버스터미널':{'link':'/시외버스/터미널/대구북부시외버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/대구북부시외버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'동대구터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/동대구터미널/도착/'}}">동구</option>
+											<option value="{'대구북부시외버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/대구북부시외버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="울산광역시">
-											<option value="{'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/울산시외버스터미널/도착/','arrivals':[]}}">남구</option>
+											<option value="{'울산시외버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/울산시외버스터미널/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산종합버스터미널':{'link':'/고속버스/터미널/부산종합버스터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">금정구</option>
+											<option value="{'부산종합버스터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/부산종합버스터미널/도착/'}}">금정구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/강릉시외버스터미널/도착/','arrivals':[]},'강릉아산변원':{'link':'/시외버스/터미널/강릉아산변원/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/강릉아산변원/도착/','arrivals':[]},'주문진시외버스종합터미널':{'link':'/시외버스/터미널/주문진고속버스종합터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/주문진고속버스종합터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'동해시종합버스터미널':{'link':'/고속버스/터미널/동해시종합버스터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/동해시종합버스터미널/도착/','arrivals':[]}}">동해시</option>
-											<option value="{'삼척종합버스정류장':{'link':'/시외버스/터미널/삼척종합버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/삼척종합버스터미널/도착/','arrivals':[]}}">삼척시</option>
-											<option value="{'물치정류소':{'link':'/시외버스/터미널/물치정류소/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/물치정류소/도착/','arrivals':[]}}">속초시</option>
-											<option value="{'낙산버스터미널':{'link':'/시외버스/터미널/낙산종합버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/낙산종합버스터미널/도착/','arrivals':[]},'남애':{'link':'/시외버스/터미널/남애/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/남애/도착/','arrivals':[]},'손양':{'link':'/시외버스/터미널/손양/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/손양/도착/','arrivals':[]},'양양종합여객터미널':{'link':'/고속버스/터미널/양양시외종합터미널/','schedule':'/고속버스/시간표/속초시외버스터미널/출발/양양시외종합터미널/도착/','arrivals':[]},'오색등산로':{'link':'/시외버스/터미널/오색등산로/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/오색등산로/도착/','arrivals':[]},'오색버스터미널':{'link':'/시외버스/터미널/오색종합버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/오색종합버스터미널/도착/','arrivals':[]},'인구':{'link':'/시외버스/터미널/인구/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/인구/도착/','arrivals':[]},'하조대정류소':{'link':'/시외버스/터미널/하조대정류소/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/하조대정류소/도착/','arrivals':[]},'한계령정류소':{'link':'/시외버스/터미널/한계령정류소/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/한계령정류소/도착/','arrivals':[]},'흘림골입구':{'link':'/시외버스/터미널/흘림골입구/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/흘림골입구/도착/','arrivals':[]}}">양양군</option>
-											<option value="{'우산동(원주시)':{'link':'/시외버스/터미널/우산동/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/우산동/도착/','arrivals':[]},'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
-											<option value="{'백담사입구정류소':{'link':'/시외버스/터미널/용대리정류소/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/용대리정류소/도착/','arrivals':[]},'신남정류장':{'link':'/시외버스/터미널/신남시외버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/신남시외버스터미널/도착/','arrivals':[]},'원통버스터미널':{'link':'/시외버스/터미널/원통공용버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/원통공용버스터미널/도착/','arrivals':[]},'인제터미널':{'link':'/시외버스/터미널/인제시외버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/인제시외버스터미널/도착/','arrivals':[]},'장수대':{'link':'/시외버스/터미널/장수대/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/장수대/도착/','arrivals':[]}}">인제군</option>
-											<option value="{'춘천시외버스터미널':{'link':'/시외버스/터미널/춘천시외버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/춘천시외버스터미널/도착/','arrivals':[]}}">춘천시</option>
-											<option value="{'홍천종합버스터미널':{'link':'/시외버스/터미널/홍천터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/홍천터미널/도착/','arrivals':[]}}">홍천군</option>
-											<option value="{'횡성시외버스터미널':{'link':'/시외버스/터미널/횡성시외버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/횡성시외버스터미널/도착/','arrivals':[]}}">횡성군</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/강릉시외버스터미널/도착/'},'강릉아산변원':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/강릉아산변원/도착/'},'주문진시외버스종합터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/주문진고속버스종합터미널/도착/'}}">강릉시</option>
+											<option value="{'동해시종합버스터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/동해시종합버스터미널/도착/'}}">동해시</option>
+											<option value="{'삼척종합버스정류장':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/삼척종합버스터미널/도착/'}}">삼척시</option>
+											<option value="{'물치정류소':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/물치정류소/도착/'}}">속초시</option>
+											<option value="{'낙산버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/낙산종합버스터미널/도착/'},'남애':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/남애/도착/'},'손양':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/손양/도착/'},'양양종합여객터미널':{'schedule':'/고속버스/시간표/속초시외버스터미널/출발/양양시외종합터미널/도착/'},'오색등산로':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/오색등산로/도착/'},'오색버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/오색종합버스터미널/도착/'},'인구':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/인구/도착/'},'하조대정류소':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/하조대정류소/도착/'},'한계령정류소':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/한계령정류소/도착/'},'흘림골입구':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/흘림골입구/도착/'}}">양양군</option>
+											<option value="{'우산동(원주시)':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/우산동/도착/'},'원주시외버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/원주시외버스터미널/도착/'}}">원주시</option>
+											<option value="{'백담사입구정류소':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/용대리정류소/도착/'},'신남정류장':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/신남시외버스터미널/도착/'},'원통버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/원통공용버스터미널/도착/'},'인제터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/인제시외버스터미널/도착/'},'장수대':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/장수대/도착/'}}">인제군</option>
+											<option value="{'춘천시외버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/춘천시외버스터미널/도착/'}}">춘천시</option>
+											<option value="{'홍천종합버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/홍천터미널/도착/'}}">홍천군</option>
+											<option value="{'횡성시외버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/횡성시외버스터미널/도착/'}}">횡성군</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'울진종합버스터미널':{'link':'/시외버스/터미널/울진종합버스터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/울진종합버스터미널/도착/','arrivals':[]}}">울진군</option>
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/포항터미널/도착/','arrivals':[]}}">포항시 남구</option>
+											<option value="{'울진종합버스터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/울진종합버스터미널/도착/'}}">울진군</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/포항터미널/도착/'}}">포항시 남구</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'전주시외버스공용터미널':{'link':'/시외버스/터미널/전주시외버스공용터미널/','schedule':'/시외버스/시간표/속초시외버스터미널/출발/전주시외버스공용터미널/도착/','arrivals':[]}}">전주시 덕진구</option>
+											<option value="{'전주시외버스공용터미널':{'schedule':'/시외버스/시간표/속초시외버스터미널/출발/전주시외버스공용터미널/도착/'}}">전주시 덕진구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

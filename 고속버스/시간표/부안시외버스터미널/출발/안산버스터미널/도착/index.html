@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/부안시외버스터미널/출발/안산버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/부안시외버스터미널/출발/안산버스터미널/도착/",
 				"name": "부안터미널에서 안산버스터미널 가는 고속버스 시간표",
 				"description": "2023.08.30. 부안터미널에서 안산버스터미널 가는 고속버스는 하루 1 회 운행합니다. 첫차 : 15:05, 막차 : 15:05, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/부안시외버스터미널/출발/안산버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_buanteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/부안시외버스터미널/#terminal_buanteomineol",
 						"name": "부안터미널",
 						"address": "전북특별자치도 부안군 부안읍 봉덕리 574-13",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_ansanbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol",
 						"name": "안산버스터미널",
 						"address": "경기도 안산시 상록구 성포동 590",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_buanteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/부안시외버스터미널/#terminal_buanteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ansanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol"
 						},
 						"departureTime": "2023-08-28T15:05:00+09:00",
 						"arrivalTime": "2023-08-28T18:02:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -301,20 +302,20 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'센트럴시티터미널(호남선)':{'link':'/시외버스/터미널/센트럴시티터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/센트럴시티터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'센트럴시티터미널(호남선)':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/센트럴시티터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/고속버스/터미널/광주종합버스터미널/','schedule':'/고속버스/시간표/부안시외버스터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/고속버스/시간표/부안시외버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'고창문화터미널':{'link':'/고속버스/터미널/고창문화터미널/','schedule':'/고속버스/시간표/부안시외버스터미널/출발/고창문화터미널/도착/','arrivals':[]},'흥덕버스터미널':{'link':'/고속버스/터미널/흥덕공용버스터미널/','schedule':'/고속버스/시간표/부안시외버스터미널/출발/흥덕공용버스터미널/도착/','arrivals':[]}}">고창군</option>
-											<option value="{'군산대':{'link':'/시외버스/터미널/군산대/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/군산대/도착/','arrivals':[]},'군산시외버스터미널':{'link':'/시외버스/터미널/군산시외버스터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/군산시외버스터미널/도착/','arrivals':[]},'대야공용버스터미널':{'link':'/시외버스/터미널/대야공용버스터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/대야공용버스터미널/도착/','arrivals':[]}}">군산시</option>
-											<option value="{'김제종합버스터미널':{'link':'/고속버스/터미널/김제공용버스터미널/','schedule':'/고속버스/시간표/부안시외버스터미널/출발/김제공용버스터미널/도착/','arrivals':[]},'만경':{'link':'/시외버스/터미널/만경/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/만경/도착/','arrivals':[]}}">김제시</option>
-											<option value="{'격포터미널':{'link':'/시외버스/터미널/격포터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/격포터미널/도착/','arrivals':[]},'곰소정류소':{'link':'/시외버스/터미널/곰소정류소/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/곰소정류소/도착/','arrivals':[]},'내소사':{'link':'/시외버스/터미널/내소사/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/내소사/도착/','arrivals':[]},'변산욕장':{'link':'/시외버스/터미널/변산욕장/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/변산욕장/도착/','arrivals':[]},'비득치':{'link':'/시외버스/터미널/비득치/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/비득치/도착/','arrivals':[]},'줄포시외버스터미널':{'link':'/시외버스/터미널/줄포시외버스터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/줄포시외버스터미널/도착/','arrivals':[]}}">부안군</option>
-											<option value="{'익산시외버스터미널':{'link':'/시외버스/터미널/익산공용버스터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/익산공용버스터미널/도착/','arrivals':[]}}">익산시</option>
-											<option value="{'전주시외버스공용터미널':{'link':'/시외버스/터미널/전주시외버스공용터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/전주시외버스공용터미널/도착/','arrivals':[]}}">전주시 덕진구</option>
-											<option value="{'완산동간이정류소':{'link':'/시외버스/터미널/완산공용정류소/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/완산공용정류소/도착/','arrivals':[]},'전주대정류소':{'link':'/시외버스/터미널/전주대정류소/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/전주대정류소/도착/','arrivals':[]},'효자서부시외버스간이정류소':{'link':'/시외버스/터미널/서부시외버스간이정류소/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/서부시외버스간이정류소/도착/','arrivals':[]}}">전주시 완산구</option>
-											<option value="{'신태인공영터미널':{'link':'/시외버스/터미널/신태인공용터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/신태인공용터미널/도착/','arrivals':[]},'정읍시외버스터미널':{'link':'/시외버스/터미널/정읍시외버스공용터미널/','schedule':'/시외버스/시간표/부안시외버스터미널/출발/정읍시외버스공용터미널/도착/','arrivals':[]}}">정읍시</option>
+											<option value="{'고창문화터미널':{'schedule':'/고속버스/시간표/부안시외버스터미널/출발/고창문화터미널/도착/'},'흥덕버스터미널':{'schedule':'/고속버스/시간표/부안시외버스터미널/출발/흥덕공용버스터미널/도착/'}}">고창군</option>
+											<option value="{'군산대':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/군산대/도착/'},'군산시외버스터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/군산시외버스터미널/도착/'},'대야공용버스터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/대야공용버스터미널/도착/'}}">군산시</option>
+											<option value="{'김제종합버스터미널':{'schedule':'/고속버스/시간표/부안시외버스터미널/출발/김제공용버스터미널/도착/'},'만경':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/만경/도착/'}}">김제시</option>
+											<option value="{'격포터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/격포터미널/도착/'},'곰소정류소':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/곰소정류소/도착/'},'내소사':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/내소사/도착/'},'변산욕장':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/변산욕장/도착/'},'비득치':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/비득치/도착/'},'줄포시외버스터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/줄포시외버스터미널/도착/'}}">부안군</option>
+											<option value="{'익산시외버스터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/익산공용버스터미널/도착/'}}">익산시</option>
+											<option value="{'전주시외버스공용터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/전주시외버스공용터미널/도착/'}}">전주시 덕진구</option>
+											<option value="{'완산동간이정류소':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/완산공용정류소/도착/'},'전주대정류소':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/전주대정류소/도착/'},'효자서부시외버스간이정류소':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/서부시외버스간이정류소/도착/'}}">전주시 완산구</option>
+											<option value="{'신태인공영터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/신태인공용터미널/도착/'},'정읍시외버스터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/정읍시외버스공용터미널/도착/'}}">정읍시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

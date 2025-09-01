@@ -56,6 +56,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/영천시외버스터미널/출발/불국사/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/영천시외버스터미널/출발/불국사/도착/",
 				"name": "영천버스터미널에서 불국사 가는 시외버스 시간표",
 				"description": "2025.08.26. 영천버스터미널에서 불국사 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 18:30, 막차 : 18:30, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -85,10 +86,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/영천시외버스터미널/출발/불국사/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_yeongcheonbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/영천시외버스터미널/#terminal_yeongcheonbeoseuteomineol",
 						"name": "영천버스터미널",
 						"address": "경상북도 영천시 금노동 584-3",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_bulkugsa",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/불국사/#terminal_bulkugsa",
 						"name": "불국사",
 						"address": "경상북도 경주시 진현동 71-10",
 						"geo": {
@@ -113,10 +114,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_yeongcheonbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/영천시외버스터미널/#terminal_yeongcheonbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_bulkugsa"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/불국사/#terminal_bulkugsa"
 						},
 						"departureTime": "2025-08-26T18:30:00+09:00",
 						"arrivalTime": "2025-08-26T19:32:00+09:00",
@@ -129,8 +130,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -287,28 +288,28 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/영천시외버스터미널/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/영천시외버스터미널/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'대구용계정류소':{'link':'/시외버스/터미널/시외고속버스용계정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/시외고속버스용계정류소/도착/','arrivals':[]},'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대구용계정류소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/시외고속버스용계정류소/도착/'},'동대구터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/동대구터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="울산광역시">
-											<option value="{'울산시외버스터미널':{'link':'/시외버스/터미널/울산시외버스터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/울산시외버스터미널/도착/','arrivals':[]}}">남구</option>
+											<option value="{'울산시외버스터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/울산시외버스터미널/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산종합버스터미널':{'link':'/시외버스/터미널/부산종합버스터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">금정구</option>
+											<option value="{'부산종합버스터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/부산종합버스터미널/도착/'}}">금정구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'대경대학교':{'link':'/시외버스/터미널/대경대학교/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/대경대학교/도착/','arrivals':[]},'대구대정류소':{'link':'/시외버스/터미널/대구대학교정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/대구대학교정류소/도착/','arrivals':[]},'하양정류소':{'link':'/시외버스/터미널/하양시외버스터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/하양시외버스터미널/도착/','arrivals':[]}}">경산시</option>
-											<option selected="selected" data-terminal="불국사" value="{'경주시외버스터미널':{'link':'/시외버스/터미널/경주시외버스터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/경주시외버스터미널/도착/','arrivals':[]},'불국사':{'link':'/시외버스/터미널/불국사/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/불국사/도착/','arrivals':[]},'안강동부정류장':{'link':'/시외버스/터미널/안강동부정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/안강동부정류소/도착/','arrivals':[]},'안강휴게소':{'link':'/시외버스/터미널/안강휴게소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/안강휴게소/도착/','arrivals':[]},'입실':{'link':'/시외버스/터미널/입실/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/입실/도착/','arrivals':[]},'풍산금속(경주)':{'link':'/시외버스/터미널/풍산금속-경주/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/풍산금속-경주/도착/','arrivals':[]}}">경주시</option>
-											<option value="{'구미공단정류소':{'link':'/시외버스/터미널/공단정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/공단정류소/도착/','arrivals':[]},'구미복지정류소':{'link':'/시외버스/터미널/주공터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/주공터미널/도착/','arrivals':[]},'구미종합터미널':{'link':'/시외버스/터미널/구미종합버스터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/구미종합버스터미널/도착/','arrivals':[]},'낙동강구미휴게소(상주방향)고속버스환승정류소':{'link':'/고속버스/터미널/낙동강구미휴게소-상주방향-고속버스환승정류소/','schedule':'/고속버스/시간표/영천시외버스터미널/출발/낙동강구미휴게소-상주방향-고속버스환승정류소/도착/','arrivals':[]}}">구미시</option>
-											<option value="{'지동정류소':{'link':'/시외버스/터미널/지동정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/지동정류소/도착/','arrivals':[]}}">문경시</option>
-											<option value="{'현동정류소':{'link':'/시외버스/터미널/현동정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/현동정류소/도착/','arrivals':[]}}">봉화군</option>
-											<option value="{'경북도청버스정류장':{'link':'/시외버스/터미널/경북도청시외버스정류장/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/경북도청시외버스정류장/도착/','arrivals':[]}}">안동시</option>
-											<option value="{'고경':{'link':'/시외버스/터미널/고경/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/고경/도착/','arrivals':[]},'삼창정류소':{'link':'/시외버스/터미널/삼창정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/삼창정류소/도착/','arrivals':[]},'자천':{'link':'/시외버스/터미널/자천/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/자천/도착/','arrivals':[]},'창하':{'link':'/시외버스/터미널/창하/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/창하/도착/','arrivals':[]}}">영천시</option>
-											<option value="{'부남버스터미널':{'link':'/시외버스/터미널/부남버스터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/부남버스터미널/도착/','arrivals':[]},'불로':{'link':'/시외버스/터미널/불로/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/불로/도착/','arrivals':[]},'안덕버스터미널':{'link':'/시외버스/터미널/안덕정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/안덕정류소/도착/','arrivals':[]},'청송버스터미널':{'link':'/시외버스/터미널/청송시외버스터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/청송시외버스터미널/도착/','arrivals':[]},'화목버스터미널':{'link':'/시외버스/터미널/화목버스터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/화목버스터미널/도착/','arrivals':[]}}">청송군</option>
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/포항터미널/도착/','arrivals':[]},'효자(포항시)':{'link':'/시외버스/터미널/효자/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/효자/도착/','arrivals':[]}}">포항시 남구</option>
-											<option value="{'죽장정류장':{'link':'/시외버스/터미널/죽장정류소/','schedule':'/시외버스/시간표/영천시외버스터미널/출발/죽장정류소/도착/','arrivals':[]}}">포항시 북구</option>
+											<option value="{'대경대학교':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/대경대학교/도착/'},'대구대정류소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/대구대학교정류소/도착/'},'하양정류소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/하양시외버스터미널/도착/'}}">경산시</option>
+											<option selected="selected" data-terminal="불국사" value="{'경주시외버스터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/경주시외버스터미널/도착/'},'불국사':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/불국사/도착/'},'안강동부정류장':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/안강동부정류소/도착/'},'안강휴게소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/안강휴게소/도착/'},'입실':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/입실/도착/'},'풍산금속(경주)':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/풍산금속-경주/도착/'}}">경주시</option>
+											<option value="{'구미공단정류소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/공단정류소/도착/'},'구미복지정류소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/주공터미널/도착/'},'구미종합터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/구미종합버스터미널/도착/'},'낙동강구미휴게소(상주방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/영천시외버스터미널/출발/낙동강구미휴게소-상주방향-고속버스환승정류소/도착/'}}">구미시</option>
+											<option value="{'지동정류소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/지동정류소/도착/'}}">문경시</option>
+											<option value="{'현동정류소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/현동정류소/도착/'}}">봉화군</option>
+											<option value="{'경북도청버스정류장':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/경북도청시외버스정류장/도착/'}}">안동시</option>
+											<option value="{'고경':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/고경/도착/'},'삼창정류소':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/삼창정류소/도착/'},'자천':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/자천/도착/'},'창하':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/창하/도착/'}}">영천시</option>
+											<option value="{'부남버스터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/부남버스터미널/도착/'},'불로':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/불로/도착/'},'안덕버스터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/안덕정류소/도착/'},'청송버스터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/청송시외버스터미널/도착/'},'화목버스터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/화목버스터미널/도착/'}}">청송군</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/포항터미널/도착/'},'효자(포항시)':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/효자/도착/'}}">포항시 남구</option>
+											<option value="{'죽장정류장':{'schedule':'/시외버스/시간표/영천시외버스터미널/출발/죽장정류소/도착/'}}">포항시 북구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

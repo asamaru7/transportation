@@ -56,6 +56,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/당목터미널/출발/약산/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/당목터미널/출발/약산/도착/",
 				"name": "당목정류소에서 약산 가는 시외버스 시간표",
 				"description": "2025.08.28. 당목정류소에서 약산 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 08:00, 막차 : 15:30, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -85,10 +86,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/당목터미널/출발/약산/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_dangmogjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/당목터미널/#terminal_dangmogjeonglyuso",
 						"name": "당목정류소",
 						"address": "전라남도 완도군 약산면 해동리 691-8",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_yagsan",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/약산/#terminal_yagsan",
 						"name": "약산",
 						"address": "전라남도 완도군 약산면 장용리 891-5",
 						"geo": {
@@ -113,10 +114,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_dangmogjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/당목터미널/#terminal_dangmogjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_yagsan"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/약산/#terminal_yagsan"
 						},
 						"departureTime": "2025-08-29T08:00:00+09:00",
 						"arrivalTime": "2025-08-29T08:05:00+09:00",
@@ -130,10 +131,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_dangmogjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/당목터미널/#terminal_dangmogjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_yagsan"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/약산/#terminal_yagsan"
 						},
 						"departureTime": "2025-08-29T10:30:00+09:00",
 						"arrivalTime": "2025-08-29T10:35:00+09:00",
@@ -147,10 +148,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_dangmogjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/당목터미널/#terminal_dangmogjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_yagsan"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/약산/#terminal_yagsan"
 						},
 						"departureTime": "2025-08-29T15:30:00+09:00",
 						"arrivalTime": "2025-08-29T15:35:00+09:00",
@@ -163,8 +164,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -322,12 +323,12 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="광주광역시">
-											<option value="{'진월동시외버스정류장':{'link':'/시외버스/터미널/광주남부시외버스정류소/','schedule':'/시외버스/시간표/당목터미널/출발/광주남부시외버스정류소/도착/','arrivals':[]}}">남구</option>
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/당목터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'진월동시외버스정류장':{'schedule':'/시외버스/시간표/당목터미널/출발/광주남부시외버스정류소/도착/'}}">남구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/당목터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'가우도':{'link':'/시외버스/터미널/가우도/','schedule':'/시외버스/시간표/당목터미널/출발/가우도/도착/','arrivals':[]},'강진버스여객터미널':{'link':'/시외버스/터미널/강진버스여객터미널/','schedule':'/시외버스/시간표/당목터미널/출발/강진버스여객터미널/도착/','arrivals':[]},'마량공용버스터미널':{'link':'/시외버스/터미널/마량버스여객터미널/','schedule':'/시외버스/시간표/당목터미널/출발/마량버스여객터미널/도착/','arrivals':[]}}">강진군</option>
-											<option selected="selected" data-terminal="약산" value="{'고금시외버스정류장':{'link':'/시외버스/터미널/고금정류소/','schedule':'/시외버스/시간표/당목터미널/출발/고금정류소/도착/','arrivals':[]},'약산':{'link':'/시외버스/터미널/약산/','schedule':'/시외버스/시간표/당목터미널/출발/약산/도착/','arrivals':[]}}">완도군</option>
+											<option value="{'가우도':{'schedule':'/시외버스/시간표/당목터미널/출발/가우도/도착/'},'강진버스여객터미널':{'schedule':'/시외버스/시간표/당목터미널/출발/강진버스여객터미널/도착/'},'마량공용버스터미널':{'schedule':'/시외버스/시간표/당목터미널/출발/마량버스여객터미널/도착/'}}">강진군</option>
+											<option selected="selected" data-terminal="약산" value="{'고금시외버스정류장':{'schedule':'/시외버스/시간표/당목터미널/출발/고금정류소/도착/'},'약산':{'schedule':'/시외버스/시간표/당목터미널/출발/약산/도착/'}}">완도군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

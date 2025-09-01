@@ -56,6 +56,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/포천시외버스터미널/출발/노원역/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/포천시외버스터미널/출발/노원역/도착/",
 				"name": "포천시외버스터미널에서 노원역 가는 시외버스 시간표",
 				"description": "2025.08.27. 포천시외버스터미널에서 노원역 가는 시외버스는 하루 2 회 운행합니다. 첫차 : 07:30, 막차 : 15:40, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -85,10 +86,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/포천시외버스터미널/출발/노원역/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_pocheonsioebeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/포천시외버스터미널/#terminal_pocheonsioebeoseuteomineol",
 						"name": "포천시외버스터미널",
 						"address": "경기도 포천시 신읍동 42-11",
 						"geo": {
@@ -99,7 +100,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_nowonyeog",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/노원역/#terminal_nowonyeog",
 						"name": "노원역",
 						"address": "서울특별시 노원구 상계동 714",
 						"geo": {
@@ -112,10 +113,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_pocheonsioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/포천시외버스터미널/#terminal_pocheonsioebeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_nowonyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/노원역/#terminal_nowonyeog"
 						},
 						"departureTime": "2025-08-28T07:30:00+09:00",
 						"arrivalTime": "2025-08-28T09:08:00+09:00",
@@ -129,10 +130,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_pocheonsioebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/포천시외버스터미널/#terminal_pocheonsioebeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_nowonyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/노원역/#terminal_nowonyeog"
 						},
 						"departureTime": "2025-08-28T15:40:00+09:00",
 						"arrivalTime": "2025-08-28T17:18:00+09:00",
@@ -145,8 +146,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -294,19 +295,19 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/동서울종합터미널/도착/','arrivals':[]},'아차산역':{'link':'/시외버스/터미널/아차산역/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/아차산역/도착/','arrivals':[]}}">광진구</option>
-											<option selected="selected" data-terminal="노원역" value="{'노원역':{'link':'/시외버스/터미널/노원역/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/노원역/도착/','arrivals':[]},'수락산역':{'link':'/시외버스/터미널/수락산역/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/수락산역/도착/','arrivals':[]}}">노원구</option>
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/시외버스/터미널/서울고속버스터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/동서울종합터미널/도착/'},'아차산역':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/아차산역/도착/'}}">광진구</option>
+											<option selected="selected" data-terminal="노원역" value="{'노원역':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/노원역/도착/'},'수락산역':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/수락산역/도착/'}}">노원구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'만가대사거리':{'link':'/시외버스/터미널/만가대사거리/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/만가대사거리/도착/','arrivals':[]},'성모병원(의정부시)':{'link':'/시외버스/터미널/성모병원/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/성모병원/도착/','arrivals':[]},'의정부시외버스터미널':{'link':'/시외버스/터미널/의정부시외버스터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/의정부시외버스터미널/도착/','arrivals':[]},'이마트의정부점':{'link':'/시외버스/터미널/이마트의정부점/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/이마트의정부점/도착/','arrivals':[]},'장암(의정부시)':{'link':'/시외버스/터미널/장암/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/장암/도착/','arrivals':[]},'청구아파트(민락동)':{'link':'/시외버스/터미널/청구아파트-민락동/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/청구아파트-민락동/도착/','arrivals':[]}}">의정부시</option>
-											<option value="{'관인정류소':{'link':'/시외버스/터미널/관인정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/관인정류소/도착/','arrivals':[]},'군단앞정류소':{'link':'/시외버스/터미널/군단앞정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/군단앞정류소/도착/','arrivals':[]},'대진대정류소':{'link':'/시외버스/터미널/대진대정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/대진대정류소/도착/','arrivals':[]},'만세교정류소':{'link':'/시외버스/터미널/만세교정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/만세교정류소/도착/','arrivals':[]},'문암리':{'link':'/시외버스/터미널/문암리/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/문암리/도착/','arrivals':[]},'사단앞(포천시)':{'link':'/시외버스/터미널/사단앞-포천/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/사단앞-포천/도착/','arrivals':[]},'성동':{'link':'/시외버스/터미널/성동/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/성동/도착/','arrivals':[]},'송우리정류소':{'link':'/시외버스/터미널/송우리시외버스터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/송우리시외버스터미널/도착/','arrivals':[]},'송정검문소':{'link':'/시외버스/터미널/송정검문소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/송정검문소/도착/','arrivals':[]},'신북정류소':{'link':'/시외버스/터미널/신북시외버스정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/신북시외버스정류소/도착/','arrivals':[]},'신장(포천시)':{'link':'/시외버스/터미널/신장/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/신장/도착/','arrivals':[]},'야미1리':{'link':'/시외버스/터미널/야미1리/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/야미1리/도착/','arrivals':[]},'양문정류소':{'link':'/시외버스/터미널/양문정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/양문정류소/도착/','arrivals':[]},'운천정류소':{'link':'/시외버스/터미널/운천시외버스터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/운천시외버스터미널/도착/','arrivals':[]},'육호':{'link':'/시외버스/터미널/육호/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/육호/도착/','arrivals':[]},'초과리':{'link':'/시외버스/터미널/초과리/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/초과리/도착/','arrivals':[]},'축석고개정류소':{'link':'/시외버스/터미널/축석고개정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/축석고개정류소/도착/','arrivals':[]},'팔호':{'link':'/시외버스/터미널/팔호/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/팔호/도착/','arrivals':[]}}">포천시</option>
+											<option value="{'만가대사거리':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/만가대사거리/도착/'},'성모병원(의정부시)':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/성모병원/도착/'},'의정부시외버스터미널':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/의정부시외버스터미널/도착/'},'이마트의정부점':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/이마트의정부점/도착/'},'장암(의정부시)':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/장암/도착/'},'청구아파트(민락동)':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/청구아파트-민락동/도착/'}}">의정부시</option>
+											<option value="{'관인정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/관인정류소/도착/'},'군단앞정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/군단앞정류소/도착/'},'대진대정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/대진대정류소/도착/'},'만세교정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/만세교정류소/도착/'},'문암리':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/문암리/도착/'},'사단앞(포천시)':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/사단앞-포천/도착/'},'성동':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/성동/도착/'},'송우리정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/송우리시외버스터미널/도착/'},'송정검문소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/송정검문소/도착/'},'신북정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/신북시외버스정류소/도착/'},'신장(포천시)':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/신장/도착/'},'야미1리':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/야미1리/도착/'},'양문정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/양문정류소/도착/'},'운천정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/운천시외버스터미널/도착/'},'육호':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/육호/도착/'},'초과리':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/초과리/도착/'},'축석고개정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/축석고개정류소/도착/'},'팔호':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/팔호/도착/'}}">포천시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강포리정류소':{'link':'/시외버스/터미널/강포리정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/강포리정류소/도착/','arrivals':[]},'동송시외버스공용터미널':{'link':'/시외버스/터미널/동송시외버스공용터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/동송시외버스공용터미널/도착/','arrivals':[]},'문혜리정류소':{'link':'/시외버스/터미널/문혜리정류소/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/문혜리정류소/도착/','arrivals':[]},'상노리':{'link':'/시외버스/터미널/상노리/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/상노리/도착/','arrivals':[]},'신철원터미널':{'link':'/시외버스/터미널/신철원시외버스터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/신철원시외버스터미널/도착/','arrivals':[]},'와수터미널':{'link':'/시외버스/터미널/와수시외버스터미널/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/와수시외버스터미널/도착/','arrivals':[]},'지경리':{'link':'/시외버스/터미널/지경리/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/지경리/도착/','arrivals':[]},'학사리':{'link':'/시외버스/터미널/학사리/','schedule':'/시외버스/시간표/포천시외버스터미널/출발/학사리/도착/','arrivals':[]}}">철원군</option>
+											<option value="{'강포리정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/강포리정류소/도착/'},'동송시외버스공용터미널':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/동송시외버스공용터미널/도착/'},'문혜리정류소':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/문혜리정류소/도착/'},'상노리':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/상노리/도착/'},'신철원터미널':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/신철원시외버스터미널/도착/'},'와수터미널':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/와수시외버스터미널/도착/'},'지경리':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/지경리/도착/'},'학사리':{'schedule':'/시외버스/시간표/포천시외버스터미널/출발/학사리/도착/'}}">철원군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

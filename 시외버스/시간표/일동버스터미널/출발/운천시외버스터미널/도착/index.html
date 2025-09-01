@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/일동버스터미널/출발/운천시외버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/일동버스터미널/출발/운천시외버스터미널/도착/",
 				"name": "일동버스터미널에서 운천정류소 가는 시외버스 시간표",
 				"description": "2025.08.27. 일동버스터미널에서 운천정류소 가는 시외버스는 하루 4 회 운행합니다. 첫차 : 09:25, 막차 : 19:25, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/일동버스터미널/출발/운천시외버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_ildongbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/일동버스터미널/#terminal_ildongbeoseuteomineol",
 						"name": "일동버스터미널",
 						"address": "경기도 포천시 일동면 기산리 91-19",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_uncheonjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/운천시외버스터미널/#terminal_uncheonjeonglyuso",
 						"name": "운천정류소",
 						"address": "경기도 포천시 영북면 운천리 511-9",
 						"geo": {
@@ -114,10 +115,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_ildongbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/일동버스터미널/#terminal_ildongbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_uncheonjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/운천시외버스터미널/#terminal_uncheonjeonglyuso"
 						},
 						"departureTime": "2025-08-28T09:25:00+09:00",
 						"arrivalTime": "2025-08-28T10:33:00+09:00",
@@ -131,10 +132,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_ildongbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/일동버스터미널/#terminal_ildongbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_uncheonjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/운천시외버스터미널/#terminal_uncheonjeonglyuso"
 						},
 						"departureTime": "2025-08-28T14:25:00+09:00",
 						"arrivalTime": "2025-08-28T15:33:00+09:00",
@@ -148,10 +149,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_ildongbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/일동버스터미널/#terminal_ildongbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_uncheonjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/운천시외버스터미널/#terminal_uncheonjeonglyuso"
 						},
 						"departureTime": "2025-08-28T17:00:00+09:00",
 						"arrivalTime": "2025-08-28T18:08:00+09:00",
@@ -165,10 +166,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-4",
 						"departureBusStop": {
-							"@id": "#terminal_ildongbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/일동버스터미널/#terminal_ildongbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_uncheonjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/운천시외버스터미널/#terminal_uncheonjeonglyuso"
 						},
 						"departureTime": "2025-08-28T19:25:00+09:00",
 						"arrivalTime": "2025-08-28T20:33:00+09:00",
@@ -181,8 +182,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -350,25 +351,25 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'가평터미널':{'link':'/시외버스/터미널/가평시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/가평시외버스터미널/도착/','arrivals':[]},'덕현리':{'link':'/시외버스/터미널/덕현리/','schedule':'/시외버스/시간표/일동버스터미널/출발/덕현리/도착/','arrivals':[]},'봉수리':{'link':'/시외버스/터미널/봉수리/','schedule':'/시외버스/시간표/일동버스터미널/출발/봉수리/도착/','arrivals':[]},'연하리':{'link':'/시외버스/터미널/연하리/','schedule':'/시외버스/시간표/일동버스터미널/출발/연하리/도착/','arrivals':[]},'원흥리':{'link':'/시외버스/터미널/원흥리/','schedule':'/시외버스/시간표/일동버스터미널/출발/원흥리/도착/','arrivals':[]},'율길리정류소':{'link':'/시외버스/터미널/율길리정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/율길리정류소/도착/','arrivals':[]},'임초리':{'link':'/시외버스/터미널/임초리/','schedule':'/시외버스/시간표/일동버스터미널/출발/임초리/도착/','arrivals':[]},'청평터미널':{'link':'/시외버스/터미널/청평터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/청평터미널/도착/','arrivals':[]},'항사리':{'link':'/시외버스/터미널/항사리/','schedule':'/시외버스/시간표/일동버스터미널/출발/항사리/도착/','arrivals':[]},'현리공용':{'link':'/시외버스/터미널/현리공용/','schedule':'/시외버스/시간표/일동버스터미널/출발/현리공용/도착/','arrivals':[]}}">가평군</option>
-											<option value="{'장현정류소':{'link':'/시외버스/터미널/장현정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/장현정류소/도착/','arrivals':[]}}">남양주시</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'의정부시외버스터미널':{'link':'/시외버스/터미널/의정부시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/의정부시외버스터미널/도착/','arrivals':[]}}">의정부시</option>
-											<option selected="selected" data-terminal="운천정류소" value="{'내촌포천정류소':{'link':'/시외버스/터미널/내촌포천정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/내촌포천정류소/도착/','arrivals':[]},'대진대정류소':{'link':'/시외버스/터미널/대진대정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/대진대정류소/도착/','arrivals':[]},'도평리(포천)':{'link':'/시외버스/터미널/도평리/','schedule':'/시외버스/시간표/일동버스터미널/출발/도평리/도착/','arrivals':[]},'만세교정류소':{'link':'/시외버스/터미널/만세교정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/만세교정류소/도착/','arrivals':[]},'백운동':{'link':'/시외버스/터미널/백운동/','schedule':'/시외버스/시간표/일동버스터미널/출발/백운동/도착/','arrivals':[]},'산내지':{'link':'/시외버스/터미널/산내지/','schedule':'/시외버스/시간표/일동버스터미널/출발/산내지/도착/','arrivals':[]},'서파정류소':{'link':'/시외버스/터미널/서파정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/서파정류소/도착/','arrivals':[]},'선단리':{'link':'/시외버스/터미널/선단리/','schedule':'/시외버스/시간표/일동버스터미널/출발/선단리/도착/','arrivals':[]},'송우리정류소':{'link':'/시외버스/터미널/송우리시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/송우리시외버스터미널/도착/','arrivals':[]},'신북정류소':{'link':'/시외버스/터미널/신북시외버스정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/신북시외버스정류소/도착/','arrivals':[]},'약사':{'link':'/시외버스/터미널/약사/','schedule':'/시외버스/시간표/일동버스터미널/출발/약사/도착/','arrivals':[]},'운천정류소':{'link':'/시외버스/터미널/운천시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/운천시외버스터미널/도착/','arrivals':[]},'유동리':{'link':'/시외버스/터미널/유동리/','schedule':'/시외버스/시간표/일동버스터미널/출발/유동리/도착/','arrivals':[]},'이동정류소':{'link':'/시외버스/터미널/이동정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/이동정류소/도착/','arrivals':[]},'포천시외버스터미널':{'link':'/시외버스/터미널/포천시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/포천시외버스터미널/도착/','arrivals':[]},'화현':{'link':'/시외버스/터미널/화현/','schedule':'/시외버스/시간표/일동버스터미널/출발/화현/도착/','arrivals':[]}}">포천시</option>
+											<option value="{'가평터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/가평시외버스터미널/도착/'},'덕현리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/덕현리/도착/'},'봉수리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/봉수리/도착/'},'연하리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/연하리/도착/'},'원흥리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/원흥리/도착/'},'율길리정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/율길리정류소/도착/'},'임초리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/임초리/도착/'},'청평터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/청평터미널/도착/'},'항사리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/항사리/도착/'},'현리공용':{'schedule':'/시외버스/시간표/일동버스터미널/출발/현리공용/도착/'}}">가평군</option>
+											<option value="{'장현정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/장현정류소/도착/'}}">남양주시</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'의정부시외버스터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/의정부시외버스터미널/도착/'}}">의정부시</option>
+											<option selected="selected" data-terminal="운천정류소" value="{'내촌포천정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/내촌포천정류소/도착/'},'대진대정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/대진대정류소/도착/'},'도평리(포천)':{'schedule':'/시외버스/시간표/일동버스터미널/출발/도평리/도착/'},'만세교정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/만세교정류소/도착/'},'백운동':{'schedule':'/시외버스/시간표/일동버스터미널/출발/백운동/도착/'},'산내지':{'schedule':'/시외버스/시간표/일동버스터미널/출발/산내지/도착/'},'서파정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/서파정류소/도착/'},'선단리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/선단리/도착/'},'송우리정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/송우리시외버스터미널/도착/'},'신북정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/신북시외버스정류소/도착/'},'약사':{'schedule':'/시외버스/시간표/일동버스터미널/출발/약사/도착/'},'운천정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/운천시외버스터미널/도착/'},'유동리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/유동리/도착/'},'이동정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/이동정류소/도착/'},'포천시외버스터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/포천시외버스터미널/도착/'},'화현':{'schedule':'/시외버스/시간표/일동버스터미널/출발/화현/도착/'}}">포천시</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/대전복합터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'근남38연대':{'link':'/시외버스/터미널/38연대/','schedule':'/시외버스/시간표/일동버스터미널/출발/38연대/도착/','arrivals':[]},'동송시외버스공용터미널':{'link':'/시외버스/터미널/동송시외버스공용터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/동송시외버스공용터미널/도착/','arrivals':[]},'문혜리정류소':{'link':'/시외버스/터미널/문혜리정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/문혜리정류소/도착/','arrivals':[]},'신술리':{'link':'/시외버스/터미널/신술리/','schedule':'/시외버스/시간표/일동버스터미널/출발/신술리/도착/','arrivals':[]},'와수터미널':{'link':'/시외버스/터미널/와수시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/와수시외버스터미널/도착/','arrivals':[]},'자등리':{'link':'/시외버스/터미널/자등리/','schedule':'/시외버스/시간표/일동버스터미널/출발/자등리/도착/','arrivals':[]},'지포리':{'link':'/시외버스/터미널/지포리/','schedule':'/시외버스/시간표/일동버스터미널/출발/지포리/도착/','arrivals':[]}}">철원군</option>
-											<option value="{'강촌버스승강장':{'link':'/시외버스/터미널/강촌정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/강촌정류소/도착/','arrivals':[]},'춘천시외버스터미널':{'link':'/시외버스/터미널/춘천시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/춘천시외버스터미널/도착/','arrivals':[]}}">춘천시</option>
-											<option value="{'15초소':{'link':'/시외버스/터미널/15초소/','schedule':'/시외버스/시간표/일동버스터미널/출발/15초소/도착/','arrivals':[]},'광덕계곡':{'link':'/시외버스/터미널/광덕계곡/','schedule':'/시외버스/시간표/일동버스터미널/출발/광덕계곡/도착/','arrivals':[]},'광덕고개':{'link':'/시외버스/터미널/광덕고개/','schedule':'/시외버스/시간표/일동버스터미널/출발/광덕고개/도착/','arrivals':[]},'광덕산정류소':{'link':'/시외버스/터미널/광덕산정류소/','schedule':'/시외버스/시간표/일동버스터미널/출발/광덕산정류소/도착/','arrivals':[]},'다목리버스터미널':{'link':'/시외버스/터미널/다목시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/다목시외버스터미널/도착/','arrivals':[]},'맹대':{'link':'/시외버스/터미널/맹대/','schedule':'/시외버스/시간표/일동버스터미널/출발/맹대/도착/','arrivals':[]},'명월리':{'link':'/시외버스/터미널/명월리/','schedule':'/시외버스/시간표/일동버스터미널/출발/명월리/도착/','arrivals':[]},'사단앞(명월)':{'link':'/시외버스/터미널/사단앞-명월/','schedule':'/시외버스/시간표/일동버스터미널/출발/사단앞-명월/도착/','arrivals':[]},'사창리버스터미널':{'link':'/시외버스/터미널/사창리터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/사창리터미널/도착/','arrivals':[]},'산양리터미널':{'link':'/시외버스/터미널/산양리시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/산양리시외버스터미널/도착/','arrivals':[]}}">화천군</option>
+											<option value="{'근남38연대':{'schedule':'/시외버스/시간표/일동버스터미널/출발/38연대/도착/'},'동송시외버스공용터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/동송시외버스공용터미널/도착/'},'문혜리정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/문혜리정류소/도착/'},'신술리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/신술리/도착/'},'와수터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/와수시외버스터미널/도착/'},'자등리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/자등리/도착/'},'지포리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/지포리/도착/'}}">철원군</option>
+											<option value="{'강촌버스승강장':{'schedule':'/시외버스/시간표/일동버스터미널/출발/강촌정류소/도착/'},'춘천시외버스터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/춘천시외버스터미널/도착/'}}">춘천시</option>
+											<option value="{'15초소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/15초소/도착/'},'광덕계곡':{'schedule':'/시외버스/시간표/일동버스터미널/출발/광덕계곡/도착/'},'광덕고개':{'schedule':'/시외버스/시간표/일동버스터미널/출발/광덕고개/도착/'},'광덕산정류소':{'schedule':'/시외버스/시간표/일동버스터미널/출발/광덕산정류소/도착/'},'다목리버스터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/다목시외버스터미널/도착/'},'맹대':{'schedule':'/시외버스/시간표/일동버스터미널/출발/맹대/도착/'},'명월리':{'schedule':'/시외버스/시간표/일동버스터미널/출발/명월리/도착/'},'사단앞(명월)':{'schedule':'/시외버스/시간표/일동버스터미널/출발/사단앞-명월/도착/'},'사창리버스터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/사창리터미널/도착/'},'산양리터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/산양리시외버스터미널/도착/'}}">화천군</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/일동버스터미널/출발/청주시외버스터미널/도착/','arrivals':[]}}">청주시 흥덕구</option>
+											<option value="{'청주시외버스터미널':{'schedule':'/시외버스/시간표/일동버스터미널/출발/청주시외버스터미널/도착/'}}">청주시 흥덕구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

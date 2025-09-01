@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/산정정류소/출발/땅끝정류소/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/산정정류소/출발/땅끝정류소/도착/",
 				"name": "산정정류소에서 땅끝정류소 가는 시외버스 시간표",
 				"description": "2025.09.01. 산정정류소에서 땅끝정류소 가는 시외버스는 하루 2 회 운행합니다. 첫차 : 07:10, 막차 : 11:20, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/산정정류소/출발/땅끝정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_sanjeongjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/산정정류소/#terminal_sanjeongjeonglyuso",
 						"name": "산정정류소",
 						"address": "전라남도 해남군 송지면 산정리 769-2",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_ttangkkeutjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/땅끝정류소/#terminal_ttangkkeutjeonglyuso",
 						"name": "땅끝정류소",
 						"address": "전라남도 해남군 송지면 송호리 1306",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_sanjeongjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/산정정류소/#terminal_sanjeongjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ttangkkeutjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/땅끝정류소/#terminal_ttangkkeutjeonglyuso"
 						},
 						"departureTime": "2025-09-02T07:10:00+09:00",
 						"arrivalTime": "2025-09-02T07:26:00+09:00",
@@ -132,10 +133,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_sanjeongjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/산정정류소/#terminal_sanjeongjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ttangkkeutjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/땅끝정류소/#terminal_ttangkkeutjeonglyuso"
 						},
 						"departureTime": "2025-09-02T11:20:00+09:00",
 						"arrivalTime": "2025-09-02T11:36:00+09:00",
@@ -148,8 +149,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -316,12 +317,12 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="광주광역시">
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/산정정류소/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/산정정류소/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'목포종합버스터미널':{'link':'/시외버스/터미널/목포종합버스터미널/','schedule':'/시외버스/시간표/산정정류소/출발/목포종합버스터미널/도착/','arrivals':[]}}">목포시</option>
-											<option value="{'독천터미널':{'link':'/시외버스/터미널/독천터미널/','schedule':'/시외버스/시간표/산정정류소/출발/독천터미널/도착/','arrivals':[]},'삼호정류소':{'link':'/시외버스/터미널/삼호버스종합터미널/','schedule':'/시외버스/시간표/산정정류소/출발/삼호버스종합터미널/도착/','arrivals':[]}}">영암군</option>
-											<option selected="selected" data-terminal="땅끝정류소" value="{'땅끝정류소':{'link':'/시외버스/터미널/땅끝정류소/','schedule':'/시외버스/시간표/산정정류소/출발/땅끝정류소/도착/','arrivals':[]},'송호리정류소':{'link':'/시외버스/터미널/송호리정류소/','schedule':'/시외버스/시간표/산정정류소/출발/송호리정류소/도착/','arrivals':[]},'해남종합버스터미널':{'link':'/시외버스/터미널/해남종합버스터미널/','schedule':'/시외버스/시간표/산정정류소/출발/해남종합버스터미널/도착/','arrivals':[]}}">해남군</option>
+											<option value="{'목포종합버스터미널':{'schedule':'/시외버스/시간표/산정정류소/출발/목포종합버스터미널/도착/'}}">목포시</option>
+											<option value="{'독천터미널':{'schedule':'/시외버스/시간표/산정정류소/출발/독천터미널/도착/'},'삼호정류소':{'schedule':'/시외버스/시간표/산정정류소/출발/삼호버스종합터미널/도착/'}}">영암군</option>
+											<option selected="selected" data-terminal="땅끝정류소" value="{'땅끝정류소':{'schedule':'/시외버스/시간표/산정정류소/출발/땅끝정류소/도착/'},'송호리정류소':{'schedule':'/시외버스/시간표/산정정류소/출발/송호리정류소/도착/'},'해남종합버스터미널':{'schedule':'/시외버스/시간표/산정정류소/출발/해남종합버스터미널/도착/'}}">해남군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

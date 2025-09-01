@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/김포공항정류소/출발/동탄정류소/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/김포공항정류소/출발/동탄정류소/도착/",
 				"name": "김포공항정류소에서 동탄정류소 가는 시외버스 시간표",
 				"description": "2023.08.11. 김포공항정류소에서 동탄정류소 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 06:55, 막차 : 16:50, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/김포공항정류소/출발/동탄정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kimpokonghangjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/김포공항정류소/#terminal_kimpokonghangjeonglyuso",
 						"name": "김포공항정류소",
 						"address": "서울특별시 강서구 공항동 1373",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_dongtanjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/동탄정류소/#terminal_dongtanjeonglyuso",
 						"name": "동탄정류소",
 						"address": "경기도 화성시 반송동",
 						"geo": {
@@ -114,10 +115,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_kimpokonghangjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/김포공항정류소/#terminal_kimpokonghangjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_dongtanjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/동탄정류소/#terminal_dongtanjeonglyuso"
 						},
 						"departureTime": "2023-08-11T06:55:00+09:00",
 						"arrivalTime": "2023-08-11T08:37:00+09:00",
@@ -131,10 +132,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_kimpokonghangjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/김포공항정류소/#terminal_kimpokonghangjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_dongtanjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/동탄정류소/#terminal_dongtanjeonglyuso"
 						},
 						"departureTime": "2023-08-11T09:50:00+09:00",
 						"arrivalTime": "2023-08-11T11:32:00+09:00",
@@ -148,10 +149,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_kimpokonghangjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/김포공항정류소/#terminal_kimpokonghangjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_dongtanjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/동탄정류소/#terminal_dongtanjeonglyuso"
 						},
 						"departureTime": "2023-08-11T16:50:00+09:00",
 						"arrivalTime": "2023-08-11T18:32:00+09:00",
@@ -164,8 +165,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -335,42 +336,42 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경기도">
-											<option value="{'가평터미널':{'link':'/시외버스/터미널/가평시외버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/가평시외버스터미널/도착/','arrivals':[]},'청평터미널':{'link':'/시외버스/터미널/청평터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/청평터미널/도착/','arrivals':[]}}">가평군</option>
-											<option value="{'경기도광주종합터미널':{'link':'/시외버스/터미널/광주종합터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/광주종합터미널/도착/','arrivals':[]}}">광주시</option>
-											<option value="{'여주종합터미널':{'link':'/시외버스/터미널/여주종합터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/여주종합터미널/도착/','arrivals':[]}}">여주시</option>
-											<option value="{'오산역환승센터':{'link':'/시외버스/터미널/오산역환승센터/','schedule':'/시외버스/시간표/김포공항정류소/출발/오산역환승센터/도착/','arrivals':[]}}">오산시</option>
-											<option value="{'이천종합터미널':{'link':'/시외버스/터미널/이천종합터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/이천종합터미널/도착/','arrivals':[]}}">이천시</option>
+											<option value="{'가평터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/가평시외버스터미널/도착/'},'청평터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/청평터미널/도착/'}}">가평군</option>
+											<option value="{'경기도광주종합터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/광주종합터미널/도착/'}}">광주시</option>
+											<option value="{'여주종합터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/여주종합터미널/도착/'}}">여주시</option>
+											<option value="{'오산역환승센터':{'schedule':'/시외버스/시간표/김포공항정류소/출발/오산역환승센터/도착/'}}">오산시</option>
+											<option value="{'이천종합터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/이천종합터미널/도착/'}}">이천시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/김포공항정류소/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/시외버스/시간표/김포공항정류소/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/강릉시외버스터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'동해시종합버스터미널':{'link':'/시외버스/터미널/동해시종합버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/동해시종합버스터미널/도착/','arrivals':[]}}">동해시</option>
-											<option value="{'삼척종합버스정류장':{'link':'/시외버스/터미널/삼척종합버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/삼척종합버스터미널/도착/','arrivals':[]}}">삼척시</option>
-											<option value="{'속초시외버스터미널':{'link':'/시외버스/터미널/속초시외버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/속초시외버스터미널/도착/','arrivals':[]}}">속초시</option>
-											<option value="{'양양종합여객터미널':{'link':'/시외버스/터미널/양양시외종합터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/양양시외종합터미널/도착/','arrivals':[]}}">양양군</option>
-											<option value="{'영월버스터미널':{'link':'/시외버스/터미널/영월시외버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/영월시외버스터미널/도착/','arrivals':[]}}">영월군</option>
-											<option value="{'문막버스정류소':{'link':'/시외버스/터미널/문막정류소/','schedule':'/시외버스/시간표/김포공항정류소/출발/문막정류소/도착/','arrivals':[]},'원주시외버스터미널':{'link':'/시외버스/터미널/원주시외버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/원주시외버스터미널/도착/','arrivals':[]}}">원주시</option>
-											<option value="{'고한사북공영버스터미널':{'link':'/시외버스/터미널/고한-사북공용버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/고한-사북공용버스터미널/도착/','arrivals':[]}}">정선군</option>
-											<option value="{'춘천시외버스터미널':{'link':'/시외버스/터미널/춘천시외버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/춘천시외버스터미널/도착/','arrivals':[]}}">춘천시</option>
-											<option value="{'태백버스터미널':{'link':'/시외버스/터미널/태백시외버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/태백시외버스터미널/도착/','arrivals':[]}}">태백시</option>
-											<option value="{'평창휴게소':{'link':'/시외버스/터미널/평창휴게소/','schedule':'/시외버스/시간표/김포공항정류소/출발/평창휴게소/도착/','arrivals':[]}}">평창군</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/강릉시외버스터미널/도착/'}}">강릉시</option>
+											<option value="{'동해시종합버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/동해시종합버스터미널/도착/'}}">동해시</option>
+											<option value="{'삼척종합버스정류장':{'schedule':'/시외버스/시간표/김포공항정류소/출발/삼척종합버스터미널/도착/'}}">삼척시</option>
+											<option value="{'속초시외버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/속초시외버스터미널/도착/'}}">속초시</option>
+											<option value="{'양양종합여객터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/양양시외종합터미널/도착/'}}">양양군</option>
+											<option value="{'영월버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/영월시외버스터미널/도착/'}}">영월군</option>
+											<option value="{'문막버스정류소':{'schedule':'/시외버스/시간표/김포공항정류소/출발/문막정류소/도착/'},'원주시외버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/원주시외버스터미널/도착/'}}">원주시</option>
+											<option value="{'고한사북공영버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/고한-사북공용버스터미널/도착/'}}">정선군</option>
+											<option value="{'춘천시외버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/춘천시외버스터미널/도착/'}}">춘천시</option>
+											<option value="{'태백버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/태백시외버스터미널/도착/'}}">태백시</option>
+											<option value="{'평창휴게소':{'schedule':'/시외버스/시간표/김포공항정류소/출발/평창휴게소/도착/'}}">평창군</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'충북혁신도시공용터미널':{'link':'/시외버스/터미널/혁신도시공용터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/혁신도시공용터미널/도착/','arrivals':[]}}">음성군</option>
-											<option value="{'제천버스터미널':{'link':'/시외버스/터미널/제천버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/제천버스터미널/도착/','arrivals':[]}}">제천시</option>
-											<option value="{'증평시외버스터미널':{'link':'/시외버스/터미널/증평시외버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/증평시외버스터미널/도착/','arrivals':[]}}">증평군</option>
+											<option value="{'충북혁신도시공용터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/혁신도시공용터미널/도착/'}}">음성군</option>
+											<option value="{'제천버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/제천버스터미널/도착/'}}">제천시</option>
+											<option value="{'증평시외버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/증평시외버스터미널/도착/'}}">증평군</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'구룡(서산)':{'link':'/시외버스/터미널/구룡-서산/','schedule':'/시외버스/시간표/김포공항정류소/출발/구룡-서산/도착/','arrivals':[]},'기지시버스정류장':{'link':'/시외버스/터미널/기지시정류소/','schedule':'/시외버스/시간표/김포공항정류소/출발/기지시정류소/도착/','arrivals':[]},'당진버스터미널':{'link':'/시외버스/터미널/당진버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/당진버스터미널/도착/','arrivals':[]}}">당진시</option>
-											<option value="{'서산공용버스터미널':{'link':'/시외버스/터미널/서산공용버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/서산공용버스터미널/도착/','arrivals':[]},'어송정류소':{'link':'/시외버스/터미널/어송정류소/','schedule':'/시외버스/시간표/김포공항정류소/출발/어송정류소/도착/','arrivals':[]},'운산정류소':{'link':'/시외버스/터미널/운산정류소/','schedule':'/시외버스/시간표/김포공항정류소/출발/운산정류소/도착/','arrivals':[]},'음암정류소':{'link':'/시외버스/터미널/음암정류소/','schedule':'/시외버스/시간표/김포공항정류소/출발/음암정류소/도착/','arrivals':[]}}">서산시</option>
-											<option value="{'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/천안종합버스터미널/도착/','arrivals':[]}}">천안시 동남구</option>
-											<option value="{'태안공영버스터미널':{'link':'/시외버스/터미널/태안공용버스터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/태안공용버스터미널/도착/','arrivals':[]}}">태안군</option>
+											<option value="{'구룡(서산)':{'schedule':'/시외버스/시간표/김포공항정류소/출발/구룡-서산/도착/'},'기지시버스정류장':{'schedule':'/시외버스/시간표/김포공항정류소/출발/기지시정류소/도착/'},'당진버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/당진버스터미널/도착/'}}">당진시</option>
+											<option value="{'서산공용버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/서산공용버스터미널/도착/'},'어송정류소':{'schedule':'/시외버스/시간표/김포공항정류소/출발/어송정류소/도착/'},'운산정류소':{'schedule':'/시외버스/시간표/김포공항정류소/출발/운산정류소/도착/'},'음암정류소':{'schedule':'/시외버스/시간표/김포공항정류소/출발/음암정류소/도착/'}}">서산시</option>
+											<option value="{'천안시외버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/천안종합버스터미널/도착/'}}">천안시 동남구</option>
+											<option value="{'태안공영버스터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/태안공용버스터미널/도착/'}}">태안군</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'익산IC정류장':{'link':'/시외버스/터미널/익산ic/','schedule':'/시외버스/시간표/김포공항정류소/출발/익산ic/도착/','arrivals':[]}}">완주군</option>
-											<option value="{'전주시외버스정류장 리무진터미널':{'link':'/시외버스/터미널/전주-리무진터미널/','schedule':'/시외버스/시간표/김포공항정류소/출발/전주-리무진터미널/도착/','arrivals':[]}}">전주시 완산구</option>
+											<option value="{'익산IC정류장':{'schedule':'/시외버스/시간표/김포공항정류소/출발/익산ic/도착/'}}">완주군</option>
+											<option value="{'전주시외버스정류장 리무진터미널':{'schedule':'/시외버스/시간표/김포공항정류소/출발/전주-리무진터미널/도착/'}}">전주시 완산구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

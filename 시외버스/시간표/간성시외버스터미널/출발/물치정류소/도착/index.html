@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/간성시외버스터미널/출발/물치정류소/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/간성시외버스터미널/출발/물치정류소/도착/",
 				"name": "간성터미널에서 물치정류소 가는 시외버스 시간표",
 				"description": "2021.11.23. 간성터미널에서 물치정류소 가는 시외버스는 하루 0 회 운행합니다. 첫차 : , 막차 : , 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/간성시외버스터미널/출발/물치정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kanseongteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/간성시외버스터미널/#terminal_kanseongteomineol",
 						"name": "간성터미널",
 						"address": "강원특별자치도 고성군 간성읍 신안리 250-1",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_mulchijeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/물치정류소/#terminal_mulchijeonglyuso",
 						"name": "물치정류소",
 						"address": "강원특별자치도 속초시 대포동 807-2",
 						"geo": {
@@ -113,8 +114,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -245,21 +246,21 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산종합버스터미널':{'link':'/시외버스/터미널/부산종합버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/부산종합버스터미널/도착/','arrivals':[]}}">금정구</option>
+											<option value="{'부산종합버스터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/부산종합버스터미널/도착/'}}">금정구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/강릉시외버스터미널/도착/','arrivals':[]},'강릉아산변원':{'link':'/시외버스/터미널/강릉아산변원/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/강릉아산변원/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'거진시외버스터미널':{'link':'/시외버스/터미널/거진종합버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/거진종합버스터미널/도착/','arrivals':[]},'대진시외버스터미널':{'link':'/시외버스/터미널/대진시외버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/대진시외버스터미널/도착/','arrivals':[]},'장신리':{'link':'/시외버스/터미널/장신리/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/장신리/도착/','arrivals':[]},'장신정류소':{'link':'/시외버스/터미널/장신정류소/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/장신정류소/도착/','arrivals':[]},'진부령정류소':{'link':'/시외버스/터미널/진부령정류소/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/진부령정류소/도착/','arrivals':[]}}">고성군</option>
-											<option value="{'동해시종합버스터미널':{'link':'/시외버스/터미널/동해시종합버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/동해시종합버스터미널/도착/','arrivals':[]}}">동해시</option>
-											<option selected="selected" data-terminal="물치정류소" value="{'속초시외버스터미널':{'link':'/시외버스/터미널/속초시외버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/속초시외버스터미널/도착/','arrivals':[]}}">속초시</option>
-											<option value="{'남교정류소':{'link':'/시외버스/터미널/남교정류소/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/남교정류소/도착/','arrivals':[]},'백담사입구정류소':{'link':'/시외버스/터미널/용대리정류소/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/용대리정류소/도착/','arrivals':[]},'신남정류장':{'link':'/시외버스/터미널/신남시외버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/신남시외버스터미널/도착/','arrivals':[]},'원통버스터미널':{'link':'/시외버스/터미널/원통공용버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/원통공용버스터미널/도착/','arrivals':[]},'인제터미널':{'link':'/시외버스/터미널/인제시외버스터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/인제시외버스터미널/도착/','arrivals':[]}}">인제군</option>
-											<option value="{'홍천종합버스터미널':{'link':'/시외버스/터미널/홍천터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/홍천터미널/도착/','arrivals':[]}}">홍천군</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/강릉시외버스터미널/도착/'},'강릉아산변원':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/강릉아산변원/도착/'}}">강릉시</option>
+											<option value="{'거진시외버스터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/거진종합버스터미널/도착/'},'대진시외버스터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/대진시외버스터미널/도착/'},'장신리':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/장신리/도착/'},'장신정류소':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/장신정류소/도착/'},'진부령정류소':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/진부령정류소/도착/'}}">고성군</option>
+											<option value="{'동해시종합버스터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/동해시종합버스터미널/도착/'}}">동해시</option>
+											<option selected="selected" data-terminal="물치정류소" value="{'속초시외버스터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/속초시외버스터미널/도착/'}}">속초시</option>
+											<option value="{'남교정류소':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/남교정류소/도착/'},'백담사입구정류소':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/용대리정류소/도착/'},'신남정류장':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/신남시외버스터미널/도착/'},'원통버스터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/원통공용버스터미널/도착/'},'인제터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/인제시외버스터미널/도착/'}}">인제군</option>
+											<option value="{'홍천종합버스터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/홍천터미널/도착/'}}">홍천군</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/간성시외버스터미널/출발/포항터미널/도착/','arrivals':[]}}">포항시 남구</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/간성시외버스터미널/출발/포항터미널/도착/'}}">포항시 남구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

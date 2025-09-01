@@ -56,6 +56,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/합천시외버스정류장/출발/산북/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/합천시외버스정류장/출발/산북/도착/",
 				"name": "합천버스정류장에서 산북(의령군) 가는 시외버스 시간표",
 				"description": "2025.08.28. 합천버스정류장에서 산북(의령군) 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 07:50, 막차 : 14:45, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -85,10 +86,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/합천시외버스정류장/출발/산북/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_hapcheonbeoseujeonglyujang",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/합천시외버스정류장/#terminal_hapcheonbeoseujeonglyujang",
 						"name": "합천버스정류장",
 						"address": "경상남도 합천군 합천읍 합천리 403-11",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_sanbug_uilyeongkun",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/산북/#terminal_sanbug_uilyeongkun",
 						"name": "산북(의령군)",
 						"address": "경상남도 의령군 칠곡면 산북리 60-4",
 						"geo": {
@@ -113,10 +114,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_hapcheonbeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/합천시외버스정류장/#terminal_hapcheonbeoseujeonglyujang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_sanbug_uilyeongkun"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/산북/#terminal_sanbug_uilyeongkun"
 						},
 						"departureTime": "2025-08-28T07:50:00+09:00",
 						"arrivalTime": "2025-08-28T08:31:00+09:00",
@@ -130,10 +131,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_hapcheonbeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/합천시외버스정류장/#terminal_hapcheonbeoseujeonglyujang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_sanbug_uilyeongkun"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/산북/#terminal_sanbug_uilyeongkun"
 						},
 						"departureTime": "2025-08-28T12:50:00+09:00",
 						"arrivalTime": "2025-08-28T13:31:00+09:00",
@@ -147,10 +148,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_hapcheonbeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/합천시외버스정류장/#terminal_hapcheonbeoseujeonglyujang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_sanbug_uilyeongkun"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/산북/#terminal_sanbug_uilyeongkun"
 						},
 						"departureTime": "2025-08-28T14:45:00+09:00",
 						"arrivalTime": "2025-08-28T15:26:00+09:00",
@@ -163,8 +164,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -322,23 +323,23 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'대구서부정류장':{'link':'/시외버스/터미널/서부정류장/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/서부정류장/도착/','arrivals':[]}}">남구</option>
+											<option value="{'대구서부정류장':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/서부정류장/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'사천터미널':{'link':'/시외버스/터미널/사천터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/사천터미널/도착/','arrivals':[]},'삼천포시외버스터미널':{'link':'/시외버스/터미널/삼천포시외버스터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/삼천포시외버스터미널/도착/','arrivals':[]}}">사천시</option>
-											<option value="{'송계':{'link':'/시외버스/터미널/송계/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/송계/도착/','arrivals':[]}}">산청군</option>
-											<option selected="selected" data-terminal="산북(의령군)" value="{'가례정류장':{'link':'/시외버스/터미널/가례/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/가례/도착/','arrivals':[]},'다사(의령군)':{'link':'/시외버스/터미널/다사-의령군/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/다사-의령군/도착/','arrivals':[]},'대의정류소':{'link':'/시외버스/터미널/대의정류소/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/대의정류소/도착/','arrivals':[]},'산북(의령군)':{'link':'/시외버스/터미널/산북/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/산북/도착/','arrivals':[]},'의령버스터미널':{'link':'/시외버스/터미널/의령버스터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/의령버스터미널/도착/','arrivals':[]},'정암(의령군)':{'link':'/시외버스/터미널/정암/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/정암/도착/','arrivals':[]},'칠곡(의령)':{'link':'/시외버스/터미널/칠곡/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/칠곡/도착/','arrivals':[]}}">의령군</option>
-											<option value="{'안간':{'link':'/시외버스/터미널/안간/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/안간/도착/','arrivals':[]},'진주시외버스터미널':{'link':'/시외버스/터미널/진주시외버스터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/진주시외버스터미널/도착/','arrivals':[]}}">진주시</option>
-											<option value="{'마산시외버스터미널':{'link':'/시외버스/터미널/마산시외버스터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/마산시외버스터미널/도착/','arrivals':[]}}">창원시 마산회원구</option>
-											<option value="{'월촌(창원시)':{'link':'/시외버스/터미널/월촌-창원시/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/월촌-창원시/도착/','arrivals':[]},'창원종합버스터미널':{'link':'/시외버스/터미널/창원종합버스터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/창원종합버스터미널/도착/','arrivals':[]}}">창원시 의창구</option>
-											<option value="{'월촌(함안군)':{'link':'/시외버스/터미널/월촌/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/월촌/도착/','arrivals':[]},'함안버스터미널':{'link':'/시외버스/터미널/함안시외버스터미널/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/함안시외버스터미널/도착/','arrivals':[]}}">함안군</option>
-											<option value="{'삼가정류소':{'link':'/시외버스/터미널/삼가정류소/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/삼가정류소/도착/','arrivals':[]},'쌍백정류장':{'link':'/시외버스/터미널/쌍백/','schedule':'/시외버스/시간표/합천시외버스정류장/출발/쌍백/도착/','arrivals':[]}}">합천군</option>
+											<option value="{'사천터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/사천터미널/도착/'},'삼천포시외버스터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/삼천포시외버스터미널/도착/'}}">사천시</option>
+											<option value="{'송계':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/송계/도착/'}}">산청군</option>
+											<option selected="selected" data-terminal="산북(의령군)" value="{'가례정류장':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/가례/도착/'},'다사(의령군)':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/다사-의령군/도착/'},'대의정류소':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/대의정류소/도착/'},'산북(의령군)':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/산북/도착/'},'의령버스터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/의령버스터미널/도착/'},'정암(의령군)':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/정암/도착/'},'칠곡(의령)':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/칠곡/도착/'}}">의령군</option>
+											<option value="{'안간':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/안간/도착/'},'진주시외버스터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/진주시외버스터미널/도착/'}}">진주시</option>
+											<option value="{'마산시외버스터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/마산시외버스터미널/도착/'}}">창원시 마산회원구</option>
+											<option value="{'월촌(창원시)':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/월촌-창원시/도착/'},'창원종합버스터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/창원종합버스터미널/도착/'}}">창원시 의창구</option>
+											<option value="{'월촌(함안군)':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/월촌/도착/'},'함안버스터미널':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/함안시외버스터미널/도착/'}}">함안군</option>
+											<option value="{'삼가정류소':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/삼가정류소/도착/'},'쌍백정류장':{'schedule':'/시외버스/시간표/합천시외버스정류장/출발/쌍백/도착/'}}">합천군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

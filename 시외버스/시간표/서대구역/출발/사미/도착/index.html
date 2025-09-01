@@ -55,6 +55,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/서대구역/출발/사미/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/서대구역/출발/사미/도착/",
 				"name": "서대구역에서 사미 가는 시외버스 시간표",
 				"description": "2025.08.29. 서대구역에서 사미 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 10:05, 막차 : 20:35, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -84,10 +85,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/서대구역/출발/사미/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_seodaekuyeog",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/서대구역/#terminal_seodaekuyeog",
 						"name": "서대구역",
 						"address": "대구광역시 서구 이현동 547",
 						"geo": {
@@ -98,7 +99,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_sami",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/사미/#terminal_sami",
 						"name": "사미",
 						"address": "경상북도 의성군 춘산면 사미리 696-1",
 						"geo": {
@@ -111,10 +112,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_seodaekuyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/서대구역/#terminal_seodaekuyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_sami"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/사미/#terminal_sami"
 						},
 						"departureTime": "2025-09-01T10:05:00+09:00",
 						"arrivalTime": "2025-09-01T11:33:00+09:00",
@@ -128,10 +129,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_seodaekuyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/서대구역/#terminal_seodaekuyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_sami"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/사미/#terminal_sami"
 						},
 						"departureTime": "2025-09-01T17:35:00+09:00",
 						"arrivalTime": "2025-09-01T19:03:00+09:00",
@@ -145,10 +146,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_seodaekuyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/서대구역/#terminal_seodaekuyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_sami"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/사미/#terminal_sami"
 						},
 						"departureTime": "2025-09-01T20:35:00+09:00",
 						"arrivalTime": "2025-09-01T22:03:00+09:00",
@@ -161,8 +162,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -320,21 +321,21 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="대구광역시">
-											<option value="{'간동':{'link':'/시외버스/터미널/간동/','schedule':'/시외버스/시간표/서대구역/출발/간동/도착/','arrivals':[]},'군위버스터미널':{'link':'/시외버스/터미널/군위시외버스공용터미널/','schedule':'/시외버스/시간표/서대구역/출발/군위시외버스공용터미널/도착/','arrivals':[]},'우보정류소':{'link':'/시외버스/터미널/우보정류소/','schedule':'/시외버스/시간표/서대구역/출발/우보정류소/도착/','arrivals':[]}}">군위군</option>
+											<option value="{'간동':{'schedule':'/시외버스/시간표/서대구역/출발/간동/도착/'},'군위버스터미널':{'schedule':'/시외버스/시간표/서대구역/출발/군위시외버스공용터미널/도착/'},'우보정류소':{'schedule':'/시외버스/시간표/서대구역/출발/우보정류소/도착/'}}">군위군</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'충주공용버스터미널':{'link':'/시외버스/터미널/충주공용버스터미널/','schedule':'/시외버스/시간표/서대구역/출발/충주공용버스터미널/도착/','arrivals':[]}}">충주시</option>
+											<option value="{'충주공용버스터미널':{'schedule':'/시외버스/시간표/서대구역/출발/충주공용버스터미널/도착/'}}">충주시</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'점촌터미널':{'link':'/시외버스/터미널/점촌시외고속버스터미널/','schedule':'/시외버스/시간표/서대구역/출발/점촌시외고속버스터미널/도착/','arrivals':[]}}">문경시</option>
-											<option value="{'법전정류소':{'link':'/시외버스/터미널/법전버스정류소/','schedule':'/시외버스/시간표/서대구역/출발/법전버스정류소/도착/','arrivals':[]},'봉화공용정류장':{'link':'/시외버스/터미널/봉화공용버스정류장/','schedule':'/시외버스/시간표/서대구역/출발/봉화공용버스정류장/도착/','arrivals':[]},'부대앞':{'link':'/시외버스/터미널/부대앞/','schedule':'/시외버스/시간표/서대구역/출발/부대앞/도착/','arrivals':[]},'상운':{'link':'/시외버스/터미널/상운/','schedule':'/시외버스/시간표/서대구역/출발/상운/도착/','arrivals':[]},'춘양버스터미널':{'link':'/시외버스/터미널/춘양시외버스터미널/','schedule':'/시외버스/시간표/서대구역/출발/춘양시외버스터미널/도착/','arrivals':[]}}">봉화군</option>
-											<option value="{'경북대상주캠퍼스정류소':{'link':'/시외버스/터미널/경북대상주캠퍼스정류소-승차/','schedule':'/시외버스/시간표/서대구역/출발/경북대상주캠퍼스정류소-승차/도착/','arrivals':[]},'상주터미널':{'link':'/시외버스/터미널/상주종합버스터미널/','schedule':'/시외버스/시간표/서대구역/출발/상주종합버스터미널/도착/','arrivals':[]},'양정정류소(상주시)':{'link':'/시외버스/터미널/양정정류소/','schedule':'/시외버스/시간표/서대구역/출발/양정정류소/도착/','arrivals':[]},'함창버스정류장':{'link':'/시외버스/터미널/함창버스정류장/','schedule':'/시외버스/시간표/서대구역/출발/함창버스정류장/도착/','arrivals':[]}}">상주시</option>
-											<option value="{'경북도청버스정류장':{'link':'/시외버스/터미널/경북도청시외버스정류장/','schedule':'/시외버스/시간표/서대구역/출발/경북도청시외버스정류장/도착/','arrivals':[]},'안기동':{'link':'/시외버스/터미널/안기동/','schedule':'/시외버스/시간표/서대구역/출발/안기동/도착/','arrivals':[]},'안동(태화)':{'link':'/시외버스/터미널/안동-태화/','schedule':'/시외버스/시간표/서대구역/출발/안동-태화/도착/','arrivals':[]},'안동대':{'link':'/시외버스/터미널/안동대/','schedule':'/시외버스/시간표/서대구역/출발/안동대/도착/','arrivals':[]},'안동초교정류소':{'link':'/시외버스/터미널/안동초교터미널/','schedule':'/시외버스/시간표/서대구역/출발/안동초교터미널/도착/','arrivals':[]},'안동터미널':{'link':'/시외버스/터미널/안동터미널/','schedule':'/시외버스/시간표/서대구역/출발/안동터미널/도착/','arrivals':[]},'옹천정류소':{'link':'/시외버스/터미널/옹천정류소/','schedule':'/시외버스/시간표/서대구역/출발/옹천정류소/도착/','arrivals':[]},'용상정류소':{'link':'/시외버스/터미널/용상터미널/','schedule':'/시외버스/시간표/서대구역/출발/용상터미널/도착/','arrivals':[]},'원천(안동시)':{'link':'/시외버스/터미널/원천-안동/','schedule':'/시외버스/시간표/서대구역/출발/원천-안동/도착/','arrivals':[]},'일직정류소':{'link':'/시외버스/터미널/일직정류소/','schedule':'/시외버스/시간표/서대구역/출발/일직정류소/도착/','arrivals':[]},'임동정류소':{'link':'/시외버스/터미널/임동정류소/','schedule':'/시외버스/시간표/서대구역/출발/임동정류소/도착/','arrivals':[]}}">안동시</option>
-											<option value="{'방전':{'link':'/시외버스/터미널/방전/','schedule':'/시외버스/시간표/서대구역/출발/방전/도착/','arrivals':[]},'영양버스정류장':{'link':'/시외버스/터미널/영양버스정류장/','schedule':'/시외버스/시간표/서대구역/출발/영양버스정류장/도착/','arrivals':[]},'입암정류장':{'link':'/시외버스/터미널/입암정류소/','schedule':'/시외버스/시간표/서대구역/출발/입암정류소/도착/','arrivals':[]}}">영양군</option>
-											<option value="{'영주꽃동산정류소':{'link':'/시외버스/터미널/꽃동산터미널/','schedule':'/시외버스/시간표/서대구역/출발/꽃동산터미널/도착/','arrivals':[]},'영주종합터미널':{'link':'/시외버스/터미널/영주종합터미널/','schedule':'/시외버스/시간표/서대구역/출발/영주종합터미널/도착/','arrivals':[]}}">영주시</option>
-											<option value="{'예천삼거리정류소':{'link':'/시외버스/터미널/남본삼거리정류소/','schedule':'/시외버스/시간표/서대구역/출발/남본삼거리정류소/도착/','arrivals':[]},'예천시외버스터미널':{'link':'/시외버스/터미널/예천시외버스정류장/','schedule':'/시외버스/시간표/서대구역/출발/예천시외버스정류장/도착/','arrivals':[]},'지보정류소':{'link':'/시외버스/터미널/지보정류소/','schedule':'/시외버스/시간표/서대구역/출발/지보정류소/도착/','arrivals':[]},'풍양버스정류소':{'link':'/시외버스/터미널/풍양버스정류소/','schedule':'/시외버스/시간표/서대구역/출발/풍양버스정류소/도착/','arrivals':[]}}">예천군</option>
-											<option selected="selected" data-terminal="사미" value="{'가음시외버스공용정류장':{'link':'/시외버스/터미널/가음시외버스공용정류장/','schedule':'/시외버스/시간표/서대구역/출발/가음시외버스공용정류장/도착/','arrivals':[]},'금천2리':{'link':'/시외버스/터미널/금천2리/','schedule':'/시외버스/시간표/서대구역/출발/금천2리/도착/','arrivals':[]},'다인정류소':{'link':'/시외버스/터미널/다인정류소/','schedule':'/시외버스/시간표/서대구역/출발/다인정류소/도착/','arrivals':[]},'단촌정류소':{'link':'/시외버스/터미널/단촌정류소/','schedule':'/시외버스/시간표/서대구역/출발/단촌정류소/도착/','arrivals':[]},'도리원버스터미널':{'link':'/시외버스/터미널/도리원시외버스정류장/','schedule':'/시외버스/시간표/서대구역/출발/도리원시외버스정류장/도착/','arrivals':[]},'비안':{'link':'/시외버스/터미널/비안/','schedule':'/시외버스/시간표/서대구역/출발/비안/도착/','arrivals':[]},'빙계':{'link':'/시외버스/터미널/빙계/','schedule':'/시외버스/시간표/서대구역/출발/빙계/도착/','arrivals':[]},'사미':{'link':'/시외버스/터미널/사미/','schedule':'/시외버스/시간표/서대구역/출발/사미/도착/','arrivals':[]},'신락':{'link':'/시외버스/터미널/신락/','schedule':'/시외버스/시간표/서대구역/출발/신락/도착/','arrivals':[]},'안계버스정류장':{'link':'/시외버스/터미널/안계공용버스정류장/','schedule':'/시외버스/시간표/서대구역/출발/안계공용버스정류장/도착/','arrivals':[]},'양지(의성)':{'link':'/시외버스/터미널/양지/','schedule':'/시외버스/시간표/서대구역/출발/양지/도착/','arrivals':[]},'의성시외버스터미널':{'link':'/시외버스/터미널/의성시외버스터미널/','schedule':'/시외버스/시간표/서대구역/출발/의성시외버스터미널/도착/','arrivals':[]},'춘산정류소':{'link':'/시외버스/터미널/춘산정류소/','schedule':'/시외버스/시간표/서대구역/출발/춘산정류소/도착/','arrivals':[]},'탑리':{'link':'/시외버스/터미널/탑리/','schedule':'/시외버스/시간표/서대구역/출발/탑리/도착/','arrivals':[]}}">의성군</option>
-											<option value="{'진보버스터미널':{'link':'/시외버스/터미널/진보시외버스터미널/','schedule':'/시외버스/시간표/서대구역/출발/진보시외버스터미널/도착/','arrivals':[]}}">청송군</option>
+											<option value="{'점촌터미널':{'schedule':'/시외버스/시간표/서대구역/출발/점촌시외고속버스터미널/도착/'}}">문경시</option>
+											<option value="{'법전정류소':{'schedule':'/시외버스/시간표/서대구역/출발/법전버스정류소/도착/'},'봉화공용정류장':{'schedule':'/시외버스/시간표/서대구역/출발/봉화공용버스정류장/도착/'},'부대앞':{'schedule':'/시외버스/시간표/서대구역/출발/부대앞/도착/'},'상운':{'schedule':'/시외버스/시간표/서대구역/출발/상운/도착/'},'춘양버스터미널':{'schedule':'/시외버스/시간표/서대구역/출발/춘양시외버스터미널/도착/'}}">봉화군</option>
+											<option value="{'경북대상주캠퍼스정류소':{'schedule':'/시외버스/시간표/서대구역/출발/경북대상주캠퍼스정류소-승차/도착/'},'상주터미널':{'schedule':'/시외버스/시간표/서대구역/출발/상주종합버스터미널/도착/'},'양정정류소(상주시)':{'schedule':'/시외버스/시간표/서대구역/출발/양정정류소/도착/'},'함창버스정류장':{'schedule':'/시외버스/시간표/서대구역/출발/함창버스정류장/도착/'}}">상주시</option>
+											<option value="{'경북도청버스정류장':{'schedule':'/시외버스/시간표/서대구역/출발/경북도청시외버스정류장/도착/'},'안기동':{'schedule':'/시외버스/시간표/서대구역/출발/안기동/도착/'},'안동(태화)':{'schedule':'/시외버스/시간표/서대구역/출발/안동-태화/도착/'},'안동대':{'schedule':'/시외버스/시간표/서대구역/출발/안동대/도착/'},'안동초교정류소':{'schedule':'/시외버스/시간표/서대구역/출발/안동초교터미널/도착/'},'안동터미널':{'schedule':'/시외버스/시간표/서대구역/출발/안동터미널/도착/'},'옹천정류소':{'schedule':'/시외버스/시간표/서대구역/출발/옹천정류소/도착/'},'용상정류소':{'schedule':'/시외버스/시간표/서대구역/출발/용상터미널/도착/'},'원천(안동시)':{'schedule':'/시외버스/시간표/서대구역/출발/원천-안동/도착/'},'일직정류소':{'schedule':'/시외버스/시간표/서대구역/출발/일직정류소/도착/'},'임동정류소':{'schedule':'/시외버스/시간표/서대구역/출발/임동정류소/도착/'}}">안동시</option>
+											<option value="{'방전':{'schedule':'/시외버스/시간표/서대구역/출발/방전/도착/'},'영양버스정류장':{'schedule':'/시외버스/시간표/서대구역/출발/영양버스정류장/도착/'},'입암정류장':{'schedule':'/시외버스/시간표/서대구역/출발/입암정류소/도착/'}}">영양군</option>
+											<option value="{'영주꽃동산정류소':{'schedule':'/시외버스/시간표/서대구역/출발/꽃동산터미널/도착/'},'영주종합터미널':{'schedule':'/시외버스/시간표/서대구역/출발/영주종합터미널/도착/'}}">영주시</option>
+											<option value="{'예천삼거리정류소':{'schedule':'/시외버스/시간표/서대구역/출발/남본삼거리정류소/도착/'},'예천시외버스터미널':{'schedule':'/시외버스/시간표/서대구역/출발/예천시외버스정류장/도착/'},'지보정류소':{'schedule':'/시외버스/시간표/서대구역/출발/지보정류소/도착/'},'풍양버스정류소':{'schedule':'/시외버스/시간표/서대구역/출발/풍양버스정류소/도착/'}}">예천군</option>
+											<option selected="selected" data-terminal="사미" value="{'가음시외버스공용정류장':{'schedule':'/시외버스/시간표/서대구역/출발/가음시외버스공용정류장/도착/'},'금천2리':{'schedule':'/시외버스/시간표/서대구역/출발/금천2리/도착/'},'다인정류소':{'schedule':'/시외버스/시간표/서대구역/출발/다인정류소/도착/'},'단촌정류소':{'schedule':'/시외버스/시간표/서대구역/출발/단촌정류소/도착/'},'도리원버스터미널':{'schedule':'/시외버스/시간표/서대구역/출발/도리원시외버스정류장/도착/'},'비안':{'schedule':'/시외버스/시간표/서대구역/출발/비안/도착/'},'빙계':{'schedule':'/시외버스/시간표/서대구역/출발/빙계/도착/'},'사미':{'schedule':'/시외버스/시간표/서대구역/출발/사미/도착/'},'신락':{'schedule':'/시외버스/시간표/서대구역/출발/신락/도착/'},'안계버스정류장':{'schedule':'/시외버스/시간표/서대구역/출발/안계공용버스정류장/도착/'},'양지(의성)':{'schedule':'/시외버스/시간표/서대구역/출발/양지/도착/'},'의성시외버스터미널':{'schedule':'/시외버스/시간표/서대구역/출발/의성시외버스터미널/도착/'},'춘산정류소':{'schedule':'/시외버스/시간표/서대구역/출발/춘산정류소/도착/'},'탑리':{'schedule':'/시외버스/시간표/서대구역/출발/탑리/도착/'}}">의성군</option>
+											<option value="{'진보버스터미널':{'schedule':'/시외버스/시간표/서대구역/출발/진보시외버스터미널/도착/'}}">청송군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

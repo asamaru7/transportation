@@ -56,6 +56,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/진주역/출발/우주항공청/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/진주역/출발/우주항공청/도착/",
 				"name": "진주역에서 우주항공청정류장 가는 시외버스 시간표",
 				"description": "2025.08.26. 진주역에서 우주항공청정류장 가는 시외버스는 하루 4 회 운행합니다. 첫차 : 07:30, 막차 : 16:00, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -85,10 +86,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/진주역/출발/우주항공청/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_jinjuyeog",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/진주역/#terminal_jinjuyeog",
 						"name": "진주역",
 						"address": "경상남도 진주시 가좌동 68-10",
 						"geo": {
@@ -99,7 +100,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_ujuhangkongcheongjeonglyujang",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/우주항공청/#terminal_ujuhangkongcheongjeonglyujang",
 						"name": "우주항공청정류장",
 						"address": "경상남도 사천시 사남면 초전리 1988",
 						"geo": {
@@ -112,10 +113,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_jinjuyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/진주역/#terminal_jinjuyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ujuhangkongcheongjeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/우주항공청/#terminal_ujuhangkongcheongjeonglyujang"
 						},
 						"departureTime": "2025-08-27T07:30:00+09:00",
 						"arrivalTime": "2025-08-27T08:00:00+09:00",
@@ -129,10 +130,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_jinjuyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/진주역/#terminal_jinjuyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ujuhangkongcheongjeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/우주항공청/#terminal_ujuhangkongcheongjeonglyujang"
 						},
 						"departureTime": "2025-08-27T09:30:00+09:00",
 						"arrivalTime": "2025-08-27T10:00:00+09:00",
@@ -146,10 +147,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_jinjuyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/진주역/#terminal_jinjuyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ujuhangkongcheongjeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/우주항공청/#terminal_ujuhangkongcheongjeonglyujang"
 						},
 						"departureTime": "2025-08-27T12:10:00+09:00",
 						"arrivalTime": "2025-08-27T12:40:00+09:00",
@@ -163,10 +164,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-4",
 						"departureBusStop": {
-							"@id": "#terminal_jinjuyeog"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/진주역/#terminal_jinjuyeog"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ujuhangkongcheongjeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/우주항공청/#terminal_ujuhangkongcheongjeonglyujang"
 						},
 						"departureTime": "2025-08-27T16:00:00+09:00",
 						"arrivalTime": "2025-08-27T16:30:00+09:00",
@@ -179,8 +180,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -367,7 +368,7 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경상남도">
-											<option selected="selected" data-terminal="우주항공청정류장" value="{'사천공항':{'link':'/시외버스/터미널/사천공항/','schedule':'/시외버스/시간표/진주역/출발/사천공항/도착/','arrivals':[]},'우주항공청정류장':{'link':'/시외버스/터미널/우주항공청/','schedule':'/시외버스/시간표/진주역/출발/우주항공청/도착/','arrivals':[]}}">사천시</option>
+											<option selected="selected" data-terminal="우주항공청정류장" value="{'사천공항':{'schedule':'/시외버스/시간표/진주역/출발/사천공항/도착/'},'우주항공청정류장':{'schedule':'/시외버스/시간표/진주역/출발/우주항공청/도착/'}}">사천시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

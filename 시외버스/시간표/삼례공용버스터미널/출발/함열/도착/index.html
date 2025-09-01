@@ -56,6 +56,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/삼례공용버스터미널/출발/함열/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/삼례공용버스터미널/출발/함열/도착/",
 				"name": "삼례공용터미널에서 함열 가는 시외버스 시간표",
 				"description": "2025.08.30. 삼례공용터미널에서 함열 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 09:00, 막차 : 14:40, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -85,10 +86,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/삼례공용버스터미널/출발/함열/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_samlyekongyongteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/삼례공용버스터미널/#terminal_samlyekongyongteomineol",
 						"name": "삼례공용터미널",
 						"address": "전북특별자치도 완주군 삼례읍 삼례리 910-2",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_hamyeol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/함열/#terminal_hamyeol",
 						"name": "함열",
 						"address": "전북특별자치도 익산시 함열읍 와리 547-11",
 						"geo": {
@@ -113,10 +114,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_samlyekongyongteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/삼례공용버스터미널/#terminal_samlyekongyongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_hamyeol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/함열/#terminal_hamyeol"
 						},
 						"departureTime": "2025-09-01T09:00:00+09:00",
 						"arrivalTime": "2025-09-01T09:40:00+09:00",
@@ -130,10 +131,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_samlyekongyongteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/삼례공용버스터미널/#terminal_samlyekongyongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_hamyeol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/함열/#terminal_hamyeol"
 						},
 						"departureTime": "2025-09-01T13:40:00+09:00",
 						"arrivalTime": "2025-09-01T14:20:00+09:00",
@@ -147,10 +148,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_samlyekongyongteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/삼례공용버스터미널/#terminal_samlyekongyongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_hamyeol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/함열/#terminal_hamyeol"
 						},
 						"departureTime": "2025-09-01T14:40:00+09:00",
 						"arrivalTime": "2025-09-01T15:20:00+09:00",
@@ -163,8 +164,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -322,17 +323,17 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전서남부터미널':{'link':'/시외버스/터미널/대전서남부터미널/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/대전서남부터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'대전서남부터미널':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/대전서남부터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'양정정류소(계룡시)':{'link':'/시외버스/터미널/양정직행버스정류소/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/양정직행버스정류소/도착/','arrivals':[]}}">계룡시</option>
-											<option value="{'논산버스터미널':{'link':'/시외버스/터미널/논산시외버스공용터미널/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/논산시외버스공용터미널/도착/','arrivals':[]},'연무대시외버스정류장':{'link':'/시외버스/터미널/연무대시외버스정류장/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/연무대시외버스정류장/도착/','arrivals':[]},'연산정보고':{'link':'/시외버스/터미널/연산정보고/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/연산정보고/도착/','arrivals':[]},'은진':{'link':'/시외버스/터미널/은진/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/은진/도착/','arrivals':[]},'황하':{'link':'/시외버스/터미널/황하/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/황하/도착/','arrivals':[]}}">논산시</option>
+											<option value="{'양정정류소(계룡시)':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/양정직행버스정류소/도착/'}}">계룡시</option>
+											<option value="{'논산버스터미널':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/논산시외버스공용터미널/도착/'},'연무대시외버스정류장':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/연무대시외버스정류장/도착/'},'연산정보고':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/연산정보고/도착/'},'은진':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/은진/도착/'},'황하':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/황하/도착/'}}">논산시</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option selected="selected" data-terminal="함열" value="{'금마':{'link':'/시외버스/터미널/금마/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/금마/도착/','arrivals':[]},'여산':{'link':'/시외버스/터미널/여산/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/여산/도착/','arrivals':[]},'함열':{'link':'/시외버스/터미널/함열/','schedule':'/시외버스/시간표/삼례공용버스터미널/출발/함열/도착/','arrivals':[]}}">익산시</option>
+											<option selected="selected" data-terminal="함열" value="{'금마':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/금마/도착/'},'여산':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/여산/도착/'},'함열':{'schedule':'/시외버스/시간표/삼례공용버스터미널/출발/함열/도착/'}}">익산시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

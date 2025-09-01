@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/익산고속버스터미널/출발/안산버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/익산고속버스터미널/출발/안산버스터미널/도착/",
 				"name": "익산고속버스터미널에서 안산버스터미널 가는 고속버스 시간표",
 				"description": "2025.08.26. 익산고속버스터미널에서 안산버스터미널 가는 고속버스는 하루 3 회 운행합니다. 첫차 : 09:10, 막차 : 18:10, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/익산고속버스터미널/출발/안산버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_igsankosogbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/익산고속버스터미널/#terminal_igsankosogbeoseuteomineol",
 						"name": "익산고속버스터미널",
 						"address": "전북특별자치도 익산시 평화동 247-1",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_ansanbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol",
 						"name": "안산버스터미널",
 						"address": "경기도 안산시 상록구 성포동 590",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_igsankosogbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/익산고속버스터미널/#terminal_igsankosogbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ansanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol"
 						},
 						"departureTime": "2025-08-27T09:10:00+09:00",
 						"arrivalTime": "2025-08-27T11:40:00+09:00",
@@ -132,10 +133,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_igsankosogbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/익산고속버스터미널/#terminal_igsankosogbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ansanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol"
 						},
 						"departureTime": "2025-08-27T15:10:00+09:00",
 						"arrivalTime": "2025-08-27T17:40:00+09:00",
@@ -149,10 +150,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_igsankosogbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/익산고속버스터미널/#terminal_igsankosogbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_ansanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol"
 						},
 						"departureTime": "2025-08-27T18:10:00+09:00",
 						"arrivalTime": "2025-08-27T20:40:00+09:00",
@@ -165,8 +166,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -343,16 +344,16 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'센트럴시티터미널(호남선)':{'link':'/고속버스/터미널/센트럴시티터미널/','schedule':'/고속버스/시간표/익산고속버스터미널/출발/센트럴시티터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'센트럴시티터미널(호남선)':{'schedule':'/고속버스/시간표/익산고속버스터미널/출발/센트럴시티터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option selected="selected" data-terminal="안산버스터미널" value="{'안산버스터미널':{'link':'/고속버스/터미널/안산버스터미널/','schedule':'/고속버스/시간표/익산고속버스터미널/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
+											<option selected="selected" data-terminal="안산버스터미널" value="{'안산버스터미널':{'schedule':'/고속버스/시간표/익산고속버스터미널/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/고속버스/터미널/인천종합터미널/','schedule':'/고속버스/시간표/익산고속버스터미널/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
+											<option value="{'인천종합터미널':{'schedule':'/고속버스/시간표/익산고속버스터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'정안알밤휴게소(천안방향)고속버스환승정류소':{'link':'/고속버스/터미널/정안휴게소-천안방향-고속버스환승정류소/','schedule':'/고속버스/시간표/익산고속버스터미널/출발/정안휴게소-천안방향-고속버스환승정류소/도착/','arrivals':[]}}">공주시</option>
+											<option value="{'정안알밤휴게소(천안방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/익산고속버스터미널/출발/정안휴게소-천안방향-고속버스환승정류소/도착/'}}">공주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

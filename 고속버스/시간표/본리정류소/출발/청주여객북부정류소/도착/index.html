@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/본리정류소/출발/청주여객북부정류소/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/본리정류소/출발/청주여객북부정류소/도착/",
 				"name": "본리정류소에서 청주대정류소 가는 고속버스 시간표",
 				"description": "2025.08.25. 본리정류소에서 청주대정류소 가는 고속버스는 하루 3 회 운행합니다. 첫차 : 09:31, 막차 : 19:51, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/본리정류소/출발/청주여객북부정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_bonlijeonglyuso",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/본리정류소/#terminal_bonlijeonglyuso",
 						"name": "본리정류소",
 						"address": "충청북도 충주시 대소원면 본리 1136",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_cheongjudaejeonglyuso",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso",
 						"name": "청주대정류소",
 						"address": "충청북도 청주시 청원구 우암동 323-21",
 						"geo": {
@@ -114,10 +115,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_bonlijeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/본리정류소/#terminal_bonlijeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_cheongjudaejeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
 						},
 						"departureTime": "2025-08-26T09:31:00+09:00",
 						"arrivalTime": "2025-08-26T11:03:00+09:00",
@@ -131,10 +132,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_bonlijeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/본리정류소/#terminal_bonlijeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_cheongjudaejeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
 						},
 						"departureTime": "2025-08-26T11:02:00+09:00",
 						"arrivalTime": "2025-08-26T12:34:00+09:00",
@@ -148,10 +149,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_bonlijeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/본리정류소/#terminal_bonlijeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_cheongjudaejeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
 						},
 						"departureTime": "2025-08-26T19:51:00+09:00",
 						"arrivalTime": "2025-08-26T21:23:00+09:00",
@@ -164,8 +165,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -323,11 +324,11 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="충청북도">
-											<option value="{'보천(음성)':{'link':'/시외버스/터미널/보천/','schedule':'/시외버스/시간표/본리정류소/출발/보천/도착/','arrivals':[]},'비산리':{'link':'/시외버스/터미널/비산리/','schedule':'/시외버스/시간표/본리정류소/출발/비산리/도착/','arrivals':[]},'음성공용버스터미널':{'link':'/시외버스/터미널/음성공용버스터미널/','schedule':'/시외버스/시간표/본리정류소/출발/음성공용버스터미널/도착/','arrivals':[]}}">음성군</option>
-											<option value="{'도안삼거리':{'link':'/시외버스/터미널/도안삼거리/','schedule':'/시외버스/시간표/본리정류소/출발/도안삼거리/도착/','arrivals':[]},'증평시외버스터미널':{'link':'/고속버스/터미널/증평시외버스터미널/','schedule':'/고속버스/시간표/본리정류소/출발/증평시외버스터미널/도착/','arrivals':[]}}">증평군</option>
-											<option selected="selected" data-terminal="청주대정류소" value="{'청주대정류소':{'link':'/고속버스/터미널/청주여객북부정류소/','schedule':'/고속버스/시간표/본리정류소/출발/청주여객북부정류소/도착/','arrivals':[]}}">청주시 청원구</option>
-											<option value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/본리정류소/출발/청주시외버스터미널/도착/','arrivals':[]}}">청주시 흥덕구</option>
-											<option value="{'주덕버스터미널':{'link':'/시외버스/터미널/주덕정류소/','schedule':'/시외버스/시간표/본리정류소/출발/주덕정류소/도착/','arrivals':[]}}">충주시</option>
+											<option value="{'보천(음성)':{'schedule':'/시외버스/시간표/본리정류소/출발/보천/도착/'},'비산리':{'schedule':'/시외버스/시간표/본리정류소/출발/비산리/도착/'},'음성공용버스터미널':{'schedule':'/시외버스/시간표/본리정류소/출발/음성공용버스터미널/도착/'}}">음성군</option>
+											<option value="{'도안삼거리':{'schedule':'/시외버스/시간표/본리정류소/출발/도안삼거리/도착/'},'증평시외버스터미널':{'schedule':'/고속버스/시간표/본리정류소/출발/증평시외버스터미널/도착/'}}">증평군</option>
+											<option selected="selected" data-terminal="청주대정류소" value="{'청주대정류소':{'schedule':'/고속버스/시간표/본리정류소/출발/청주여객북부정류소/도착/'}}">청주시 청원구</option>
+											<option value="{'청주시외버스터미널':{'schedule':'/고속버스/시간표/본리정류소/출발/청주시외버스터미널/도착/'}}">청주시 흥덕구</option>
+											<option value="{'주덕버스터미널':{'schedule':'/시외버스/시간표/본리정류소/출발/주덕정류소/도착/'}}">충주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

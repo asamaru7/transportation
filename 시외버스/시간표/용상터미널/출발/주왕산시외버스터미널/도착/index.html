@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/용상터미널/출발/주왕산시외버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/용상터미널/출발/주왕산시외버스터미널/도착/",
 				"name": "용상정류소에서 주왕산버스터미널 가는 시외버스 시간표",
 				"description": "2025.05.24. 용상정류소에서 주왕산버스터미널 가는 시외버스는 하루 3 회 운행합니다. 첫차 : 11:45, 막차 : 18:36, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/용상터미널/출발/주왕산시외버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_yongsangjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/용상터미널/#terminal_yongsangjeonglyuso",
 						"name": "용상정류소",
 						"address": "경상북도 안동시 용상동 1179-233",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_juwangsanbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/주왕산시외버스터미널/#terminal_juwangsanbeoseuteomineol",
 						"name": "주왕산버스터미널",
 						"address": "경상북도 청송군 주왕산면 상의리 295",
 						"geo": {
@@ -114,10 +115,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_yongsangjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/용상터미널/#terminal_yongsangjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_juwangsanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/주왕산시외버스터미널/#terminal_juwangsanbeoseuteomineol"
 						},
 						"departureTime": "2025-05-16T11:45:00+09:00",
 						"arrivalTime": "2025-05-16T13:04:00+09:00",
@@ -131,10 +132,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_yongsangjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/용상터미널/#terminal_yongsangjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_juwangsanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/주왕산시외버스터미널/#terminal_juwangsanbeoseuteomineol"
 						},
 						"departureTime": "2025-05-16T15:03:00+09:00",
 						"arrivalTime": "2025-05-16T16:22:00+09:00",
@@ -148,10 +149,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_yongsangjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/용상터미널/#terminal_yongsangjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_juwangsanbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/주왕산시외버스터미널/#terminal_juwangsanbeoseuteomineol"
 						},
 						"departureTime": "2025-05-16T18:36:00+09:00",
 						"arrivalTime": "2025-05-16T19:55:00+09:00",
@@ -164,8 +165,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -354,11 +355,11 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경상북도">
-											<option value="{'안동대':{'link':'/시외버스/터미널/안동대/','schedule':'/시외버스/시간표/용상터미널/출발/안동대/도착/','arrivals':[]},'임동정류소':{'link':'/시외버스/터미널/임동정류소/','schedule':'/시외버스/시간표/용상터미널/출발/임동정류소/도착/','arrivals':[]}}">안동시</option>
-											<option value="{'영덕터미널':{'link':'/시외버스/터미널/영덕터미널/','schedule':'/시외버스/시간표/용상터미널/출발/영덕터미널/도착/','arrivals':[]}}">영덕군</option>
-											<option value="{'방전':{'link':'/시외버스/터미널/방전/','schedule':'/시외버스/시간표/용상터미널/출발/방전/도착/','arrivals':[]},'영양버스정류장':{'link':'/시외버스/터미널/영양버스정류장/','schedule':'/시외버스/시간표/용상터미널/출발/영양버스정류장/도착/','arrivals':[]},'입암정류장':{'link':'/시외버스/터미널/입암정류소/','schedule':'/시외버스/시간표/용상터미널/출발/입암정류소/도착/','arrivals':[]}}">영양군</option>
-											<option selected="selected" data-terminal="주왕산버스터미널" value="{'도평(청송군)':{'link':'/시외버스/터미널/도평/','schedule':'/시외버스/시간표/용상터미널/출발/도평/도착/','arrivals':[]},'안덕버스터미널':{'link':'/시외버스/터미널/안덕정류소/','schedule':'/시외버스/시간표/용상터미널/출발/안덕정류소/도착/','arrivals':[]},'진보버스터미널':{'link':'/시외버스/터미널/진보시외버스터미널/','schedule':'/시외버스/시간표/용상터미널/출발/진보시외버스터미널/도착/','arrivals':[]}}">청송군</option>
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/용상터미널/출발/포항터미널/도착/','arrivals':[]}}">포항시 남구</option>
+											<option value="{'안동대':{'schedule':'/시외버스/시간표/용상터미널/출발/안동대/도착/'},'임동정류소':{'schedule':'/시외버스/시간표/용상터미널/출발/임동정류소/도착/'}}">안동시</option>
+											<option value="{'영덕터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/영덕터미널/도착/'}}">영덕군</option>
+											<option value="{'방전':{'schedule':'/시외버스/시간표/용상터미널/출발/방전/도착/'},'영양버스정류장':{'schedule':'/시외버스/시간표/용상터미널/출발/영양버스정류장/도착/'},'입암정류장':{'schedule':'/시외버스/시간표/용상터미널/출발/입암정류소/도착/'}}">영양군</option>
+											<option selected="selected" data-terminal="주왕산버스터미널" value="{'도평(청송군)':{'schedule':'/시외버스/시간표/용상터미널/출발/도평/도착/'},'안덕버스터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/안덕정류소/도착/'},'진보버스터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/진보시외버스터미널/도착/'}}">청송군</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/포항터미널/도착/'}}">포항시 남구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

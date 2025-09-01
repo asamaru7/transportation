@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/혁신도시공용터미널/출발/생극터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/혁신도시공용터미널/출발/생극터미널/도착/",
 				"name": "충북혁신도시공용터미널에서 생극터미널 가는 시외버스 시간표",
 				"description": "2022.12.19. 충북혁신도시공용터미널에서 생극터미널 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 10:00, 막차 : 10:00, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/혁신도시공용터미널/출발/생극터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_chungbughyeogsindosikongyongteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/혁신도시공용터미널/#terminal_chungbughyeogsindosikongyongteomineol",
 						"name": "충북혁신도시공용터미널",
 						"address": "충청북도 음성군 맹동면 두성리 1504",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_saengkeugteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/생극터미널/#terminal_saengkeugteomineol",
 						"name": "생극터미널",
 						"address": "충청북도 음성군 생극면 신양리 490-8",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_chungbughyeogsindosikongyongteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/혁신도시공용터미널/#terminal_chungbughyeogsindosikongyongteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_saengkeugteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/생극터미널/#terminal_saengkeugteomineol"
 						},
 						"departureTime": "2022-12-19T10:00:00+09:00",
 						"arrivalTime": "2022-12-19T10:33:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -301,30 +302,30 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'김포공항정류소':{'link':'/시외버스/터미널/김포공항정류소/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/김포공항정류소/도착/','arrivals':[]}}">강서구</option>
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'김포공항정류소':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/김포공항정류소/도착/'}}">강서구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'죽전버스정류장(서울방향)':{'link':'/고속버스/터미널/죽전버스정류장-서울방향/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/죽전버스정류장-서울방향/도착/','arrivals':[]}}">용인시 수지구</option>
+											<option value="{'수원버스터미널':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'죽전버스정류장(서울방향)':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/죽전버스정류장-서울방향/도착/'}}">용인시 수지구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/시외버스/터미널/인천공항2터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'유성시외버스정류소':{'link':'/시외버스/터미널/유성시외버스정류소/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/유성시외버스정류소/도착/','arrivals':[]}}">유성구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/대전복합터미널/도착/'}}">동구</option>
+											<option value="{'유성시외버스정류소':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/유성시외버스정류소/도착/'}}">유성구</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option selected="selected" data-terminal="생극터미널" value="{'대소버스정류장':{'link':'/시외버스/터미널/대소버스공동정류장/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/대소버스공동정류장/도착/','arrivals':[]}}">음성군</option>
-											<option value="{'덕산진천정류소':{'link':'/시외버스/터미널/덕산진천정류소/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/덕산진천정류소/도착/','arrivals':[]},'사석':{'link':'/시외버스/터미널/사석/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/사석/도착/','arrivals':[]},'진천종합터미널':{'link':'/시외버스/터미널/진천종합버스터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/진천종합버스터미널/도착/','arrivals':[]}}">진천군</option>
-											<option value="{'청주공항정류소':{'link':'/시외버스/터미널/청주공항정류소/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/청주공항정류소/도착/','arrivals':[]},'청주북부터미널(오창)':{'link':'/시외버스/터미널/오창시외버스정류소/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/오창시외버스정류소/도착/','arrivals':[]}}">청주시 청원구</option>
-											<option value="{'오송역':{'link':'/시외버스/터미널/오송역/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/오송역/도착/','arrivals':[]}}">청주시 흥덕구</option>
+											<option selected="selected" data-terminal="생극터미널" value="{'대소버스정류장':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/대소버스공동정류장/도착/'}}">음성군</option>
+											<option value="{'덕산진천정류소':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/덕산진천정류소/도착/'},'사석':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/사석/도착/'},'진천종합터미널':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/진천종합버스터미널/도착/'}}">진천군</option>
+											<option value="{'청주공항정류소':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/청주공항정류소/도착/'},'청주북부터미널(오창)':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/오창시외버스정류소/도착/'}}">청주시 청원구</option>
+											<option value="{'오송역':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/오송역/도착/'}}">청주시 흥덕구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'덕성리':{'link':'/시외버스/터미널/덕성리/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/덕성리/도착/','arrivals':[]},'병천정류소':{'link':'/시외버스/터미널/병천버스정류장/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/병천버스정류장/도착/','arrivals':[]},'천안시외버스터미널':{'link':'/시외버스/터미널/천안종합버스터미널/','schedule':'/시외버스/시간표/혁신도시공용터미널/출발/천안종합버스터미널/도착/','arrivals':[]}}">천안시 동남구</option>
+											<option value="{'덕성리':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/덕성리/도착/'},'병천정류소':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/병천버스정류장/도착/'},'천안시외버스터미널':{'schedule':'/시외버스/시간표/혁신도시공용터미널/출발/천안종합버스터미널/도착/'}}">천안시 동남구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

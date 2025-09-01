@@ -51,6 +51,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/터미널/부곡버스터미널/",
 				"url": "https://transportation.asamaru.net/시외버스/터미널/부곡버스터미널/",
 				"name": "부곡버스터미널 운행노선 (시외버스)",
 				"description": "2025.08.24. 부곡버스터미널(시외버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -80,24 +81,22 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/터미널/부곡버스터미널/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_bukogbeoseuteomineol",
-						"name": "부곡버스터미널",
-						"address": "경상남도 창녕군 부곡면 거문리 231-14",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 35.4375229,
-							"longitude": 128.5905392
-						},
-						"telephone": "055-536-5007"
-					}
-				]
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/시외버스/터미널/부곡버스터미널/#terminal_bukogbeoseuteomineol",
+					"name": "부곡버스터미널",
+					"address": "경상남도 창녕군 부곡면 거문리 231-14",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 35.4375229,
+						"longitude": 128.5905392
+					},
+					"telephone": "055-536-5007"
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -154,17 +153,17 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/부곡버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'대구서부정류장':{'link':'/시외버스/터미널/서부정류장/','schedule':'/시외버스/시간표/부곡버스터미널/출발/서부정류장/도착/','arrivals':[]}}">남구</option>
+											<option value="{'대구서부정류장':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/서부정류장/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/부곡버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'장유':{'link':'/시외버스/터미널/장유/','schedule':'/시외버스/시간표/부곡버스터미널/출발/장유/도착/','arrivals':[]}}">김해시</option>
-											<option value="{'영산정류소':{'link':'/시외버스/터미널/영산정류소/','schedule':'/시외버스/시간표/부곡버스터미널/출발/영산정류소/도착/','arrivals':[]},'창녕시외버스터미널':{'link':'/시외버스/터미널/창녕시외버스터미널/','schedule':'/시외버스/시간표/부곡버스터미널/출발/창녕시외버스터미널/도착/','arrivals':[]}}">창녕군</option>
+											<option value="{'장유':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/장유/도착/'}}">김해시</option>
+											<option value="{'영산정류소':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/영산정류소/도착/'},'창녕시외버스터미널':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/창녕시외버스터미널/도착/'}}">창녕군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -237,17 +236,17 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/부곡버스터미널/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'대구서부정류장':{'link':'/시외버스/터미널/서부정류장/','schedule':'/시외버스/시간표/부곡버스터미널/출발/서부정류장/도착/','arrivals':[]}}">남구</option>
+											<option value="{'대구서부정류장':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/서부정류장/도착/'}}">남구</option>
 										</optgroup>
 										<optgroup label="부산광역시">
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/부곡버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'장유':{'link':'/시외버스/터미널/장유/','schedule':'/시외버스/시간표/부곡버스터미널/출발/장유/도착/','arrivals':[]}}">김해시</option>
-											<option value="{'영산정류소':{'link':'/시외버스/터미널/영산정류소/','schedule':'/시외버스/시간표/부곡버스터미널/출발/영산정류소/도착/','arrivals':[]},'창녕시외버스터미널':{'link':'/시외버스/터미널/창녕시외버스터미널/','schedule':'/시외버스/시간표/부곡버스터미널/출발/창녕시외버스터미널/도착/','arrivals':[]}}">창녕군</option>
+											<option value="{'장유':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/장유/도착/'}}">김해시</option>
+											<option value="{'영산정류소':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/영산정류소/도착/'},'창녕시외버스터미널':{'schedule':'/시외버스/시간표/부곡버스터미널/출발/창녕시외버스터미널/도착/'}}">창녕군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

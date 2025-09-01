@@ -58,6 +58,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/과역공용버스터미널/출발/중마버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/과역공용버스터미널/출발/중마버스터미널/도착/",
 				"name": "과역버스터미널에서 동광양중마버스터미널 가는 고속버스 시간표",
 				"description": "2025.08.27. 과역버스터미널에서 동광양중마버스터미널 가는 고속버스는 하루 2 회 운행합니다. 첫차 : 10:46, 막차 : 11:35, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -87,10 +88,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/과역공용버스터미널/출발/중마버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_kwayeogbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/과역공용버스터미널/#terminal_kwayeogbeoseuteomineol",
 						"name": "과역버스터미널",
 						"address": "전라남도 고흥군 과역면 과역리 70-4",
 						"geo": {
@@ -102,7 +103,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_dongkwangyangjungmabeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/중마버스터미널/#terminal_dongkwangyangjungmabeoseuteomineol",
 						"name": "동광양중마버스터미널",
 						"address": "전라남도 광양시 중동 1732-2",
 						"geo": {
@@ -116,10 +117,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_kwayeogbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/과역공용버스터미널/#terminal_kwayeogbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_dongkwangyangjungmabeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/중마버스터미널/#terminal_dongkwangyangjungmabeoseuteomineol"
 						},
 						"departureTime": "2025-08-28T10:46:00+09:00",
 						"arrivalTime": "2025-08-28T12:25:00+09:00",
@@ -133,10 +134,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_kwayeogbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/과역공용버스터미널/#terminal_kwayeogbeoseuteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_dongkwangyangjungmabeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/중마버스터미널/#terminal_dongkwangyangjungmabeoseuteomineol"
 						},
 						"departureTime": "2025-08-28T11:35:00+09:00",
 						"arrivalTime": "2025-08-28T13:14:00+09:00",
@@ -149,8 +150,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -298,19 +299,19 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="부산광역시">
-											<option value="{'부산서부사상버스터미널':{'link':'/고속버스/터미널/부산서부버스터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'소태터미널':{'link':'/시외버스/터미널/소태터미널/','schedule':'/시외버스/시간표/과역공용버스터미널/출발/소태터미널/도착/','arrivals':[]},'학동시외버스정류장':{'link':'/시외버스/터미널/학동시외버스정류소/','schedule':'/시외버스/시간표/과역공용버스터미널/출발/학동시외버스정류소/도착/','arrivals':[]}}">동구</option>
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/고속버스/터미널/광주종합버스터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'소태터미널':{'schedule':'/시외버스/시간표/과역공용버스터미널/출발/소태터미널/도착/'},'학동시외버스정류장':{'schedule':'/시외버스/시간표/과역공용버스터미널/출발/학동시외버스정류소/도착/'}}">동구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'거금도휴게소정류장':{'link':'/시외버스/터미널/거금도휴게소/','schedule':'/시외버스/시간표/과역공용버스터미널/출발/거금도휴게소/도착/','arrivals':[]},'고흥공용버스정류장':{'link':'/고속버스/터미널/고흥공용버스터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/고흥공용버스터미널/도착/','arrivals':[]},'녹동공영버스터미널':{'link':'/고속버스/터미널/녹동버스공용터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/녹동버스공용터미널/도착/','arrivals':[]}}">고흥군</option>
-											<option selected="selected" data-terminal="동광양중마버스터미널" value="{'광양터미널':{'link':'/고속버스/터미널/광양시외버스터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/광양시외버스터미널/도착/','arrivals':[]},'동광양중마버스터미널':{'link':'/고속버스/터미널/중마버스터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/중마버스터미널/도착/','arrivals':[]},'섬진강휴게소(순천방향)고속버스환승정류소':{'link':'/고속버스/터미널/섬진강휴게소정류소-전남방면-고속/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/섬진강휴게소정류소-전남방면-고속/도착/','arrivals':[]}}">광양시</option>
-											<option value="{'벌교공용버스터미널':{'link':'/고속버스/터미널/벌교버스공용터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/벌교버스공용터미널/도착/','arrivals':[]}}">보성군</option>
-											<option value="{'곡천정류소':{'link':'/시외버스/터미널/곡천터미널/','schedule':'/시외버스/시간표/과역공용버스터미널/출발/곡천터미널/도착/','arrivals':[]},'순천종합버스터미널':{'link':'/고속버스/터미널/순천종합버스터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/순천종합버스터미널/도착/','arrivals':[]}}">순천시</option>
-											<option value="{'여수종합버스터미널':{'link':'/고속버스/터미널/여수종합버스터미널/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/여수종합버스터미널/도착/','arrivals':[]},'여천시외버스정류장':{'link':'/시외버스/터미널/여천시외버스정류장/','schedule':'/시외버스/시간표/과역공용버스터미널/출발/여천시외버스정류장/도착/','arrivals':[]}}">여수시</option>
-											<option value="{'화순시외버스공용정류장':{'link':'/고속버스/터미널/화순시외버스공용정류장/','schedule':'/고속버스/시간표/과역공용버스터미널/출발/화순시외버스공용정류장/도착/','arrivals':[]}}">화순군</option>
+											<option value="{'거금도휴게소정류장':{'schedule':'/시외버스/시간표/과역공용버스터미널/출발/거금도휴게소/도착/'},'고흥공용버스정류장':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/고흥공용버스터미널/도착/'},'녹동공영버스터미널':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/녹동버스공용터미널/도착/'}}">고흥군</option>
+											<option selected="selected" data-terminal="동광양중마버스터미널" value="{'광양터미널':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/광양시외버스터미널/도착/'},'동광양중마버스터미널':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/중마버스터미널/도착/'},'섬진강휴게소(순천방향)고속버스환승정류소':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/섬진강휴게소정류소-전남방면-고속/도착/'}}">광양시</option>
+											<option value="{'벌교공용버스터미널':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/벌교버스공용터미널/도착/'}}">보성군</option>
+											<option value="{'곡천정류소':{'schedule':'/시외버스/시간표/과역공용버스터미널/출발/곡천터미널/도착/'},'순천종합버스터미널':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/순천종합버스터미널/도착/'}}">순천시</option>
+											<option value="{'여수종합버스터미널':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/여수종합버스터미널/도착/'},'여천시외버스정류장':{'schedule':'/시외버스/시간표/과역공용버스터미널/출발/여천시외버스정류장/도착/'}}">여수시</option>
+											<option value="{'화순시외버스공용정류장':{'schedule':'/고속버스/시간표/과역공용버스터미널/출발/화순시외버스공용정류장/도착/'}}">화순군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

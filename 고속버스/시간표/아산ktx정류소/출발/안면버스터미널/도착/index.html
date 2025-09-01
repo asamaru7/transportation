@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/아산ktx정류소/출발/안면버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/아산ktx정류소/출발/안면버스터미널/도착/",
 				"name": "천안아산역KTX정류소에서 안면도버스정류소 가는 고속버스 시간표",
 				"description": "2025.09.01. 천안아산역KTX정류소에서 안면도버스정류소 가는 고속버스는 하루 3 회 운행합니다. 첫차 : 09:20, 막차 : 19:20, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/아산ktx정류소/출발/안면버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_cheonanasanyeogktxjeonglyuso",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/아산ktx정류소/#terminal_cheonanasanyeogktxjeonglyuso",
 						"name": "천안아산역KTX정류소",
 						"address": "충청남도 아산시 배방읍 장재리 1765",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_anmyeondobeoseujeonglyuso",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/안면버스터미널/#terminal_anmyeondobeoseujeonglyuso",
 						"name": "안면도버스정류소",
 						"address": "충청남도 태안군 안면읍 승언리 1243-3",
 						"geo": {
@@ -114,10 +115,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_cheonanasanyeogktxjeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/아산ktx정류소/#terminal_cheonanasanyeogktxjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_anmyeondobeoseujeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안면버스터미널/#terminal_anmyeondobeoseujeonglyuso"
 						},
 						"departureTime": "2025-09-02T09:20:00+09:00",
 						"arrivalTime": "2025-09-02T12:08:00+09:00",
@@ -131,10 +132,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_cheonanasanyeogktxjeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/아산ktx정류소/#terminal_cheonanasanyeogktxjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_anmyeondobeoseujeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안면버스터미널/#terminal_anmyeondobeoseujeonglyuso"
 						},
 						"departureTime": "2025-09-02T14:20:00+09:00",
 						"arrivalTime": "2025-09-02T17:08:00+09:00",
@@ -148,10 +149,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-3",
 						"departureBusStop": {
-							"@id": "#terminal_cheonanasanyeogktxjeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/아산ktx정류소/#terminal_cheonanasanyeogktxjeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_anmyeondobeoseujeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/안면버스터미널/#terminal_anmyeondobeoseujeonglyuso"
 						},
 						"departureTime": "2025-09-02T19:20:00+09:00",
 						"arrivalTime": "2025-09-02T22:08:00+09:00",
@@ -164,8 +165,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -342,28 +343,28 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'서울고속버스터미널(경부 영동선)':{'link':'/고속버스/터미널/서울고속버스터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/서울고속버스터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'서울고속버스터미널(경부 영동선)':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/서울고속버스터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'신갈영덕버스정류장(부산방향)':{'link':'/고속버스/터미널/신갈버스정류장-부산방향/','schedule':'/고속버스/시간표/아산ktx정류소/출발/신갈버스정류장-부산방향/도착/','arrivals':[]}}">용인시 기흥구</option>
-											<option value="{'죽전버스정류장(부산방향)':{'link':'/고속버스/터미널/죽전버스정류장-부산방향/','schedule':'/고속버스/시간표/아산ktx정류소/출발/죽전버스정류장-부산방향/도착/','arrivals':[]}}">용인시 수지구</option>
+											<option value="{'신갈영덕버스정류장(부산방향)':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/신갈버스정류장-부산방향/도착/'}}">용인시 기흥구</option>
+											<option value="{'죽전버스정류장(부산방향)':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/죽전버스정류장-부산방향/도착/'}}">용인시 수지구</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/고속버스/터미널/인천종합터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
-											<option value="{'인천공항T1정류장':{'link':'/시외버스/터미널/인천공항터미널/','schedule':'/시외버스/시간표/아산ktx정류소/출발/인천공항터미널/도착/','arrivals':[]},'인천공항T2정류장':{'link':'/고속버스/터미널/인천공항2터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/인천공항2터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'인천종합터미널':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/인천종합터미널/도착/'}}">미추홀구</option>
+											<option value="{'인천공항T1정류장':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/인천공항터미널/도착/'},'인천공항T2정류장':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/인천공항2터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'구룡(서산)':{'link':'/시외버스/터미널/구룡-서산/','schedule':'/시외버스/시간표/아산ktx정류소/출발/구룡-서산/도착/','arrivals':[]},'기지시버스정류장':{'link':'/고속버스/터미널/기지시정류소/','schedule':'/고속버스/시간표/아산ktx정류소/출발/기지시정류소/도착/','arrivals':[]},'당진버스터미널':{'link':'/고속버스/터미널/당진버스터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/당진버스터미널/도착/','arrivals':[]},'신평고속버스정류장':{'link':'/시외버스/터미널/신평버스터미널/','schedule':'/시외버스/시간표/아산ktx정류소/출발/신평버스터미널/도착/','arrivals':[]},'합덕버스터미널':{'link':'/시외버스/터미널/합덕버스터미널/','schedule':'/시외버스/시간표/아산ktx정류소/출발/합덕버스터미널/도착/','arrivals':[]}}">당진시</option>
-											<option value="{'보령종합터미널':{'link':'/고속버스/터미널/보령종합터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/보령종합터미널/도착/','arrivals':[]},'웅천정류소(보령)':{'link':'/시외버스/터미널/웅천정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/웅천정류소/도착/','arrivals':[]},'주교정류소':{'link':'/시외버스/터미널/주교정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/주교정류소/도착/','arrivals':[]},'주산정류소':{'link':'/시외버스/터미널/주산정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/주산정류소/도착/','arrivals':[]},'주포정류소':{'link':'/시외버스/터미널/주포정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/주포정류소/도착/','arrivals':[]},'청소정류소':{'link':'/시외버스/터미널/청소정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/청소정류소/도착/','arrivals':[]}}">보령시</option>
-											<option value="{'서산공용버스터미널':{'link':'/고속버스/터미널/서산공용버스터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/서산공용버스터미널/도착/','arrivals':[]},'어송정류소':{'link':'/시외버스/터미널/어송정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/어송정류소/도착/','arrivals':[]},'운산정류소':{'link':'/시외버스/터미널/운산정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/운산정류소/도착/','arrivals':[]},'음암정류소':{'link':'/시외버스/터미널/음암정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/음암정류소/도착/','arrivals':[]}}">서산시</option>
-											<option value="{'비인정류소':{'link':'/시외버스/터미널/비인정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/비인정류소/도착/','arrivals':[]},'서천버스정류장':{'link':'/시외버스/터미널/서천시외버스터미널/','schedule':'/시외버스/시간표/아산ktx정류소/출발/서천시외버스터미널/도착/','arrivals':[]}}">서천군</option>
-											<option value="{'신창정류소':{'link':'/시외버스/터미널/신창정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/신창정류소/도착/','arrivals':[]},'아산서부봉강교정류소':{'link':'/고속버스/터미널/봉강교정류소/','schedule':'/고속버스/시간표/아산ktx정류소/출발/봉강교정류소/도착/','arrivals':[]},'아산시외버스터미널':{'link':'/시외버스/터미널/아산시외버스터미널/','schedule':'/시외버스/시간표/아산ktx정류소/출발/아산시외버스터미널/도착/','arrivals':[]}}">아산시</option>
-											<option value="{'내포신도시고속시외버스정류소':{'link':'/고속버스/터미널/내포신도시고속시외버스정류소/','schedule':'/고속버스/시간표/아산ktx정류소/출발/내포신도시고속시외버스정류소/도착/','arrivals':[]},'신례원정류소':{'link':'/시외버스/터미널/신례원정류소/','schedule':'/시외버스/시간표/아산ktx정류소/출발/신례원정류소/도착/','arrivals':[]},'예산종합터미널':{'link':'/고속버스/터미널/예산종합터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/예산종합터미널/도착/','arrivals':[]}}">예산군</option>
-											<option selected="selected" data-terminal="안면도버스정류소" value="{'안면도버스정류소':{'link':'/고속버스/터미널/안면버스터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/안면버스터미널/도착/','arrivals':[]},'창기리정류소':{'link':'/고속버스/터미널/창기리정류소/','schedule':'/고속버스/시간표/아산ktx정류소/출발/창기리정류소/도착/','arrivals':[]},'태안공영버스터미널':{'link':'/고속버스/터미널/태안공용버스터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/태안공용버스터미널/도착/','arrivals':[]}}">태안군</option>
-											<option value="{'홍성종합터미널':{'link':'/고속버스/터미널/홍성종합터미널/','schedule':'/고속버스/시간표/아산ktx정류소/출발/홍성종합터미널/도착/','arrivals':[]}}">홍성군</option>
+											<option value="{'구룡(서산)':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/구룡-서산/도착/'},'기지시버스정류장':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/기지시정류소/도착/'},'당진버스터미널':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/당진버스터미널/도착/'},'신평고속버스정류장':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/신평버스터미널/도착/'},'합덕버스터미널':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/합덕버스터미널/도착/'}}">당진시</option>
+											<option value="{'보령종합터미널':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/보령종합터미널/도착/'},'웅천정류소(보령)':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/웅천정류소/도착/'},'주교정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/주교정류소/도착/'},'주산정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/주산정류소/도착/'},'주포정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/주포정류소/도착/'},'청소정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/청소정류소/도착/'}}">보령시</option>
+											<option value="{'서산공용버스터미널':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/서산공용버스터미널/도착/'},'어송정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/어송정류소/도착/'},'운산정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/운산정류소/도착/'},'음암정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/음암정류소/도착/'}}">서산시</option>
+											<option value="{'비인정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/비인정류소/도착/'},'서천버스정류장':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/서천시외버스터미널/도착/'}}">서천군</option>
+											<option value="{'신창정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/신창정류소/도착/'},'아산서부봉강교정류소':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/봉강교정류소/도착/'},'아산시외버스터미널':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/아산시외버스터미널/도착/'}}">아산시</option>
+											<option value="{'내포신도시고속시외버스정류소':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/내포신도시고속시외버스정류소/도착/'},'신례원정류소':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/신례원정류소/도착/'},'예산종합터미널':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/예산종합터미널/도착/'}}">예산군</option>
+											<option selected="selected" data-terminal="안면도버스정류소" value="{'안면도버스정류소':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/안면버스터미널/도착/'},'창기리정류소':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/창기리정류소/도착/'},'태안공영버스터미널':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/태안공용버스터미널/도착/'}}">태안군</option>
+											<option value="{'홍성종합터미널':{'schedule':'/고속버스/시간표/아산ktx정류소/출발/홍성종합터미널/도착/'}}">홍성군</option>
 										</optgroup>
 										<optgroup label="전북특별자치도">
-											<option value="{'군산시외버스터미널':{'link':'/시외버스/터미널/군산시외버스터미널/','schedule':'/시외버스/시간표/아산ktx정류소/출발/군산시외버스터미널/도착/','arrivals':[]}}">군산시</option>
+											<option value="{'군산시외버스터미널':{'schedule':'/시외버스/시간표/아산ktx정류소/출발/군산시외버스터미널/도착/'}}">군산시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

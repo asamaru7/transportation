@@ -51,6 +51,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/터미널/대구공항정류소/",
 				"url": "https://transportation.asamaru.net/시외버스/터미널/대구공항정류소/",
 				"name": "대구공항정류소 운행노선 (시외버스)",
 				"description": "2025.08.28. 대구공항정류소(시외버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -80,23 +81,21 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/터미널/대구공항정류소/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_daekukonghangjeonglyuso",
-						"name": "대구공항정류소",
-						"address": "대구광역시 동구 지저동 400-5",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 35.9000159,
-							"longitude": 128.6370023
-						}
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/시외버스/터미널/대구공항정류소/#terminal_daekukonghangjeonglyuso",
+					"name": "대구공항정류소",
+					"address": "대구광역시 동구 지저동 400-5",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 35.9000159,
+						"longitude": 128.6370023
 					}
-				]
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -153,13 +152,13 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경상북도">
-											<option value="{'구미공단정류소':{'link':'/시외버스/터미널/공단정류소/','schedule':'/시외버스/시간표/대구공항정류소/출발/공단정류소/도착/','arrivals':[]},'구미복지정류소':{'link':'/시외버스/터미널/주공터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/주공터미널/도착/','arrivals':[]},'구미종합터미널':{'link':'/시외버스/터미널/구미종합버스터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/구미종합버스터미널/도착/','arrivals':[]}}">구미시</option>
-											<option value="{'김천부곡한남정류소':{'link':'/시외버스/터미널/김천부곡한남터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/김천부곡한남터미널/도착/','arrivals':[]}}">김천시</option>
-											<option value="{'점촌터미널':{'link':'/시외버스/터미널/점촌시외고속버스터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/점촌시외고속버스터미널/도착/','arrivals':[]}}">문경시</option>
-											<option value="{'경북대상주캠퍼스정류소':{'link':'/시외버스/터미널/경북대상주캠퍼스정류소-승차/','schedule':'/시외버스/시간표/대구공항정류소/출발/경북대상주캠퍼스정류소-승차/도착/','arrivals':[]},'상주터미널':{'link':'/시외버스/터미널/상주종합버스터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/상주종합버스터미널/도착/','arrivals':[]},'양정정류소(상주시)':{'link':'/시외버스/터미널/양정정류소/','schedule':'/시외버스/시간표/대구공항정류소/출발/양정정류소/도착/','arrivals':[]},'함창버스정류장':{'link':'/시외버스/터미널/함창버스정류장/','schedule':'/시외버스/시간표/대구공항정류소/출발/함창버스정류장/도착/','arrivals':[]}}">상주시</option>
+											<option value="{'구미공단정류소':{'schedule':'/시외버스/시간표/대구공항정류소/출발/공단정류소/도착/'},'구미복지정류소':{'schedule':'/시외버스/시간표/대구공항정류소/출발/주공터미널/도착/'},'구미종합터미널':{'schedule':'/시외버스/시간표/대구공항정류소/출발/구미종합버스터미널/도착/'}}">구미시</option>
+											<option value="{'김천부곡한남정류소':{'schedule':'/시외버스/시간표/대구공항정류소/출발/김천부곡한남터미널/도착/'}}">김천시</option>
+											<option value="{'점촌터미널':{'schedule':'/시외버스/시간표/대구공항정류소/출발/점촌시외고속버스터미널/도착/'}}">문경시</option>
+											<option value="{'경북대상주캠퍼스정류소':{'schedule':'/시외버스/시간표/대구공항정류소/출발/경북대상주캠퍼스정류소-승차/도착/'},'상주터미널':{'schedule':'/시외버스/시간표/대구공항정류소/출발/상주종합버스터미널/도착/'},'양정정류소(상주시)':{'schedule':'/시외버스/시간표/대구공항정류소/출발/양정정류소/도착/'},'함창버스정류장':{'schedule':'/시외버스/시간표/대구공항정류소/출발/함창버스정류장/도착/'}}">상주시</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'거창버스터미널':{'link':'/시외버스/터미널/거창시외버스터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/거창시외버스터미널/도착/','arrivals':[]}}">거창군</option>
+											<option value="{'거창버스터미널':{'schedule':'/시외버스/시간표/대구공항정류소/출발/거창시외버스터미널/도착/'}}">거창군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -231,13 +230,13 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="경상북도">
-											<option value="{'구미공단정류소':{'link':'/시외버스/터미널/공단정류소/','schedule':'/시외버스/시간표/대구공항정류소/출발/공단정류소/도착/','arrivals':[]},'구미복지정류소':{'link':'/시외버스/터미널/주공터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/주공터미널/도착/','arrivals':[]},'구미종합터미널':{'link':'/시외버스/터미널/구미종합버스터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/구미종합버스터미널/도착/','arrivals':[]}}">구미시</option>
-											<option value="{'김천부곡한남정류소':{'link':'/시외버스/터미널/김천부곡한남터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/김천부곡한남터미널/도착/','arrivals':[]}}">김천시</option>
-											<option value="{'점촌터미널':{'link':'/시외버스/터미널/점촌시외고속버스터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/점촌시외고속버스터미널/도착/','arrivals':[]}}">문경시</option>
-											<option value="{'경북대상주캠퍼스정류소':{'link':'/시외버스/터미널/경북대상주캠퍼스정류소-승차/','schedule':'/시외버스/시간표/대구공항정류소/출발/경북대상주캠퍼스정류소-승차/도착/','arrivals':[]},'상주터미널':{'link':'/시외버스/터미널/상주종합버스터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/상주종합버스터미널/도착/','arrivals':[]},'양정정류소(상주시)':{'link':'/시외버스/터미널/양정정류소/','schedule':'/시외버스/시간표/대구공항정류소/출발/양정정류소/도착/','arrivals':[]},'함창버스정류장':{'link':'/시외버스/터미널/함창버스정류장/','schedule':'/시외버스/시간표/대구공항정류소/출발/함창버스정류장/도착/','arrivals':[]}}">상주시</option>
+											<option value="{'구미공단정류소':{'schedule':'/시외버스/시간표/대구공항정류소/출발/공단정류소/도착/'},'구미복지정류소':{'schedule':'/시외버스/시간표/대구공항정류소/출발/주공터미널/도착/'},'구미종합터미널':{'schedule':'/시외버스/시간표/대구공항정류소/출발/구미종합버스터미널/도착/'}}">구미시</option>
+											<option value="{'김천부곡한남정류소':{'schedule':'/시외버스/시간표/대구공항정류소/출발/김천부곡한남터미널/도착/'}}">김천시</option>
+											<option value="{'점촌터미널':{'schedule':'/시외버스/시간표/대구공항정류소/출발/점촌시외고속버스터미널/도착/'}}">문경시</option>
+											<option value="{'경북대상주캠퍼스정류소':{'schedule':'/시외버스/시간표/대구공항정류소/출발/경북대상주캠퍼스정류소-승차/도착/'},'상주터미널':{'schedule':'/시외버스/시간표/대구공항정류소/출발/상주종합버스터미널/도착/'},'양정정류소(상주시)':{'schedule':'/시외버스/시간표/대구공항정류소/출발/양정정류소/도착/'},'함창버스정류장':{'schedule':'/시외버스/시간표/대구공항정류소/출발/함창버스정류장/도착/'}}">상주시</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'거창버스터미널':{'link':'/시외버스/터미널/거창시외버스터미널/','schedule':'/시외버스/시간표/대구공항정류소/출발/거창시외버스터미널/도착/','arrivals':[]}}">거창군</option>
+											<option value="{'거창버스터미널':{'schedule':'/시외버스/시간표/대구공항정류소/출발/거창시외버스터미널/도착/'}}">거창군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

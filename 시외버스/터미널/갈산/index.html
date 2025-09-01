@@ -50,6 +50,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/터미널/갈산/",
 				"url": "https://transportation.asamaru.net/시외버스/터미널/갈산/",
 				"name": "갈산(홍성군) 운행노선 (시외버스)",
 				"description": "2025.08.29. 갈산(홍성군)(시외버스) 정보 및 운행 노선, 시간표, 예매 안내, 주차장, 지하철역, 시내버스 정류소 등을 안내합니다. 도착지를 선택하면 해당 구간 시간표와 요금도 확인할 수 있습니다.",
@@ -79,23 +80,21 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/터미널/갈산/"
 				},
-				"@graph": [
-					{
-						"@type": "BusStation",
-						"@id": "#terminal_kalsan_hongseongkun",
-						"name": "갈산(홍성군)",
-						"address": "충청남도 홍성군 갈산면 상촌리 237-3",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 36.6046362,
-							"longitude": 126.5504723
-						}
+				"about": {
+					"@type": "BusStation",
+					"@id": "https://transportation.asamaru.net/시외버스/터미널/갈산/#terminal_kalsan_hongseongkun",
+					"name": "갈산(홍성군)",
+					"address": "충청남도 홍성군 갈산면 상촌리 237-3",
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 36.6046362,
+						"longitude": 126.5504723
 					}
-				]
+				}
 			}
 		</script>
-		<link href="/css/min/e30f3e996eaaa97bafdb6a02fc3a90c4.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/be1dabb40155d73b0772eb29b5f74d7e.js" async type="text/javascript"></script>
+		<link href="/css/min/16baa723d468fe1962330bd64b738208.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/9c8e7f041e5e4c8c711c20e841c5f698.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -152,14 +151,14 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/갈산/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'대전청사시외버스둔산정류소(승차)':{'link':'/시외버스/터미널/대전청사시외버스둔산정류소/','schedule':'/시외버스/시간표/갈산/출발/대전청사시외버스둔산정류소/도착/','arrivals':[]}}">서구</option>
-											<option value="{'유성시외버스정류소':{'link':'/시외버스/터미널/유성시외버스정류소/','schedule':'/시외버스/시간표/갈산/출발/유성시외버스정류소/도착/','arrivals':[]}}">유성구</option>
-											<option value="{'대전서남부터미널':{'link':'/시외버스/터미널/대전서남부터미널/','schedule':'/시외버스/시간표/갈산/출발/대전서남부터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/갈산/출발/대전복합터미널/도착/'}}">동구</option>
+											<option value="{'대전청사시외버스둔산정류소(승차)':{'schedule':'/시외버스/시간표/갈산/출발/대전청사시외버스둔산정류소/도착/'}}">서구</option>
+											<option value="{'유성시외버스정류소':{'schedule':'/시외버스/시간표/갈산/출발/유성시외버스정류소/도착/'}}">유성구</option>
+											<option value="{'대전서남부터미널':{'schedule':'/시외버스/시간표/갈산/출발/대전서남부터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'신창정류소':{'link':'/시외버스/터미널/신창정류소/','schedule':'/시외버스/시간표/갈산/출발/신창정류소/도착/','arrivals':[]},'아산서부봉강교정류소':{'link':'/시외버스/터미널/봉강교정류소/','schedule':'/시외버스/시간표/갈산/출발/봉강교정류소/도착/','arrivals':[]}}">아산시</option>
-											<option value="{'신례원정류소':{'link':'/시외버스/터미널/신례원정류소/','schedule':'/시외버스/시간표/갈산/출발/신례원정류소/도착/','arrivals':[]},'예산종합터미널':{'link':'/시외버스/터미널/예산종합터미널/','schedule':'/시외버스/시간표/갈산/출발/예산종합터미널/도착/','arrivals':[]}}">예산군</option>
+											<option value="{'신창정류소':{'schedule':'/시외버스/시간표/갈산/출발/신창정류소/도착/'},'아산서부봉강교정류소':{'schedule':'/시외버스/시간표/갈산/출발/봉강교정류소/도착/'}}">아산시</option>
+											<option value="{'신례원정류소':{'schedule':'/시외버스/시간표/갈산/출발/신례원정류소/도착/'},'예산종합터미널':{'schedule':'/시외버스/시간표/갈산/출발/예산종합터미널/도착/'}}">예산군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -228,14 +227,14 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="대전광역시">
-											<option value="{'대전복합터미널':{'link':'/시외버스/터미널/대전복합터미널/','schedule':'/시외버스/시간표/갈산/출발/대전복합터미널/도착/','arrivals':[]}}">동구</option>
-											<option value="{'대전청사시외버스둔산정류소(승차)':{'link':'/시외버스/터미널/대전청사시외버스둔산정류소/','schedule':'/시외버스/시간표/갈산/출발/대전청사시외버스둔산정류소/도착/','arrivals':[]}}">서구</option>
-											<option value="{'유성시외버스정류소':{'link':'/시외버스/터미널/유성시외버스정류소/','schedule':'/시외버스/시간표/갈산/출발/유성시외버스정류소/도착/','arrivals':[]}}">유성구</option>
-											<option value="{'대전서남부터미널':{'link':'/시외버스/터미널/대전서남부터미널/','schedule':'/시외버스/시간표/갈산/출발/대전서남부터미널/도착/','arrivals':[]}}">중구</option>
+											<option value="{'대전복합터미널':{'schedule':'/시외버스/시간표/갈산/출발/대전복합터미널/도착/'}}">동구</option>
+											<option value="{'대전청사시외버스둔산정류소(승차)':{'schedule':'/시외버스/시간표/갈산/출발/대전청사시외버스둔산정류소/도착/'}}">서구</option>
+											<option value="{'유성시외버스정류소':{'schedule':'/시외버스/시간표/갈산/출발/유성시외버스정류소/도착/'}}">유성구</option>
+											<option value="{'대전서남부터미널':{'schedule':'/시외버스/시간표/갈산/출발/대전서남부터미널/도착/'}}">중구</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'신창정류소':{'link':'/시외버스/터미널/신창정류소/','schedule':'/시외버스/시간표/갈산/출발/신창정류소/도착/','arrivals':[]},'아산서부봉강교정류소':{'link':'/시외버스/터미널/봉강교정류소/','schedule':'/시외버스/시간표/갈산/출발/봉강교정류소/도착/','arrivals':[]}}">아산시</option>
-											<option value="{'신례원정류소':{'link':'/시외버스/터미널/신례원정류소/','schedule':'/시외버스/시간표/갈산/출발/신례원정류소/도착/','arrivals':[]},'예산종합터미널':{'link':'/시외버스/터미널/예산종합터미널/','schedule':'/시외버스/시간표/갈산/출발/예산종합터미널/도착/','arrivals':[]}}">예산군</option>
+											<option value="{'신창정류소':{'schedule':'/시외버스/시간표/갈산/출발/신창정류소/도착/'},'아산서부봉강교정류소':{'schedule':'/시외버스/시간표/갈산/출발/봉강교정류소/도착/'}}">아산시</option>
+											<option value="{'신례원정류소':{'schedule':'/시외버스/시간표/갈산/출발/신례원정류소/도착/'},'예산종합터미널':{'schedule':'/시외버스/시간표/갈산/출발/예산종합터미널/도착/'}}">예산군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

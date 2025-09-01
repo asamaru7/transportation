@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/영암여객자동차터미널/출발/송호리정류소/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/영암여객자동차터미널/출발/송호리정류소/도착/",
 				"name": "영암여객자동차터미널에서 송호리정류소 가는 시외버스 시간표",
 				"description": "2025.08.31. 영암여객자동차터미널에서 송호리정류소 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 10:20, 막차 : 10:20, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/영암여객자동차터미널/출발/송호리정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_yeongamyeokaegjadongchateomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/영암여객자동차터미널/#terminal_yeongamyeokaegjadongchateomineol",
 						"name": "영암여객자동차터미널",
 						"address": "전라남도 영암군 영암읍 남풍리 4-1",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_songholijeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/송호리정류소/#terminal_songholijeonglyuso",
 						"name": "송호리정류소",
 						"address": "전라남도 해남군 송지면 송호리 914-1",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_yeongamyeokaegjadongchateomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/영암여객자동차터미널/#terminal_yeongamyeokaegjadongchateomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_songholijeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/송호리정류소/#terminal_songholijeonglyuso"
 						},
 						"departureTime": "2025-09-01T10:20:00+09:00",
 						"arrivalTime": "2025-09-01T11:40:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -270,31 +271,31 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'센트럴시티터미널(호남선)':{'link':'/고속버스/터미널/센트럴시티터미널/','schedule':'/고속버스/시간표/영암여객자동차터미널/출발/센트럴시티터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'센트럴시티터미널(호남선)':{'schedule':'/고속버스/시간표/영암여객자동차터미널/출발/센트럴시티터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="울산광역시">
-											<option value="{'남창(울주군)':{'link':'/시외버스/터미널/남창/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/남창/도착/','arrivals':[]}}">울주군</option>
+											<option value="{'남창(울주군)':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/남창/도착/'}}">울주군</option>
 										</optgroup>
 										<optgroup label="광주광역시">
-											<option value="{'송정역시외버스정류장(광주 광산구)':{'link':'/시외버스/터미널/광주송정역시외버스정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/광주송정역시외버스정류소/도착/','arrivals':[]}}">광산구</option>
-											<option value="{'진월동시외버스정류장':{'link':'/시외버스/터미널/광주남부시외버스정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/광주남부시외버스정류소/도착/','arrivals':[]}}">남구</option>
-											<option value="{'광주종합버스터미널(유.스퀘어)':{'link':'/시외버스/터미널/광주종합버스터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/광주종합버스터미널/도착/','arrivals':[]}}">서구</option>
+											<option value="{'송정역시외버스정류장(광주 광산구)':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/광주송정역시외버스정류소/도착/'}}">광산구</option>
+											<option value="{'진월동시외버스정류장':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/광주남부시외버스정류소/도착/'}}">남구</option>
+											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'서창(양산시)':{'link':'/시외버스/터미널/서창/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/서창/도착/','arrivals':[]}}">양산시</option>
+											<option value="{'서창(양산시)':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/서창/도착/'}}">양산시</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'강진버스여객터미널':{'link':'/시외버스/터미널/강진버스여객터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/강진버스여객터미널/도착/','arrivals':[]},'병영정류소':{'link':'/시외버스/터미널/병영정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/병영정류소/도착/','arrivals':[]},'성전터미널':{'link':'/시외버스/터미널/성전터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/성전터미널/도착/','arrivals':[]},'옴천':{'link':'/시외버스/터미널/옴천/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/옴천/도착/','arrivals':[]},'월남정류소':{'link':'/시외버스/터미널/월남강진터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/월남강진터미널/도착/','arrivals':[]}}">강진군</option>
-											<option value="{'나주버스터미널':{'link':'/시외버스/터미널/나주시외버스터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/나주시외버스터미널/도착/','arrivals':[]},'빛가람시외버스정류장':{'link':'/시외버스/터미널/혁신도시임시정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/혁신도시임시정류소/도착/','arrivals':[]},'영산포공용터미널':{'link':'/시외버스/터미널/영산포공용버스터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/영산포공용버스터미널/도착/','arrivals':[]}}">나주시</option>
-											<option value="{'월산(담양)':{'link':'/시외버스/터미널/월산/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/월산/도착/','arrivals':[]}}">담양군</option>
-											<option value="{'목포종합버스터미널':{'link':'/시외버스/터미널/목포종합버스터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/목포종합버스터미널/도착/','arrivals':[]}}">목포시</option>
-											<option value="{'성산리':{'link':'/시외버스/터미널/성산리/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/성산리/도착/','arrivals':[]}}">무안군</option>
-											<option value="{'하소':{'link':'/시외버스/터미널/하소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/하소/도착/','arrivals':[]}}">영광군</option>
-											<option value="{'계천':{'link':'/시외버스/터미널/계천/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/계천/도착/','arrivals':[]},'군서':{'link':'/시외버스/터미널/군서/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/군서/도착/','arrivals':[]},'독천터미널':{'link':'/시외버스/터미널/독천터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/독천터미널/도착/','arrivals':[]},'망산':{'link':'/시외버스/터미널/망산/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/망산/도착/','arrivals':[]},'매자리':{'link':'/시외버스/터미널/매자리/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/매자리/도착/','arrivals':[]},'삼호정류소':{'link':'/시외버스/터미널/삼호버스종합터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/삼호버스종합터미널/도착/','arrivals':[]},'세흥':{'link':'/시외버스/터미널/세흥/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/세흥/도착/','arrivals':[]},'송정(영암)':{'link':'/시외버스/터미널/송정-영암/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/송정-영암/도착/','arrivals':[]},'신북터미널':{'link':'/시외버스/터미널/신북시외버스터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/신북시외버스터미널/도착/','arrivals':[]},'아천':{'link':'/시외버스/터미널/아천/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/아천/도착/','arrivals':[]},'중촌(영암군)':{'link':'/시외버스/터미널/중촌-영암군/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/중촌-영암군/도착/','arrivals':[]},'하구언':{'link':'/시외버스/터미널/하구언/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/하구언/도착/','arrivals':[]}}">영암군</option>
-											<option value="{'완도공용버스터미널':{'link':'/시외버스/터미널/완도공용버스터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/완도공용버스터미널/도착/','arrivals':[]},'원동버스터미널':{'link':'/시외버스/터미널/원동정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/원동정류소/도착/','arrivals':[]}}">완도군</option>
-											<option value="{'장흥시외버스터미널':{'link':'/시외버스/터미널/장흥시외버스터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/장흥시외버스터미널/도착/','arrivals':[]}}">장흥군</option>
-											<option value="{'녹진':{'link':'/시외버스/터미널/녹진/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/녹진/도착/','arrivals':[]},'진도공용터미널':{'link':'/시외버스/터미널/진도공용터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/진도공용터미널/도착/','arrivals':[]}}">진도군</option>
-											<option selected="selected" data-terminal="송호리정류소" value="{'남리정류소':{'link':'/시외버스/터미널/남리정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/남리정류소/도착/','arrivals':[]},'땅끝정류소':{'link':'/시외버스/터미널/땅끝정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/땅끝정류소/도착/','arrivals':[]},'산정정류소':{'link':'/시외버스/터미널/산정정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/산정정류소/도착/','arrivals':[]},'송호리정류소':{'link':'/시외버스/터미널/송호리정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/송호리정류소/도착/','arrivals':[]},'우수영정류소':{'link':'/시외버스/터미널/우수영정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/우수영정류소/도착/','arrivals':[]},'월송자동차여객터미널':{'link':'/시외버스/터미널/월송정류소/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/월송정류소/도착/','arrivals':[]},'해남종합버스터미널':{'link':'/시외버스/터미널/해남종합버스터미널/','schedule':'/시외버스/시간표/영암여객자동차터미널/출발/해남종합버스터미널/도착/','arrivals':[]}}">해남군</option>
+											<option value="{'강진버스여객터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/강진버스여객터미널/도착/'},'병영정류소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/병영정류소/도착/'},'성전터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/성전터미널/도착/'},'옴천':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/옴천/도착/'},'월남정류소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/월남강진터미널/도착/'}}">강진군</option>
+											<option value="{'나주버스터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/나주시외버스터미널/도착/'},'빛가람시외버스정류장':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/혁신도시임시정류소/도착/'},'영산포공용터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/영산포공용버스터미널/도착/'}}">나주시</option>
+											<option value="{'월산(담양)':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/월산/도착/'}}">담양군</option>
+											<option value="{'목포종합버스터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/목포종합버스터미널/도착/'}}">목포시</option>
+											<option value="{'성산리':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/성산리/도착/'}}">무안군</option>
+											<option value="{'하소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/하소/도착/'}}">영광군</option>
+											<option value="{'계천':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/계천/도착/'},'군서':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/군서/도착/'},'독천터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/독천터미널/도착/'},'망산':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/망산/도착/'},'매자리':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/매자리/도착/'},'삼호정류소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/삼호버스종합터미널/도착/'},'세흥':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/세흥/도착/'},'송정(영암)':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/송정-영암/도착/'},'신북터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/신북시외버스터미널/도착/'},'아천':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/아천/도착/'},'중촌(영암군)':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/중촌-영암군/도착/'},'하구언':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/하구언/도착/'}}">영암군</option>
+											<option value="{'완도공용버스터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/완도공용버스터미널/도착/'},'원동버스터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/원동정류소/도착/'}}">완도군</option>
+											<option value="{'장흥시외버스터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/장흥시외버스터미널/도착/'}}">장흥군</option>
+											<option value="{'녹진':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/녹진/도착/'},'진도공용터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/진도공용터미널/도착/'}}">진도군</option>
+											<option selected="selected" data-terminal="송호리정류소" value="{'남리정류소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/남리정류소/도착/'},'땅끝정류소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/땅끝정류소/도착/'},'산정정류소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/산정정류소/도착/'},'송호리정류소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/송호리정류소/도착/'},'우수영정류소':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/우수영정류소/도착/'},'월송자동차여객터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/월송정류소/도착/'},'해남종합버스터미널':{'schedule':'/시외버스/시간표/영암여객자동차터미널/출발/해남종합버스터미널/도착/'}}">해남군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

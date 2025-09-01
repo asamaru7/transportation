@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/미원정류소/출발/학습원정류소/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/미원정류소/출발/학습원정류소/도착/",
 				"name": "미원정류소 상행에서 학습원정류소 가는 시외버스 시간표",
 				"description": "2025.08.29. 미원정류소 상행에서 학습원정류소 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 08:25, 막차 : 08:25, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/미원정류소/출발/학습원정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_miwonjeonglyuso_sanghaeng",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/미원정류소/#terminal_miwonjeonglyuso_sanghaeng",
 						"name": "미원정류소 상행",
 						"address": "충청북도 청주시 상당구 미원면 미원리 438-5",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_hagseupwonjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/학습원정류소/#terminal_hagseupwonjeonglyuso",
 						"name": "학습원정류소",
 						"address": "충청북도 괴산군 청천면 송면리",
 						"geo": {
@@ -113,10 +114,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_miwonjeonglyuso_sanghaeng"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/미원정류소/#terminal_miwonjeonglyuso_sanghaeng"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_hagseupwonjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/학습원정류소/#terminal_hagseupwonjeonglyuso"
 						},
 						"departureTime": "2025-09-01T08:25:00+09:00",
 						"arrivalTime": "2025-09-01T09:05:00+09:00",
@@ -129,8 +130,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -268,22 +269,22 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/미원정류소/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
-											<option value="{'서울남부터미널':{'link':'/시외버스/터미널/서울남부터미널/','schedule':'/시외버스/시간표/미원정류소/출발/서울남부터미널/도착/','arrivals':[]}}">서초구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/미원정류소/출발/동서울종합터미널/도착/'}}">광진구</option>
+											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/미원정류소/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/미원정류소/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'아주대정류소':{'link':'/시외버스/터미널/아주대터미널/','schedule':'/시외버스/시간표/미원정류소/출발/아주대터미널/도착/','arrivals':[]}}">수원시 팔달구</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/미원정류소/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
+											<option value="{'수원버스터미널':{'schedule':'/시외버스/시간표/미원정류소/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'아주대정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/아주대터미널/도착/'}}">수원시 팔달구</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/미원정류소/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option selected="selected" data-terminal="학습원정류소" value="{'송면정류소':{'link':'/시외버스/터미널/송면정류소/','schedule':'/시외버스/시간표/미원정류소/출발/송면정류소/도착/','arrivals':[]},'이평공동정류소':{'link':'/시외버스/터미널/이평정류소/','schedule':'/시외버스/시간표/미원정류소/출발/이평정류소/도착/','arrivals':[]},'청천(괴산)':{'link':'/시외버스/터미널/청천/','schedule':'/시외버스/시간표/미원정류소/출발/청천/도착/','arrivals':[]},'학습원정류소':{'link':'/시외버스/터미널/학습원정류소/','schedule':'/시외버스/시간표/미원정류소/출발/학습원정류소/도착/','arrivals':[]},'화양동정류소':{'link':'/시외버스/터미널/화양동정류소/','schedule':'/시외버스/시간표/미원정류소/출발/화양동정류소/도착/','arrivals':[]}}">괴산군</option>
-											<option value="{'관기공동정류장':{'link':'/시외버스/터미널/관기공동정류장/','schedule':'/시외버스/시간표/미원정류소/출발/관기공동정류장/도착/','arrivals':[]},'보은시외버스공용정류장':{'link':'/시외버스/터미널/보은시외버스터미널/','schedule':'/시외버스/시간표/미원정류소/출발/보은시외버스터미널/도착/','arrivals':[]},'상판정류소':{'link':'/시외버스/터미널/상판정류소/','schedule':'/시외버스/시간표/미원정류소/출발/상판정류소/도착/','arrivals':[]},'속리산터미널':{'link':'/시외버스/터미널/속리산터미널/','schedule':'/시외버스/시간표/미원정류소/출발/속리산터미널/도착/','arrivals':[]},'장내정류소':{'link':'/시외버스/터미널/장내정류소/','schedule':'/시외버스/시간표/미원정류소/출발/장내정류소/도착/','arrivals':[]},'적암정류소':{'link':'/시외버스/터미널/적암정류소/','schedule':'/시외버스/시간표/미원정류소/출발/적암정류소/도착/','arrivals':[]},'창리공동정류소':{'link':'/시외버스/터미널/창리정류소/','schedule':'/시외버스/시간표/미원정류소/출발/창리정류소/도착/','arrivals':[]}}">보은군</option>
-											<option value="{'남부정류장':{'link':'/시외버스/터미널/남청주정류소/','schedule':'/시외버스/시간표/미원정류소/출발/남청주정류소/도착/','arrivals':[]}}">청주시 서원구</option>
-											<option value="{'청주시외버스터미널':{'link':'/시외버스/터미널/청주시외버스터미널/','schedule':'/시외버스/시간표/미원정류소/출발/청주시외버스터미널/도착/','arrivals':[]}}">청주시 흥덕구</option>
+											<option selected="selected" data-terminal="학습원정류소" value="{'송면정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/송면정류소/도착/'},'이평공동정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/이평정류소/도착/'},'청천(괴산)':{'schedule':'/시외버스/시간표/미원정류소/출발/청천/도착/'},'학습원정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/학습원정류소/도착/'},'화양동정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/화양동정류소/도착/'}}">괴산군</option>
+											<option value="{'관기공동정류장':{'schedule':'/시외버스/시간표/미원정류소/출발/관기공동정류장/도착/'},'보은시외버스공용정류장':{'schedule':'/시외버스/시간표/미원정류소/출발/보은시외버스터미널/도착/'},'상판정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/상판정류소/도착/'},'속리산터미널':{'schedule':'/시외버스/시간표/미원정류소/출발/속리산터미널/도착/'},'장내정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/장내정류소/도착/'},'적암정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/적암정류소/도착/'},'창리공동정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/창리정류소/도착/'}}">보은군</option>
+											<option value="{'남부정류장':{'schedule':'/시외버스/시간표/미원정류소/출발/남청주정류소/도착/'}}">청주시 서원구</option>
+											<option value="{'청주시외버스터미널':{'schedule':'/시외버스/시간표/미원정류소/출발/청주시외버스터미널/도착/'}}">청주시 흥덕구</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'낙서(상주시)':{'link':'/시외버스/터미널/낙서/','schedule':'/시외버스/시간표/미원정류소/출발/낙서/도착/','arrivals':[]},'내서(상주시)':{'link':'/시외버스/터미널/내서-상주/','schedule':'/시외버스/시간표/미원정류소/출발/내서-상주/도착/','arrivals':[]},'상주터미널':{'link':'/시외버스/터미널/상주종합버스터미널/','schedule':'/시외버스/시간표/미원정류소/출발/상주종합버스터미널/도착/','arrivals':[]},'옥양동정류소':{'link':'/시외버스/터미널/옥양동정류소/','schedule':'/시외버스/시간표/미원정류소/출발/옥양동정류소/도착/','arrivals':[]},'평온':{'link':'/시외버스/터미널/평온/','schedule':'/시외버스/시간표/미원정류소/출발/평온/도착/','arrivals':[]},'화령정류소':{'link':'/시외버스/터미널/화령정류소/','schedule':'/시외버스/시간표/미원정류소/출발/화령정류소/도착/','arrivals':[]}}">상주시</option>
+											<option value="{'낙서(상주시)':{'schedule':'/시외버스/시간표/미원정류소/출발/낙서/도착/'},'내서(상주시)':{'schedule':'/시외버스/시간표/미원정류소/출발/내서-상주/도착/'},'상주터미널':{'schedule':'/시외버스/시간표/미원정류소/출발/상주종합버스터미널/도착/'},'옥양동정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/옥양동정류소/도착/'},'평온':{'schedule':'/시외버스/시간표/미원정류소/출발/평온/도착/'},'화령정류소':{'schedule':'/시외버스/시간표/미원정류소/출발/화령정류소/도착/'}}">상주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

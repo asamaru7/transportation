@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/독천터미널/출발/완도공용버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/독천터미널/출발/완도공용버스터미널/도착/",
 				"name": "독천터미널에서 완도공용버스터미널 가는 시외버스 시간표",
 				"description": "2025.08.30. 독천터미널에서 완도공용버스터미널 가는 시외버스는 하루 2 회 운행합니다. 첫차 : 12:05, 막차 : 18:35, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/독천터미널/출발/완도공용버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_dogcheonteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/독천터미널/#terminal_dogcheonteomineol",
 						"name": "독천터미널",
 						"address": "전라남도 영암군 미암면 채지리 1014-24",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_wandokongyongbeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/완도공용버스터미널/#terminal_wandokongyongbeoseuteomineol",
 						"name": "완도공용버스터미널",
 						"address": "전라남도 완도군 완도읍 군내리 1230",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_dogcheonteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/독천터미널/#terminal_dogcheonteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_wandokongyongbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/완도공용버스터미널/#terminal_wandokongyongbeoseuteomineol"
 						},
 						"departureTime": "2025-09-01T12:05:00+09:00",
 						"arrivalTime": "2025-09-01T13:26:00+09:00",
@@ -132,10 +133,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-2",
 						"departureBusStop": {
-							"@id": "#terminal_dogcheonteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/독천터미널/#terminal_dogcheonteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_wandokongyongbeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/완도공용버스터미널/#terminal_wandokongyongbeoseuteomineol"
 						},
 						"departureTime": "2025-09-01T18:35:00+09:00",
 						"arrivalTime": "2025-09-01T19:56:00+09:00",
@@ -148,8 +149,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -316,19 +317,19 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="부산광역시">
-											<option value="{'부산서부사상버스터미널':{'link':'/시외버스/터미널/부산서부버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/부산서부버스터미널/도착/','arrivals':[]}}">사상구</option>
+											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'강진버스여객터미널':{'link':'/시외버스/터미널/강진버스여객터미널/','schedule':'/시외버스/시간표/독천터미널/출발/강진버스여객터미널/도착/','arrivals':[]},'성전터미널':{'link':'/시외버스/터미널/성전터미널/','schedule':'/시외버스/시간표/독천터미널/출발/성전터미널/도착/','arrivals':[]}}">강진군</option>
-											<option value="{'광양터미널':{'link':'/시외버스/터미널/광양시외버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/광양시외버스터미널/도착/','arrivals':[]},'동광양중마버스터미널':{'link':'/시외버스/터미널/중마버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/중마버스터미널/도착/','arrivals':[]}}">광양시</option>
-											<option value="{'목포종합버스터미널':{'link':'/시외버스/터미널/목포종합버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/목포종합버스터미널/도착/','arrivals':[]}}">목포시</option>
-											<option value="{'남악정류소':{'link':'/시외버스/터미널/남악정류소/','schedule':'/시외버스/시간표/독천터미널/출발/남악정류소/도착/','arrivals':[]}}">무안군</option>
-											<option value="{'벌교공용버스터미널':{'link':'/시외버스/터미널/벌교버스공용터미널/','schedule':'/시외버스/시간표/독천터미널/출발/벌교버스공용터미널/도착/','arrivals':[]},'보성버스터미널':{'link':'/시외버스/터미널/보성시외버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/보성시외버스터미널/도착/','arrivals':[]},'예당정류소':{'link':'/시외버스/터미널/예당정류소/','schedule':'/시외버스/시간표/독천터미널/출발/예당정류소/도착/','arrivals':[]},'조성정류소':{'link':'/시외버스/터미널/조성터미널/','schedule':'/시외버스/시간표/독천터미널/출발/조성터미널/도착/','arrivals':[]}}">보성군</option>
-											<option value="{'순천종합버스터미널':{'link':'/시외버스/터미널/순천종합버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/순천종합버스터미널/도착/','arrivals':[]}}">순천시</option>
-											<option value="{'삼호정류소':{'link':'/시외버스/터미널/삼호버스종합터미널/','schedule':'/시외버스/시간표/독천터미널/출발/삼호버스종합터미널/도착/','arrivals':[]}}">영암군</option>
-											<option selected="selected" data-terminal="완도공용버스터미널" value="{'완도공용버스터미널':{'link':'/시외버스/터미널/완도공용버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/완도공용버스터미널/도착/','arrivals':[]},'원동버스터미널':{'link':'/시외버스/터미널/원동정류소/','schedule':'/시외버스/시간표/독천터미널/출발/원동정류소/도착/','arrivals':[]}}">완도군</option>
-											<option value="{'배산정류소':{'link':'/시외버스/터미널/배산정류소/','schedule':'/시외버스/시간표/독천터미널/출발/배산정류소/도착/','arrivals':[]},'장흥시외버스터미널':{'link':'/시외버스/터미널/장흥시외버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/장흥시외버스터미널/도착/','arrivals':[]}}">장흥군</option>
-											<option value="{'남창시외버스터미널':{'link':'/시외버스/터미널/남창정류소/','schedule':'/시외버스/시간표/독천터미널/출발/남창정류소/도착/','arrivals':[]},'해남종합버스터미널':{'link':'/시외버스/터미널/해남종합버스터미널/','schedule':'/시외버스/시간표/독천터미널/출발/해남종합버스터미널/도착/','arrivals':[]}}">해남군</option>
+											<option value="{'강진버스여객터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/강진버스여객터미널/도착/'},'성전터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/성전터미널/도착/'}}">강진군</option>
+											<option value="{'광양터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/광양시외버스터미널/도착/'},'동광양중마버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/중마버스터미널/도착/'}}">광양시</option>
+											<option value="{'목포종합버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/목포종합버스터미널/도착/'}}">목포시</option>
+											<option value="{'남악정류소':{'schedule':'/시외버스/시간표/독천터미널/출발/남악정류소/도착/'}}">무안군</option>
+											<option value="{'벌교공용버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/벌교버스공용터미널/도착/'},'보성버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/보성시외버스터미널/도착/'},'예당정류소':{'schedule':'/시외버스/시간표/독천터미널/출발/예당정류소/도착/'},'조성정류소':{'schedule':'/시외버스/시간표/독천터미널/출발/조성터미널/도착/'}}">보성군</option>
+											<option value="{'순천종합버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/순천종합버스터미널/도착/'}}">순천시</option>
+											<option value="{'삼호정류소':{'schedule':'/시외버스/시간표/독천터미널/출발/삼호버스종합터미널/도착/'}}">영암군</option>
+											<option selected="selected" data-terminal="완도공용버스터미널" value="{'완도공용버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/완도공용버스터미널/도착/'},'원동버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/원동정류소/도착/'}}">완도군</option>
+											<option value="{'배산정류소':{'schedule':'/시외버스/시간표/독천터미널/출발/배산정류소/도착/'},'장흥시외버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/장흥시외버스터미널/도착/'}}">장흥군</option>
+											<option value="{'남창시외버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/남창정류소/도착/'},'해남종합버스터미널':{'schedule':'/시외버스/시간표/독천터미널/출발/해남종합버스터미널/도착/'}}">해남군</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

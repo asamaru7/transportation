@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/아미리정류소/출발/송내/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/아미리정류소/출발/송내/도착/",
 				"name": "아미리정류소에서 송내역정류소 가는 시외버스 시간표",
 				"description": "2022.03.28. 아미리정류소에서 송내역정류소 가는 시외버스는 하루 1 회 운행합니다. 첫차 : 09:00, 막차 : 09:00, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/아미리정류소/출발/송내/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_amilijeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/아미리정류소/#terminal_amilijeonglyuso",
 						"name": "아미리정류소",
 						"address": "경기도 이천시 부발읍 아미리 726-34",
 						"geo": {
@@ -100,7 +101,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_songnaeyeogjeonglyuso",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/송내역정류소/#terminal_songnaeyeogjeonglyuso",
 						"name": "송내역정류소",
 						"address": "인천광역시 부평구 구산동 1-5",
 						"geo": {
@@ -113,10 +114,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_amilijeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/아미리정류소/#terminal_amilijeonglyuso"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_songnaeyeogjeonglyuso"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/송내역정류소/#terminal_songnaeyeogjeonglyuso"
 						},
 						"departureTime": "2022-03-28T09:00:00+09:00",
 						"arrivalTime": "2022-03-28T09:58:00+09:00",
@@ -129,8 +130,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -280,18 +281,18 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/아미리정류소/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/아미리정류소/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/아미리정류소/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'우만동터미널':{'link':'/시외버스/터미널/우만동터미널/','schedule':'/시외버스/시간표/아미리정류소/출발/우만동터미널/도착/','arrivals':[]}}">수원시 팔달구</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/아미리정류소/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'가남태평버스정류소':{'link':'/시외버스/터미널/태평시외버스터미널/','schedule':'/시외버스/시간표/아미리정류소/출발/태평시외버스터미널/도착/','arrivals':[]}}">여주시</option>
-											<option value="{'이황리정류소':{'link':'/시외버스/터미널/이황리정류소/','schedule':'/시외버스/시간표/아미리정류소/출발/이황리정류소/도착/','arrivals':[]},'장호원정류소':{'link':'/시외버스/터미널/장호원시외버스터미널/','schedule':'/시외버스/시간표/아미리정류소/출발/장호원시외버스터미널/도착/','arrivals':[]}}">이천시</option>
+											<option value="{'수원버스터미널':{'schedule':'/시외버스/시간표/아미리정류소/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'우만동터미널':{'schedule':'/시외버스/시간표/아미리정류소/출발/우만동터미널/도착/'}}">수원시 팔달구</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/아미리정류소/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'가남태평버스정류소':{'schedule':'/시외버스/시간표/아미리정류소/출발/태평시외버스터미널/도착/'}}">여주시</option>
+											<option value="{'이황리정류소':{'schedule':'/시외버스/시간표/아미리정류소/출발/이황리정류소/도착/'},'장호원정류소':{'schedule':'/시외버스/시간표/아미리정류소/출발/장호원시외버스터미널/도착/'}}">이천시</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'감곡공용정류장':{'link':'/시외버스/터미널/감곡시외터미널/','schedule':'/시외버스/시간표/아미리정류소/출발/감곡시외터미널/도착/','arrivals':[]}}">음성군</option>
-											<option value="{'충주공용버스터미널':{'link':'/시외버스/터미널/충주공용버스터미널/','schedule':'/시외버스/시간표/아미리정류소/출발/충주공용버스터미널/도착/','arrivals':[]}}">충주시</option>
+											<option value="{'감곡공용정류장':{'schedule':'/시외버스/시간표/아미리정류소/출발/감곡시외터미널/도착/'}}">음성군</option>
+											<option value="{'충주공용버스터미널':{'schedule':'/시외버스/시간표/아미리정류소/출발/충주공용버스터미널/도착/'}}">충주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

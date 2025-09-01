@@ -58,6 +58,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/고속버스/시간표/단양상진터미널/출발/청주여객북부정류소/도착/",
 				"url": "https://transportation.asamaru.net/고속버스/시간표/단양상진터미널/출발/청주여객북부정류소/도착/",
 				"name": "단양상진터미널에서 청주대정류소 가는 고속버스 시간표",
 				"description": "2025.08.30. 단양상진터미널에서 청주대정류소 가는 고속버스는 하루 1 회 운행합니다. 첫차 : 07:00, 막차 : 07:00, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -87,10 +88,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/고속버스/시간표/단양상진터미널/출발/청주여객북부정류소/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_danyangsangjinteomineol",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/단양상진터미널/#terminal_danyangsangjinteomineol",
 						"name": "단양상진터미널",
 						"address": "충청북도 단양군 단양읍 상진리 791",
 						"geo": {
@@ -102,7 +103,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_cheongjudaejeonglyuso",
+						"@id": "https://transportation.asamaru.net/고속버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso",
 						"name": "청주대정류소",
 						"address": "충청북도 청주시 청원구 우암동 323-21",
 						"geo": {
@@ -116,10 +117,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_danyangsangjinteomineol"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/단양상진터미널/#terminal_danyangsangjinteomineol"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_cheongjudaejeonglyuso"
+							"@id": "https://transportation.asamaru.net/고속버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
 						},
 						"departureTime": "2025-09-01T07:00:00+09:00",
 						"arrivalTime": "2025-09-01T12:44:00+09:00",
@@ -132,8 +133,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -271,16 +272,16 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/고속버스/터미널/동서울종합터미널/','schedule':'/고속버스/시간표/단양상진터미널/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/고속버스/시간표/단양상진터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="충청북도">
-											<option value="{'단성':{'link':'/시외버스/터미널/단성/','schedule':'/시외버스/시간표/단양상진터미널/출발/단성/도착/','arrivals':[]},'장회':{'link':'/시외버스/터미널/장회/','schedule':'/시외버스/시간표/단양상진터미널/출발/장회/도착/','arrivals':[]}}">단양군</option>
-											<option value="{'보천(음성)':{'link':'/시외버스/터미널/보천/','schedule':'/시외버스/시간표/단양상진터미널/출발/보천/도착/','arrivals':[]},'비산리':{'link':'/시외버스/터미널/비산리/','schedule':'/시외버스/시간표/단양상진터미널/출발/비산리/도착/','arrivals':[]},'음성공용버스터미널':{'link':'/시외버스/터미널/음성공용버스터미널/','schedule':'/시외버스/시간표/단양상진터미널/출발/음성공용버스터미널/도착/','arrivals':[]}}">음성군</option>
-											<option value="{'계란리':{'link':'/시외버스/터미널/계란리/','schedule':'/시외버스/시간표/단양상진터미널/출발/계란리/도착/','arrivals':[]},'덕산(제천)':{'link':'/시외버스/터미널/덕산-제천/','schedule':'/시외버스/시간표/단양상진터미널/출발/덕산-제천/도착/','arrivals':[]},'수산리(제천시)':{'link':'/시외버스/터미널/수산리/','schedule':'/시외버스/시간표/단양상진터미널/출발/수산리/도착/','arrivals':[]},'용바위':{'link':'/시외버스/터미널/용바위/','schedule':'/시외버스/시간표/단양상진터미널/출발/용바위/도착/','arrivals':[]},'적곡리':{'link':'/시외버스/터미널/적곡리/','schedule':'/시외버스/시간표/단양상진터미널/출발/적곡리/도착/','arrivals':[]},'탄지리':{'link':'/시외버스/터미널/탄지리/','schedule':'/시외버스/시간표/단양상진터미널/출발/탄지리/도착/','arrivals':[]}}">제천시</option>
-											<option value="{'도안삼거리':{'link':'/시외버스/터미널/도안삼거리/','schedule':'/시외버스/시간표/단양상진터미널/출발/도안삼거리/도착/','arrivals':[]},'증평시외버스터미널':{'link':'/고속버스/터미널/증평시외버스터미널/','schedule':'/고속버스/시간표/단양상진터미널/출발/증평시외버스터미널/도착/','arrivals':[]}}">증평군</option>
-											<option selected="selected" data-terminal="청주대정류소" value="{'청주대정류소':{'link':'/고속버스/터미널/청주여객북부정류소/','schedule':'/고속버스/시간표/단양상진터미널/출발/청주여객북부정류소/도착/','arrivals':[]}}">청주시 청원구</option>
-											<option value="{'청주시외버스터미널':{'link':'/고속버스/터미널/청주시외버스터미널/','schedule':'/고속버스/시간표/단양상진터미널/출발/청주시외버스터미널/도착/','arrivals':[]}}">청주시 흥덕구</option>
-											<option value="{'살미':{'link':'/시외버스/터미널/살미/','schedule':'/시외버스/시간표/단양상진터미널/출발/살미/도착/','arrivals':[]},'주덕버스터미널':{'link':'/시외버스/터미널/주덕정류소/','schedule':'/시외버스/시간표/단양상진터미널/출발/주덕정류소/도착/','arrivals':[]},'충주공용버스터미널':{'link':'/고속버스/터미널/충주공용버스터미널/','schedule':'/고속버스/시간표/단양상진터미널/출발/충주공용버스터미널/도착/','arrivals':[]}}">충주시</option>
+											<option value="{'단성':{'schedule':'/시외버스/시간표/단양상진터미널/출발/단성/도착/'},'장회':{'schedule':'/시외버스/시간표/단양상진터미널/출발/장회/도착/'}}">단양군</option>
+											<option value="{'보천(음성)':{'schedule':'/시외버스/시간표/단양상진터미널/출발/보천/도착/'},'비산리':{'schedule':'/시외버스/시간표/단양상진터미널/출발/비산리/도착/'},'음성공용버스터미널':{'schedule':'/시외버스/시간표/단양상진터미널/출발/음성공용버스터미널/도착/'}}">음성군</option>
+											<option value="{'계란리':{'schedule':'/시외버스/시간표/단양상진터미널/출발/계란리/도착/'},'덕산(제천)':{'schedule':'/시외버스/시간표/단양상진터미널/출발/덕산-제천/도착/'},'수산리(제천시)':{'schedule':'/시외버스/시간표/단양상진터미널/출발/수산리/도착/'},'용바위':{'schedule':'/시외버스/시간표/단양상진터미널/출발/용바위/도착/'},'적곡리':{'schedule':'/시외버스/시간표/단양상진터미널/출발/적곡리/도착/'},'탄지리':{'schedule':'/시외버스/시간표/단양상진터미널/출발/탄지리/도착/'}}">제천시</option>
+											<option value="{'도안삼거리':{'schedule':'/시외버스/시간표/단양상진터미널/출발/도안삼거리/도착/'},'증평시외버스터미널':{'schedule':'/고속버스/시간표/단양상진터미널/출발/증평시외버스터미널/도착/'}}">증평군</option>
+											<option selected="selected" data-terminal="청주대정류소" value="{'청주대정류소':{'schedule':'/고속버스/시간표/단양상진터미널/출발/청주여객북부정류소/도착/'}}">청주시 청원구</option>
+											<option value="{'청주시외버스터미널':{'schedule':'/고속버스/시간표/단양상진터미널/출발/청주시외버스터미널/도착/'}}">청주시 흥덕구</option>
+											<option value="{'살미':{'schedule':'/시외버스/시간표/단양상진터미널/출발/살미/도착/'},'주덕버스터미널':{'schedule':'/시외버스/시간표/단양상진터미널/출발/주덕정류소/도착/'},'충주공용버스터미널':{'schedule':'/고속버스/시간표/단양상진터미널/출발/충주공용버스터미널/도착/'}}">충주시</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">

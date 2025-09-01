@@ -57,6 +57,7 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "WebPage",
+				"@id": "https://transportation.asamaru.net/시외버스/시간표/평해버스정류장/출발/영해버스터미널/도착/",
 				"url": "https://transportation.asamaru.net/시외버스/시간표/평해버스정류장/출발/영해버스터미널/도착/",
 				"name": "평해버스정류장에서 영해버스터미널 가는 시외버스 시간표",
 				"description": "2025.08.22. 평해버스정류장에서 영해버스터미널 가는 시외버스는 하루 1 회 운행합니다. 첫차 : --:--, 막차 : --:--, 출발·도착 시간, 소요 시간, 요금, 예매 안내 및 다른 노선 시간표도 확인하세요.",
@@ -86,10 +87,10 @@
 					"@type": "WebPage",
 					"@id": "https://transportation.asamaru.net/시외버스/시간표/평해버스정류장/출발/영해버스터미널/도착/"
 				},
-				"@graph": [
+				"mainEntity": [
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_pyeonghaebeoseujeonglyujang",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/평해버스정류장/#terminal_pyeonghaebeoseujeonglyujang",
 						"name": "평해버스정류장",
 						"address": "경상북도 울진군 평해읍 평해리 829-2",
 						"geo": {
@@ -101,7 +102,7 @@
 					},
 					{
 						"@type": "BusStation",
-						"@id": "#terminal_yeonghaebeoseuteomineol",
+						"@id": "https://transportation.asamaru.net/시외버스/터미널/영해버스터미널/#terminal_yeonghaebeoseuteomineol",
 						"name": "영해버스터미널",
 						"address": "경상북도 영덕군 영해면 성내리 637-1",
 						"geo": {
@@ -115,10 +116,10 @@
 						"@type": "BusTrip",
 						"@id": "#schedule-1",
 						"departureBusStop": {
-							"@id": "#terminal_pyeonghaebeoseujeonglyujang"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/평해버스정류장/#terminal_pyeonghaebeoseujeonglyujang"
 						},
 						"arrivalBusStop": {
-							"@id": "#terminal_yeonghaebeoseuteomineol"
+							"@id": "https://transportation.asamaru.net/시외버스/터미널/영해버스터미널/#terminal_yeonghaebeoseuteomineol"
 						},
 						"departureTime": "2025-03-31T23:59:00+09:00",
 						"arrivalTime": "2025-04-01T00:17:00+09:00",
@@ -131,8 +132,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/c50e8fb1573f68001bcb4c19ce286bbd.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/1cdb20935fe2b6985712f68f5ac2943d.js" async type="text/javascript"></script>
+		<link href="/css/min/68cc1201ff89c49bbadba0f3f7a967be.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/37e44944c2aceba25ce1b2e51b1c18a0.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NHQP97B5Z"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -270,31 +271,31 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
-											<option value="{'동서울종합터미널':{'link':'/시외버스/터미널/동서울종합터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/동서울종합터미널/도착/','arrivals':[]}}">광진구</option>
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/동서울종합터미널/도착/'}}">광진구</option>
 										</optgroup>
 										<optgroup label="경기도">
-											<option value="{'수원버스터미널':{'link':'/시외버스/터미널/수원종합버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/수원종합버스터미널/도착/','arrivals':[]}}">수원시 권선구</option>
-											<option value="{'안산버스터미널':{'link':'/시외버스/터미널/안산버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/안산버스터미널/도착/','arrivals':[]}}">안산시 상록구</option>
-											<option value="{'오산역환승센터':{'link':'/시외버스/터미널/오산역환승센터/','schedule':'/시외버스/시간표/평해버스정류장/출발/오산역환승센터/도착/','arrivals':[]}}">오산시</option>
+											<option value="{'수원버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/수원종합버스터미널/도착/'}}">수원시 권선구</option>
+											<option value="{'안산버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/안산버스터미널/도착/'}}">안산시 상록구</option>
+											<option value="{'오산역환승센터':{'schedule':'/시외버스/시간표/평해버스정류장/출발/오산역환승센터/도착/'}}">오산시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
-											<option value="{'인천종합터미널':{'link':'/시외버스/터미널/인천종합터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/인천종합터미널/도착/','arrivals':[]}}">미추홀구</option>
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/인천종합터미널/도착/'}}">미추홀구</option>
 										</optgroup>
 										<optgroup label="대구광역시">
-											<option value="{'대구용계정류소':{'link':'/시외버스/터미널/시외고속버스용계정류소/','schedule':'/시외버스/시간표/평해버스정류장/출발/시외고속버스용계정류소/도착/','arrivals':[]},'동대구터미널':{'link':'/시외버스/터미널/동대구터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/동대구터미널/도착/','arrivals':[]}}">동구</option>
+											<option value="{'대구용계정류소':{'schedule':'/시외버스/시간표/평해버스정류장/출발/시외고속버스용계정류소/도착/'},'동대구터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/동대구터미널/도착/'}}">동구</option>
 										</optgroup>
 										<optgroup label="강원특별자치도">
-											<option value="{'강릉시외버스터미널':{'link':'/시외버스/터미널/강릉시외버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/강릉시외버스터미널/도착/','arrivals':[]}}">강릉시</option>
-											<option value="{'동해시종합버스터미널':{'link':'/시외버스/터미널/동해시종합버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/동해시종합버스터미널/도착/','arrivals':[]}}">동해시</option>
-											<option value="{'삼척종합버스정류장':{'link':'/시외버스/터미널/삼척종합버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/삼척종합버스터미널/도착/','arrivals':[]},'임원버스정류소':{'link':'/시외버스/터미널/임원종합버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/임원종합버스터미널/도착/','arrivals':[]}}">삼척시</option>
-											<option value="{'속초시외버스터미널':{'link':'/시외버스/터미널/속초시외버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/속초시외버스터미널/도착/','arrivals':[]}}">속초시</option>
+											<option value="{'강릉시외버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/강릉시외버스터미널/도착/'}}">강릉시</option>
+											<option value="{'동해시종합버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/동해시종합버스터미널/도착/'}}">동해시</option>
+											<option value="{'삼척종합버스정류장':{'schedule':'/시외버스/시간표/평해버스정류장/출발/삼척종합버스터미널/도착/'},'임원버스정류소':{'schedule':'/시외버스/시간표/평해버스정류장/출발/임원종합버스터미널/도착/'}}">삼척시</option>
+											<option value="{'속초시외버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/속초시외버스터미널/도착/'}}">속초시</option>
 										</optgroup>
 										<optgroup label="경상북도">
-											<option value="{'경주시외버스터미널':{'link':'/시외버스/터미널/경주시외버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/경주시외버스터미널/도착/','arrivals':[]}}">경주시</option>
-											<option selected="selected" data-terminal="영해버스터미널" value="{'강구버스터미널':{'link':'/시외버스/터미널/강구버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/강구버스터미널/도착/','arrivals':[]},'영덕터미널':{'link':'/시외버스/터미널/영덕터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/영덕터미널/도착/','arrivals':[]},'영해버스터미널':{'link':'/시외버스/터미널/영해버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/영해버스터미널/도착/','arrivals':[]}}">영덕군</option>
-											<option value="{'영주종합터미널':{'link':'/시외버스/터미널/영주종합터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/영주종합터미널/도착/','arrivals':[]}}">영주시</option>
-											<option value="{'부구터미널':{'link':'/시외버스/터미널/부구터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/부구터미널/도착/','arrivals':[]},'울진종합버스터미널':{'link':'/시외버스/터미널/울진종합버스터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/울진종합버스터미널/도착/','arrivals':[]},'죽변시외버스정류장':{'link':'/시외버스/터미널/죽변정류소/','schedule':'/시외버스/시간표/평해버스정류장/출발/죽변정류소/도착/','arrivals':[]}}">울진군</option>
-											<option value="{'포항터미널':{'link':'/시외버스/터미널/포항터미널/','schedule':'/시외버스/시간표/평해버스정류장/출발/포항터미널/도착/','arrivals':[]}}">포항시 남구</option>
+											<option value="{'경주시외버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/경주시외버스터미널/도착/'}}">경주시</option>
+											<option selected="selected" data-terminal="영해버스터미널" value="{'강구버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/강구버스터미널/도착/'},'영덕터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/영덕터미널/도착/'},'영해버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/영해버스터미널/도착/'}}">영덕군</option>
+											<option value="{'영주종합터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/영주종합터미널/도착/'}}">영주시</option>
+											<option value="{'부구터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/부구터미널/도착/'},'울진종합버스터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/울진종합버스터미널/도착/'},'죽변시외버스정류장':{'schedule':'/시외버스/시간표/평해버스정류장/출발/죽변정류소/도착/'}}">울진군</option>
+											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/평해버스정류장/출발/포항터미널/도착/'}}">포항시 남구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
