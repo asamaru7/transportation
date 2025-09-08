@@ -232,6 +232,7 @@
 						<div>
 							<a href="#toc-info" data-scrollspy-target="info">운행정보</a>
 							<a href="#toc-schedules" data-scrollspy-target="schedules">시간표</a>
+							<a href="#toc-return-schedules" data-scrollspy-target="return-schedules">돌아오는 시간표</a>
 							<a href="#toc-routes" data-scrollspy-target="routes">다른노선</a>
 							<a href="#toc-reservation" data-scrollspy-target="reservation">예매 안내</a>
 						</div>
@@ -357,6 +358,24 @@
 						</div>
 						<aside class="my-6 rounded-lg border-l-4 border-amber-500 bg-amber-50 p-4 shadow-sm text-brown-700">⚠️ 운행정보는 데이터 확인 시점 및 운행 상황에 따라 다를 수 있으므로 정확한 시간 확인은 출발지 터미널에 문의하시기 바랍니다.</aside>
 					</div>
+					<div data-scrollspy-content="return-schedules">
+						<h2 id="toc-return-schedules" class="ft-sub-headline">돌아오는 시간표</h2>
+						<div class="ft-box" data-scrollspy-content="">
+							<div class="inline-block">
+								총
+								<span class="text-orange-400">1회</span>
+								운행
+								<span class="mx-3 text-gray-300">/</span>
+								<dl class="inline-block">
+									<dt class="inline-block">첫차</dt>
+									<dd class="inline-block text-orange-400 me-2">--:--</dd>
+									<dt class="inline-block">막차</dt>
+									<dd class="inline-block text-orange-400">--:--</dd>
+								</dl>
+							</div>
+							<a class="bg-white btn btn-xs ft-btn-link" href="/시외버스/시간표/안성종합버스터미널/출발/동아방송대정류소/도착/">바로가기</a>
+						</div>
+					</div>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
 						<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-8163803188491150" data-ad-slot="2371177971" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -377,9 +396,6 @@
 								<div>
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
-										<optgroup label="경기도">
-											<option selected="selected" data-terminal="안성종합버스터미널" value="{'공도시외버스정류장':{'schedule':'/시외버스/시간표/동아방송대정류소/출발/공도정류소/도착/'},'안성대림동산정류소':{'schedule':'/시외버스/시간표/동아방송대정류소/출발/대림동산정류소/도착/'},'안성종합버스터미널':{'schedule':'/시외버스/시간표/동아방송대정류소/출발/안성종합버스터미널/도착/'},'안성한경대학교정류소':{'schedule':'/시외버스/시간표/동아방송대정류소/출발/한경대학교정류소/도착/'},'안성회관정류소':{'schedule':'/시외버스/시간표/동아방송대정류소/출발/안성시민회관터미널/도착/'},'중앙대':{'schedule':'/시외버스/시간표/동아방송대정류소/출발/중앙대안성캠퍼스정류소/도착/'},'풍림아파트(안성)':{'schedule':'/시외버스/시간표/동아방송대정류소/출발/풍림아파트-안성/도착/'}}">안성시</option>
-										</optgroup>
 										<optgroup label="인천광역시">
 											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/동아방송대정류소/출발/인천종합터미널/도착/'}}">미추홀구</option>
 										</optgroup>
@@ -549,10 +565,13 @@
 								<a href="#toc-schedules" class="toc-item ft-link">2. 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-routes" class="toc-item ft-link">3. 다른노선</a>
+								<a href="#toc-return-schedules" class="toc-item ft-link">3. 돌아오는 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-reservation" class="toc-reservation ft-link">4. 예매 안내</a>
+								<a href="#toc-routes" class="toc-item ft-link">4. 다른노선</a>
+							</li>
+							<li class="mb-2">
+								<a href="#toc-reservation" class="toc-reservation ft-link">5. 예매 안내</a>
 							</li>
 						</ol>
 					</nav>
