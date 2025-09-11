@@ -74,32 +74,6 @@
 					"width": 696,
 					"height": 696
 				},
-				"about": [
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/부안시외버스터미널/#terminal_buanteomineol",
-						"name": "부안터미널",
-						"address": "전북특별자치도 부안군 부안읍 봉덕리 574-13",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 35.7268064,
-							"longitude": 126.7369155
-						},
-						"telephone": "1666-2429"
-					},
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/고양종합터미널/#terminal_koyangjonghapteomineol",
-						"name": "고양종합터미널",
-						"address": "경기도 고양시 일산동구 백석동 1242",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.6429781,
-							"longitude": 126.7898737
-						},
-						"telephone": "1688-2113"
-					}
-				],
 				"publisher": {
 					"@type": "Organization",
 					"name": "전국 고속/시외 버스 운행정보",
@@ -266,7 +240,11 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
+											<option value="{'동서울종합터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 											<option value="{'센트럴시티터미널(호남선)':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/센트럴시티터미널/도착/'}}">서초구</option>
+										</optgroup>
+										<optgroup label="인천광역시">
+											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
 											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>

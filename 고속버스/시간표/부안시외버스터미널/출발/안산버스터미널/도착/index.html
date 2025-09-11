@@ -74,49 +74,6 @@
 					"width": 696,
 					"height": 696
 				},
-				"about": [
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/고속버스/터미널/부안시외버스터미널/#terminal_buanteomineol",
-						"name": "부안터미널",
-						"address": "전북특별자치도 부안군 부안읍 봉덕리 574-13",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 35.7268064,
-							"longitude": 126.7369155
-						},
-						"telephone": "1666-2429"
-					},
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol",
-						"name": "안산버스터미널",
-						"address": "경기도 안산시 상록구 성포동 590",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.3168355,
-							"longitude": 126.8462524
-						},
-						"telephone": "1666-1837"
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-1",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/고속버스/터미널/부안시외버스터미널/#terminal_buanteomineol"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/고속버스/터미널/안산버스터미널/#terminal_ansanbeoseuteomineol"
-						},
-						"departureTime": "2023-08-28T15:05:00+09:00",
-						"arrivalTime": "2023-08-28T18:02:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 23400,
-							"priceCurrency": "KRW"
-						}
-					}
-				],
 				"publisher": {
 					"@type": "Organization",
 					"name": "전국 고속/시외 버스 운행정보",
@@ -302,7 +259,11 @@
 									<select class="w-auto ft-arrival-area select min-w-[110px] max-w-[110px]">
 										<option value="">도착지</option>
 										<optgroup label="서울특별시">
+											<option value="{'동서울종합터미널':{'schedule':'/고속버스/시간표/부안시외버스터미널/출발/동서울종합터미널/도착/'}}">광진구</option>
 											<option value="{'센트럴시티터미널(호남선)':{'schedule':'/시외버스/시간표/부안시외버스터미널/출발/센트럴시티터미널/도착/'}}">서초구</option>
+										</optgroup>
+										<optgroup label="인천광역시">
+											<option value="{'인천종합터미널':{'schedule':'/고속버스/시간표/부안시외버스터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
 										</optgroup>
 										<optgroup label="광주광역시">
 											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/고속버스/시간표/부안시외버스터미널/출발/광주종합버스터미널/도착/'}}">서구</option>

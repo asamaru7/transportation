@@ -73,82 +73,6 @@
 					"width": 696,
 					"height": 696
 				},
-				"about": [
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/신갈고속시외버스정류소/#terminal_sinkalyonginjeonglyuso",
-						"name": "신갈용인정류소",
-						"address": "경기도 용인시 기흥구 신갈동 624",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.2713998,
-							"longitude": 127.1042189
-						},
-						"telephone": "031-284-3180"
-					},
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/창현고-유신고/#terminal_changhyeonko_yusinko",
-						"name": "창현고.유신고",
-						"address": "경기도 수원시 팔달구 우만동 9-1",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.280856,
-							"longitude": 127.042136
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-1",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/신갈고속시외버스정류소/#terminal_sinkalyonginjeonglyuso"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/창현고-유신고/#terminal_changhyeonko_yusinko"
-						},
-						"departureTime": "2025-09-01T11:09:00+09:00",
-						"arrivalTime": "2025-09-01T11:30:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 1700,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-2",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/신갈고속시외버스정류소/#terminal_sinkalyonginjeonglyuso"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/창현고-유신고/#terminal_changhyeonko_yusinko"
-						},
-						"departureTime": "2025-09-01T16:14:00+09:00",
-						"arrivalTime": "2025-09-01T16:35:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 1700,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-3",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/신갈고속시외버스정류소/#terminal_sinkalyonginjeonglyuso"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/창현고-유신고/#terminal_changhyeonko_yusinko"
-						},
-						"departureTime": "2025-09-01T21:49:00+09:00",
-						"arrivalTime": "2025-09-01T22:10:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 1700,
-							"priceCurrency": "KRW"
-						}
-					}
-				],
 				"publisher": {
 					"@type": "Organization",
 					"name": "전국 고속/시외 버스 운행정보",
@@ -242,6 +166,18 @@
 					</div>
 					<div data-scrollspy-content="schedules" class="entry-content daum-wm-content">
 						<h2 id="toc-schedules" class="ft-sub-headline">시간표</h2>
+						<aside class="my-4 rounded-lg border-l-4 border-amber-500 bg-amber-50 p-4 shadow-sm text-brown-700">
+							<strong class="mb-2 block text-base font-semibold">⚠️ 안내</strong>
+							<p class="m-0">
+								해당 노선의 시간표는
+								<strong class="text-orange-700">확인된 지 상당한 시간이 지나</strong>
+								실제 운행과 차이가 있을 수 있습니다.
+								<br />
+								보다 정확한 정보는
+								<strong>해당 터미널에 문의</strong>
+								하거나 현장에서 확인해 주시기 바랍니다.
+							</p>
+						</aside>
 						<div class="ft-box">
 							<div class="mb-3 flex flex-row flex-wrap items-center justify-between">
 								<dl>

@@ -73,99 +73,6 @@
 					"width": 696,
 					"height": 696
 				},
-				"about": [
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/춘천시외버스터미널/#terminal_chuncheonsioebeoseuteomineol",
-						"name": "춘천시외버스터미널",
-						"address": "강원특별자치도 춘천시 온의동 511",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.862992,
-							"longitude": 127.7188516
-						},
-						"telephone": "033-241-0285"
-					},
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/우산동/#terminal_usandong_wonjusi",
-						"name": "우산동(원주시)",
-						"address": "강원특별자치도 원주시 우산동 102-3",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 37.371415,
-							"longitude": 127.940012
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-1",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/춘천시외버스터미널/#terminal_chuncheonsioebeoseuteomineol"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/우산동/#terminal_usandong_wonjusi"
-						},
-						"departureTime": "2025-09-01T08:30:00+09:00",
-						"arrivalTime": "2025-09-01T10:06:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6800,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-2",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/춘천시외버스터미널/#terminal_chuncheonsioebeoseuteomineol"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/우산동/#terminal_usandong_wonjusi"
-						},
-						"departureTime": "2025-09-01T09:00:00+09:00",
-						"arrivalTime": "2025-09-01T10:36:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6800,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-3",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/춘천시외버스터미널/#terminal_chuncheonsioebeoseuteomineol"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/우산동/#terminal_usandong_wonjusi"
-						},
-						"departureTime": "2025-09-01T10:55:00+09:00",
-						"arrivalTime": "2025-09-01T12:31:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6800,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-4",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/춘천시외버스터미널/#terminal_chuncheonsioebeoseuteomineol"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/우산동/#terminal_usandong_wonjusi"
-						},
-						"departureTime": "2025-09-01T14:55:00+09:00",
-						"arrivalTime": "2025-09-01T16:31:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6800,
-							"priceCurrency": "KRW"
-						}
-					}
-				],
 				"publisher": {
 					"@type": "Organization",
 					"name": "전국 고속/시외 버스 운행정보",
@@ -259,6 +166,18 @@
 					</div>
 					<div data-scrollspy-content="schedules" class="entry-content daum-wm-content">
 						<h2 id="toc-schedules" class="ft-sub-headline">시간표</h2>
+						<aside class="my-4 rounded-lg border-l-4 border-amber-500 bg-amber-50 p-4 shadow-sm text-brown-700">
+							<strong class="mb-2 block text-base font-semibold">⚠️ 안내</strong>
+							<p class="m-0">
+								해당 노선의 시간표는
+								<strong class="text-orange-700">확인된 지 상당한 시간이 지나</strong>
+								실제 운행과 차이가 있을 수 있습니다.
+								<br />
+								보다 정확한 정보는
+								<strong>해당 터미널에 문의</strong>
+								하거나 현장에서 확인해 주시기 바랍니다.
+							</p>
+						</aside>
 						<div class="ft-box">
 							<div class="mb-3 flex flex-row flex-wrap items-center justify-between">
 								<dl>

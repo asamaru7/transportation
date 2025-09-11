@@ -73,48 +73,6 @@
 					"width": 696,
 					"height": 696
 				},
-				"about": [
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/문덕시외버스공용정류장/#terminal_mundeogbeoseujeonglyujang",
-						"name": "문덕버스정류장",
-						"address": "전라남도 보성군 문덕면 운곡리 651-12",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 34.9283483,
-							"longitude": 127.1706025
-						},
-						"telephone": "061-852-1016"
-					},
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/사평/#terminal_sapyeong_hamankun",
-						"name": "사평(함안군)",
-						"address": "경상남도 함안군 법수면 주물리 471",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 35.3294336,
-							"longitude": 128.366869
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-1",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/문덕시외버스공용정류장/#terminal_mundeogbeoseujeonglyujang"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/사평/#terminal_sapyeong_hamankun"
-						},
-						"departureTime": "2025-09-03T23:59:00+09:00",
-						"arrivalTime": "2025-09-04T01:57:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 2200,
-							"priceCurrency": "KRW"
-						}
-					}
-				],
 				"publisher": {
 					"@type": "Organization",
 					"name": "전국 고속/시외 버스 운행정보",
@@ -272,12 +230,8 @@
 											<option value="{'소태터미널':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/소태터미널/도착/'},'학동시외버스정류장':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/학동시외버스정류소/도착/'}}">동구</option>
 											<option value="{'광주종합버스터미널(유.스퀘어)':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/광주종합버스터미널/도착/'}}">서구</option>
 										</optgroup>
-										<optgroup label="경상남도">
-											<option value="{'대원사':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/대원사/도착/'}}">산청군</option>
-											<option selected="selected" data-terminal="사평(함안군)" value="{'사평(함안군)':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/사평/도착/'}}">함안군</option>
-										</optgroup>
 										<optgroup label="전라남도">
-											<option value="{'보성버스터미널':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/보성시외버스터미널/도착/'},'보성북문버스정류장':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/보성북문터미널/도착/'},'복내정류소':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/복내공용정류소/도착/'}}">보성군</option>
+											<option value="{'보성버스터미널':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/보성시외버스터미널/도착/'},'복내정류소':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/복내공용정류소/도착/'}}">보성군</option>
 											<option value="{'화순시외버스공용정류장':{'schedule':'/시외버스/시간표/문덕시외버스공용정류장/출발/화순시외버스공용정류장/도착/'}}">화순군</option>
 										</optgroup>
 									</select>

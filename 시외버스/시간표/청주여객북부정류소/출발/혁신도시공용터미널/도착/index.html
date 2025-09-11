@@ -74,117 +74,6 @@
 					"width": 696,
 					"height": 696
 				},
-				"about": [
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso",
-						"name": "청주대정류소",
-						"address": "충청북도 청주시 청원구 우암동 323-21",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 36.6505237,
-							"longitude": 127.4869875
-						},
-						"telephone": "1688-4321"
-					},
-					{
-						"@type": "BusStation",
-						"@id": "https://transportation.asamaru.net/시외버스/터미널/혁신도시공용터미널/#terminal_chungbughyeogsindosikongyongteomineol",
-						"name": "충북혁신도시공용터미널",
-						"address": "충청북도 음성군 맹동면 두성리 1504",
-						"geo": {
-							"@type": "GeoCoordinates",
-							"latitude": 36.9057233,
-							"longitude": 127.5471936
-						},
-						"telephone": "043-882-6777"
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-1",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/혁신도시공용터미널/#terminal_chungbughyeogsindosikongyongteomineol"
-						},
-						"departureTime": "2025-09-11T07:00:00+09:00",
-						"arrivalTime": "2025-09-11T07:54:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6200,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-2",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/혁신도시공용터미널/#terminal_chungbughyeogsindosikongyongteomineol"
-						},
-						"departureTime": "2025-09-11T10:35:00+09:00",
-						"arrivalTime": "2025-09-11T11:29:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6200,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-3",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/혁신도시공용터미널/#terminal_chungbughyeogsindosikongyongteomineol"
-						},
-						"departureTime": "2025-09-11T16:00:00+09:00",
-						"arrivalTime": "2025-09-11T16:54:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6200,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-4",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/혁신도시공용터미널/#terminal_chungbughyeogsindosikongyongteomineol"
-						},
-						"departureTime": "2025-09-11T18:00:00+09:00",
-						"arrivalTime": "2025-09-11T18:54:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6200,
-							"priceCurrency": "KRW"
-						}
-					},
-					{
-						"@type": "BusTrip",
-						"@id": "#schedule-5",
-						"departureBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/청주여객북부정류소/#terminal_cheongjudaejeonglyuso"
-						},
-						"arrivalBusStop": {
-							"@id": "https://transportation.asamaru.net/시외버스/터미널/혁신도시공용터미널/#terminal_chungbughyeogsindosikongyongteomineol"
-						},
-						"departureTime": "2025-09-11T19:01:00+09:00",
-						"arrivalTime": "2025-09-11T19:55:00+09:00",
-						"offers": {
-							"@type": "Offer",
-							"price": 6200,
-							"priceCurrency": "KRW"
-						}
-					}
-				],
 				"publisher": {
 					"@type": "Organization",
 					"name": "전국 고속/시외 버스 운행정보",
@@ -233,6 +122,7 @@
 						<div>
 							<a href="#toc-info" data-scrollspy-target="info">운행정보</a>
 							<a href="#toc-schedules" data-scrollspy-target="schedules">시간표</a>
+							<a href="#toc-return-schedules" data-scrollspy-target="return-schedules">돌아오는 시간표</a>
 							<a href="#toc-routes" data-scrollspy-target="routes">다른노선</a>
 							<a href="#toc-reservation" data-scrollspy-target="reservation">예매 안내</a>
 						</div>
@@ -357,6 +247,24 @@
 							</div>
 						</div>
 						<aside class="my-6 rounded-lg border-l-4 border-amber-500 bg-amber-50 p-4 shadow-sm text-brown-700">⚠️ 운행정보는 데이터 확인 시점 및 운행 상황에 따라 다를 수 있으므로 정확한 시간 확인은 출발지 터미널에 문의하시기 바랍니다.</aside>
+					</div>
+					<div data-scrollspy-content="return-schedules">
+						<h2 id="toc-return-schedules" class="ft-sub-headline">돌아오는 시간표</h2>
+						<div class="ft-box" data-scrollspy-content="">
+							<div class="inline-block">
+								총
+								<span class="text-orange-400">4회</span>
+								운행
+								<span class="mx-3 text-gray-300">/</span>
+								<dl class="inline-block">
+									<dt class="inline-block">첫차</dt>
+									<dd class="inline-block text-orange-400 me-2">09:15</dd>
+									<dt class="inline-block">막차</dt>
+									<dd class="inline-block text-orange-400">19:20</dd>
+								</dl>
+							</div>
+							<a class="bg-white btn btn-xs ft-btn-link" href="/시외버스/시간표/혁신도시공용터미널/출발/청주여객북부정류소/도착/">바로가기</a>
+						</div>
 					</div>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
@@ -561,10 +469,13 @@
 								<a href="#toc-schedules" class="toc-item ft-link">2. 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-routes" class="toc-item ft-link">3. 다른노선</a>
+								<a href="#toc-return-schedules" class="toc-item ft-link">3. 돌아오는 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-reservation" class="toc-reservation ft-link">4. 예매 안내</a>
+								<a href="#toc-routes" class="toc-item ft-link">4. 다른노선</a>
+							</li>
+							<li class="mb-2">
+								<a href="#toc-reservation" class="toc-reservation ft-link">5. 예매 안내</a>
 							</li>
 						</ol>
 					</nav>
