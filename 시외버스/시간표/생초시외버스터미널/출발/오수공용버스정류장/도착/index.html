@@ -125,6 +125,7 @@
 						<div>
 							<a href="#toc-info" data-scrollspy-target="info">운행정보</a>
 							<a href="#toc-schedules" data-scrollspy-target="schedules">시간표</a>
+							<a href="#toc-return-schedules" data-scrollspy-target="return-schedules">돌아오는 시간표</a>
 							<a href="#toc-routes" data-scrollspy-target="routes">다른노선</a>
 							<a href="#toc-reservation" data-scrollspy-target="reservation">예매 안내</a>
 						</div>
@@ -230,6 +231,24 @@
 						</div>
 						<aside class="my-6 rounded-lg border-l-4 border-amber-500 bg-amber-50 p-4 shadow-sm text-brown-700">⚠️ 운행정보는 데이터 확인 시점 및 운행 상황에 따라 다를 수 있으므로 정확한 시간 확인은 출발지 터미널에 문의하시기 바랍니다.</aside>
 					</div>
+					<div data-scrollspy-content="return-schedules">
+						<h2 id="toc-return-schedules" class="ft-sub-headline">돌아오는 시간표</h2>
+						<div class="ft-box" data-scrollspy-content="">
+							<div class="inline-block">
+								총
+								<span class="text-orange-400">1회</span>
+								운행
+								<span class="mx-3 text-gray-300">/</span>
+								<dl class="inline-block">
+									<dt class="inline-block">첫차</dt>
+									<dd class="inline-block text-orange-400 me-2">--:--</dd>
+									<dt class="inline-block">막차</dt>
+									<dd class="inline-block text-orange-400">--:--</dd>
+								</dl>
+							</div>
+							<a class="bg-white btn btn-xs ft-btn-link" href="/시외버스/시간표/오수공용버스정류장/출발/생초시외버스터미널/도착/">바로가기</a>
+						</div>
+					</div>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
 						<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-8163803188491150" data-ad-slot="2371177971" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -253,25 +272,13 @@
 										<optgroup label="서울특별시">
 											<option value="{'서울남부터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/서울남부터미널/도착/'}}">서초구</option>
 										</optgroup>
-										<optgroup label="대구광역시">
-											<option value="{'대구서부정류장':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/서부정류장/도착/'}}">남구</option>
-										</optgroup>
 										<optgroup label="부산광역시">
 											<option value="{'부산서부사상버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/부산서부버스터미널/도착/'}}">사상구</option>
 										</optgroup>
 										<optgroup label="경상남도">
-											<option value="{'거창버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/거창시외버스터미널/도착/'}}">거창군</option>
-											<option value="{'산청버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/산청시외버스터미널/도착/'},'양촌(산청군)':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/양촌-산청군/도착/'},'원지버스정류소':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/원지정류소/도착/'}}">산청군</option>
+											<option value="{'산청버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/산청시외버스터미널/도착/'},'원지버스정류소':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/원지정류소/도착/'}}">산청군</option>
 											<option value="{'진주시외버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/진주시외버스터미널/도착/'}}">진주시</option>
 											<option value="{'마산시외버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/마산시외버스터미널/도착/'}}">창원시 마산회원구</option>
-											<option value="{'창원종합버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/창원종합버스터미널/도착/'}}">창원시 의창구</option>
-											<option value="{'서상버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/서상정류소/도착/'},'수동정류소':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/수동정류소/도착/'},'안의버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/함양시외버스안의공용정류장/도착/'},'함양시외버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/함양시외버스터미널/도착/'}}">함양군</option>
-										</optgroup>
-										<optgroup label="전북특별자치도">
-											<option value="{'남원공용버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/남원공용버스터미널/도착/'},'운봉':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/운봉/도착/'},'인월지리산공용터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/인월지리산공용터미널/도착/'}}">남원시</option>
-											<option selected="selected" data-terminal="오수공영버스터미널" value="{'오수공영버스터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/오수공용버스정류장/도착/'},'임실공용터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/임실시외버스터미널/도착/'}}">임실군</option>
-											<option value="{'장계시외버스공용터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/장계시외공용버스터미널/도착/'}}">장수군</option>
-											<option value="{'전주시외버스공용터미널':{'schedule':'/시외버스/시간표/생초시외버스터미널/출발/전주시외버스공용터미널/도착/'}}">전주시 덕진구</option>
 										</optgroup>
 									</select>
 									<select class="w-auto ft-arrival-terminal select min-w-[160px] max-w-[160px]">
@@ -429,10 +436,13 @@
 								<a href="#toc-schedules" class="toc-item ft-link">2. 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-routes" class="toc-item ft-link">3. 다른노선</a>
+								<a href="#toc-return-schedules" class="toc-item ft-link">3. 돌아오는 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-reservation" class="toc-reservation ft-link">4. 예매 안내</a>
+								<a href="#toc-routes" class="toc-item ft-link">4. 다른노선</a>
+							</li>
+							<li class="mb-2">
+								<a href="#toc-reservation" class="toc-reservation ft-link">5. 예매 안내</a>
 							</li>
 						</ol>
 					</nav>
