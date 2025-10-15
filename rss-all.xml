@@ -3,14 +3,14 @@
 	<channel>
 		<title>전국 고속/시외 버스 운행정보</title>
 		<link>https://transportation.asamaru.net/</link>
-		<description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description>
+		<description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표 정보를 제공합니다.</description>
 		<image>
 			<title>전국 고속/시외 버스 운행정보</title>
 			<url>https://transportation.asamaru.net/img/icon/icon.png</url>
 			<link>https://transportation.asamaru.net/</link>
-			<description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.</description>
+			<description>전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표 정보를 제공합니다.</description>
 		</image>
 		<managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor>
-		<pubDate>Wed, 15 Oct 2025 02:16:23 +0900</pubDate>
+		<pubDate>Thu, 16 Oct 2025 06:08:44 +0900</pubDate>
 	</channel>
 </rss>

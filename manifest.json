@@ -1,7 +1,7 @@
 {
 	"name": "전국 고속/시외 버스 운행정보",
 	"short_name": "버스시간표",
-	"description": "전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표를 정보를 제공합니다.",
+	"description": "전국 시외버스, 고속버스 터미널 및 운영 노선 / 운행 시간표 정보를 제공합니다.",
 	"start_url": "/",
 	"display": "minimal-ui",
 	"background_color": "#ffffff",
