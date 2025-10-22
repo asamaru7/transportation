@@ -121,6 +121,7 @@
 						<div>
 							<a href="#toc-info" data-scrollspy-target="info">운행정보</a>
 							<a href="#toc-schedules" data-scrollspy-target="schedules">시간표</a>
+							<a href="#toc-return-schedules" data-scrollspy-target="return-schedules">돌아오는 시간표</a>
 							<a href="#toc-routes" data-scrollspy-target="routes">다른노선</a>
 							<a href="#toc-reservation" data-scrollspy-target="reservation">예매 안내</a>
 						</div>
@@ -166,6 +167,18 @@
 					</div>
 					<div data-scrollspy-content="schedules" class="entry-content daum-wm-content">
 						<h2 id="toc-schedules" class="ft-sub-headline">시간표</h2>
+						<aside class="my-4 rounded-lg border-l-4 border-amber-500 bg-amber-50 p-4 shadow-sm text-brown-700">
+							<strong class="mb-2 block text-base font-semibold">⚠️ 안내</strong>
+							<p class="m-0">
+								해당 노선의 시간표는
+								<strong class="text-orange-700">확인된 지 상당한 시간이 지나</strong>
+								실제 운행과 차이가 있을 수 있습니다.
+								<br />
+								보다 정확한 정보는
+								<strong>해당 터미널에 문의</strong>
+								하거나 현장에서 확인해 주시기 바랍니다.
+							</p>
+						</aside>
 						<div class="ft-box">
 							<div class="mb-3 flex flex-row flex-wrap items-center justify-between">
 								<dl>
@@ -216,6 +229,24 @@
 						</div>
 						<aside class="my-6 rounded-lg border-l-4 border-amber-500 bg-amber-50 p-4 shadow-sm text-brown-700">⚠️ 운행정보는 데이터 확인 시점 및 운행 상황에 따라 다를 수 있으므로 정확한 시간 확인은 출발지 터미널에 문의하시기 바랍니다.</aside>
 					</div>
+					<div data-scrollspy-content="return-schedules">
+						<h2 id="toc-return-schedules" class="ft-sub-headline">돌아오는 시간표</h2>
+						<div class="ft-box" data-scrollspy-content="">
+							<div class="inline-block">
+								총
+								<span class="text-orange-400">7회</span>
+								운행
+								<span class="mx-3 text-gray-300">/</span>
+								<dl class="inline-block">
+									<dt class="inline-block">첫차</dt>
+									<dd class="inline-block text-orange-400 me-2">07:20</dd>
+									<dt class="inline-block">막차</dt>
+									<dd class="inline-block text-orange-400">21:00</dd>
+								</dl>
+							</div>
+							<a class="bg-white btn btn-xs ft-btn-link" href="/시외버스/시간표/향남환승터미널/출발/평택시외버스터미널/도착/">바로가기</a>
+						</div>
+					</div>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
 						<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-8163803188491150" data-ad-slot="2371177971" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -246,8 +277,7 @@
 											<option value="{'용이동안성정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/평택용이정류소/도착/'}}">안성시</option>
 											<option value="{'오산역환승센터':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/오산역환승센터/도착/'}}">오산시</option>
 											<option value="{'장호원정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/장호원시외버스터미널/도착/'}}">이천시</option>
-											<option value="{'송탄시외버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/송탄시외버스터미널/도착/'},'안중버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/안중버스터미널/도착/'},'평택대정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/평택대정류소/도착/'}}">평택시</option>
-											<option selected="selected" data-terminal="향남환승터미널" value="{'향남환승터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/향남환승터미널/도착/'}}">화성시</option>
+											<option value="{'송탄시외버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/송탄시외버스터미널/도착/'},'안중버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/안중버스터미널/도착/'},'평택대정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/평택대정류소/도착/'},'평택호':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/평택호/도착/'}}">평택시</option>
 										</optgroup>
 										<optgroup label="인천광역시">
 											<option value="{'인천종합터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/인천종합터미널/도착/'}}">미추홀구</option>
@@ -267,7 +297,8 @@
 											<option value="{'목계정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/목계정류소/도착/'},'산척정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/산척정류소/도착/'},'앙성용포시외버스정류장':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/용포정류소/도착/'},'엄정정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/엄정정류소/도착/'}}">충주시</option>
 										</optgroup>
 										<optgroup label="충청남도">
-											<option value="{'백남청솔APT':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/백남청솔apt/도착/'},'아산둔포정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/아산둔포정류소/도착/'},'아산시외버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/아산시외버스터미널/도착/'},'영인':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/영인/도착/'},'음봉':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/음봉/도착/'},'이지더원1A':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/이지더원1a/도착/'}}">아산시</option>
+											<option value="{'기지시버스정류장':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/기지시정류소/도착/'},'당진버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/당진버스터미널/도착/'},'삽교천시외버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/삽교천시외버스터미널/도착/'},'신평고속버스정류장':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/신평버스터미널/도착/'}}">당진시</option>
+											<option value="{'밀두리':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/밀두리/도착/'},'백남청솔APT':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/백남청솔apt/도착/'},'아산둔포정류소':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/아산둔포정류소/도착/'},'아산시외버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/아산시외버스터미널/도착/'},'영인':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/영인/도착/'},'음봉':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/음봉/도착/'},'이지더원1A':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/이지더원1a/도착/'}}">아산시</option>
 											<option value="{'천안시외버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/천안종합버스터미널/도착/'}}">천안시 동남구</option>
 											<option value="{'성환버스터미널':{'schedule':'/시외버스/시간표/평택시외버스터미널/출발/성환버스터미널/도착/'}}">천안시 서북구</option>
 										</optgroup>
@@ -444,10 +475,13 @@
 								<a href="#toc-schedules" class="toc-item ft-link">2. 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-routes" class="toc-item ft-link">3. 다른노선</a>
+								<a href="#toc-return-schedules" class="toc-item ft-link">3. 돌아오는 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-reservation" class="toc-reservation ft-link">4. 예매 안내</a>
+								<a href="#toc-routes" class="toc-item ft-link">4. 다른노선</a>
+							</li>
+							<li class="mb-2">
+								<a href="#toc-reservation" class="toc-reservation ft-link">5. 예매 안내</a>
 							</li>
 						</ol>
 					</nav>
