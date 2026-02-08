@@ -121,6 +121,7 @@
 						<div>
 							<a href="#toc-info" data-scrollspy-target="info">운행정보</a>
 							<a href="#toc-schedules" data-scrollspy-target="schedules">시간표</a>
+							<a href="#toc-return-schedules" data-scrollspy-target="return-schedules">돌아오는 시간표</a>
 							<a href="#toc-routes" data-scrollspy-target="routes">다른노선</a>
 							<a href="#toc-reservation" data-scrollspy-target="reservation">예매 안내</a>
 						</div>
@@ -206,6 +207,24 @@
 						</div>
 						<aside class="p-4 my-6 bg-amber-50 rounded-lg border-l-4 border-amber-500 shadow-sm text-brown-700">⚠️ 운행정보는 데이터 확인 시점 및 운행 상황에 따라 다를 수 있으므로 정확한 시간 확인은 출발지 터미널에 문의하시기 바랍니다.</aside>
 					</div>
+					<div data-scrollspy-content="return-schedules">
+						<h2 id="toc-return-schedules" class="ft-sub-headline">돌아오는 시간표</h2>
+						<div class="ft-box" data-scrollspy-content="">
+							<div class="inline-block">
+								총
+								<span class="text-orange-400">2회</span>
+								운행
+								<span class="mx-3 text-gray-300">/</span>
+								<dl class="inline-block">
+									<dt class="inline-block">첫차</dt>
+									<dd class="inline-block text-orange-400 me-2">08:15</dd>
+									<dt class="inline-block">막차</dt>
+									<dd class="inline-block text-orange-400">14:20</dd>
+								</dl>
+							</div>
+							<a class="bg-white btn btn-xs ft-btn-link" href="/시외버스/시간표/영덕터미널/출발/용상터미널/도착/">바로가기</a>
+						</div>
+					</div>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
 						<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-8163803188491150" data-ad-slot="2371177971" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -228,7 +247,6 @@
 										<option value="">도착지</option>
 										<optgroup label="경상북도">
 											<option value="{'안동대':{'schedule':'/시외버스/시간표/용상터미널/출발/안동대/도착/'},'임동정류소':{'schedule':'/시외버스/시간표/용상터미널/출발/임동정류소/도착/'}}">안동시</option>
-											<option selected="selected" data-terminal="영덕터미널" value="{'영덕터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/영덕터미널/도착/'}}">영덕군</option>
 											<option value="{'방전':{'schedule':'/시외버스/시간표/용상터미널/출발/방전/도착/'},'영양버스정류장':{'schedule':'/시외버스/시간표/용상터미널/출발/영양버스정류장/도착/'},'입암정류장':{'schedule':'/시외버스/시간표/용상터미널/출발/입암정류소/도착/'}}">영양군</option>
 											<option value="{'도평(청송군)':{'schedule':'/시외버스/시간표/용상터미널/출발/도평/도착/'},'안덕버스터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/안덕정류소/도착/'},'주왕산버스터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/주왕산시외버스터미널/도착/'},'진보버스터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/진보시외버스터미널/도착/'},'청송버스터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/청송시외버스터미널/도착/'}}">청송군</option>
 											<option value="{'포항터미널':{'schedule':'/시외버스/시간표/용상터미널/출발/포항터미널/도착/'}}">포항시 남구</option>
@@ -389,10 +407,13 @@
 								<a href="#toc-schedules" class="toc-item ft-link">2. 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-routes" class="toc-item ft-link">3. 다른노선</a>
+								<a href="#toc-return-schedules" class="toc-item ft-link">3. 돌아오는 시간표</a>
 							</li>
 							<li class="mb-2">
-								<a href="#toc-reservation" class="toc-reservation ft-link">4. 예매 안내</a>
+								<a href="#toc-routes" class="toc-item ft-link">4. 다른노선</a>
+							</li>
+							<li class="mb-2">
+								<a href="#toc-reservation" class="toc-reservation ft-link">5. 예매 안내</a>
 							</li>
 						</ol>
 					</nav>
